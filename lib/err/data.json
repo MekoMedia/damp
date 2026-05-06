@@ -1,94 +1,28 @@
 {
   "movies": [
-    {
-      "id": 1,
-      "title": "Send Help",
-      "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "genre": ["Horror", "Thriller", "Comedy"],
-      "actors": ["Rachel McAdams", "Dylan O'Brien", "Edyll Ismail"],
-      "director": "Sam Raimi",
-      "country": "United States",
-      "duration": "113 min",
-      "quality": "HD",
-      "release": 2026,
-      "imdb": "8.2",
-      "poster": "https://img.cdno.my.id/thumb/w_200/h_300/send-help-1630860687.jpg",
-      "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
-    },
-    {
-      "id": 2,
-      "title": "Neon Drift",
-      "description": "A retired driver returns to the underground racing scene to save her family's garage, facing old rivals and new dangers in a city that never sleeps.",
-      "genre": ["Action", "Crime", "Drama"],
-      "actors": ["Ana de Armas", "John Boyega", "Lupita Nyong'o"],
-      "director": "Chad Stahelski",
-      "country": "United States",
-      "duration": "128 min",
-      "quality": "4K",
-      "release": 2025,
-      "imdb": "7.9",
-      "poster": "https://img.cdno.my.id/thumb/w_200/h_300/send-help-1630860687.jpg",
-      "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
-    },
-    {
-      "id": 3,
-      "title": "The Last Ember",
-      "description": "In a frozen world, a young blacksmith discovers a hidden flame that could restore warmth to the dying land, but an empire wants to control it for their own purposes.",
-      "genre": ["Fantasy", "Adventure", "Drama"],
-      "actors": ["Timothée Chalamet", "Florence Pugh", "Idris Elba"],
-      "director": "Guillermo del Toro",
-      "country": "Mexico",
-      "duration": "142 min",
-      "quality": "4K HDR",
-      "release": 2026,
-      "imdb": "8.5",
-      "poster": "https://img.cdno.my.id/thumb/w_200/h_300/send-help-1630860687.jpg",
-      "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
-    },
-    {
-      "id": 4,
-      "title": "Midnight Protocol",
-      "description": "A cybersecurity expert discovers a government conspiracy and must use all her skills to expose the truth before she becomes the next target.",
-      "genre": ["Thriller", "Sci-Fi"],
-      "actors": ["Zendaya", "Oscar Isaac", "Cate Blanchett"],
-      "director": "Denis Villeneuve",
-      "country": "Canada",
-      "duration": "135 min",
-      "quality": "HD",
-      "release": 2025,
-      "imdb": "8.1",
-      "poster": "https://img.cdno.my.id/thumb/w_200/h_300/send-help-1630860687.jpg",
-      "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
-    },
-    {
-      "id": 5,
-      "title": "Crimson River",
-      "description": "A detective investigates a series of mysterious murders along a river that turns red every full moon, uncovering supernatural forces at play.",
-      "genre": ["Mystery", "Horror", "Thriller"],
-      "actors": ["Mahershala Ali", "Saoirse Ronan", "Willem Dafoe"],
-      "director": "Jordan Peele",
-      "country": "United States",
-      "duration": "118 min",
-      "quality": "HD",
-      "release": 2026,
-      "imdb": "7.8",
-      "poster": "https://img.cdno.my.id/thumb/w_200/h_300/send-help-1630860687.jpg",
-      "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
-    },
-    {
-      "id": 6,
-      "title": "Stellar Hearts",
-      "description": "Two astronauts from rival nations must work together when their spacecraft malfunctions, leading to an unexpected connection in the vastness of space.",
-      "genre": ["Romance", "Sci-Fi", "Drama"],
-      "actors": ["Ryan Gosling", "Margot Robbie", "John David Washington"],
-      "director": "Christopher Nolan",
-      "country": "United Kingdom",
-      "duration": "156 min",
-      "quality": "IMAX",
-      "release": 2025,
-      "imdb": "8.7",
-      "poster": "https://img.cdno.my.id/thumb/w_200/h_300/send-help-1630860687.jpg",
-      "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
-    }
+{
+  "id": 1,
+  "title": "Project Hail Mary",
+  "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+  "genre": [
+    "Science Fiction",
+    "Adventure",
+    "Mystery"
+  ],
+  "actors": [
+    "Ryan Gosling",
+    "Sandra Huller",
+    "James Ortiz"
+  ],
+  "director": "Phil Lord, Christopher Miller",
+  "country": "United States",
+  "duration": "157 min",
+  "quality": "CAM",
+  "release": 2026,
+  "imdb": "N/A",
+  "poster": "https://img.cdno.my.id/cover/w_1200/h_500/project-hail-mary-1630861000.jpg",
+  "trailer": "https://netoda.tech/watch/?v21#Z1kzL3BrMmdLeWg2SSsrU0lORUp2cjV4UTBPTitmTGZqc1hBYlFEeU9ITGFISDhETHR1TTY3dXRQQ0JxVHdyQUdSWHljOUs3SVVzPQ",
+  "baseviews": "1.3M"
+}
   ]
 }
