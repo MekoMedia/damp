@@ -1,5 +1,53 @@
 {
   "movies": [
+    {
+  "id": 2,
+  "title": "Predator: Badlands",
+  "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "actors": [
+    "Elle Fanning",
+    "Dimitrius Schuster-Koloamatangi",
+    "Rohinal Nayaran"
+  ],
+  "director": "Dan Trachtenberg",
+  "country": "United States",
+  "duration": "107 min",
+  "quality": "HD",
+  "release": 2025,
+  "imdb": "N/A",
+  "poster": "https://img.cdno.my.id/thumb/w_171/h_257/predator-badlands-1630860149.jpg",
+  "trailer": "https://embos.top/movie/?mid=1242898",
+  "baseviews": "983K"
+},
+{
+  "id": 3,
+  "title": "Hoppers",
+  "description": "Scientists have discovered how to ‘hop’ human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+  "genre": [
+    "Animation",
+    "Family",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Piper Curda",
+    "Bobby Moynihan",
+    "Jon Hamm"
+  ],
+  "director": "Daniel Chong",
+  "country": "United States",
+  "duration": "105 min",
+  "quality": "CAM",
+  "release": 2026,
+  "imdb": "74",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "https://embos.top/movie/?mid=tt26443616&sv=1",
+  "baseviews": "1.3M"
+},
 {
   "id": 1,
   "title": "Project Hail Mary",
