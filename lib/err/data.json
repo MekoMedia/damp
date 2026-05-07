@@ -1,6 +1,132 @@
 {
   "movies": [
     {
+  "id": 43541,
+  "title": "Rampage (2018)",
+  "description": "As three different animals infected with a dangerous pathogen tear across North America, destroying everything in their path, a primatologist and a geneticist team up to stop them from destroying Chicago.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Dwayne Johnson",
+    "Naomie Harris",
+    "Malin Akerman",
+    "Jeffrey Dean Morgan"
+  ],
+  "director": "Brad Peyton",
+  "country": "United States",
+  "duration": "107 min",
+  "quality": "HD",
+  "release": 2018,
+  "imdb": "6",
+  "poster": "https://img.cdno.my.id/thumb/w_200/h_300/rampage-24533.jpg",
+  "trailer": "https://netoda.tech/watch/?v21#RERFdkk2U2hYc2xrbUZNTnJUbWpyZWRiSzRiZEp2eWt6a05zaEtMNnc3Nm1SaFJ1YVQvclorOFZ4OTBuQkdlVlYvV2U",
+  "baseviews": "1.3M"
+},
+{
+  "id": 164467658689707,
+  "title": "Jurassic Park III",
+  "description": "The story of a mysterious island with dinosaurs still attracts so many people to discover, this time the couple Kirby. House Kirby with a paleontologist - Alan Grant visit the island. Unfortunately, their plane is broken and they have to fight with the bloodthirsty dinosaurs.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Sam Neill",
+    "William H Macy"
+  ],
+  "director": "Joe Johnston",
+  "country": "United States",
+  "duration": "92 min",
+  "quality": "HD",
+  "release": 2001,
+  "imdb": 5,
+  "poster": "https://img.cdno.my.id/thumb/w_200/h_300/jurassic-park-iii-2771.jpg",
+  "trailer": "https://netoda.tech/watch/?v21#QkhubzBwQjFHL3cweUx1WTRYOS9WTkhORTZIOVFnbEVDcmVrQWRSVHZnVjcrU2tDNlpZdkRJaDRHZVIrdlBIWHZlND0",
+  "baseviews": "1.3M"
+},
+{
+  "id": 164467658689700,
+  "title": "Jurassic Park II: The Lost World",
+  "description": "After heavy defeat at Nublar, dinosaur park was completely destroyed after a storm. John continued to organize the 2nd study trip at Sona island. Indeed, this is where nurture and hatch dinosaur eggs. During this trip with Dr. Sara Harding, Dr. Ian Malcolm’s girlfriend. He didn’t know that she comes sorna island, realize that this trip is very dangerous because Ian had been on the island Nublar, he decided to venture to the island to bring Laura back. Until reaching the island, he finds the truth that this is actually a large-scale dinosaur hunt, to catch them bring San Francisco where a new dinosaur park is being built.",
+  "genre": [
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "actors": [
+    "Julianne Moore",
+    "Pete Postlethwaite",
+    "Vince Vaughn",
+    "Arliss Howard",
+    "Richard Schiff",
+    "Jeff Goldblum",
+    "Richard Attenborough"
+  ],
+  "director": "Steven Spielberg",
+  "country": "United States",
+  "duration": "129 min",
+  "quality": "HD",
+  "release": 1997,
+  "imdb": 6,
+  "poster": "https://img.cdno.my.id/thumb/w_200/h_300/jurassic-park-ii-the-lost-world-2059.jpg",
+  "trailer": "https://netoda.tech/watch/?v21#VER4c240VjRtUjZDd3pnajl1bCtoaGYzY1JKUHdBUmhXSWVPSmFramtDeDluSzc3bFNiSU9XODgwUTh5UEttclk4QT0",
+  "baseviews": "1.3M"
+},
+{
+  "id": 18778,
+  "title": "Jurassic Park",
+  "description": "On a secret island, the dinosaur recreation work is completed by the rest DNA on the ancient mosquito. Before opening his park, Mr. Hammond invited a group of scientists come to visit and help him. But in a stormy night, the protection system collapses, the ancient giant beast escape…",
+  "genre": [
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "actors": [
+    "Sam Neill",
+    "Laura Dern",
+    "Jeff Goldblum",
+    "Richard Attenborough",
+    "Bob Peck",
+    "Martin Ferrero"
+  ],
+  "director": "Steven Spielberg",
+  "country": "United States",
+  "duration": "Unknown",
+  "quality": "HD",
+  "release": 2026,
+  "imdb": null,
+  "poster": "https://img.cdno.my.id/thumb/w_200/h_300/jurassic-park-2058.jpg",
+  "trailer": "https://netoda.tech/watch/?v21#Ym0veUFueVZjM1IzZExvd0FtRUkzdFAvNE9aNURoVXJYeFMvSTRkY21EdmNIWTVPNFgxS0ZLRXVzYTU3cUl5aWNXRT0",
+  "baseviews": "1.3M"
+},
+{
+  "id": 58068593948,
+  "title": "Firebreak",
+  "description": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
+  "genre": [
+    "Thriller",
+    "Drama"
+  ],
+  "actors": [
+    "Belen Cuesta",
+    "Enric Auquer",
+    "Candela Martinez"
+  ],
+  "director": "David Victori",
+  "country": "Spain",
+  "duration": "107 min",
+  "quality": "HD",
+  "release": 2026,
+  "imdb": null,
+  "poster": "https://img.cdno.my.id/thumb/w_200/h_300/firebreak-1630860801.jpg",
+  "trailer": "https://netoda.tech/watch/?v21#T252VUkxRUNjS2ZJWmQwNkhleTlNN3hmdUVKMi9kZ1NGV29Ia056NWF0ck9teTFOSnJqRnZuVHU2OEZydzNvQWpvMitTbzFiaVpzPQ",
+  "baseviews": "1.3M"
+},
+    {
   "id": 7,
   "title": "GOAT",
   "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
