@@ -1,5 +1,342 @@
 {
   "movies": [
+    
+  {
+    "id": 9,
+    "title": "Swapped",
+    "description": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Michael B Jordan",
+      "Juno Temple",
+      "Tracy Morgan"
+    ],
+    "director": "Nathan Greno",
+    "country": "United States, Spain",
+    "duration": "102 min",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": null,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/swapped-1630861201.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#QXphUEJXZ3luS0FwSjd3NHRCaERQT3RpbzI5VUpwWE14dmhCMmdLODY5U1F1SkRxR0tyMjBJa3pRTHdLei9YeVpXYXlWTEtvQjk4PQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 10,
+    "title": "The Ice Age Adventures of Buck Wild",
+    "description": "The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck’s home: The Dinosaur World.",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Utkarsh Ambudkar",
+      "Sean Kenin",
+      "Jake Green",
+      "Aaron Harris",
+      "Dominique Jennings"
+    ],
+    "director": "John C Donkin",
+    "country": "United States",
+    "duration": "82 min",
+    "quality": "HD",
+    "release": 2022,
+    "imdb": 44,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-ice-age-adventures-of-buck-wild-1630852704.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#QkhHdHNmYzRDWUtON0tLclNiWk5zVW0rbVErODhtSUdHZlc1RENVNjg0TWpkMGQrd1lzbDlZbFZseHhRR2oxK3FaVVRWanVWc3ZZPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 11,
+    "title": "Jurassic World 2015",
+    "description": "The film revolves around the story of a deceased doctor’s discovery that changed humanity about recovering DNA from giant reptiles survived millions of years. Dinosaurs in turn are revived through DNA of the fossilized mosquitoes’ blood . Gradually they develop into a conservation park and want to turn it into a world park.",
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "actors": [
+      "Chris Pratt",
+      "Bryce Dallas Howard",
+      "Ty Simpkins"
+    ],
+    "director": "Colin Trevorrow",
+    "country": "United States",
+    "duration": "115 min",
+    "quality": "HD",
+    "release": 2015,
+    "imdb": 7,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/jurassic-world-2015-3765.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#eTh1bzczKy9TeXVzUU8xUGpNaXBlbCtqLzR1VXlad1M5UE81RWwxblNBcmlQUUtMY1dnb1JKZFlFNEN3RGY4YkVVcz0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 12,
+    "title": "Jurassic World: Fallen Kingdom",
+    "description": "Three years after the destruction of the Jurassic World theme park, Owen Grady and Claire Dearing return to the island of Isla Nublar to save the remaining dinosaurs from a volcano that’s about to erupt. They soon encounter terrifying new breeds of gigantic dinos while uncovering a conspiracy that threatens the entire planet.",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Bryce Dallas Howard",
+      "Chris Pratt",
+      "Ted Levine"
+    ],
+    "director": "JA Bayona",
+    "country": "International",
+    "duration": "128 min",
+    "quality": "HD",
+    "release": 2018,
+    "imdb": 7,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/jurassic-world-fallen-kingdom-25222.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#L09RNzNKWklNRjFxV0dQOUNPNjlzbUE5WlVGbUcvSFdBWnQ3SSt1Y3J1bUptTmlLN1lLTjNhMFJlTk0rTDZVeXA0UjQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 13,
+    "title": "Jurassic World Rebirth",
+    "description": "The film revolves around a skilled covert operations team embarking on a high-stakes mission to secure genetic material from the world’s largest remaining dinosaurs. Five years after the events of Dominion, the planet’s ecology has become inhospitable to these prehistoric creatures, leaving them isolated in tropical environments. The team’s quest for a life-saving breakthrough uncovers a shocking conspiracy that has been hidden from the world for decades.",
+    "genre": [
+      "Adventure",
+      "Sci-Fi",
+      "Action"
+    ],
+    "actors": [
+      "Scarlett Johansson",
+      "Jonathan Bailey",
+      "Mahershala Ali"
+    ],
+    "director": "Gareth Edwards",
+    "country": "United States",
+    "duration": "120 min (est.)",
+    "quality": "HD",
+    "release": 2025,
+    "imdb": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg2NTcwYWQtYzk4NS00MTJhLWEzZjItMzIxNjk3YzlkYzU0XkEyXkFqcGc@._V1_.jpg",
+    "trailer": "https://embos.top/movie/?mid=tt31036941&sv=1",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 14,
+    "title": "Jurassic World: DominionFour years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures in a new era of coexistence.  Genre: Action, Adventure, Sci-FiActor: Chris Pratt, Bryce Dallas Howard, Laura DernDirector: Colin TrevorrowCountry: United StatesDuration: 147 minQuality: HDRelease: 2022IMDb: 5.6",
+    "description": "",
+    "genre": [
+      "Unknown"
+    ],
+    "actors": [
+      "Unknown"
+    ],
+    "director": "Unknown",
+    "country": "Unknown",
+    "duration": "Unknown",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_FMjpg_UX1204_.jpg",
+    "trailer": "https://embos.top/movie/?mid=tt8041270&sv=1",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 15,
+    "title": "Transformers",
+    "description": "About 4 million years ago, on a distant planet Cybertron exists a civilization of robots which was ravaged by war lasted for centuries between the two sides of robotics: autobot and deception. They fight to gain Allspark - things have the ability to bring the ultimate power to those who possess it. And then the Earth accidentally catch up in the fierce battle with the destructive weapons which two races can variously transform from the vehicles to the massive destruction machines …",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Shia LaBeouf",
+      "Megan Fox",
+      "Josh Duhamel"
+    ],
+    "director": "Michael Bay",
+    "country": "United States",
+    "duration": "144 min",
+    "quality": "HD",
+    "release": 2007,
+    "imdb": 7,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/transformers-1708.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#SE9iNzlESndYMTU2MzFHaFhKQ0lwVjJlNDh2SExsWVpxdExEU1FEaFIyVUNnRGp4OEFsQkVFY3FRZ0tyemhhRUw3Zz0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 16,
+    "title": "Transformers: The Last Knight",
+    "description": "Humans are at wars with the Transformers while Optimus Prime is absent. The only way to save the humanity is lying in the secrets of the past and the hidden history of Transformers on Earth and our heroes are the only hope to save the day.",
+    "genre": [
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      "Mark Wahlberg",
+      "Anthony Hopkins",
+      "Josh Duhamel",
+      "Laura Haddock",
+      "Santiago Cabrera",
+      "Isabela Moner",
+      "Jerrod Carmichael"
+    ],
+    "director": "Michael Bay",
+    "country": "United States",
+    "duration": "149 min",
+    "quality": "HD",
+    "release": 2017,
+    "imdb": 5,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/transformers-the-last-knight-21142.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#dUdiMk9MZ1hPZm56d04zQ1ZhMkVVVmlJZ0ZrNlIwTW0yQW9qZGphRHNLaXFIaUFkR0pFQU1tck41WFo1OWZiTVR2czI",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 17,
+    "title": "Transformers: Revenge Of The Fallen",
+    "description": "Content of Transformers: Revenge Of The Fallen: Deceptico returnes to Earth with a chasing target - Sam Witwicky, after he accidentally knew the secret of The Transfiguration and their ancient history. With a mission to protect humankind, leader Optimus Prime set up an international military alliance to be ready for the 2nd glorious fight",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Josh Duhamel",
+      "Shia LaBeouf",
+      "Megan Fox"
+    ],
+    "director": "Michael Bay",
+    "country": "United States",
+    "duration": "150 min",
+    "quality": "HD",
+    "release": 2009,
+    "imdb": 6,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/transformers-revenge-of-the-fallen-1707.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#Y1dTWGJaK2ppZ3pkV1NRcnpsWVdyd3VucTYvUGpPbHkzcWNCdTRYSU5WL1pwYU1jYjdJTFhnSS84UEhvSDJ1WTdOTT0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 18,
+    "title": "Kraken",
+    "description": "Marine biologist Johanne is doing research on a fish farm in Vangsnes, a rural community located by the fjord, when she encounters several strange occurrences. Along with the brutal deaths of two local teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see? At the bottom of the deepest fjord rests a mythical monster as large as a mountain, with a myriad of arms ready to crush and devour anything they can grab.",
+    "genre": [
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      "Sara Khorami",
+      "Mikkel Bratt Silset",
+      "Ingvild Holthe Bygdnes"
+    ],
+    "director": "Pal Oie",
+    "country": "Norway",
+    "duration": "94 min",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": 56,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/kraken-1630861194.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#clNYZHlNY2t1TFZRWE9tKzBlYzhnbnI3SkhjTDNuSkxIaHVwQVlKUHdNWE9MMVVlNEt6Q1JRZjVKU3VxYTJ2Z21oMThkWk5UVlBZPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 19,
+    "title": "The Meg",
+    "description": "Jonas Taylor, a rescue diver, attempts to save a group of scientists, from a pre-historic 75-foot-long shark known as the Megalodon that is terrorizing a beach.",
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "actors": [
+      "Jason Statham",
+      "Bingbing Li",
+      "Rainn Wilson"
+    ],
+    "director": "Jon Turteltaub",
+    "country": "United States",
+    "duration": "113 min",
+    "quality": "HD",
+    "release": 2018,
+    "imdb": 6,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-meg-25819.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#MExvSDc4UDdKMVorM21rLy9UNnp4TEdRelBjREJkMzZ1bHRvQ01oRVZjcTNmdVd4Q0tuTTdkalM3czBYM21YRnk1UWw",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 20,
+    "title": "Meg 2: The TrenchThe film follows a daring research team on an exploratory dive into the deepest reaches of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal Megs and relentless environmental plunderers, the heroes must outrun, outsmart, and outswim their merciless predators in a pulse-pounding race against time.  Genre: Action, Sci-Fi, HorrorActor: Jason Statham, Wu Jing, Shuya Sophia CaiDirector: Ben WheatleyCountry: United States, ChinaDuration: 116 minQuality: HDRelease: 2023IMDb: 5.0",
+    "description": "",
+    "genre": [
+      "Unknown"
+    ],
+    "actors": [
+      "Unknown"
+    ],
+    "director": "Unknown",
+    "country": "Unknown",
+    "duration": "Unknown",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGNiOTFkYTUtMDdiMi00YmJlLTkzOTAtMGViYWRhZjY3ODhkXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+    "trailer": "https://embos.top/movie/?mid=tt9224104&sv=1",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 21,
+    "title": "Mercy",
+    "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+    "genre": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      "Chris Pratt",
+      "Rebecca Ferguson",
+      "Kali Reis"
+    ],
+    "director": "Timur Bekmambetov",
+    "country": "United States",
+    "duration": "100 min",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": 62,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/mercy-1630860776.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#RElBM2VnQThlT3R1UFBGWVlIYTk5bWNQN1N5NmtLamRkZXc2ZGkrZHk3VjRLRzdubUxnVUxPUEZxRFcyMjBLUnVTRTE4RHFVOXk0PQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 22,
+    "title": "Migration",
+    "description": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, via New York City, to tropical Jamaica.",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      "Elizabeth Banks",
+      "Isabela Merced",
+      "Awkwafina",
+      "Keegan-Michael Key",
+      "Carol Kane"
+    ],
+    "director": "Benjamin Renner",
+    "country": "United States, France, Canada",
+    "duration": "92 min",
+    "quality": "HD",
+    "release": 2023,
+    "imdb": 73,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/migration-1630856228.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#QmM0M3dIeXpmTzZvRTVWdlpOa1FGODd0RUVIWnpYVGRNWVlCZEtvSXFaZHBDK3BBUkozZElQQ0QwQWEwakhLbHErL01uT2toR1NzPQ",
+    "baseviews": "1.3M"
+  },
+
     {
   "id": 43541,
   "title": "Rampage (2018)",
