@@ -1,5 +1,394 @@
 {
   "movies": [
+    
+  {
+    "id": 23,
+    "title": "Avatar: Fire and Ash",
+    "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na’vi tribe led by the ruthless Varang. Jake’s family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "genre": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver"
+    ],
+    "director": "James Cameron",
+    "country": "United States",
+    "duration": "197 min",
+    "quality": "HD",
+    "release": 2025,
+    "imdb": null,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/avatar-fire-and-ash-1630860380.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#OTM3WFNiSkxkR2pSMWRGS1doZTVZK3EzcmhCclVWTnFtOC92ejNDNU5WaXo2d1hGUlc2N1hBVUNaNlZ4b2Z5UFNjbnl6SEplSlprPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 24,
+    "title": "The Rip",
+    "description": "After a team of Miami cops discovers millions in cash inside a derelict stash house, trust frays as everything — and everyone — is called into question.",
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Action"
+    ],
+    "actors": [
+      "Matt Damon",
+      "Ben Affleck",
+      "Teyana Taylor"
+    ],
+    "director": "Joe Carnahan",
+    "country": "United States",
+    "duration": "112 min",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": null,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-rip-1630860571.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#ZnQ5WGduU3p6aXc1UERVVFNVcEZQZm1zV1lqYThYN3Y4R29MOGNOV1BFdVRyQVRGMlgwN2tmMEh5eXIrcS9Mdk9DNW1YSHd0ZlEwPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 25,
+    "title": "The Accountant 2",
+    "description": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Treasury Agent Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Action"
+    ],
+    "actors": [
+      "Ben Affleck",
+      "Jon Bernthal",
+      "Cynthia Addai-Robinson"
+    ],
+    "director": "Gavin OConnor",
+    "country": "United States",
+    "duration": "133 min",
+    "quality": "HD",
+    "release": 2025,
+    "imdb": 77,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-accountant-2-1630858940.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#TjRSWG5HT0ZzMmdFRjBsblQ1VHZQWTZycHRiNFQ3WE1lM0RBKzltWUJyS3JVc1NOL3lMYWdKMzlCeFlUejRmZVY4Sk0raXkyZVJZPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 26,
+    "title": "The Accountant",
+    "description": "The Accountant is a 2016 American crime thriller film following a highly-functioning autistic small-town certified public accountant who makes his living uncooking the books of dangerous criminal organizations that are experiencing internal embezzlement.",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Ben Affleck",
+      "Anna Kendrick",
+      "JK Simmons",
+      "Jon Bernthal"
+    ],
+    "director": "Gavin OConnor",
+    "country": "United States",
+    "duration": "128 min",
+    "quality": "HD",
+    "release": 2016,
+    "imdb": 7,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-accountant-17550.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#SFhmY2dWdk5HMVdzYWtHV1NXWXJsRC8xYktFalU4TmErMGtiOWFZVk1TY1pMM1lYRmk4cjBpc2NTWVRDRXpxblpjbGU",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 27,
+    "title": "Self-Help",
+    "description": "A young woman infiltrates a dangerous self-actualization community after her mother becomes entangled with its enigmatic leader.",
+    "genre": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      "Landry Bender",
+      "Jake Weber",
+      "Madison Lintz"
+    ],
+    "director": "Erik Bloomquist",
+    "country": "United States",
+    "duration": "85 min",
+    "quality": "HD",
+    "release": 2025,
+    "imdb": null,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/self-help-1630861231.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#Z0NMczRPMlpjcEc5NFVSbS9xWEtTTWVYUS9tcUtXZkVLRWw5WGd6aWNWeUt0L2lWdm1VbzE3dEt0c1FpSjlNaytXTHNCYzl0WkRNPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 28,
+    "title": "Avatar",
+    "description": "Avatar revolves around the journey of explorer - Jake Sully (Sam Worthington). He is a former naval officer who is wounded in a battle on Earth and then lower body is paralyzed. Jake is selected to participate in the project Avatar, this program is conducted to implant human genes into Na’vi natives to help people easily expose and research Pandora and the Na’vi.",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Stephen Lang",
+      "Michelle Rodriguez",
+      "Sigourney Weaver"
+    ],
+    "director": "James Cameron",
+    "country": "United States",
+    "duration": "162 min",
+    "quality": "HD",
+    "release": 2009,
+    "imdb": 7,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/avatar-4318.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#T3Z6UVlsU2hZTFhZSGdSTzVER2p6U1JPWVViazUxN05NNGhVbFpEL05LVENWNW0vOEppNlc4ckp1Nk12dWk2QVlVMD0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 29,
+    "title": "Aliens",
+    "description": "After floating in space for 57 years, Lt. Ripley’s shuttle is found by a deep space salvage team. Upon arriving at LV-426, the marines find only one survivor, a nine year old girl named Newt . But even these battle-hardened marines with all the latest weaponry are no match for the hundreds of aliens that have invaded the colony.",
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "actors": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn"
+    ],
+    "director": "James Cameron",
+    "country": "United States, United Kingdom",
+    "duration": "137 min",
+    "quality": "HD",
+    "release": 1986,
+    "imdb": 8,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/aliens-5835.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#Qm8xNTc4VnhnQzYxZGdZTkVqVjhJdjBCYk5zNjlSVTVIaEw2dzFHSmRkYld4T2grdkp1QVpobFF5Z0FOWk1RZ3JVUT0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 30,
+    "title": "The Terminator",
+    "description": "The Terminator (Also Known As: Ke Huy Diet ) is an Action, Sci-Fi film directed by James Cameron and written by Gale Anne Hurd, . It was released on 26 October 1984 (USA). It stars Arnold Schwarzenegger, Linda Hamilton, Michael Biehn. The film’s content : A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.. What awaits ahead ? Enjoy the film and discover by yourself.",
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      "Linda Hamilton",
+      "Paul Winfield",
+      "Arnold Schwarzenegger",
+      "Michael Biehn"
+    ],
+    "director": "James Cameron",
+    "country": "United States",
+    "duration": "107 min",
+    "quality": "HD",
+    "release": 1984,
+    "imdb": 8,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-terminator-2184.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#akR0M1VybW9UTmJGcGdYZGtleTY3USsyUDVkTXVzaHhlSGFSbm9YUjgyL1VERHhEbkllYzVyWGpVMFZmYnB2a1J5MD0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 31,
+    "title": "The Whisper",
+    "description": "Fleeing from their violent father, siblings Lucía and Adrián take refuge in a remote mansion. With the help of a hidden micro-camera on a cat, Lucía uncovers a terrifying secret: their neighbors are part of a criminal network that kidnaps teenage girls to make snuff films, and they intend to get rid of the siblings. As Lucía fights to protect her brother, she must face a dark family curse that follows them into their newfound sanctuary.",
+    "genre": [
+      "Horror"
+    ],
+    "actors": [
+      "Luciano Caceres",
+      "Marcelo Michinaux",
+      "Ana Clara Guanco"
+    ],
+    "director": "Gustavo Hernandez",
+    "country": "Argentina, Uruguay",
+    "duration": "101 min",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": null,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-whisper-1630861217.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#TnNhSVJkNlhRaXQyNWxuNUpMSnRJWFVXNTQyeDI1RU9FaGFZRzRRMzhqRmt0Tm8wTGlZTXNlMTNmY29uWjJZV1BRUWN1bU1GVGFnPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 32,
+    "title": "The Super Mario Galaxy Movie",
+    "description": "Having thwarted Bowser’s previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir’s crusade.",
+    "genre": [
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "actors": [
+      "Chris Pratt",
+      "Charlie Day",
+      "Anya Taylor-Joy"
+    ],
+    "director": "Aaron Horvath, Michael Jelenic",
+    "country": "Japan, United States",
+    "duration": "98 min",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": 64,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-super-mario-galaxy-movie-1630861219.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#NU1FZ2xPdzFCQytzdmtPU29aa3RHcWU1LytrMnFwWEl3UmRQQlA4cElnc0RSaFJadXhDQ3BXSGR4d1M1NldoNHM3V0FFL2dqNVowPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 33,
+    "title": "Monster: The Prehistoric Project",
+    "description": "Two Navy SEALS are sent to an abandoned island to retrieve a package, but instead of being the hunters, they find they are being hunted. They find a camera in the hands of a dead man, and they learn they are being stalked by a giant predator.",
+    "genre": [
+      "Horror"
+    ],
+    "actors": [
+      "Robin Daniel Egan",
+      "Mark Justice",
+      "Charlotte Lilt"
+    ],
+    "director": "Lisa Palenica",
+    "country": "United States",
+    "duration": "79 min",
+    "quality": "HD",
+    "release": 2015,
+    "imdb": 1,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/monster-the-prehistoric-project-18187.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#OXZIMWpQU3N4L2k0N3Q0WTB2TzhheXZ3NTNNcU42dG4vMlZ5N29mWEIrV2ZSV203OTlvSUxpK2VIOXIyQU14U3dMMng",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 34,
+    "title": "The Twisters",
+    "description": "A deadly patchwork of destructive cyclones is on an apocalyptic path of convergence at a populated Midwest city center. There, the twisters will merge into one mega tornado that threatens to obliterate the cities for hundreds of miles around.",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Tiffany",
+      "Mark Justice",
+      "Kayla Fields"
+    ],
+    "director": "Michael Su",
+    "country": "United States",
+    "duration": "86 min",
+    "quality": "HD",
+    "release": 2024,
+    "imdb": 25,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-twisters-1630857610.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#SjNkMGZLNlprYnhIakxQSko1Y3V3eHJvZlVXMUdQYTZ6L3kyanU4TWMyRjA4bjlncSt5RWRYazRvaWdEdjdLR0JMRVZNY1dEcFBvPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 35,
+    "title": "Gladiator II",
+    "description": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Connie Nielsen",
+      "Paul Mescal",
+      "Pedro Pascal"
+    ],
+    "director": "Ridley Scott",
+    "country": "United Kingdom, United States",
+    "duration": "148 min",
+    "quality": "HD",
+    "release": 2024,
+    "imdb": 71,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/gladiator-ii-1630857926.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#OGNlNEV4SUQ4Ky9GR1ZSbjBQSktrLzBESkVqK1lVbWxucG1EM0puV3BJQzhFbUlkdmFXc1F6N1NUaXJ1WFRNK1pJTURXRmVvWElNPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 36,
+    "title": "Gladiator",
+    "description": "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge.",
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "director": "Ridley Scott",
+    "country": "United States, United Kingdom",
+    "duration": "155 min",
+    "quality": "HD",
+    "release": 2000,
+    "imdb": 8,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/gladiator-5407.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#RVNEMjZNRHhPUU9xVlFhemhCMFFyTXB4V2xPRWk4S1pTUmg0VzZhaEZiU0NqWmE5YyswVE05TSt5ZG5UdGt0OFpCVT0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 37,
+    "title": "Home Alone",
+    "description": "In Chicago, the McCallister family is preparing for a Christmas vacation in Paris. On the night before their departure, the entire family gathers at Peter and Kate’s home, where their son, Kevin, is ridiculed by his siblings and cousins",
+    "genre": [
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern",
+      "John Heard",
+      "Catherine OHara"
+    ],
+    "director": "Chris Columbus",
+    "country": "United States",
+    "duration": "103 min",
+    "quality": "HD",
+    "release": 1990,
+    "imdb": 7,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/home-alone-4954.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#aHkyMjV0RWY0dlJKMlpUZUIvdEE3THhObmc0SG5VbjI2UjVES040bWdjQis2ckFRN0hBT28reGNsTElLc3V2djZhND0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 38,
+    "title": "Home Alone 2: Lost In New York",
+    "description": "In Chicago, Illinois, the McCallister family is preparing for a Christmas vacation in Miami. On the night before their departure, the entire family gathers at Peter and Kate’s home, where their 10-year-old son Kevin sees Florida as contradictory to Christmas because he thinks there are no Christmas trees in Florida.",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      "Brenda Fricker",
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern",
+      "John Heard",
+      "Tim Curry",
+      "Catherine OHara"
+    ],
+    "director": "Chris Columbus",
+    "country": "United States",
+    "duration": "120 min",
+    "quality": "HD",
+    "release": 1992,
+    "imdb": 6,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/home-alone-2-lost-in-new-york-4955.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#ODBTY1VFUkdUUXVyVnZVVzRZc0JvMitYMGtXY1JacXFzUDFsWUlnM0lCNmgyVm5OVmdKTGhiZEQwRnQxdVp4MnN3MD0",
+    "baseviews": "1.3M"
+  },
+
     {
       "id": 9,
       "title": "Swapped",
