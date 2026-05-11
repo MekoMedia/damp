@@ -1,6 +1,255 @@
 {
   "movies": [
-    
+    {
+      "id": 100,
+      "title": "Breaking Bad",
+      "release": "2008",
+      "duration": "5 Seasons",
+      "quality": "4K",
+      "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris"],
+      "director": "Vince Gilligan",
+      "country": "USA",
+      "imdb": "9.5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/HhesaQXLuRY",
+      "baseviews": 98000000,
+      "seasons": [
+        {
+          "episodes": [
+            {
+              "title": "Pilot",
+              "url": "https://vidsrc.me/embed/tv?tmdb=1396&season=1&episode=1",
+              "duration": "58m",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg"
+            },
+            {
+              "title": "Cat's in the Bag...",
+              "url": "https://vidsrc.me/embed/tv?tmdb=1396&season=1&episode=2",
+              "duration": "48m",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg"
+            },
+            {
+              "title": "...And the Bag's in the River",
+              "url": "https://vidsrc.me/embed/tv?tmdb=1396&season=1&episode=3",
+              "duration": "48m",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg"
+            }
+          ]
+        },
+        {
+          "episodes": [
+            {
+              "title": "Seven Thirty-Seven",
+              "url": "https://vidsrc.me/embed/tv?tmdb=1396&season=2&episode=1",
+              "duration": "47m",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg"
+            },
+            {
+              "title": "Grilled",
+              "url": "https://vidsrc.me/embed/tv?tmdb=1396&season=2&episode=2",
+              "duration": "46m",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+  {
+    "id": 39,
+    "title": "Spider-man",
+    "description": "When bitten by a modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      "Tobey Maguire",
+      "Cliff Robertson",
+      "Rosemary Harris",
+      "Willem Dafoe",
+      "Kirsten Dunst",
+      "James Franco",
+      "Jk Simmons"
+    ],
+    "director": "Sam Raimi",
+    "country": "United States",
+    "duration": "121 min",
+    "quality": "HD",
+    "release": 2002,
+    "imdb": 7,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/spider-man-3337.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#ZWd1RUVTZDVBcSs1eXBJdXJsSUtSMTNtRnRmSjFTb21DdnNZdDl3ODFHcjlhQy81RFllZStITFpNMUFQUS9WVU5aZz0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 40,
+    "title": "Spider-Man: Homecoming",
+    "description": "The movie follows Peter Parker as he balances his dual identity of a budding superhero while navigating the everyday life of a teenager in high school. Peter must soon put his powers to the test when the evil Vulture emerges to threaten everything that he holds dear.",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Tom Holland",
+      "Michael Keaton",
+      "Robert Downey Jr"
+    ],
+    "director": "Jon Watts",
+    "country": "United States",
+    "duration": "133 min",
+    "quality": "HD",
+    "release": 2017,
+    "imdb": 8,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/spider-man-homecoming-21248.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#bUVXa1BTTEJGNlNMeTNvWU9LbC9JYmNtakhVRzluOTFGUDdUWlQ2Vjl0MnBEblVCTUd3bkN1SHBFTXcvNThLUVdQQUk",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 41,
+    "title": "The Amazing Spider-man",
+    "description": "The Amazing Spider-Man had several differences compared to the previous section is that this part focused on the differences in the personalities of the characters. Peter is no longer the shy boy, but quite naughty, besides the director Marc Webb also make more changes in the content to make Amazing Spider-Man really new compared to the old version.",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Andrew Garfield",
+      "Emma Stone",
+      "Rhys Ifans"
+    ],
+    "director": "Marc Webb",
+    "country": "United States",
+    "duration": "153 min",
+    "quality": "HD",
+    "release": 2012,
+    "imdb": 7,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-amazing-spider-man-1753.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#aDVTRlVSRkdnQTV5YUpjaHpQeld3NmdSZXd2enlYYUFrQUgzaUJmVW5OeVcvL3ZaNmNjWXJ3SEdyMUZHNm9tMEpacz0",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 42,
+    "title": "Lorne",
+    "description": "An unprecedented, behind-the-scenes glimpse at the man who built the inimitable empire of comedy, shaping television and culture for generations. The documentary features exclusive footage, archival treasures, and candid interviews with the show’s most iconic cast members and writers including Tina Fey, Maya Rudolph, John Mulaney, Andy Samberg, Conan O’Brien, Chris Rock and many more.",
+    "genre": [
+      "Documentary"
+    ],
+    "actors": [
+      "Lorne Michaels",
+      "Tina Fey",
+      "Maya Rudolph"
+    ],
+    "director": "Morgan Neville",
+    "country": "United States",
+    "duration": "101 min",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": 73,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/lorne-1630861240.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#WEE0TXZ6d21xbXR2SmNTQ1VoYTZDSm1KOVF1MG9NK3VFUkV0aFhyaEFhckZZYWpsUGZieHI5V0wwOSsyWDU5YmpBRkdwK25RNG1rPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 43,
+    "title": "Eating Up Easter",
+    "description": "The Rapanui community on Easter Island fights to prevent an environmental collapse due to overwhelming tourism and industrial progress, and to preserve their cultural traditions.",
+    "genre": [
+      "Documentary"
+    ],
+    "actors": [
+      "Mama Piru"
+    ],
+    "director": "Sergio M Rapu",
+    "country": "United States",
+    "duration": "76 min",
+    "quality": "HD",
+    "release": 2019,
+    "imdb": 68,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/eating-up-easter-1630861232.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#RVJQek1LMllYUXhyMTRDeDhTM3B1RWJ5MysxaU1sdjVkK1p6YjEwNkxaRi85dk92U2xBUDlva0JwUWVPTzJyeEwyMXpwRHRRc28wPQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 44,
+    "title": "Dummy",
+    "description": "Archibald the Amazing, a ventriloquist nearing the end of his career, gives one final performance with his dummy, Chucklehead. After the show, he tragically takes his own life in his hotel room-but his negative energy inhabits Chucklehead, transforming the dummy into a murderous force of terror. From a class reunion to hotel staff to unsuspecting bystanders, Chucklehead embarks on a blood-soaked rampage, vowing to make it a night to remember.",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      "Jeff Kirkendall",
+      "Tim Hatch",
+      "Michael Korotitsch"
+    ],
+    "director": "Mark Polonia",
+    "country": "United States",
+    "duration": "78 min",
+    "quality": "HD",
+    "release": 2026,
+    "imdb": null,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/dummy-1630861247.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#dEVGNk05eGpBQktWMlZXWXJ4ZlY1RUhrMUhocGVzMTdibkFBZy9OaGFDVFI0QUpVVlJNTTNROWVtZnE2Mk4xTHJvSGtPeHpRMVF3PQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 45,
+    "title": "Teddiscare",
+    "description": "A killer mutated teddy bear film from Mark Polonia.",
+    "genre": [
+      "Horror"
+    ],
+    "actors": [
+      "Tim Hatch",
+      "Jeff Kirkendall",
+      "Michael Korotitsch"
+    ],
+    "director": "Mark Polonia",
+    "country": "United States",
+    "duration": "0 min",
+    "quality": "HD",
+    "release": 2024,
+    "imdb": null,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/teddiscare-1630857063.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#aWdEWVl6di9ZWnUvRDdDaFU1ZjdLOWNaQjhzWTh6dHEwcDlpZGxVRERGUHhFeFdreGdXSC95TlptZEIxMXZtTWk0cW1kUm5WNmh3PQ",
+    "baseviews": "1.3M"
+  },
+  {
+    "id": 46,
+    "title": "The Truman Show",
+    "description": "The Truman Show is a science fiction film in 1998, directed by Peter Weir. The film recounts the life of a young man does not know that there is a television program to be broadcast live to billions of people around the world to see.",
+    "genre": [
+      "Drama",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Noah Emmerich",
+      "Natascha McElhone",
+      "Holland Taylor",
+      "Ed Harris"
+    ],
+    "director": "Peter Weir",
+    "country": "United States",
+    "duration": "103 min",
+    "quality": "HD",
+    "release": 1998,
+    "imdb": 8,
+    "poster": "https://img.cdno.my.id/thumb/w_200/h_300/the-truman-show-2432.jpg",
+    "trailer": "https://netoda.tech/watch/?v21#bGIxN3VMc3pncHFhS0s3VFlCbEVvUStKSWNXYXJtNVhqd1JrdjltdkZsNTFkQU9jeUJNZUU1SFQ2TlcvWEduUXRNND0",
+    "baseviews": "1.3M"
+  },
+
   {
     "id": 23,
     "title": "Avatar: Fire and Ash",
