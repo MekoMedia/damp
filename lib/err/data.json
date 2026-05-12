@@ -1,6 +1,1983 @@
 {
   "movies": [
     {
+  "imdb": "tt2861424",
+  "title": "Rick and Morty",
+  "type": "series",
+  "release": 2013,
+  "duration": "9 Seasons",
+  "quality": "4K",
+  "description": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Chris Parnell",
+    "Spencer Grammer",
+    "Sarah Chalke",
+    "Ian Cardoni",
+    "Harry Belden"
+  ],
+  "director": "Dan Harmon, Justin Roiland",
+  "country": "US",
+  "rating": "8.7",
+  "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+  "trailer": "https://www.youtube.com/embed/WNhH00OIPP0",
+  "baseviews": "1.3M",
+  "popularity": 73,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Pilot",
+          "duration": "22m"
+        },
+        {
+          "title": "Lawnmower Dog",
+          "duration": "22m"
+        },
+        {
+          "title": "Anatomy Park",
+          "duration": "22m"
+        },
+        {
+          "title": "M. Night Shaym-Aliens!",
+          "duration": "21m"
+        },
+        {
+          "title": "Meeseeks and Destroy",
+          "duration": "21m"
+        },
+        {
+          "title": "Rick Potion #9",
+          "duration": "22m"
+        },
+        {
+          "title": "Raising Gazorpazorp",
+          "duration": "22m"
+        },
+        {
+          "title": "Rixty Minutes",
+          "duration": "23m"
+        },
+        {
+          "title": "Something Ricked This Way Comes",
+          "duration": "23m"
+        },
+        {
+          "title": "Close Rick-Counters of the Rick Kind",
+          "duration": "23m"
+        },
+        {
+          "title": "Ricksy Business",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "A Rickle in Time",
+          "duration": "23m"
+        },
+        {
+          "title": "Mortynight Run",
+          "duration": "23m"
+        },
+        {
+          "title": "Auto Erotic Assimilation",
+          "duration": "23m"
+        },
+        {
+          "title": "Total Rickall",
+          "duration": "22m"
+        },
+        {
+          "title": "Get Schwifty",
+          "duration": "23m"
+        },
+        {
+          "title": "The Ricks Must Be Crazy",
+          "duration": "23m"
+        },
+        {
+          "title": "Big Trouble in Little Sanchez",
+          "duration": "23m"
+        },
+        {
+          "title": "Interdimensional Cable 2: Tempting Fate",
+          "duration": "23m"
+        },
+        {
+          "title": "Look Who's Purging Now",
+          "duration": "22m"
+        },
+        {
+          "title": "The Wedding Squanchers",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Rickshank Rickdemption",
+          "duration": "23m"
+        },
+        {
+          "title": "Rickmancing the Stone",
+          "duration": "23m"
+        },
+        {
+          "title": "Pickle Rick",
+          "duration": "24m"
+        },
+        {
+          "title": "Vindicators 3: The Return of Worldender",
+          "duration": "23m"
+        },
+        {
+          "title": "The Whirly Dirly Conspiracy",
+          "duration": "23m"
+        },
+        {
+          "title": "Rest and Ricklaxation",
+          "duration": "23m"
+        },
+        {
+          "title": "The Ricklantis Mixup",
+          "duration": "23m"
+        },
+        {
+          "title": "Morty's Mind Blowers",
+          "duration": "22m"
+        },
+        {
+          "title": "The ABC's of Beth",
+          "duration": "23m"
+        },
+        {
+          "title": "The Rickchurian Mortydate",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Edge of Tomorty: Rick Die Rickpeat",
+          "duration": "23m"
+        },
+        {
+          "title": "The Old Man and the Seat",
+          "duration": "23m"
+        },
+        {
+          "title": "One Crew Over the Crewcoo's Morty",
+          "duration": "23m"
+        },
+        {
+          "title": "Claw and Hoarder: Special Ricktim's Morty",
+          "duration": "23m"
+        },
+        {
+          "title": "Rattlestar Ricklactica",
+          "duration": "22m"
+        },
+        {
+          "title": "Never Ricking Morty",
+          "duration": "22m"
+        },
+        {
+          "title": "Promortyus",
+          "duration": "22m"
+        },
+        {
+          "title": "The Vat of Acid Episode",
+          "duration": "23m"
+        },
+        {
+          "title": "Childrick of Mort",
+          "duration": "23m"
+        },
+        {
+          "title": "Star Mort Rickturn of the Jerri",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Mort Dinner Rick Andre",
+          "duration": "23m"
+        },
+        {
+          "title": "Mortyplicity",
+          "duration": "22m"
+        },
+        {
+          "title": "A Rickconvenient Mort",
+          "duration": "23m"
+        },
+        {
+          "title": "Rickdependence Spray",
+          "duration": "22m"
+        },
+        {
+          "title": "Amortycan Grickfitti",
+          "duration": "23m"
+        },
+        {
+          "title": "Rick & Morty's Thanksploitation Spectacular",
+          "duration": "24m"
+        },
+        {
+          "title": "Gotron Jerrysis Rickvangelion",
+          "duration": "22m"
+        },
+        {
+          "title": "Rickternal Friendshine of the Spotless Mort",
+          "duration": "22m"
+        },
+        {
+          "title": "Forgetting Sarick Mortshall",
+          "duration": "22m"
+        },
+        {
+          "title": "Rickmurai Jack",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Solaricks",
+          "duration": "23m"
+        },
+        {
+          "title": "Rick: A Mort Well Lived",
+          "duration": "23m"
+        },
+        {
+          "title": "Bethic Twinstinct",
+          "duration": "22m"
+        },
+        {
+          "title": "Night Family",
+          "duration": "21m"
+        },
+        {
+          "title": "Final DeSmithation",
+          "duration": "23m"
+        },
+        {
+          "title": "JuRicksic Mort",
+          "duration": "23m"
+        },
+        {
+          "title": "Full Meta Jackrick",
+          "duration": "22m"
+        },
+        {
+          "title": "Analyze Piss",
+          "duration": "23m"
+        },
+        {
+          "title": "A Rick in King Mortur's Mort",
+          "duration": "21m"
+        },
+        {
+          "title": "Ricktional Mortpoon's Rickmas Mortcation",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "How Poopy Got His Poop Back",
+          "duration": "23m"
+        },
+        {
+          "title": "The Jerrick Trap",
+          "duration": "23m"
+        },
+        {
+          "title": "Air Force Wong",
+          "duration": "23m"
+        },
+        {
+          "title": "That's Amorte",
+          "duration": "23m"
+        },
+        {
+          "title": "Unmortricken",
+          "duration": "23m"
+        },
+        {
+          "title": "Rickfending Your Mort",
+          "duration": "23m"
+        },
+        {
+          "title": "Wet Kuat Amortican Summer",
+          "duration": "23m"
+        },
+        {
+          "title": "Rise of the Numbericons: The Movie",
+          "duration": "23m"
+        },
+        {
+          "title": "Mort: Ragnarick",
+          "duration": "22m"
+        },
+        {
+          "title": "Fear No Mort",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Summer of All Fears",
+          "duration": "24m"
+        },
+        {
+          "title": "Valkyrick",
+          "duration": "22m"
+        },
+        {
+          "title": "The Rick, the Mort & the Ugly",
+          "duration": "22m"
+        },
+        {
+          "title": "The Last Temptation of Jerry",
+          "duration": "23m"
+        },
+        {
+          "title": "Cryo Mort a Rickver",
+          "duration": "22m"
+        },
+        {
+          "title": "The CuRicksous Case of Bethjamin Button",
+          "duration": "22m"
+        },
+        {
+          "title": "Ricker than Fiction",
+          "duration": "23m"
+        },
+        {
+          "title": "Nomortland",
+          "duration": "23m"
+        },
+        {
+          "title": "Morty Daddy",
+          "duration": "22m"
+        },
+        {
+          "title": "Hot Rick",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "There's Something About Morty",
+          "duration": "45m"
+        },
+        {
+          "title": "Ricks Days, Seven Nights",
+          "duration": "45m"
+        },
+        {
+          "title": "Rick Fu Hustle",
+          "duration": "45m"
+        },
+        {
+          "title": "A Ricker Runs Through It",
+          "duration": "45m"
+        },
+        {
+          "title": "Jer Bud",
+          "duration": "45m"
+        },
+        {
+          "title": "Erickerhead",
+          "duration": "45m"
+        },
+        {
+          "title": "MortGully: The Last Rickforest",
+          "duration": "45m"
+        },
+        {
+          "title": "Rickuiem Mort a Dream",
+          "duration": "45m"
+        },
+        {
+          "title": "Salute Your Morts",
+          "duration": "45m"
+        },
+        {
+          "title": "Field of Dreams",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt26443597",
+  "title": "Zootopia 2",
+  "type": "movie",
+  "release": 2025,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Ginnifer Goodwin",
+    "Jason Bateman",
+    "Ke Huy Quan"
+  ],
+  "director": "Jared Bush, Byron Howard",
+  "country": "United States",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+{
+  "imdb": "tt10919420",
+  "title": "Squid Game",
+  "type": "series",
+  "release": 2021,
+  "duration": "3 Seasons",
+  "quality": "4K",
+  "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+  "genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Drama"
+  ],
+  "actors": [
+    "Lee Jung-jae",
+    "Yim Si-wan",
+    "Wi Ha-jun",
+    "Jo Yu-ri",
+    "Lee Byung-hun"
+  ],
+  "director": "Hwang Dong-hyuk",
+  "country": "KR",
+  "rating": "7.9",
+  "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+  "trailer": "https://www.youtube.com/embed/oqxAJKy0ii4",
+  "baseviews": "1.3M",
+  "popularity": 84,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Red Light, Green Light",
+          "duration": "61m"
+        },
+        {
+          "title": "Hell",
+          "duration": "63m"
+        },
+        {
+          "title": "The Man with the Umbrella",
+          "duration": "55m"
+        },
+        {
+          "title": "Stick to the Team",
+          "duration": "55m"
+        },
+        {
+          "title": "A Fair World",
+          "duration": "52m"
+        },
+        {
+          "title": "Gganbu",
+          "duration": "62m"
+        },
+        {
+          "title": "VIPS",
+          "duration": "58m"
+        },
+        {
+          "title": "Front Man",
+          "duration": "33m"
+        },
+        {
+          "title": "One Lucky Day",
+          "duration": "56m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Bread and Lottery",
+          "duration": "66m"
+        },
+        {
+          "title": "Halloween Party",
+          "duration": "52m"
+        },
+        {
+          "title": "001",
+          "duration": "62m"
+        },
+        {
+          "title": "Six Legs",
+          "duration": "63m"
+        },
+        {
+          "title": "One More Game",
+          "duration": "77m"
+        },
+        {
+          "title": "O ﻿ X",
+          "duration": "53m"
+        },
+        {
+          "title": "Friend or Foe",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Keys and Knives",
+          "duration": "58m"
+        },
+        {
+          "title": "The Starry Night",
+          "duration": "60m"
+        },
+        {
+          "title": "It's Not Your Fault",
+          "duration": "66m"
+        },
+        {
+          "title": "222",
+          "duration": "66m"
+        },
+        {
+          "title": "○△□",
+          "duration": "63m"
+        },
+        {
+          "title": "Humans Are...",
+          "duration": "56m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt10919420",
+  "title": "Squid Game",
+  "type": "series",
+  "release": 2021,
+  "duration": "3 Seasons",
+  "quality": "4K",
+  "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+  "genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Drama"
+  ],
+  "actors": [
+    "Lee Jung-jae",
+    "Yim Si-wan",
+    "Wi Ha-jun",
+    "Jo Yu-ri",
+    "Lee Byung-hun"
+  ],
+  "director": "Hwang Dong-hyuk",
+  "country": "KR",
+  "rating": "7.9",
+  "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+  "trailer": "https://www.youtube.com/embed/oqxAJKy0ii4",
+  "baseviews": "1.3M",
+  "popularity": 67,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Red Light, Green Light",
+          "duration": "61m"
+        },
+        {
+          "title": "Hell",
+          "duration": "63m"
+        },
+        {
+          "title": "The Man with the Umbrella",
+          "duration": "55m"
+        },
+        {
+          "title": "Stick to the Team",
+          "duration": "55m"
+        },
+        {
+          "title": "A Fair World",
+          "duration": "52m"
+        },
+        {
+          "title": "Gganbu",
+          "duration": "62m"
+        },
+        {
+          "title": "VIPS",
+          "duration": "58m"
+        },
+        {
+          "title": "Front Man",
+          "duration": "33m"
+        },
+        {
+          "title": "One Lucky Day",
+          "duration": "56m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Bread and Lottery",
+          "duration": "66m"
+        },
+        {
+          "title": "Halloween Party",
+          "duration": "52m"
+        },
+        {
+          "title": "001",
+          "duration": "62m"
+        },
+        {
+          "title": "Six Legs",
+          "duration": "63m"
+        },
+        {
+          "title": "One More Game",
+          "duration": "77m"
+        },
+        {
+          "title": "O ﻿ X",
+          "duration": "53m"
+        },
+        {
+          "title": "Friend or Foe",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Keys and Knives",
+          "duration": "58m"
+        },
+        {
+          "title": "The Starry Night",
+          "duration": "60m"
+        },
+        {
+          "title": "It's Not Your Fault",
+          "duration": "66m"
+        },
+        {
+          "title": "222",
+          "duration": "66m"
+        },
+        {
+          "title": "○△□",
+          "duration": "63m"
+        },
+        {
+          "title": "Humans Are...",
+          "duration": "56m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt28104766",
+  "title": "Squid Game: The Challenge",
+  "type": "series",
+  "release": 2023,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "In this reality competition show inspired by \"Squid Game,\" 456 players put their skills to the ultimate test for a life-changing $4.56 million prize.",
+  "genre": [
+    "Reality"
+  ],
+  "actors": [],
+  "director": "N/A",
+  "country": "GB",
+  "rating": "6.5",
+  "poster": "https://image.tmdb.org/t/p/w500/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 78,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Red Light, Green Light",
+          "duration": "57m"
+        },
+        {
+          "title": "The Man with the Umbrella",
+          "duration": "55m"
+        },
+        {
+          "title": "War",
+          "duration": "56m"
+        },
+        {
+          "title": "Nowhere to Hide",
+          "duration": "45m"
+        },
+        {
+          "title": "Trick or Treat",
+          "duration": "41m"
+        },
+        {
+          "title": "Goodbye",
+          "duration": "55m"
+        },
+        {
+          "title": "Friend and Foe",
+          "duration": "40m"
+        },
+        {
+          "title": "One Step Closer",
+          "duration": "47m"
+        },
+        {
+          "title": "Circle of Trust",
+          "duration": "47m"
+        },
+        {
+          "title": "One Lucky Day",
+          "duration": "44m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Six Legs",
+          "duration": "59m"
+        },
+        {
+          "title": "Catch",
+          "duration": "59m"
+        },
+        {
+          "title": "The Doll",
+          "duration": "46m"
+        },
+        {
+          "title": "Mingle",
+          "duration": "48m"
+        },
+        {
+          "title": "Sacrifice",
+          "duration": "52m"
+        },
+        {
+          "title": "Ups & Downs",
+          "duration": "43m"
+        },
+        {
+          "title": "Trust",
+          "duration": "43m"
+        },
+        {
+          "title": "Faith",
+          "duration": "45m"
+        },
+        {
+          "title": "Red Light Green Light",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt21344706",
+  "title": "The Glory",
+  "type": "series",
+  "release": 2022,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "Years after surviving horrific abuse in high school, a woman puts an elaborate revenge scheme in motion to make the perpetrators pay for their crimes.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Song Hye-kyo",
+    "Lee Do-hyun",
+    "Lim Ji-yeon",
+    "Yeom Hye-ran",
+    "Park Sung-hoon"
+  ],
+  "director": "Kim Eun-sook, An Gil-ho",
+  "country": "KR",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+  "trailer": "https://www.youtube.com/embed/tqVVrTvrI8U",
+  "baseviews": "1.3M",
+  "popularity": 84,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "47m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "51m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "50m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "47m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "48m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "51m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "49m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "54m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "53m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "52m"
+        },
+        {
+          "title": "Episode 11",
+          "duration": "53m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "53m"
+        },
+        {
+          "title": "Episode 13",
+          "duration": "54m"
+        },
+        {
+          "title": "Episode 14",
+          "duration": "54m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "60m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "71m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt10795658",
+  "title": "Alice in Borderland",
+  "type": "series",
+  "release": 2020,
+  "duration": "3 Seasons",
+  "quality": "4K",
+  "description": "With his two friends, a video-game-obsessed young man finds himself in a strange version of Tokyo where they must compete in dangerous games to win.",
+  "genre": [
+    "Mystery",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Kento Yamazaki",
+    "Tao Tsuchiya"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+  "trailer": "https://www.youtube.com/embed/EEJ7nUvXUYA",
+  "baseviews": "1.3M",
+  "popularity": 89,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "49m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "51m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "43m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "48m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "52m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "42m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "49m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "53m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "49m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "61m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "67m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "53m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "76m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "60m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "81m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "62m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "56m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "63m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "62m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "78m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "77m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt27668559",
+  "title": "Queen of Tears",
+  "type": "series",
+  "release": 2024,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+  "genre": [
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Kim Soo-hyun",
+    "Kim Ji-won",
+    "Park Sung-hoon",
+    "Kwak Dong-yeon",
+    "Lee Ju-bin"
+  ],
+  "director": "Park Ji-eun, Jang Young-woo, Kim Hee-won",
+  "country": "KR",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+  "trailer": "https://www.youtube.com/embed/Gg2D8zrzlOA",
+  "baseviews": "1.3M",
+  "popularity": 74,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "78m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "84m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "91m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "88m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "87m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "85m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "88m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "88m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "87m"
+        },
+        {
+          "title": "Episode 11",
+          "duration": "86m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "93m"
+        },
+        {
+          "title": "Episode 13",
+          "duration": "89m"
+        },
+        {
+          "title": "Episode 14",
+          "duration": "86m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "88m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "110m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt26258200",
+  "title": "Mask Girl",
+  "type": "series",
+  "release": 2023,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "An office worker who is insecure about her looks becomes a masked internet personality by night — until a chain of ill-fated events overtakes her life.",
+  "genre": [
+    "Drama",
+    "Comedy",
+    "Mystery",
+    "Crime"
+  ],
+  "actors": [
+    "Ko Hyun-jung",
+    "Nana",
+    "Lee Han-byeol",
+    "Ahn Jae-hong",
+    "Yeom Hye-ran"
+  ],
+  "director": "Kim Yong-hoon",
+  "country": "KR",
+  "rating": "7.4",
+  "poster": "https://image.tmdb.org/t/p/w500/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg",
+  "trailer": "https://www.youtube.com/embed/Gebl7um3jUg",
+  "baseviews": "1.3M",
+  "popularity": 63,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Kim Mo-mi",
+          "duration": "51m"
+        },
+        {
+          "title": "Ju Oh-nam",
+          "duration": "65m"
+        },
+        {
+          "title": "Kim Kyung-ja",
+          "duration": "62m"
+        },
+        {
+          "title": "Kim Chun-ae",
+          "duration": "65m"
+        },
+        {
+          "title": "Kim Mi-mo",
+          "duration": "51m"
+        },
+        {
+          "title": "Kim Mo-mi",
+          "duration": "57m"
+        },
+        {
+          "title": "Mo-mi and Mi-mo",
+          "duration": "62m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt11239552",
+  "title": "Itaewon Class",
+  "type": "series",
+  "release": 2020,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "In a colorful Seoul neighborhood, an ex-con and his friends fight a mighty foe to make their ambitious dreams for their street bar a reality.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Park Seo-jun",
+    "Kim Da-mi",
+    "Kwon Na-ra",
+    "You Chea-myung",
+    "Ahn Bo-hyun"
+  ],
+  "director": "Cho Kwang-jin",
+  "country": "KR",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
+  "trailer": "https://www.youtube.com/embed/NeaHNQJ1kCo",
+  "baseviews": "1.3M",
+  "popularity": 88,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "74m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "67m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "64m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "70m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "67m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "71m"
+        },
+        {
+          "title": "Episode 11",
+          "duration": "71m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "70m"
+        },
+        {
+          "title": "Episode 13",
+          "duration": "70m"
+        },
+        {
+          "title": "Episode 14",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "88m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt13433812",
+  "title": "Vincenzo",
+  "type": "series",
+  "release": 2021,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "During a visit to his motherland, a Korean-Italian mafia lawyer gives an unrivaled conglomerate a taste of its own medicinewith a side of justice.",
+  "genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Crime"
+  ],
+  "actors": [
+    "Song Joong-ki",
+    "Jeon Yeo-been",
+    "Ok Taec-yeon",
+    "Kim Yeo-jin",
+    "Kwak Dong-yeon"
+  ],
+  "director": "N/A",
+  "country": "KR",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg",
+  "trailer": "https://www.youtube.com/embed/S12-4mXCNj4",
+  "baseviews": "1.3M",
+  "popularity": 77,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "85m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "80m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "83m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "87m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "79m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "83m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "82m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "84m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "84m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "84m"
+        },
+        {
+          "title": "Episode 11",
+          "duration": "82m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "83m"
+        },
+        {
+          "title": "Episode 13",
+          "duration": "77m"
+        },
+        {
+          "title": "Episode 14",
+          "duration": "84m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "84m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "75m"
+        },
+        {
+          "title": "Episode 17",
+          "duration": "83m"
+        },
+        {
+          "title": "Episode 18",
+          "duration": "78m"
+        },
+        {
+          "title": "Episode 19",
+          "duration": "87m"
+        },
+        {
+          "title": "Episode 20",
+          "duration": "90m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt4925000",
+  "title": "Descendants of the Sun",
+  "type": "series",
+  "release": 2016,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+  "genre": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Song Hye-kyo",
+    "Song Joong-ki",
+    "Kim Ji-won",
+    "Jin Goo",
+    "Onew"
+  ],
+  "director": "Baek Sang-Hoon, Lee Eung-bok",
+  "country": "KR",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+  "trailer": "https://www.youtube.com/embed/wTGwjDqtfzQ",
+  "baseviews": "1.3M",
+  "popularity": 72,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Will You Be My Doctor?",
+          "duration": "60m"
+        },
+        {
+          "title": "We Bump Into Each Other While Passing By",
+          "duration": "60m"
+        },
+        {
+          "title": "How Have You Been?",
+          "duration": "60m"
+        },
+        {
+          "title": "I Will Find a Way to Drink",
+          "duration": "60m"
+        },
+        {
+          "title": "What Should I Do About the Kiss",
+          "duration": "60m"
+        },
+        {
+          "title": "I Shouldn't Have Received His Apology",
+          "duration": "59m"
+        },
+        {
+          "title": "I Missed You",
+          "duration": "59m"
+        },
+        {
+          "title": "Comfort the Deceased With a Silent Prayer",
+          "duration": "60m"
+        },
+        {
+          "title": "That Wasn't Me",
+          "duration": "60m"
+        },
+        {
+          "title": "You Got A Parcel From Shin Ji Young",
+          "duration": "60m"
+        },
+        {
+          "title": "Who on Earth Stole It?",
+          "duration": "60m"
+        },
+        {
+          "title": "As of This Moment, Everyone Will Return to Team Alpha",
+          "duration": "59m"
+        },
+        {
+          "title": "You're Not My Director Any More",
+          "duration": "59m"
+        },
+        {
+          "title": "The Movie We Missed",
+          "duration": "58m"
+        },
+        {
+          "title": "I Will Stay Alive",
+          "duration": "60m"
+        },
+        {
+          "title": "This Is Unbelievable",
+          "duration": "60m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt12940504",
+  "title": "My Name",
+  "type": "series",
+  "release": 2021,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "Following her father's murder, a revenge-driven woman puts her trust in a powerful crime boss — and enters the police force under his direction.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Han So-hee",
+    "Park Hee-soon",
+    "Ahn Bo-hyun",
+    "Kim Sang-ho",
+    "Lee Hak-ju"
+  ],
+  "director": "Kim Jin-min, Kim Ba-da",
+  "country": "KR",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/gHozOomiA24DvlgNfjkYCB5NBiO.jpg",
+  "trailer": "https://www.youtube.com/embed/KFMYo3xax2A",
+  "baseviews": "1.3M",
+  "popularity": 87,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "54m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "46m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "47m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "46m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "50m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "49m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "58m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt14819828",
+  "title": "Business Proposal",
+  "type": "series",
+  "release": 2022,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO — and makes a proposal.",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Ahn Hyo-seop",
+    "Kim Se-jeong",
+    "Kim Min-gue",
+    "Seol In-a",
+    "Lee Duck-hwa"
+  ],
+  "director": "Han Sul-hee, Park Seon-ho, Hong Bo-hee",
+  "country": "KR",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
+  "trailer": "https://www.youtube.com/embed/M-PHcxPyasA",
+  "baseviews": "1.3M",
+  "popularity": 73,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Let's do it together, get married",
+          "duration": "61m"
+        },
+        {
+          "title": "Fall in love with me",
+          "duration": "61m"
+        },
+        {
+          "title": "Don't try this fake relationship, try a real relationship",
+          "duration": "61m"
+        },
+        {
+          "title": "It's pretty",
+          "duration": "61m"
+        },
+        {
+          "title": "I am Shin Ha-ri",
+          "duration": "61m"
+        },
+        {
+          "title": "My name is Hari's boyfriend Kang Tae-moo",
+          "duration": "61m"
+        },
+        {
+          "title": "I like Shin Ha-ri",
+          "duration": "61m"
+        },
+        {
+          "title": "I want to think about just the two of us",
+          "duration": "61m"
+        },
+        {
+          "title": "What are you doing there?",
+          "duration": "61m"
+        },
+        {
+          "title": "Thank you for taking me in like this",
+          "duration": "61m"
+        },
+        {
+          "title": "Don't disappear from my sight",
+          "duration": "61m"
+        },
+        {
+          "title": "We're getting married",
+          "duration": "61m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt0326900",
+  "title": "Good Boy",
+  "type": "movie",
+  "release": 2003,
+  "duration": "87 min",
+  "quality": "HD",
+  "description": "An intergalactic dog pilot from Sirius (the dog star), visits Earth to verify the rumors that dogs have failed to take over the planet.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "actors": [
+    "Liam Aiken",
+    "Matthew Broderick",
+    "Molly Shannon"
+  ],
+  "director": "John Hoffman",
+  "country": "United States",
+  "rating": "5.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NzAzNzM4MV5BMl5BanBnXkFtZTYwMDE2MzQ3._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt0302886",
+  "title": "Old School",
+  "type": "movie",
+  "release": 2003,
+  "duration": "88 min",
+  "quality": "HD",
+  "description": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Luke Wilson",
+    "Vince Vaughn",
+    "Will Ferrell"
+  ],
+  "director": "Todd Phillips",
+  "country": "United States",
+  "rating": "7.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZiNGEwNjQtNTMzOS00NDI3LWI2ZWQtMGQwMjEzNjExZjNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt0357413",
+  "title": "Anchorman: The Legend of Ron Burgundy",
+  "type": "movie",
+  "release": 2004,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "In the 1970s, an anchorman's stint as San Diego's top-rated newsreader is challenged when an ambitious newswoman becomes his co-anchor.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Will Ferrell",
+    "Christina Applegate",
+    "Steve Carell"
+  ],
+  "director": "Adam McKay",
+  "country": "United States",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt1229340",
+  "title": "Anchorman 2: The Legend Continues",
+  "type": "movie",
+  "release": 2013,
+  "duration": "119 min",
+  "quality": "HD",
+  "description": "With the 1970s behind him, Ron Burgundy, San Diego's former top-rated newsreader, returns to take New York City's first twenty-four-hour news channel by storm.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Will Ferrell",
+    "Christina Applegate",
+    "Paul Rudd"
+  ],
+  "director": "Adam McKay",
+  "country": "United States",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5ODk0NjQzNV5BMl5BanBnXkFtZTgwODk4MDA1MDE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt0415306",
+  "title": "Talladega Nights: The Ballad of Ricky Bobby",
+  "type": "movie",
+  "release": 2006,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion ar...",
+  "genre": [
+    "Comedy",
+    "Sport"
+  ],
+  "actors": [
+    "Will Ferrell",
+    "John C. Reilly",
+    "Sacha Baron Cohen"
+  ],
+  "director": "Adam McKay",
+  "country": "United States",
+  "rating": "6.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzAzOTk1OTIyM15BMl5BanBnXkFtZTcwNDIzNTQzMQ@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt0389860",
+  "title": "Click",
+  "type": "movie",
+  "release": 2006,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "A workaholic architect finds a universal remote that allows him to fast-forward and rewind to different parts of his life. Complications arise when the remote starts to overrule his choices.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "actors": [
+    "Adam Sandler",
+    "Kate Beckinsale",
+    "Christopher Walken"
+  ],
+  "director": "Frank Coraci",
+  "country": "United States",
+  "rating": "6.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA1MTUxNDY4NzReQTJeQWpwZ15BbWU2MDE3ODAxNw@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt0312528",
+  "title": "The Cat in the Hat",
+  "type": "movie",
+  "release": 2003,
+  "duration": "82 min",
+  "quality": "HD",
+  "description": "Two bored children have their lives turned upside down when a talking cat comes to visit them.",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [
+    "Mike Myers",
+    "Alec Baldwin",
+    "Kelly Preston"
+  ],
+  "director": "Bo Welch",
+  "country": "United States",
+  "rating": "4.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDU3MTYyMF5BMl5BanBnXkFtZTYwODgyODc3._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt0268126",
+  "title": "Adaptation.",
+  "type": "movie",
+  "release": 2002,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' by Susan Orlean for the screen.",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Nicolas Cage",
+    "Meryl Streep",
+    "Chris Cooper"
+  ],
+  "director": "Spike Jonze",
+  "country": "United States",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt0470761",
+  "title": "First Born",
+  "type": "movie",
+  "release": 2007,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "A pregnant couple buys a mansion and moves out of NYC. Strange things start happening to the C-sectioned, anxious, new mom.",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "actors": [
+    "Elisabeth Shue",
+    "Steven Mackintosh",
+    "Kathleen Chalfant"
+  ],
+  "director": "Isaac Webb",
+  "country": "United States",
+  "rating": "4.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4Njg2NzkzNl5BMl5BanBnXkFtZTcwNjA5NTU0MQ@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt0362270",
+  "title": "The Life Aquatic with Steve Zissou",
+  "type": "movie",
+  "release": 2004,
+  "duration": "119 min",
+  "quality": "HD",
+  "description": "With a plan to exact revenge on a legendary shark that killed his partner, oceanographer Steve Zissou rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Bill Murray",
+    "Owen Wilson",
+    "Anjelica Huston"
+  ],
+  "director": "Wes Anderson",
+  "country": "United States",
+  "rating": "7.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt1477834",
+  "title": "Aquaman",
+  "type": "movie",
+  "release": 2018,
+  "duration": "143 min",
+  "quality": "HD",
+  "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Jason Momoa",
+    "Amber Heard",
+    "Willem Dafoe"
+  ],
+  "director": "James Wan",
+  "country": "United States",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt9663764",
+  "title": "Aquaman and the Lost Kingdom",
+  "type": "movie",
+  "release": 2023,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Jason Momoa",
+    "Patrick Wilson",
+    "Yahya Abdul-Mateen II"
+  ],
+  "director": "James Wan",
+  "country": "United States, United Kingdom, Canada, Australia, Iceland",
+  "rating": "5.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ1ZTUzMWMtY2VkNS00ZDRjLWEwODYtYmFkMWJiNTQxMDUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+    {
   "imdb": "tt12042730",
   "title": "Project Hail Mary",
   "type": "movie",
