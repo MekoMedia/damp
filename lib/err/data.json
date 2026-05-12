@@ -1,6 +1,195 @@
 {
   "movies": [
     {
+  "imdb": "tt0831387",
+  "title": "Godzilla",
+  "type": "movie",
+  "release": 2014,
+  "duration": "123 min",
+  "quality": "HD",
+  "description": "Following the 1999 Janjira nuclear disaster that claimed his wife Sandra, Joe Brody seeks answers. His Navy officer son Ford accompanies him to Japan, where they discover the devastating truth and see ancient monsters emerge.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Aaron Taylor-Johnson",
+    "Elizabeth Olsen",
+    "Bryan Cranston"
+  ],
+  "director": "Gareth Edwards",
+  "country": "United States, Japan",
+  "rating": "6.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODE2NTdmMmYtY2U1OS00MjExLWIwNjQtYjQ5NTA0ZDZmZjZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt3741700",
+  "title": "Godzilla: King of the Monsters",
+  "type": "movie",
+  "release": 2019,
+  "duration": "132 min",
+  "quality": "HD",
+  "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Kyle Chandler",
+    "Vera Farmiga",
+    "Millie Bobby Brown"
+  ],
+  "director": "Michael Dougherty",
+  "country": "United States, Japan, China",
+  "rating": "6.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDVhMjk2OGUtYzYxNS00NzBjLTk5YTItYzI0ZjgzNjY1NmI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt5034838",
+  "title": "Godzilla vs. Kong",
+  "type": "movie",
+  "release": 2021,
+  "duration": "113 min",
+  "quality": "HD",
+  "description": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "actors": [
+    "Alexander Skarsgård",
+    "Millie Bobby Brown",
+    "Rebecca Hall"
+  ],
+  "director": "Adam Wingard",
+  "country": "United States, Australia, Hong Kong",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjZlYjUwZjItZmQ1ZS00NDU2LWFhNWMtMGRmMmZiMzliY2NhXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt14539740",
+  "title": "Godzilla x Kong: The New Empire",
+  "type": "movie",
+  "release": 2024,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Rebecca Hall",
+    "Brian Tyree Henry",
+    "Dan Stevens"
+  ],
+  "director": "Adam Wingard",
+  "country": "United States, Australia",
+  "rating": "6.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt34384661",
+  "title": "Godzilla Minus Zero",
+  "type": "movie",
+  "release": 2026,
+  "duration": "119 min",
+  "quality": "HD",
+  "description": "Direct continuation of Takashi Yamazaki's Godzilla Minus One.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Ryûnosuke Kamiki",
+    "Minami Hamabe",
+    "Miou Tanaka"
+  ],
+  "director": "Takashi Yamazaki",
+  "country": "Japan",
+  "rating": null,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWUyMDY0NWQtMjI2Zi00YjMwLTkwYmItZDk1MGI5MjEzODQxXkEyXkFqcGc@._V1_QL75_UY562_CR10,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt23289160",
+  "title": "Godzilla Minus One",
+  "type": "movie",
+  "release": 2023,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "A kamikaze pilot plagued by survivor's guilt seeks redemption when a giant monster he failed to kill is transformed by radiation from atomic bomb tests and lays siege to post-war Japan.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Ryûnosuke Kamiki",
+    "Minami Hamabe",
+    "Yuki Yamada"
+  ],
+  "director": "Takashi Yamazaki",
+  "country": "Japan",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjc5MjllMGUtMDIwMS00ZDVkLWEzODQtM2NlMTMwMTZhNThmXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt0120685",
+  "title": "Godzilla",
+  "type": "movie",
+  "release": 1998,
+  "duration": "139 min",
+  "quality": "HD",
+  "description": "French nuclear tests irradiate an iguana into a giant monster that heads off to New York City. The American military must chase the monster across the city to stop it before it reproduces.",
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "actors": [
+    "Matthew Broderick",
+    "Jean Reno",
+    "Maria Pitillo"
+  ],
+  "director": "Roland Emmerich",
+  "country": "United States, Japan",
+  "rating": "5.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdmYmUzYjAtMmJhNi00NGU3LWJiODYtM2I5MGFhZjBhM2NhXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+    {
       "imdb": "tt0903747",
       "title": "Breaking Bad",
       "type": "series",
