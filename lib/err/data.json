@@ -1,6 +1,2825 @@
 {
   "movies": [
+    
     {
+  "imdb": "tt0944947",
+  "title": "Game of Thrones",
+  "type": "series",
+  "release": 2011,
+  "duration": "8 Seasons",
+  "quality": "4K",
+  "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Peter Dinklage",
+    "Kit Harington",
+    "Nikolaj Coster-Waldau",
+    "Lena Headey",
+    "Emilia Clarke"
+  ],
+  "director": "David Benioff, D. B. Weiss",
+  "country": "US",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+  "trailer": "https://www.youtube.com/embed/KPLWWIOCOOQ",
+  "baseviews": "1.3M",
+  "popularity": 61,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Winter Is Coming",
+          "duration": "62m"
+        },
+        {
+          "title": "The Kingsroad",
+          "duration": "56m"
+        },
+        {
+          "title": "Lord Snow",
+          "duration": "58m"
+        },
+        {
+          "title": "Cripples, Bastards, and Broken Things",
+          "duration": "56m"
+        },
+        {
+          "title": "The Wolf and the Lion",
+          "duration": "55m"
+        },
+        {
+          "title": "A Golden Crown",
+          "duration": "53m"
+        },
+        {
+          "title": "You Win or You Die",
+          "duration": "58m"
+        },
+        {
+          "title": "The Pointy End",
+          "duration": "59m"
+        },
+        {
+          "title": "Baelor",
+          "duration": "57m"
+        },
+        {
+          "title": "Fire and Blood",
+          "duration": "53m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The North Remembers",
+          "duration": "53m"
+        },
+        {
+          "title": "The Night Lands",
+          "duration": "54m"
+        },
+        {
+          "title": "What Is Dead May Never Die",
+          "duration": "53m"
+        },
+        {
+          "title": "Garden of Bones",
+          "duration": "51m"
+        },
+        {
+          "title": "The Ghost of Harrenhal",
+          "duration": "55m"
+        },
+        {
+          "title": "The Old Gods and the New",
+          "duration": "54m"
+        },
+        {
+          "title": "A Man Without Honor",
+          "duration": "56m"
+        },
+        {
+          "title": "The Prince of Winterfell",
+          "duration": "54m"
+        },
+        {
+          "title": "Blackwater",
+          "duration": "55m"
+        },
+        {
+          "title": "Valar Morghulis",
+          "duration": "64m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Valar Dohaeris",
+          "duration": "55m"
+        },
+        {
+          "title": "Dark Wings, Dark Words",
+          "duration": "58m"
+        },
+        {
+          "title": "Walk of Punishment",
+          "duration": "53m"
+        },
+        {
+          "title": "And Now His Watch Is Ended",
+          "duration": "54m"
+        },
+        {
+          "title": "Kissed by Fire",
+          "duration": "58m"
+        },
+        {
+          "title": "The Climb",
+          "duration": "54m"
+        },
+        {
+          "title": "The Bear and the Maiden Fair",
+          "duration": "58m"
+        },
+        {
+          "title": "Second Sons",
+          "duration": "57m"
+        },
+        {
+          "title": "The Rains of Castamere",
+          "duration": "51m"
+        },
+        {
+          "title": "Mhysa",
+          "duration": "63m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Two Swords",
+          "duration": "59m"
+        },
+        {
+          "title": "The Lion and the Rose",
+          "duration": "53m"
+        },
+        {
+          "title": "Breaker of Chains",
+          "duration": "57m"
+        },
+        {
+          "title": "Oathkeeper",
+          "duration": "56m"
+        },
+        {
+          "title": "First of His Name",
+          "duration": "54m"
+        },
+        {
+          "title": "The Laws of Gods and Men",
+          "duration": "51m"
+        },
+        {
+          "title": "Mockingbird",
+          "duration": "52m"
+        },
+        {
+          "title": "The Mountain and the Viper",
+          "duration": "53m"
+        },
+        {
+          "title": "The Watchers on the Wall",
+          "duration": "51m"
+        },
+        {
+          "title": "The Children",
+          "duration": "66m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Wars to Come",
+          "duration": "53m"
+        },
+        {
+          "title": "The House of Black and White",
+          "duration": "56m"
+        },
+        {
+          "title": "High Sparrow",
+          "duration": "60m"
+        },
+        {
+          "title": "Sons of the Harpy",
+          "duration": "51m"
+        },
+        {
+          "title": "Kill the Boy",
+          "duration": "57m"
+        },
+        {
+          "title": "Unbowed, Unbent, Unbroken",
+          "duration": "54m"
+        },
+        {
+          "title": "The Gift",
+          "duration": "59m"
+        },
+        {
+          "title": "Hardhome",
+          "duration": "60m"
+        },
+        {
+          "title": "The Dance of Dragons",
+          "duration": "53m"
+        },
+        {
+          "title": "Mother's Mercy",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Red Woman",
+          "duration": "51m"
+        },
+        {
+          "title": "Home",
+          "duration": "54m"
+        },
+        {
+          "title": "Oathbreaker",
+          "duration": "53m"
+        },
+        {
+          "title": "Book of the Stranger",
+          "duration": "59m"
+        },
+        {
+          "title": "The Door",
+          "duration": "57m"
+        },
+        {
+          "title": "Blood of My Blood",
+          "duration": "52m"
+        },
+        {
+          "title": "The Broken Man",
+          "duration": "51m"
+        },
+        {
+          "title": "No One",
+          "duration": "59m"
+        },
+        {
+          "title": "Battle of the Bastards",
+          "duration": "60m"
+        },
+        {
+          "title": "The Winds of Winter",
+          "duration": "68m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Dragonstone",
+          "duration": "59m"
+        },
+        {
+          "title": "Stormborn",
+          "duration": "59m"
+        },
+        {
+          "title": "The Queen's Justice",
+          "duration": "63m"
+        },
+        {
+          "title": "The Spoils of War",
+          "duration": "50m"
+        },
+        {
+          "title": "Eastwatch",
+          "duration": "59m"
+        },
+        {
+          "title": "Beyond the Wall",
+          "duration": "70m"
+        },
+        {
+          "title": "The Dragon and the Wolf",
+          "duration": "80m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Winterfell",
+          "duration": "55m"
+        },
+        {
+          "title": "A Knight of the Seven Kingdoms",
+          "duration": "59m"
+        },
+        {
+          "title": "The Long Night",
+          "duration": "82m"
+        },
+        {
+          "title": "The Last of the Starks",
+          "duration": "79m"
+        },
+        {
+          "title": "The Bells",
+          "duration": "80m"
+        },
+        {
+          "title": "The Iron Throne",
+          "duration": "80m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt1520211",
+  "title": "The Walking Dead",
+  "type": "series",
+  "release": 2010,
+  "duration": "11 Seasons",
+  "quality": "4K",
+  "description": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Lauren Cohan",
+    "Norman Reedus",
+    "Jeffrey Dean Morgan",
+    "Melissa McBride",
+    "Christian Serratos"
+  ],
+  "director": "Frank Darabont",
+  "country": "US",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/s3OIDrCErUjthsnPPreY7XktQXB.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Days Gone Bye",
+          "duration": "68m"
+        },
+        {
+          "title": "Guts",
+          "duration": "44m"
+        },
+        {
+          "title": "Tell It to the Frogs",
+          "duration": "45m"
+        },
+        {
+          "title": "Vatos",
+          "duration": "45m"
+        },
+        {
+          "title": "Wildfire",
+          "duration": "45m"
+        },
+        {
+          "title": "TS-19",
+          "duration": "45m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "What Lies Ahead",
+          "duration": "63m"
+        },
+        {
+          "title": "Bloodletting",
+          "duration": "43m"
+        },
+        {
+          "title": "Save the Last One",
+          "duration": "44m"
+        },
+        {
+          "title": "Cherokee Rose",
+          "duration": "44m"
+        },
+        {
+          "title": "Chupacabra",
+          "duration": "43m"
+        },
+        {
+          "title": "Secrets",
+          "duration": "43m"
+        },
+        {
+          "title": "Pretty Much Dead Already",
+          "duration": "43m"
+        },
+        {
+          "title": "Nebraska",
+          "duration": "43m"
+        },
+        {
+          "title": "Triggerfinger",
+          "duration": "43m"
+        },
+        {
+          "title": "18 Miles Out",
+          "duration": "43m"
+        },
+        {
+          "title": "Judge, Jury, Executioner",
+          "duration": "43m"
+        },
+        {
+          "title": "Better Angels",
+          "duration": "44m"
+        },
+        {
+          "title": "Beside the Dying Fire",
+          "duration": "43m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Seed",
+          "duration": "43m"
+        },
+        {
+          "title": "Sick",
+          "duration": "43m"
+        },
+        {
+          "title": "Walk with Me",
+          "duration": "43m"
+        },
+        {
+          "title": "Killer Within",
+          "duration": "43m"
+        },
+        {
+          "title": "Say the Word",
+          "duration": "43m"
+        },
+        {
+          "title": "Hounded",
+          "duration": "43m"
+        },
+        {
+          "title": "When the Dead Come Knocking",
+          "duration": "43m"
+        },
+        {
+          "title": "Made to Suffer",
+          "duration": "43m"
+        },
+        {
+          "title": "The Suicide King",
+          "duration": "43m"
+        },
+        {
+          "title": "Home",
+          "duration": "43m"
+        },
+        {
+          "title": "I Ain't a Judas",
+          "duration": "43m"
+        },
+        {
+          "title": "Clear",
+          "duration": "43m"
+        },
+        {
+          "title": "Arrow on the Doorpost",
+          "duration": "43m"
+        },
+        {
+          "title": "Prey",
+          "duration": "43m"
+        },
+        {
+          "title": "This Sorrowful Life",
+          "duration": "43m"
+        },
+        {
+          "title": "Welcome to the Tombs",
+          "duration": "44m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "30 Days Without an Accident",
+          "duration": "43m"
+        },
+        {
+          "title": "Infected",
+          "duration": "43m"
+        },
+        {
+          "title": "Isolation",
+          "duration": "43m"
+        },
+        {
+          "title": "Indifference",
+          "duration": "43m"
+        },
+        {
+          "title": "Internment",
+          "duration": "43m"
+        },
+        {
+          "title": "Live Bait",
+          "duration": "43m"
+        },
+        {
+          "title": "Dead Weight",
+          "duration": "43m"
+        },
+        {
+          "title": "Too Far Gone",
+          "duration": "43m"
+        },
+        {
+          "title": "After",
+          "duration": "49m"
+        },
+        {
+          "title": "Inmates",
+          "duration": "43m"
+        },
+        {
+          "title": "Claimed",
+          "duration": "43m"
+        },
+        {
+          "title": "Still",
+          "duration": "44m"
+        },
+        {
+          "title": "Alone",
+          "duration": "44m"
+        },
+        {
+          "title": "The Grove",
+          "duration": "47m"
+        },
+        {
+          "title": "Us",
+          "duration": "44m"
+        },
+        {
+          "title": "A",
+          "duration": "43m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "No Sanctuary",
+          "duration": "44m"
+        },
+        {
+          "title": "Strangers",
+          "duration": "43m"
+        },
+        {
+          "title": "Four Walls and a Roof",
+          "duration": "44m"
+        },
+        {
+          "title": "Slabtown",
+          "duration": "43m"
+        },
+        {
+          "title": "Self Help",
+          "duration": "43m"
+        },
+        {
+          "title": "Consumed",
+          "duration": "43m"
+        },
+        {
+          "title": "Crossed",
+          "duration": "43m"
+        },
+        {
+          "title": "Coda",
+          "duration": "43m"
+        },
+        {
+          "title": "What Happened and What's Going On",
+          "duration": "43m"
+        },
+        {
+          "title": "Them",
+          "duration": "43m"
+        },
+        {
+          "title": "The Distance",
+          "duration": "43m"
+        },
+        {
+          "title": "Remember",
+          "duration": "43m"
+        },
+        {
+          "title": "Forget",
+          "duration": "43m"
+        },
+        {
+          "title": "Spend",
+          "duration": "43m"
+        },
+        {
+          "title": "Try",
+          "duration": "43m"
+        },
+        {
+          "title": "Conquer",
+          "duration": "65m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "First Time Again",
+          "duration": "65m"
+        },
+        {
+          "title": "JSS",
+          "duration": "43m"
+        },
+        {
+          "title": "Thank You",
+          "duration": "43m"
+        },
+        {
+          "title": "Here's Not Here",
+          "duration": "65m"
+        },
+        {
+          "title": "Now",
+          "duration": "43m"
+        },
+        {
+          "title": "Always Accountable",
+          "duration": "43m"
+        },
+        {
+          "title": "Heads Up",
+          "duration": "43m"
+        },
+        {
+          "title": "Start to Finish",
+          "duration": "45m"
+        },
+        {
+          "title": "No Way Out",
+          "duration": "43m"
+        },
+        {
+          "title": "The Next World",
+          "duration": "43m"
+        },
+        {
+          "title": "Knots Untie",
+          "duration": "43m"
+        },
+        {
+          "title": "Not Tomorrow Yet",
+          "duration": "43m"
+        },
+        {
+          "title": "The Same Boat",
+          "duration": "43m"
+        },
+        {
+          "title": "Twice as Far",
+          "duration": "43m"
+        },
+        {
+          "title": "East",
+          "duration": "43m"
+        },
+        {
+          "title": "Last Day on Earth",
+          "duration": "65m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Day Will Come When You Won't Be",
+          "duration": "47m"
+        },
+        {
+          "title": "The Well",
+          "duration": "47m"
+        },
+        {
+          "title": "The Cell",
+          "duration": "43m"
+        },
+        {
+          "title": "Service",
+          "duration": "60m"
+        },
+        {
+          "title": "Go Getters",
+          "duration": "45m"
+        },
+        {
+          "title": "Swear",
+          "duration": "50m"
+        },
+        {
+          "title": "Sing Me a Song",
+          "duration": "63m"
+        },
+        {
+          "title": "Hearts Still Beating",
+          "duration": "61m"
+        },
+        {
+          "title": "Rock in the Road",
+          "duration": "52m"
+        },
+        {
+          "title": "New Best Friends",
+          "duration": "46m"
+        },
+        {
+          "title": "Hostiles and Calamities",
+          "duration": "49m"
+        },
+        {
+          "title": "Say Yes",
+          "duration": "43m"
+        },
+        {
+          "title": "Bury Me Here",
+          "duration": "48m"
+        },
+        {
+          "title": "The Other Side",
+          "duration": "47m"
+        },
+        {
+          "title": "Something They Need",
+          "duration": "43m"
+        },
+        {
+          "title": "The First Day of the Rest of Your Life",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Mercy",
+          "duration": "48m"
+        },
+        {
+          "title": "The Damned",
+          "duration": "42m"
+        },
+        {
+          "title": "Monsters",
+          "duration": "42m"
+        },
+        {
+          "title": "Some Guy",
+          "duration": "42m"
+        },
+        {
+          "title": "The Big Scary U",
+          "duration": "52m"
+        },
+        {
+          "title": "The King, the Widow, and Rick",
+          "duration": "47m"
+        },
+        {
+          "title": "Time for After",
+          "duration": "44m"
+        },
+        {
+          "title": "How It's Gotta Be",
+          "duration": "63m"
+        },
+        {
+          "title": "Honor",
+          "duration": "57m"
+        },
+        {
+          "title": "The Lost and the Plunderers",
+          "duration": "45m"
+        },
+        {
+          "title": "Dead or Alive Or",
+          "duration": "46m"
+        },
+        {
+          "title": "The Key",
+          "duration": "46m"
+        },
+        {
+          "title": "Do Not Send Us Astray",
+          "duration": "43m"
+        },
+        {
+          "title": "Still Gotta Mean Something",
+          "duration": "56m"
+        },
+        {
+          "title": "Worth",
+          "duration": "58m"
+        },
+        {
+          "title": "Wrath",
+          "duration": "52m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "A New Beginning",
+          "duration": "59m"
+        },
+        {
+          "title": "The Bridge",
+          "duration": "46m"
+        },
+        {
+          "title": "Warning Signs",
+          "duration": "46m"
+        },
+        {
+          "title": "The Obliged",
+          "duration": "45m"
+        },
+        {
+          "title": "What Comes After",
+          "duration": "46m"
+        },
+        {
+          "title": "Who Are You Now?",
+          "duration": "55m"
+        },
+        {
+          "title": "Stradivarius",
+          "duration": "44m"
+        },
+        {
+          "title": "Evolution",
+          "duration": "45m"
+        },
+        {
+          "title": "Adaptation",
+          "duration": "52m"
+        },
+        {
+          "title": "Omega",
+          "duration": "46m"
+        },
+        {
+          "title": "Bounty",
+          "duration": "42m"
+        },
+        {
+          "title": "Guardians",
+          "duration": "45m"
+        },
+        {
+          "title": "Chokepoint",
+          "duration": "41m"
+        },
+        {
+          "title": "Scars",
+          "duration": "46m"
+        },
+        {
+          "title": "The Calm Before",
+          "duration": "58m"
+        },
+        {
+          "title": "The Storm",
+          "duration": "47m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Lines We Cross",
+          "duration": "52m"
+        },
+        {
+          "title": "We Are the End of the World",
+          "duration": "44m"
+        },
+        {
+          "title": "Ghosts",
+          "duration": "47m"
+        },
+        {
+          "title": "Silence the Whisperers",
+          "duration": "44m"
+        },
+        {
+          "title": "What It Always Is",
+          "duration": "47m"
+        },
+        {
+          "title": "Bonds",
+          "duration": "46m"
+        },
+        {
+          "title": "Open Your Eyes",
+          "duration": "45m"
+        },
+        {
+          "title": "The World Before",
+          "duration": "55m"
+        },
+        {
+          "title": "Squeeze",
+          "duration": "45m"
+        },
+        {
+          "title": "Stalker",
+          "duration": "46m"
+        },
+        {
+          "title": "Morning Star",
+          "duration": "45m"
+        },
+        {
+          "title": "Walk with Us",
+          "duration": "44m"
+        },
+        {
+          "title": "What We Become",
+          "duration": "51m"
+        },
+        {
+          "title": "Look at the Flowers",
+          "duration": "46m"
+        },
+        {
+          "title": "The Tower",
+          "duration": "42m"
+        },
+        {
+          "title": "A Certain Doom",
+          "duration": "45m"
+        },
+        {
+          "title": "Home Sweet Home",
+          "duration": "42m"
+        },
+        {
+          "title": "Find Me",
+          "duration": "43m"
+        },
+        {
+          "title": "One More",
+          "duration": "47m"
+        },
+        {
+          "title": "Splinter",
+          "duration": "40m"
+        },
+        {
+          "title": "Diverged",
+          "duration": "42m"
+        },
+        {
+          "title": "Here's Negan",
+          "duration": "50m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Acheron (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "Acheron (2)",
+          "duration": "52m"
+        },
+        {
+          "title": "Hunted",
+          "duration": "43m"
+        },
+        {
+          "title": "Rendition",
+          "duration": "44m"
+        },
+        {
+          "title": "Out of the Ashes",
+          "duration": "46m"
+        },
+        {
+          "title": "On the Inside",
+          "duration": "45m"
+        },
+        {
+          "title": "Promises Broken",
+          "duration": "45m"
+        },
+        {
+          "title": "For Blood",
+          "duration": "42m"
+        },
+        {
+          "title": "No Other Way",
+          "duration": "44m"
+        },
+        {
+          "title": "New Haunts",
+          "duration": "46m"
+        },
+        {
+          "title": "Rogue Element",
+          "duration": "47m"
+        },
+        {
+          "title": "The Lucky Ones",
+          "duration": "45m"
+        },
+        {
+          "title": "Warlords",
+          "duration": "45m"
+        },
+        {
+          "title": "The Rotten Core",
+          "duration": "43m"
+        },
+        {
+          "title": "Trust",
+          "duration": "46m"
+        },
+        {
+          "title": "Acts of God",
+          "duration": "42m"
+        },
+        {
+          "title": "Lockdown",
+          "duration": "45m"
+        },
+        {
+          "title": "A New Deal",
+          "duration": "46m"
+        },
+        {
+          "title": "Variant",
+          "duration": "49m"
+        },
+        {
+          "title": "What's Been Lost",
+          "duration": "43m"
+        },
+        {
+          "title": "Outpost 22",
+          "duration": "47m"
+        },
+        {
+          "title": "Faith",
+          "duration": "45m"
+        },
+        {
+          "title": "Family",
+          "duration": "44m"
+        },
+        {
+          "title": "Rest in Peace",
+          "duration": "65m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt0314331",
+  "title": "Love Actually",
+  "type": "movie",
+  "release": 2003,
+  "duration": "135 min",
+  "quality": "HD",
+  "description": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Hugh Grant",
+    "Martine McCutcheon",
+    "Liam Neeson"
+  ],
+  "director": "Richard Curtis",
+  "country": "United Kingdom, France, United States",
+  "rating": "7.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt0338013",
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "type": "movie",
+  "release": 2004,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Jim Carrey",
+    "Kate Winslet",
+    "Tom Wilkinson"
+  ],
+  "director": "Michel Gondry",
+  "country": "United States",
+  "rating": "8.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt0094721",
+  "title": "Beetlejuice",
+  "type": "movie",
+  "release": 1988,
+  "duration": "92 min",
+  "quality": "HD",
+  "description": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "actors": [
+    "Alec Baldwin",
+    "Geena Davis",
+    "Michael Keaton"
+  ],
+  "director": "Tim Burton",
+  "country": "United States",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt8886170",
+  "title": "Episode #1.21",
+  "type": "movie",
+  "release": 1986,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "N/A",
+  "genre": [
+    "N/A"
+  ],
+  "actors": [
+    "Othon Bastos",
+    "Marilu Bueno",
+    "Elizângela"
+  ],
+  "director": "Lucas Bueno, David Grimberg, Herval Rossano",
+  "country": "N/A",
+  "rating": null,
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 87
+},
+
+{
+  "imdb": "tt0377092",
+  "title": "Mean Girls",
+  "type": "movie",
+  "release": 2004,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Lindsay Lohan",
+    "Jonathan Bennett",
+    "Rachel McAdams"
+  ],
+  "director": "Mark Waters",
+  "country": "United States, Canada",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt0258463",
+  "title": "The Bourne Identity",
+  "type": "movie",
+  "release": 2002,
+  "duration": "119 min",
+  "quality": "HD",
+  "description": "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.",
+  "genre": [
+    "Action",
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Franka Potente",
+    "Matt Damon",
+    "Chris Cooper"
+  ],
+  "director": "Doug Liman",
+  "country": "United States, Germany, Czech Republic, Greece",
+  "rating": "7.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt0449010",
+  "title": "Eragon",
+  "type": "movie",
+  "release": 2006,
+  "duration": "104 min",
+  "quality": "HD",
+  "description": "In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discovery that leads him on a predestined journey where he realizes he's the one person who can defend his home against an evil king.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "actors": [
+    "Ed Speleers",
+    "Sienna Guillory",
+    "Jeremy Irons"
+  ],
+  "director": "Stefen Fangmeier",
+  "country": "United Kingdom, Hungary, United States",
+  "rating": "5.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY3YWEzYzYtYjY4MC00ODA5LTliMTAtNWUxNTI4YWRhMjIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt0093779",
+  "title": "The Princess Bride",
+  "type": "movie",
+  "release": 1987,
+  "duration": "98 min",
+  "quality": "HD",
+  "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [
+    "Cary Elwes",
+    "Mandy Patinkin",
+    "Robin Wright"
+  ],
+  "director": "Rob Reiner",
+  "country": "United States",
+  "rating": "8.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjFiOTEyNGMtN2E4MC00ZjZlLTk3ZDQtNTU1ZGNiZTA1MzJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+
+{
+  "imdb": "tt0098635",
+  "title": "When Harry Met Sally...",
+  "type": "movie",
+  "release": 1989,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Billy Crystal",
+    "Meg Ryan",
+    "Carrie Fisher"
+  ],
+  "director": "Rob Reiner",
+  "country": "United States",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt0125439",
+  "title": "Notting Hill",
+  "type": "movie",
+  "release": 1999,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "A set of circumstances makes Anna Scott, a famous actress, fall in love with William Thacker, owner of a bookstore in Notting Hill. But the paparazzi's fascination with her complicates their bond.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Hugh Grant",
+    "Julia Roberts",
+    "Richard McCabe"
+  ],
+  "director": "Roger Michell",
+  "country": "United Kingdom, United States",
+  "rating": "7.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY3YWI5OTMtYTdlNy00ZTZiLWEwYjItN2M1MGVkMDM4ZDExXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+{
+  "imdb": "tt1190634",
+  "title": "The Boys",
+  "type": "series",
+  "release": 2019,
+  "duration": "5 Seasons",
+  "quality": "4K",
+  "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Karl Urban",
+    "Jack Quaid",
+    "Antony Starr",
+    "Erin Moriarty",
+    "Jessie T. Usher"
+  ],
+  "director": "Eric Kripke",
+  "country": "US",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+  "trailer": "https://www.youtube.com/embed/tcrNsIaQkb4",
+  "baseviews": "1.3M",
+  "popularity": 76,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "The Name of the Game",
+          "duration": "62m"
+        },
+        {
+          "title": "Cherry",
+          "duration": "59m"
+        },
+        {
+          "title": "Get Some",
+          "duration": "55m"
+        },
+        {
+          "title": "The Female of the Species",
+          "duration": "56m"
+        },
+        {
+          "title": "Good for the Soul",
+          "duration": "60m"
+        },
+        {
+          "title": "The Innocents",
+          "duration": "60m"
+        },
+        {
+          "title": "The Self-Preservation Society",
+          "duration": "56m"
+        },
+        {
+          "title": "You Found Me",
+          "duration": "66m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Big Ride",
+          "duration": "63m"
+        },
+        {
+          "title": "Proper Preparation and Planning",
+          "duration": "59m"
+        },
+        {
+          "title": "Over the Hill with the Swords of a Thousand Men",
+          "duration": "61m"
+        },
+        {
+          "title": "Nothing Like It in the World",
+          "duration": "70m"
+        },
+        {
+          "title": "We Gotta Go Now",
+          "duration": "63m"
+        },
+        {
+          "title": "The Bloody Doors Off",
+          "duration": "66m"
+        },
+        {
+          "title": "Butcher, Baker, Candlestick Maker",
+          "duration": "56m"
+        },
+        {
+          "title": "What I Know",
+          "duration": "70m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Payback",
+          "duration": "64m"
+        },
+        {
+          "title": "The Only Man in the Sky",
+          "duration": "62m"
+        },
+        {
+          "title": "Barbary Coast",
+          "duration": "63m"
+        },
+        {
+          "title": "Glorious Five Year Plan",
+          "duration": "62m"
+        },
+        {
+          "title": "The Last Time to Look on This World of Lies",
+          "duration": "63m"
+        },
+        {
+          "title": "Herogasm",
+          "duration": "63m"
+        },
+        {
+          "title": "Here Comes a Candle to Light You to Bed",
+          "duration": "67m"
+        },
+        {
+          "title": "The Instant White-Hot Wild",
+          "duration": "64m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Department of Dirty Tricks",
+          "duration": "66m"
+        },
+        {
+          "title": "Life Among the Septics",
+          "duration": "62m"
+        },
+        {
+          "title": "We'll Keep the Red Flag Flying Here",
+          "duration": "61m"
+        },
+        {
+          "title": "Wisdom of the Ages",
+          "duration": "67m"
+        },
+        {
+          "title": "Beware the Jabberwock, My Son",
+          "duration": "69m"
+        },
+        {
+          "title": "Dirty Business",
+          "duration": "66m"
+        },
+        {
+          "title": "The Insider",
+          "duration": "65m"
+        },
+        {
+          "title": "Season Four Finale",
+          "duration": "69m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Fifteen Inches of Sheer Dynamite",
+          "duration": "64m"
+        },
+        {
+          "title": "Teenage Kix",
+          "duration": "63m"
+        },
+        {
+          "title": "Every One of You Sons of Bitches",
+          "duration": "66m"
+        },
+        {
+          "title": "King of Hell",
+          "duration": "66m"
+        },
+        {
+          "title": "One-Shots",
+          "duration": "69m"
+        },
+        {
+          "title": "Though the Heavens Fall",
+          "duration": "65m"
+        },
+        {
+          "title": "The Frenchman, the Female, and the Man Called Mother's Milk",
+          "duration": "45m"
+        },
+        {
+          "title": "Blood and Bone",
+          "duration": "63m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt2442560",
+  "title": "Peaky Blinders",
+  "type": "series",
+  "release": 2013,
+  "duration": "6 Seasons",
+  "quality": "4K",
+  "description": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+  "genre": [
+    "Drama",
+    "Crime"
+  ],
+  "actors": [
+    "Cillian Murphy",
+    "Paul Anderson",
+    "Sophie Rundle",
+    "Natasha O'Keeffe"
+  ],
+  "director": "Steven Knight",
+  "country": "GB",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+  "trailer": "https://www.youtube.com/embed/EM12mcTEI88",
+  "baseviews": "1.3M",
+  "popularity": 75,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "57m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "58m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "55m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "58m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "56m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "54m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "59m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "57m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "58m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "57m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "58m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "59m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "55m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "57m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "58m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "54m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "56m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "57m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Noose",
+          "duration": "58m"
+        },
+        {
+          "title": "Heathens",
+          "duration": "57m"
+        },
+        {
+          "title": "Blackbird",
+          "duration": "59m"
+        },
+        {
+          "title": "Dangerous",
+          "duration": "57m"
+        },
+        {
+          "title": "The Duel",
+          "duration": "57m"
+        },
+        {
+          "title": "The Company",
+          "duration": "56m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Black Tuesday",
+          "duration": "56m"
+        },
+        {
+          "title": "Black Cats",
+          "duration": "58m"
+        },
+        {
+          "title": "Strategy",
+          "duration": "57m"
+        },
+        {
+          "title": "The Loop",
+          "duration": "57m"
+        },
+        {
+          "title": "The Shock",
+          "duration": "55m"
+        },
+        {
+          "title": "Mr. Jones",
+          "duration": "65m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Black Day",
+          "duration": "55m"
+        },
+        {
+          "title": "Black Shirt",
+          "duration": "59m"
+        },
+        {
+          "title": "Gold",
+          "duration": "55m"
+        },
+        {
+          "title": "Sapphire",
+          "duration": "58m"
+        },
+        {
+          "title": "The Road to Hell",
+          "duration": "59m"
+        },
+        {
+          "title": "Lock and Key",
+          "duration": "79m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt11198330",
+  "title": "House of the Dragon",
+  "type": "series",
+  "release": 2022,
+  "duration": "3 Seasons",
+  "quality": "4K",
+  "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Matt Smith",
+    "Emma D'Arcy",
+    "Olivia Cooke",
+    "Steve Toussaint",
+    "Rhys Ifans"
+  ],
+  "director": "George R.R. Martin, Ryan Condal",
+  "country": "US",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg",
+  "trailer": "https://www.youtube.com/embed/DotnJ7tTA34",
+  "baseviews": "1.3M",
+  "popularity": 81,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "The Heirs of the Dragon",
+          "duration": "66m"
+        },
+        {
+          "title": "The Rogue Prince",
+          "duration": "54m"
+        },
+        {
+          "title": "Second of His Name",
+          "duration": "64m"
+        },
+        {
+          "title": "King of the Narrow Sea",
+          "duration": "63m"
+        },
+        {
+          "title": "We Light the Way",
+          "duration": "60m"
+        },
+        {
+          "title": "The Princess and the Queen",
+          "duration": "68m"
+        },
+        {
+          "title": "Driftmark",
+          "duration": "59m"
+        },
+        {
+          "title": "The Lord of the Tides",
+          "duration": "68m"
+        },
+        {
+          "title": "The Green Council",
+          "duration": "58m"
+        },
+        {
+          "title": "The Black Queen",
+          "duration": "60m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "A Son for a Son",
+          "duration": "59m"
+        },
+        {
+          "title": "Rhaenyra the Cruel",
+          "duration": "69m"
+        },
+        {
+          "title": "The Burning Mill",
+          "duration": "67m"
+        },
+        {
+          "title": "The Red Dragon and the Gold",
+          "duration": "56m"
+        },
+        {
+          "title": "Regent",
+          "duration": "63m"
+        },
+        {
+          "title": "Smallfolk",
+          "duration": "68m"
+        },
+        {
+          "title": "The Red Sowing",
+          "duration": "64m"
+        },
+        {
+          "title": "The Queen Who Ever Was",
+          "duration": "70m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt3581920",
+  "title": "The Last of Us",
+  "type": "series",
+  "release": 2023,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Bella Ramsey",
+    "Gabriel Luna",
+    "Isabela Merced",
+    "Young Mazino",
+    "Tahkyah Brings Plenty"
+  ],
+  "director": "Neil Druckmann, Craig Mazin",
+  "country": "US",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+  "trailer": "https://www.youtube.com/embed/uLtkt8BonwM",
+  "baseviews": "1.3M",
+  "popularity": 74,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "When You're Lost in the Darkness",
+          "duration": "81m"
+        },
+        {
+          "title": "Infected",
+          "duration": "53m"
+        },
+        {
+          "title": "Long, Long Time",
+          "duration": "77m"
+        },
+        {
+          "title": "Please Hold to My Hand",
+          "duration": "47m"
+        },
+        {
+          "title": "Endure and Survive",
+          "duration": "60m"
+        },
+        {
+          "title": "Kin",
+          "duration": "61m"
+        },
+        {
+          "title": "Left Behind",
+          "duration": "57m"
+        },
+        {
+          "title": "When We Are in Need",
+          "duration": "52m"
+        },
+        {
+          "title": "Look for the Light",
+          "duration": "46m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Future Days",
+          "duration": "59m"
+        },
+        {
+          "title": "Through the Valley",
+          "duration": "57m"
+        },
+        {
+          "title": "The Path",
+          "duration": "57m"
+        },
+        {
+          "title": "Day One",
+          "duration": "53m"
+        },
+        {
+          "title": "Feel Her Love",
+          "duration": "45m"
+        },
+        {
+          "title": "The Price",
+          "duration": "60m"
+        },
+        {
+          "title": "Convergence",
+          "duration": "50m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt12637874",
+  "title": "Fallout",
+  "type": "series",
+  "release": 2024,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+  "genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Ella Purnell",
+    "Aaron Moten",
+    "Moisés Arias",
+    "Frances Turner",
+    "Kyle MacLachlan"
+  ],
+  "director": "Graham Wagner, Geneva Robertson-Dworet",
+  "country": "US",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+  "trailer": "https://www.youtube.com/embed/7h8zJHywjAw",
+  "baseviews": "1.3M",
+  "popularity": 71,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "The End",
+          "duration": "75m"
+        },
+        {
+          "title": "The Target",
+          "duration": "66m"
+        },
+        {
+          "title": "The Head",
+          "duration": "57m"
+        },
+        {
+          "title": "The Ghouls",
+          "duration": "49m"
+        },
+        {
+          "title": "The Past",
+          "duration": "46m"
+        },
+        {
+          "title": "The Trap",
+          "duration": "61m"
+        },
+        {
+          "title": "The Radio",
+          "duration": "62m"
+        },
+        {
+          "title": "The Beginning",
+          "duration": "63m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Innovator",
+          "duration": "63m"
+        },
+        {
+          "title": "The Golden Rule",
+          "duration": "59m"
+        },
+        {
+          "title": "The Profligate",
+          "duration": "55m"
+        },
+        {
+          "title": "The Demon in the Snow",
+          "duration": "49m"
+        },
+        {
+          "title": "The Wrangler",
+          "duration": "57m"
+        },
+        {
+          "title": "The Other Player",
+          "duration": "52m"
+        },
+        {
+          "title": "The Handoff",
+          "duration": "51m"
+        },
+        {
+          "title": "The Strip",
+          "duration": "57m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt8886170",
+  "title": "Episode #1.21",
+  "type": "movie",
+  "release": 1986,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "N/A",
+  "genre": [
+    "N/A"
+  ],
+  "actors": [
+    "Othon Bastos",
+    "Marilu Bueno",
+    "Elizângela"
+  ],
+  "director": "Lucas Bueno, David Grimberg, Herval Rossano",
+  "country": "N/A",
+  "rating": null,
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt11315808",
+  "title": "Joker: Folie à Deux",
+  "type": "movie",
+  "release": 2024,
+  "duration": "138 min",
+  "quality": "HD",
+  "description": "Struggling with his dual identity, failed comedian Arthur Fleck meets the love of his life, Harley Quinn, while incarcerated at Arkham State Hospital.",
+  "genre": [
+    "Drama",
+    "Musical",
+    "Thriller"
+  ],
+  "actors": [
+    "Joaquin Phoenix",
+    "Lady Gaga",
+    "Brendan Gleeson"
+  ],
+  "director": "Todd Phillips",
+  "country": "United States",
+  "rating": "5.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+{
+  "imdb": "tt0468569",
+  "title": "The Dark Knight",
+  "type": "movie",
+  "release": 2008,
+  "duration": "152 min",
+  "quality": "HD",
+  "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "director": "Christopher Nolan",
+  "country": "United States, United Kingdom",
+  "rating": "9.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt1375666",
+  "title": "Inception",
+  "type": "movie",
+  "release": 2010,
+  "duration": "148 min",
+  "quality": "HD",
+  "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page"
+  ],
+  "director": "Christopher Nolan",
+  "country": "United Kingdom, United States",
+  "rating": "8.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt0816692",
+  "title": "Interstellar",
+  "type": "movie",
+  "release": 2014,
+  "duration": "169 min",
+  "quality": "HD",
+  "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+  ],
+  "director": "Christopher Nolan",
+  "country": "United States, United Kingdom, Canada",
+  "rating": "8.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt0133093",
+  "title": "The Matrix",
+  "type": "movie",
+  "release": 1999,
+  "duration": "136 min",
+  "quality": "HD",
+  "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+  "genre": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "country": "United States, Australia",
+  "rating": "8.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt0110912",
+  "title": "Pulp Fiction",
+  "type": "movie",
+  "release": 1994,
+  "duration": "154 min",
+  "quality": "HD",
+  "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson"
+  ],
+  "director": "Quentin Tarantino",
+  "country": "United States",
+  "rating": "8.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt0137523",
+  "title": "Fight Club",
+  "type": "movie",
+  "release": 1999,
+  "duration": "139 min",
+  "quality": "HD",
+  "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "actors": [
+    "Brad Pitt",
+    "Edward Norton",
+    "Meat Loaf"
+  ],
+  "director": "David Fincher",
+  "country": "United States, Germany",
+  "rating": "8.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt0109830",
+  "title": "Forrest Gump",
+  "type": "movie",
+  "release": 1994,
+  "duration": "142 min",
+  "quality": "HD",
+  "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ],
+  "director": "Robert Zemeckis",
+  "country": "United States",
+  "rating": "8.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt0111161",
+  "title": "The Shawshank Redemption",
+  "type": "movie",
+  "release": 1994,
+  "duration": "142 min",
+  "quality": "HD",
+  "description": "A wrongfully convicted banker forms a close friendship with a hardened convict over a quarter century while retaining his humanity through simple acts of compassion.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton"
+  ],
+  "director": "Frank Darabont",
+  "country": "United States",
+  "rating": "9.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+
+{
+  "imdb": "tt2911666",
+  "title": "John Wick",
+  "type": "movie",
+  "release": 2014,
+  "duration": "101 min",
+  "quality": "HD",
+  "description": "John Wick is a former hitman grieving the loss of his true love. When his home is broken into, robbed, and his dog killed, he is forced to return to action to exact revenge.",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "actors": [
+    "Keanu Reeves",
+    "Michael Nyqvist",
+    "Alfie Allen"
+  ],
+  "director": "Chad Stahelski",
+  "country": "United States",
+  "rating": "7.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt15239678",
+  "title": "Dune: Part Two",
+  "type": "movie",
+  "release": 2024,
+  "duration": "166 min",
+  "quality": "HD",
+  "description": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Timothée Chalamet",
+    "Zendaya",
+    "Rebecca Ferguson"
+  ],
+  "director": "Denis Villeneuve",
+  "country": "United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan, Gambia",
+  "rating": "8.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+{
+  "imdb": "tt1160419",
+  "title": "Dune: Part One",
+  "type": "movie",
+  "release": 2021,
+  "duration": "155 min",
+  "quality": "HD",
+  "description": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Timothée Chalamet",
+    "Rebecca Ferguson",
+    "Zendaya"
+  ],
+  "director": "Denis Villeneuve",
+  "country": "Canada, United States",
+  "rating": "8.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt0816711",
+  "title": "World War Z",
+  "type": "movie",
+  "release": 2013,
+  "duration": "116 min",
+  "quality": "HD",
+  "description": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop a zombie pandemic that is toppling armies and governments and threatens to destroy humanity itself.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Horror"
+  ],
+  "actors": [
+    "Brad Pitt",
+    "Mireille Enos",
+    "Daniella Kertesz"
+  ],
+  "director": "Marc Forster",
+  "country": "United States, United Kingdom",
+  "rating": "7.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt0319262",
+  "title": "The Day After Tomorrow",
+  "type": "movie",
+  "release": 2004,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "Jack Hall, paleoclimatologist, must make a daring trek from Washington, D.C. to New York City to reach his son, trapped in the cross-hairs of a sudden international storm which plunges the planet into a new Ice Age.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Dennis Quaid",
+    "Jake Gyllenhaal",
+    "Emmy Rossum"
+  ],
+  "director": "Roland Emmerich",
+  "country": "United States",
+  "rating": "6.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGZmNDYyNmMtNDQyNy00OTkzLTg1OGUtYWJiNmQ5Y2Q5ZGU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt1457767",
+  "title": "The Conjuring",
+  "type": "movie",
+  "release": 2013,
+  "duration": "112 min",
+  "quality": "HD",
+  "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Patrick Wilson",
+    "Vera Farmiga",
+    "Ron Livingston"
+  ],
+  "director": "James Wan",
+  "country": "United States",
+  "rating": "7.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt7784604",
+  "title": "Hereditary",
+  "type": "movie",
+  "release": 2018,
+  "duration": "127 min",
+  "quality": "HD",
+  "description": "A grieving family is haunted by tragic and disturbing occurrences.",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "actors": [
+    "Toni Collette",
+    "Milly Shapiro",
+    "Gabriel Byrne"
+  ],
+  "director": "Ari Aster",
+  "country": "United States",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt5052448",
+  "title": "Get Out",
+  "type": "movie",
+  "release": 2017,
+  "duration": "104 min",
+  "quality": "HD",
+  "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Daniel Kaluuya",
+    "Allison Williams",
+    "Bradley Whitford"
+  ],
+  "director": "Jordan Peele",
+  "country": "United States, Japan",
+  "rating": "7.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt6857112",
+  "title": "Us",
+  "type": "movie",
+  "release": 2019,
+  "duration": "116 min",
+  "quality": "HD",
+  "description": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break into Adelaide's childhood home. The family is shocked to find out that the intruders look lik...",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Lupita Nyong'o",
+    "Winston Duke",
+    "Elisabeth Moss"
+  ],
+  "director": "Jordan Peele",
+  "country": "United States, China, Japan",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhkMjFkN2YtODU2Ni00YWYwLWExN2MtOWNjZmQxM2U4YTM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt10954600",
+  "title": "Ant-Man and the Wasp: Quantumania",
+  "type": "movie",
+  "release": 2023,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious K...",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Paul Rudd",
+    "Evangeline Lilly",
+    "Michael Douglas"
+  ],
+  "director": "Peyton Reed",
+  "country": "United States, Australia, Canada",
+  "rating": "6.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 87
+},
+
+{
+  "imdb": "tt11286314",
+  "title": "Don't Look Up",
+  "type": "movie",
+  "release": 2021,
+  "duration": "138 min",
+  "quality": "HD",
+  "description": "Two low-level astronomers must go on a giant media tour to warn humankind of an approaching comet that will destroy planet Earth.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Jennifer Lawrence",
+    "Meryl Streep"
+  ],
+  "director": "Adam McKay",
+  "country": "United States, Canada",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt0119654",
+  "title": "Men in Black",
+  "type": "movie",
+  "release": 1997,
+  "duration": "98 min",
+  "quality": "HD",
+  "description": "James, an NYC cop, is hired by Agent K of a secret government agency that monitors extraterrestrial life on Earth. Together, they must recover an item that has been stolen by an intergalactic villain.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Tommy Lee Jones",
+    "Will Smith",
+    "Linda Fiorentino"
+  ],
+  "director": "Barry Sonnenfeld",
+  "country": "United States",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQ0YTdhYzEtMjIxZC00MGFiLTlmNjktZmFlOWE2M2QxOTRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt0120912",
+  "title": "Men in Black II",
+  "type": "movie",
+  "release": 2002,
+  "duration": "88 min",
+  "quality": "HD",
+  "description": "Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Tommy Lee Jones",
+    "Will Smith",
+    "Rip Torn"
+  ],
+  "director": "Barry Sonnenfeld",
+  "country": "United States",
+  "rating": "6.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt1409024",
+  "title": "Men in Black³",
+  "type": "movie",
+  "release": 2012,
+  "duration": "106 min",
+  "quality": "HD",
+  "description": "Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Will Smith",
+    "Tommy Lee Jones",
+    "Josh Brolin"
+  ],
+  "director": "Barry Sonnenfeld",
+  "country": "United States, United Arab Emirates",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt2283336",
+  "title": "Men in Black: International",
+  "type": "movie",
+  "release": 2019,
+  "duration": "114 min",
+  "quality": "HD",
+  "description": "The MIB tackle a mole in their organization.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Chris Hemsworth",
+    "Tessa Thompson",
+    "Kumail Nanjiani"
+  ],
+  "director": "F. Gary Gray",
+  "country": "United States, China, United Kingdom",
+  "rating": "5.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTI0ZjJlODYtNTAyOS00ZDk4LTk0M2ItNDljMzY5NmZkYTRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+    {
+      
   "imdb": "tt0831387",
   "title": "Godzilla",
   "type": "movie",
