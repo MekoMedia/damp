@@ -1,6 +1,2615 @@
 {
   "movies": [
     {
+  "imdb": "tt12042730",
+  "title": "Project Hail Mary",
+  "type": "movie",
+  "release": 2026,
+  "duration": "156 min",
+  "quality": "HD",
+  "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun and that an unexpected friendship may be the key.",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Ryan Gosling",
+    "Sandra Hüller",
+    "James Ortiz"
+  ],
+  "director": "Phil Lord, Christopher Miller",
+  "country": "United States",
+  "rating": "8.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt29623480",
+  "title": "The Wild Robot",
+  "type": "movie",
+  "release": 2024,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "actors": [
+    "Lupita Nyong'o",
+    "Pedro Pascal",
+    "Kit Connor"
+  ],
+  "director": "Chris Sanders",
+  "country": "United States, Japan",
+  "rating": "8.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt0126029",
+  "title": "Shrek",
+  "type": "movie",
+  "release": 2001,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Mike Myers",
+    "Eddie Murphy",
+    "Cameron Diaz"
+  ],
+  "director": "Andrew Adamson, Vicky Jenson",
+  "country": "United States",
+  "rating": "7.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt0298148",
+  "title": "Shrek 2",
+  "type": "movie",
+  "release": 2004,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Mike Myers",
+    "Eddie Murphy",
+    "Cameron Diaz"
+  ],
+  "director": "Andrew Adamson, Kelly Asbury, Conrad Vernon",
+  "country": "United States",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+
+{
+  "imdb": "tt0413267",
+  "title": "Shrek the Third",
+  "type": "movie",
+  "release": 2007,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "Reluctantly designated as the heir to the land of Far, Far Away, Shrek hatches a plan to install the rebellious Artie as the new king while Princess Fiona tries to fend off a coup d'état by the jilted Prince Charming.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Mike Myers",
+    "Cameron Diaz",
+    "Eddie Murphy"
+  ],
+  "director": "Chris Miller, Raman Hui",
+  "country": "United States",
+  "rating": "6.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt0892791",
+  "title": "Shrek Forever After",
+  "type": "movie",
+  "release": 2010,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpelstiltskin rules supreme.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Mike Myers",
+    "Cameron Diaz",
+    "Eddie Murphy"
+  ],
+  "director": "Mike Mitchell",
+  "country": "United States, France",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt6113186",
+  "title": "Shrek 5",
+  "type": "movie",
+  "release": 2027,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Movie Announcement",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Mike Myers",
+    "Cameron Diaz",
+    "Eddie Murphy"
+  ],
+  "director": "Brad Ableson, Walt Dohrn, Conrad Vernon",
+  "country": "United States",
+  "rating": null,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt0448694",
+  "title": "Puss in Boots",
+  "type": "movie",
+  "release": 2011,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "An outlaw cat, his childhood egg-friend, and a seductive thief kitty set out in search for the eggs of the fabled Golden Goose to clear his name, restore his lost honor, and regain the trust of his mother and town.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Antonio Banderas",
+    "Salma Hayek",
+    "Zach Galifianakis"
+  ],
+  "director": "Chris Miller",
+  "country": "United States",
+  "rating": "6.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQwMGU5YTEtYmQzMy00MTM0LWFhNzAtOGY2Yzc1MzBkYTYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt0319343",
+  "title": "Elf",
+  "type": "movie",
+  "release": 2003,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "A man raised by Santa's elves travels from the North Pole to New York City to meet his biological father, who doesn't know he exists and is in desperate need of some Christmas spirit.",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [
+    "Will Ferrell",
+    "James Caan",
+    "Bob Newhart"
+  ],
+  "director": "Jon Favreau",
+  "country": "United States",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ0ZWE2NzgtNGNhMC00MDIwLWI1MjUtYjYxZGRiM2UyYTQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt0317705",
+  "title": "The Incredibles",
+  "type": "movie",
+  "release": 2004,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Craig T. Nelson",
+    "Samuel L. Jackson",
+    "Holly Hunter"
+  ],
+  "director": "Brad Bird",
+  "country": "United States",
+  "rating": "8.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt3606756",
+  "title": "Incredibles 2",
+  "type": "movie",
+  "release": 2018,
+  "duration": "118 min",
+  "quality": "HD",
+  "description": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Craig T. Nelson",
+    "Holly Hunter",
+    "Sarah Vowell"
+  ],
+  "director": "Brad Bird",
+  "country": "United States, Japan",
+  "rating": "7.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt0198781",
+  "title": "Monsters, Inc.",
+  "type": "movie",
+  "release": 2001,
+  "duration": "92 min",
+  "quality": "HD",
+  "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Billy Crystal",
+    "John Goodman",
+    "Mary Gibbs"
+  ],
+  "director": "Pete Docter, David Silverman, Lee Unkrich",
+  "country": "United States",
+  "rating": "8.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+
+{
+  "imdb": "tt1216474",
+  "title": "The Butcher's Daughter",
+  "type": "movie",
+  "release": 2008,
+  "duration": "24 min",
+  "quality": "HD",
+  "description": "A Great Depression era film of a young girl living with her father in the secluded plains of rural Indiana. Their life is shattered when mobsters arrive on their doorstep, making demands and revealing dark secrets from the father'...",
+  "genre": [
+    "Short",
+    "Drama"
+  ],
+  "actors": [
+    "Megan Park",
+    "J. Kenneth Campbell",
+    "Graham Beckel"
+  ],
+  "director": "Daniel Casey",
+  "country": "United States",
+  "rating": "6.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY1NTAzYzMtNzEwNC00YmMzLWI0YjgtZGJhNzg2MjJkZGYxXkEyXkFqcGdeQXVyNjYxNDI3MDI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt0266543",
+  "title": "Finding Nemo",
+  "type": "movie",
+  "release": 2003,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Albert Brooks",
+    "Ellen DeGeneres",
+    "Alexander Gould"
+  ],
+  "director": "Andrew Stanton, Lee Unkrich",
+  "country": "United States, Japan, Australia, Kazakhstan, Armenia",
+  "rating": "8.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt2294629",
+  "title": "Frozen",
+  "type": "movie",
+  "release": 2013,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven in an epic journey to find Anna's sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Kristen Bell",
+    "Idina Menzel",
+    "Jonathan Groff"
+  ],
+  "director": "Chris Buck, Jennifer Lee",
+  "country": "United States",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt4520988",
+  "title": "Frozen II",
+  "type": "movie",
+  "release": 2019,
+  "duration": "103 min",
+  "quality": "HD",
+  "description": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Kristen Bell",
+    "Idina Menzel",
+    "Josh Gad"
+  ],
+  "director": "Chris Buck, Jennifer Lee",
+  "country": "United States, Japan",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTE1YjlmZjctNjIwNi00NDQ0LTlmMzgtYWZkY2RkZTMwNTdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt2096673",
+  "title": "Inside Out",
+  "type": "movie",
+  "release": 2015,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions, Joy, Fear, Anger, Disgust, and Sadness, conflict on how best to navigate a new city, house, and school.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Amy Poehler",
+    "Bill Hader",
+    "Lewis Black"
+  ],
+  "director": "Pete Docter, Ronnie Del Carmen",
+  "country": "United States",
+  "rating": "8.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt0110357",
+  "title": "The Lion King",
+  "type": "movie",
+  "release": 1994,
+  "duration": "88 min",
+  "quality": "HD",
+  "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Matthew Broderick",
+    "Jeremy Irons",
+    "James Earl Jones"
+  ],
+  "director": "Roger Allers, Rob Minkoff",
+  "country": "United States",
+  "rating": "8.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt6105098",
+  "title": "The Lion King",
+  "type": "movie",
+  "release": 2019,
+  "duration": "118 min",
+  "quality": "HD",
+  "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Donald Glover",
+    "Beyoncé",
+    "Seth Rogen"
+  ],
+  "director": "Jon Favreau",
+  "country": "United States, United Kingdom, Kenya",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt0101414",
+  "title": "Beauty and the Beast",
+  "type": "movie",
+  "release": 1991,
+  "duration": "84 min",
+  "quality": "HD",
+  "description": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+  "genre": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "actors": [
+    "Paige O'Hara",
+    "Robby Benson",
+    "Jesse Corti"
+  ],
+  "director": "Gary Trousdale, Kirk Wise",
+  "country": "United States, Japan",
+  "rating": "8.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+
+{
+  "imdb": "tt2771200",
+  "title": "Beauty and the Beast",
+  "type": "movie",
+  "release": 2017,
+  "duration": "129 min",
+  "quality": "HD",
+  "description": "A brave, beautiful, and brilliant young woman is imprisoned by a beast in his castle. Despite her fears, she learns to see beyond the beast's hideous exterior and realize the gentle heart of the true prince within him.",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "actors": [
+    "Emma Watson",
+    "Dan Stevens",
+    "Luke Evans"
+  ],
+  "director": "Bill Condon",
+  "country": "United States",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt0114709",
+  "title": "Toy Story",
+  "type": "movie",
+  "release": 1995,
+  "duration": "81 min",
+  "quality": "HD",
+  "description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Don Rickles"
+  ],
+  "director": "John Lasseter",
+  "country": "United States",
+  "rating": "8.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt0120363",
+  "title": "Toy Story 2",
+  "type": "movie",
+  "release": 1999,
+  "duration": "92 min",
+  "quality": "HD",
+  "description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
+  ],
+  "director": "John Lasseter, Ash Brannon, Lee Unkrich",
+  "country": "United States",
+  "rating": "7.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt0435761",
+  "title": "Toy Story 3",
+  "type": "movie",
+  "release": 2010,
+  "duration": "103 min",
+  "quality": "HD",
+  "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
+  ],
+  "director": "Lee Unkrich",
+  "country": "United States",
+  "rating": "8.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt1979376",
+  "title": "Toy Story 4",
+  "type": "movie",
+  "release": 2019,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "When Woody, Buzz, and the gang join Bonnie on a road trip with her new craft project turned toy, Forky, the innocent little spork's antics launch Woody on a wild quest.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Annie Potts"
+  ],
+  "director": "Josh Cooley",
+  "country": "United States",
+  "rating": "7.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt2948356",
+  "title": "Zootopia",
+  "type": "movie",
+  "release": 2016,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Ginnifer Goodwin",
+    "Jason Bateman",
+    "Idris Elba"
+  ],
+  "director": "Byron Howard, Rich Moore, Jared Bush",
+  "country": "United States",
+  "rating": "8.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt3521164",
+  "title": "Moana",
+  "type": "movie",
+  "release": 2016,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "In ancient Polynesia, when a terrible curse incurred by the demigod Maui reaches Moana's island, she answers the Ocean's call to seek out Maui to set things right.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Auli'i Cravalho",
+    "Dwayne Johnson",
+    "Rachel House"
+  ],
+  "director": "Ron Clements, John Musker, Don Hall",
+  "country": "United States",
+  "rating": "7.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt8097030",
+  "title": "Turning Red",
+  "type": "movie",
+  "release": 2022,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "A thirteen-year-old girl named Mei Lee is torn between staying her mother's dutiful daughter and the changes of adolescence. And as if the challenges were not enough, whenever she gets overly excited Mei transforms into a giant re...",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Rosalie Chiang",
+    "Sandra Oh",
+    "Ava Morse"
+  ],
+  "director": "Domee Shi",
+  "country": "United States, Canada",
+  "rating": "6.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY2NjExYmUtZTQ4NS00NzM2LWE2NWYtZWY2NGIyOTBmNzI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt0327597",
+  "title": "Coraline",
+  "type": "movie",
+  "release": 2009,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "Wandering her rambling old house in her boring new town, a young girl discovers a hidden door to a strangely idealized version of her life that seems too good to be true.",
+  "genre": [
+    "Animation",
+    "Drama",
+    "Family"
+  ],
+  "actors": [
+    "Dakota Fanning",
+    "Teri Hatcher",
+    "John Hodgman"
+  ],
+  "director": "Henry Selick",
+  "country": "United States",
+  "rating": "7.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt0120762",
+  "title": "Mulan",
+  "type": "movie",
+  "release": 1998,
+  "duration": "87 min",
+  "quality": "HD",
+  "description": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Ming-Na Wen",
+    "Eddie Murphy",
+    "BD Wong"
+  ],
+  "director": "Tony Bancroft, Barry Cook",
+  "country": "United States",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzU0ZTQxZDktOGY0Yy00NjdiLTllNDItMTMzMjI1YjMyYjRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt4566758",
+  "title": "Mulan",
+  "type": "movie",
+  "release": 2020,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "To keep her ailing father from serving in the Imperial Army, a fearless young woman disguises herself as a man and battles northern invaders in China.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Yifei Liu",
+    "Donnie Yen",
+    "Gong Li"
+  ],
+  "director": "Niki Caro",
+  "country": "United States, China",
+  "rating": "5.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJiZDg3ZWEtYWZkMC00Zjc1LTkzYTctZWFkODk2MDlmOGNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt0398286",
+  "title": "Tangled",
+  "type": "movie",
+  "release": 2010,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Mandy Moore",
+    "Zachary Levi",
+    "Donna Murphy"
+  ],
+  "director": "Nathan Greno, Byron Howard",
+  "country": "United States, Japan",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt1772341",
+  "title": "Wreck-It Ralph",
+  "type": "movie",
+  "release": 2012,
+  "duration": "101 min",
+  "quality": "HD",
+  "description": "Ralph is tired of playing the role of a bad guy and embarks on a journey to become a video game hero. But he accidentally lets loose a deadly enemy that threatens the entire arcade.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "John C. Reilly",
+    "Jack McBrayer",
+    "Jane Lynch"
+  ],
+  "director": "Rich Moore",
+  "country": "United States",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt2245084",
+  "title": "Big Hero 6",
+  "type": "movie",
+  "release": 2014,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Ryan Potter",
+    "Scott Adsit",
+    "Jamie Chung"
+  ],
+  "director": "Don Hall, Chris Williams",
+  "country": "United States",
+  "rating": "7.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt2380307",
+  "title": "Coco",
+  "type": "movie",
+  "release": 2017,
+  "duration": "105 min",
+  "quality": "HD",
+  "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Anthony Gonzalez",
+    "Gael García Bernal",
+    "Benjamin Bratt"
+  ],
+  "director": "Adrian Molina, Lee Unkrich",
+  "country": "United States, Mexico",
+  "rating": "8.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt3262342",
+  "title": "Loving Vincent",
+  "type": "movie",
+  "release": 2017,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+  "genre": [
+    "Animation",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Douglas Booth",
+    "Jerome Flynn",
+    "Robert Gulaczyk"
+  ],
+  "director": "DK Welchman, Hugh Welchman",
+  "country": "Poland, United Kingdom, United States, Switzerland, Netherlands",
+  "rating": "7.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt12801262",
+  "title": "Luca",
+  "type": "movie",
+  "release": 2021,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Jacob Tremblay",
+    "Jack Dylan Grazer",
+    "Emma Berman"
+  ],
+  "director": "Enrico Casarosa",
+  "country": "United States",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWMyNGNlZTktODVkNS00ZmMyLTk0NmUtNWVjOWU1MWMzZGMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt2953050",
+  "title": "Encanto",
+  "type": "movie",
+  "release": 2021,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "An extraordinary family, the Madrigals, live hidden in the mountains of Colombia, in a magical house called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift - every child except one, Mi...",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [
+    "Stephanie Beatriz",
+    "María Cecilia Botero",
+    "John Leguizamo"
+  ],
+  "director": "Jared Bush, Byron Howard, Charise Castro Smith",
+  "country": "United States",
+  "rating": "7.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGEyNzk2M2MtNjBhZS00MzYwLWI0Y2YtYjc5ZWE2MjM0YWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt8092252",
+  "title": "Be With You",
+  "type": "movie",
+  "release": 2018,
+  "duration": "132 min",
+  "quality": "HD",
+  "description": "Woo Jin takes care of his son Ji Ho alone after his wife Soo A passed away. Before she passed away, she promised she would be back on a rainy day one year later. One year later, Soo A appears again, but she does not remember anyth...",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "actors": [
+    "So Ji-seob",
+    "Son Ye-jin",
+    "Ko Chang-seok"
+  ],
+  "director": "Lee Jang-hoon",
+  "country": "South Korea",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjdkODkzMTItNWQ0Ny00YjRlLTgzYTktYmE5N2NkZThhYTk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt12412888",
+  "title": "Sonic the Hedgehog 2",
+  "type": "movie",
+  "release": 2022,
+  "duration": "122 min",
+  "quality": "HD",
+  "description": "When Dr. Robotnik returns with a new partner, Knuckles, in search of an emerald that has the power to destroy civilizations, Sonic teams up with his own sidekick, Tails, on a journey across the world to find the emerald first.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "James Marsden",
+    "Jim Carrey",
+    "Ben Schwartz"
+  ],
+  "director": "Jeff Fowler",
+  "country": "United States, Japan",
+  "rating": "6.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBiYzk0YTMtNWRiYi00YWY0LWE3NjgtYmJiYTAwZmYzOTM0XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt0317219",
+  "title": "Cars",
+  "type": "movie",
+  "release": 2006,
+  "duration": "116 min",
+  "quality": "HD",
+  "description": "On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn't everything in life.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Owen Wilson",
+    "Bonnie Hunt",
+    "Paul Newman"
+  ],
+  "director": "John Lasseter, Joe Ranft",
+  "country": "United States",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt1216475",
+  "title": "Cars 2",
+  "type": "movie",
+  "release": 2011,
+  "duration": "106 min",
+  "quality": "HD",
+  "description": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international e...",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Owen Wilson",
+    "Larry the Cable Guy",
+    "Michael Caine"
+  ],
+  "director": "John Lasseter, Bradford Lewis",
+  "country": "United States, Japan, India, United Kingdom, Australia",
+  "rating": "6.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt3606752",
+  "title": "Cars 3",
+  "type": "movie",
+  "release": 2017,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Owen Wilson",
+    "Cristela Alonzo",
+    "Chris Cooper"
+  ],
+  "director": "Brian Fee",
+  "country": "United States, Japan, Australia, United Kingdom, Canada",
+  "rating": "6.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt4823776",
+  "title": "The SpongeBob Movie: Sponge on the Run",
+  "type": "movie",
+  "release": 2020,
+  "duration": "91 min",
+  "quality": "HD",
+  "description": "After SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to the Lost City of Atlantic City to bring Gary home.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Tim Hill",
+    "Clancy Brown",
+    "Bill Fagerbakke"
+  ],
+  "director": "Tim Hill",
+  "country": "United States, Canada",
+  "rating": "5.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBiZDQ2MWEtYzE1MC00YmMyLTg1NjUtNzE2YTZlMjI3MGUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt0114148",
+  "title": "Pocahontas",
+  "type": "movie",
+  "release": 1995,
+  "duration": "81 min",
+  "quality": "HD",
+  "description": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth century Virginia.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Linda Hunt",
+    "Christian Bale"
+  ],
+  "director": "Mike Gabriel, Eric Goldberg",
+  "country": "United States",
+  "rating": "6.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlNTUxM2MtYmJhYS00Y2E5LTlmYTItZDhlNWJmMmRiYTYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt0120855",
+  "title": "Tarzan",
+  "type": "movie",
+  "release": 1999,
+  "duration": "88 min",
+  "quality": "HD",
+  "description": "A man raised by gorillas must decide where he really belongs when he discovers he is a human.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Tony Goldwyn",
+    "Minnie Driver",
+    "Brian Blessed"
+  ],
+  "director": "Chris Buck, Kevin Lima",
+  "country": "United States, Japan",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjM5OWM5NzktMTIzYy00OTk1LWIyYzAtYzBhNWY3NWQ2Y2Y0XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt0166813",
+  "title": "Spirit: Stallion of the Cimarron",
+  "type": "movie",
+  "release": 2002,
+  "duration": "83 min",
+  "quality": "HD",
+  "description": "A captured mustang remains determined to return to his herd no matter what.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Matt Damon",
+    "James Cromwell",
+    "Daniel Studi"
+  ],
+  "director": "Kelly Asbury, Lorna Cook",
+  "country": "United States, Canada",
+  "rating": "7.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyOTUzNDA1N15BMl5BanBnXkFtZTYwNjgwMDM3._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt0120768",
+  "title": "The Negotiator",
+  "type": "movie",
+  "release": 1998,
+  "duration": "140 min",
+  "quality": "HD",
+  "description": "A police negotiator confronts a framed counterpart.",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "Samuel L. Jackson",
+    "Kevin Spacey",
+    "David Morse"
+  ],
+  "director": "F. Gary Gray",
+  "country": "Germany, United States",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTBjZDM3NzctOGE2YS00NDZiLTk4ZWMtY2IwOWI5ZTE4ZDc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+
+{
+  "imdb": "tt0160127",
+  "title": "Charlie's Angels",
+  "type": "movie",
+  "release": 2000,
+  "duration": "98 min",
+  "quality": "HD",
+  "description": "Three private investigators are assigned to track down a kidnapped software engineer, but the case isn't as straightforward as it seems.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Cameron Diaz",
+    "Drew Barrymore",
+    "Lucy Liu"
+  ],
+  "director": "McG",
+  "country": "Germany, United States",
+  "rating": "5.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTkyYjRiZGMtYzA0Mi00N2IyLThhZDAtYWU1OWNhNjIxNzY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 87
+},
+
+{
+  "imdb": "tt0265086",
+  "title": "Black Hawk Down",
+  "type": "movie",
+  "release": 2002,
+  "duration": "144 min",
+  "quality": "HD",
+  "description": "The story of one hundred and sixty elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but found themselves in a desperate battle with a large force of heavily armed...",
+  "genre": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "actors": [
+    "Josh Hartnett",
+    "Ewan McGregor",
+    "Tom Sizemore"
+  ],
+  "director": "Ridley Scott",
+  "country": "United States, United Kingdom",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTM3YTQ1M2MtNDEyNC00NzRlLWFmOTgtYjBhNDg2ODNjNTU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt0438097",
+  "title": "Ice Age: The Meltdown",
+  "type": "movie",
+  "release": 2006,
+  "duration": "91 min",
+  "quality": "HD",
+  "description": "Manny, Sid and Diego discover that the ice age is coming to an end, and join everybody for a journey to higher ground. On the trip, they discover that Manny is not in fact the last of the woolly mammoths.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Ray Romano",
+    "John Leguizamo",
+    "Denis Leary"
+  ],
+  "director": "Carlos Saldanha",
+  "country": "United States, United Kingdom",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt1080016",
+  "title": "Ice Age: Dawn of the Dinosaurs",
+  "type": "movie",
+  "release": 2009,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "When Sid's attempt to adopt three dinosaur eggs gets him abducted by their real mother to an underground lost world, his friends attempt to rescue him.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Ray Romano",
+    "John Leguizamo",
+    "Denis Leary"
+  ],
+  "director": "Carlos Saldanha, Michael Thurmeier",
+  "country": "United States, United Kingdom, Canada",
+  "rating": "6.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWJjZDYwMjgtZDZiMy00YzcyLThjN2YtYjI1ZDQ2ZDJkOTVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt1667889",
+  "title": "Ice Age: Continental Drift",
+  "type": "movie",
+  "release": 2012,
+  "duration": "88 min",
+  "quality": "HD",
+  "description": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Ray Romano",
+    "Denis Leary",
+    "John Leguizamo"
+  ],
+  "director": "Steve Martino, Michael Thurmeier",
+  "country": "United States, United Kingdom, Canada",
+  "rating": "6.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt3416828",
+  "title": "Ice Age: Collision Course",
+  "type": "movie",
+  "release": 2016,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "When Scrat's acorn sends an asteroid to Earth, the Herd must find a way to stop the asteroid from hitting Earth with the help of a returning friend.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Ray Romano",
+    "Denis Leary",
+    "John Leguizamo"
+  ],
+  "director": "Michael Thurmeier, Galen T. Chu",
+  "country": "United States, United Kingdom",
+  "rating": "5.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt1306984",
+  "title": "Jurassic Park: Chaos Island",
+  "type": "movie",
+  "release": 1997,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "RPG strategy where characters from Jurassic Park 2 must fight hunters and dinos on Isla Sorna, InGen's Site B where dinosaur breeding grounds for Jurassic Park were, as they search for InGen's abandoned science facility to call for help.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Jeff Goldblum",
+    "Julianne Moore",
+    "Vince Vaughn",
+    "Richard Schiff"
+  ],
+  "director": "N/A",
+  "country": "USA",
+  "rating": "6.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjcxMTliZjgtMWU5ZC00N2Y0LWIwMTgtOWNlNmQ1MWE5MTA1XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt1646971",
+  "title": "How to Train Your Dragon 2",
+  "type": "movie",
+  "release": 2014,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Jay Baruchel",
+    "Cate Blanchett",
+    "Gerard Butler"
+  ],
+  "director": "Dean DeBlois",
+  "country": "United States, India",
+  "rating": "7.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt2386490",
+  "title": "How to Train Your Dragon: The Hidden World",
+  "type": "movie",
+  "release": 2019,
+  "duration": "104 min",
+  "quality": "HD",
+  "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek the Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Jay Baruchel",
+    "America Ferrera",
+    "F. Murray Abraham"
+  ],
+  "director": "Dean DeBlois",
+  "country": "United States, Japan",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt0892769",
+  "title": "How to Train Your Dragon",
+  "type": "movie",
+  "release": 2010,
+  "duration": "98 min",
+  "quality": "HD",
+  "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Jay Baruchel",
+    "Gerard Butler",
+    "Christopher Mintz-Plasse"
+  ],
+  "director": "Dean DeBlois, Chris Sanders",
+  "country": "United Kingdom, France, United States",
+  "rating": "8.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt1302011",
+  "title": "Kung Fu Panda 2",
+  "type": "movie",
+  "release": 2011,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Jack Black",
+    "Angelina Jolie",
+    "Jackie Chan"
+  ],
+  "director": "Jennifer Yuh Nelson",
+  "country": "United States",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmIxMGYzMTUtZDQzYy00ODc4LWE1YzQtZGMwYTc0YTYyYTE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt2267968",
+  "title": "Kung Fu Panda 3",
+  "type": "movie",
+  "release": 2016,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to home.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Jack Black",
+    "Bryan Cranston",
+    "Dustin Hoffman"
+  ],
+  "director": "Alessandro Carloni, Jennifer Yuh Nelson",
+  "country": "United States, China",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt0120630",
+  "title": "Chicken Run",
+  "type": "movie",
+  "release": 2000,
+  "duration": "84 min",
+  "quality": "HD",
+  "description": "When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Julia Sawalha",
+    "Phil Daniels"
+  ],
+  "director": "Peter Lord, Nick Park",
+  "country": "United Kingdom, France, United States",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGViZmJjMTQtNDk3NC00NjQ4LTg0ODItYWI3MjY3YmUwMjczXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt0174483",
+  "title": "Babes and Boobs",
+  "type": "movie",
+  "release": 1918,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "A young couple and their new baby are walking down the street when the wife decides to stop in at a store, and the husband agrees to wait outside with the baby in the carriage. He spots a pretty maid sitting on a bench with a baby in",
+  "genre": [
+    "Short",
+    "Comedy"
+  ],
+  "actors": [
+    "Larry Semon",
+    "Madge Kirby",
+    "Frank Alexander"
+  ],
+  "director": "Larry Semon",
+  "country": "United States",
+  "rating": "6.8",
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt0230011",
+  "title": "Atlantis: The Lost Empire",
+  "type": "movie",
+  "release": 2001,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Michael J. Fox",
+    "Jim Varney",
+    "Corey Burton"
+  ],
+  "director": "Gary Trousdale, Kirk Wise",
+  "country": "United States, Japan",
+  "rating": "6.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYwZTQwMDEtYjgyZS00NzNhLWFhYWMtN2Q1Y2JmZjlmZDlhXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt0351283",
+  "title": "Madagascar",
+  "type": "movie",
+  "release": 2005,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Chris Rock",
+    "Ben Stiller",
+    "David Schwimmer"
+  ],
+  "director": "Eric Darnell, Tom McGrath",
+  "country": "United States, Canada, United Kingdom",
+  "rating": "6.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjk4OGFmZmYtYWE4NC00MzM4LTkwZTItODdhMjk3NTZjMmI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt0479952",
+  "title": "Madagascar: Escape 2 Africa",
+  "type": "movie",
+  "release": 2008,
+  "duration": "89 min",
+  "quality": "HD",
+  "description": "The Madagascar animals fly back to New York City, but crash-land on an African nature reserve in Kenya, where they meet others of their own kind, and Alex especially discovers his royal heritage as prince of a lion pride.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Ben Stiller",
+    "Chris Rock",
+    "David Schwimmer"
+  ],
+  "director": "Eric Darnell, Tom McGrath",
+  "country": "United States",
+  "rating": "6.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt1277953",
+  "title": "Madagascar 3: Europe's Most Wanted",
+  "type": "movie",
+  "release": 2012,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "The Madagascar animals join a struggling European circus to get back to New York, but find themselves being pursued by a psychotic animal-control officer.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Ben Stiller",
+    "Jada Pinkett Smith",
+    "Chris Rock"
+  ],
+  "director": "Eric Darnell, Tom McGrath, Conrad Vernon",
+  "country": "United States",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt0301357",
+  "title": "Good Bye Lenin!",
+  "type": "movie",
+  "release": 2003,
+  "duration": "121 min",
+  "quality": "HD",
+  "description": "In 1990, to protect his fragile mother from a fatal shock after a long coma, a young man must keep her from learning that her beloved nation of East Germany as she knew it has disappeared.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Daniel Brühl",
+    "Katrin Sass",
+    "Chulpan Khamatova"
+  ],
+  "director": "Wolfgang Becker",
+  "country": "Germany",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhlNTY2YzUtOWIwYS00MjIwLThjZGUtMDNiNTQzZmM1MTdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt0328832",
+  "title": "The Animatrix",
+  "type": "movie",
+  "release": 2003,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "A collection of nine short films featuring stories related to The Matrix (1999).",
+  "genre": [
+    "Animation",
+    "Action",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "James Arnold Taylor",
+    "Julia Fletcher",
+    "Dwight Schultz"
+  ],
+  "director": "Peter Chung, Andrew R. Jones, Yoshiaki Kawajiri, Takeshi Koike, Mahiro Maeda, Kôji Morimoto, Shin'ichirô Watanabe",
+  "country": "United States, Japan",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWRiODljNzUtZDkwOC00N2EwLTllMDAtOGQ4MmQ2YWY2MTBiXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt0275847",
+  "title": "Lilo & Stitch",
+  "type": "movie",
+  "release": 2002,
+  "duration": "85 min",
+  "quality": "HD",
+  "description": "A young and parentless girl adopts a 'dog' from the local pound, completely unaware that it's supposedly a dangerous scientific experiment that's taken refuge on Earth and is now hiding from its creator and those who see it as a m...",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Daveigh Chase",
+    "Chris Sanders",
+    "Tia Carrere"
+  ],
+  "director": "Dean DeBlois, Chris Sanders",
+  "country": "United States, Japan",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzRiYTA1YTEtMjYwMi00NGVhLThkOGYtZDBlYjNjZDk2NDEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt0165924",
+  "title": "Quelli del casco",
+  "type": "movie",
+  "release": 1988,
+  "duration": "91 min",
+  "quality": "HD",
+  "description": "A student falls in love with a woman he sees on a poster, with her face covered under a helmet.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Riccardo Rossi",
+    "Sonia de Gaudenz",
+    "Dario Casalini"
+  ],
+  "director": "Luciano Salce",
+  "country": "Italy",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGYyOGY4NjYtYmI0OS00YjVlLThiZmYtOTNkZTlhZGEzOTQ0XkEyXkFqcGdeQXVyNDczNjYwNjQ@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt0373072",
+  "title": "Kuchi kara demakase",
+  "type": "movie",
+  "release": 1958,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "N/A",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Hisaya Morishige",
+    "Keiko Tsushima",
+    "Keiko Awaji"
+  ],
+  "director": "Seiichirô Uchikawa",
+  "country": "Japan",
+  "rating": null,
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt0406375",
+  "title": "Zathura: A Space Adventure",
+  "type": "movie",
+  "release": 2005,
+  "duration": "101 min",
+  "quality": "HD",
+  "description": "Two young brothers are drawn into an intergalactic adventure when their house is hurled through the depths of space by the magical board game they are playing.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Josh Hutcherson",
+    "Jonah Bobo",
+    "Dax Shepard"
+  ],
+  "director": "Jon Favreau",
+  "country": "United States",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDMzZDZhMTQtYzJkNi00OTI2LThjNDUtN2I2N2JjZmYwMWM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt0472062",
+  "title": "Charlie Wilson's War",
+  "type": "movie",
+  "release": 2007,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "A drama based on Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets have some unforeseen and long-reaching effects.",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Julia Roberts",
+    "Philip Seymour Hoffman"
+  ],
+  "director": "Mike Nichols",
+  "country": "Germany, United States",
+  "rating": "7.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgwMDgwMDc4MF5BMl5BanBnXkFtZTYwOTU3MDM4._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt1001526",
+  "title": "Megamind",
+  "type": "movie",
+  "release": 2010,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "Evil genius Megamind finally defeats his do-gooder nemesis, Metro Man, but is left without a purpose in a superhero-free world.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Will Ferrell",
+    "Jonah Hill",
+    "Brad Pitt"
+  ],
+  "director": "Tom McGrath",
+  "country": "United States",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+
+{
+  "imdb": "tt0481499",
+  "title": "The Croods",
+  "type": "movie",
+  "release": 2013,
+  "duration": "98 min",
+  "quality": "HD",
+  "description": "In the primeval era, Grug and his family risk the dangers of their surroundings to find a new dwelling place. Along the way, they meet a modern boy who woos them with his adventurous ways.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Nicolas Cage",
+    "Ryan Reynolds",
+    "Emma Stone"
+  ],
+  "director": "Kirk DeMicco, Chris Sanders",
+  "country": "United States",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt2850386",
+  "title": "The Croods: A New Age",
+  "type": "movie",
+  "release": 2020,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Nicolas Cage",
+    "Emma Stone",
+    "Ryan Reynolds"
+  ],
+  "director": "Joel Crawford",
+  "country": "United States, Japan",
+  "rating": "6.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTI1OTFhYmQtMzM4NS00Y2NkLTlkMmEtNTJhMWU1YWI0ZGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt1490017",
+  "title": "The Lego Movie",
+  "type": "movie",
+  "release": 2014,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Chris Pratt",
+    "Will Ferrell",
+    "Elizabeth Banks"
+  ],
+  "director": "Phil Lord, Christopher Miller",
+  "country": "United States, Denmark, Australia, Norway",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt3513498",
+  "title": "The Lego Movie 2: The Second Part",
+  "type": "movie",
+  "release": 2019,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "It's been five years since everything was awesome and the citizens are facing the huge new threat of Lego Duplo, invaders from outer space, wrecking everything faster than they can rebuild.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Chris Pratt",
+    "Elizabeth Banks",
+    "Will Arnett"
+  ],
+  "director": "Mike Mitchell",
+  "country": "Denmark, Norway, Australia, United States",
+  "rating": "6.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt5113044",
+  "title": "Minions: The Rise of Gru",
+  "type": "movie",
+  "release": 2022,
+  "duration": "87 min",
+  "quality": "HD",
+  "description": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Steve Carell",
+    "Pierre Coffin",
+    "Alan Arkin"
+  ],
+  "director": "Kyle Balda, Brad Ableson, Jonathan del Val",
+  "country": "United States",
+  "rating": "6.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt6467266",
+  "title": "Sing 2",
+  "type": "movie",
+  "release": 2021,
+  "duration": "110 min",
+  "quality": "HD",
+  "description": "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Matthew McConaughey",
+    "Reese Witherspoon",
+    "Scarlett Johansson"
+  ],
+  "director": "Garth Jennings, Christophe Lourdelet",
+  "country": "Japan, United States",
+  "rating": "7.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZkZmMzNzItYzBhOS00ZGEwLWFiNWYtMWRjNzM4MjRjZTRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt6333060",
+  "title": "Icarus",
+  "type": "movie",
+  "release": 2017,
+  "duration": "120 min",
+  "quality": "HD",
+  "description": "When Bryan sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller.",
+  "genre": [
+    "Documentary",
+    "Sport"
+  ],
+  "actors": [
+    "Bryan Fogel",
+    "Dave Zabriskie",
+    "Don Catlin"
+  ],
+  "director": "Bryan Fogel",
+  "country": "United States, United Kingdom",
+  "rating": "7.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGE4M2MxOWUtYmY2ZC00ZWYxLWIxZTAtNTNjYTZmYmUyOGY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt2709768",
+  "title": "The Secret Life of Pets",
+  "type": "movie",
+  "release": 2016,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Louis C.K.",
+    "Eric Stonestreet",
+    "Kevin Hart"
+  ],
+  "director": "Chris Renaud",
+  "country": "Japan, United States",
+  "rating": "6.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt5113040",
+  "title": "The Secret Life of Pets 2",
+  "type": "movie",
+  "release": 2019,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "Continuing the story of Max and his pet friends, following their secret lives after their owners leave them for work or school each day.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Patton Oswalt",
+    "Kevin Hart",
+    "Harrison Ford"
+  ],
+  "director": "Chris Renaud, Jonathan del Val",
+  "country": "Japan, United States",
+  "rating": "6.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NzM0MjA0MTJeQTJeQWpwZ15BbWU4MDk1MzYwNzYz._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt3470600",
+  "title": "Sing",
+  "type": "movie",
+  "release": 2016,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [
+    "Matthew McConaughey",
+    "Reese Witherspoon",
+    "Seth MacFarlane"
+  ],
+  "director": "Garth Jennings, Christophe Lourdelet",
+  "country": "Japan, United States",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt6580564",
+  "title": "102 Not Out",
+  "type": "movie",
+  "release": 2018,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "102 Not Out is a 2018 comedy-drama film, with legendary actor Amitabh Bachchan playing a 102-year-old wanting to break the oldest-man-alive record. Another Bollywood legend Rishi Kapoor plays his sad and grumpy 75-year-old son.",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Amitabh Bachchan",
+    "Vijay Raaz",
+    "Rishi Kapoor"
+  ],
+  "director": "Umesh Shukla",
+  "country": "India, United States",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGNjNzc4NTQtOGEzNy00MTA1LTg1M2YtODM5ZTZlYWViMDRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt1695843",
+  "title": "Haunted Mansion",
+  "type": "movie",
+  "release": 2023,
+  "duration": "123 min",
+  "quality": "HD",
+  "description": "A single mom named Gabbie hires a tour guide, a psychic, a priest and a historian to help exorcise her newly bought mansion after discovering it is inhabited by ghosts.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "actors": [
+    "LaKeith Stanfield",
+    "Rosario Dawson",
+    "Owen Wilson"
+  ],
+  "director": "Justin Simien",
+  "country": "United States, Canada",
+  "rating": "6.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQ5ZDY0NjYtNzdlNC00ZWI4LTkwZDItNjNiNTRhZjNmN2RiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt0978762",
+  "title": "Mary and Max",
+  "type": "movie",
+  "release": 2009,
+  "duration": "92 min",
+  "quality": "HD",
+  "description": "In 1976 Melbourne, a lonely 8-year-old girl strikes up a correspondence with an unlikely pen pal: a severely obese 44-year-old New Yorker with Asperger's syndrome.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Toni Collette",
+    "Philip Seymour Hoffman",
+    "Eric Bana"
+  ],
+  "director": "Adam Elliot",
+  "country": "Australia",
+  "rating": "8.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt1985966",
+  "title": "Cloudy with a Chance of Meatballs 2",
+  "type": "movie",
+  "release": 2013,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "Flint Lockwood now works at The Live Corp Company for his idol Chester V. But he's forced to leave his post when he learns that his most infamous machine is still operational, and is churning out menacing food-animal hybrids.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Bill Hader",
+    "Anna Faris",
+    "Will Forte"
+  ],
+  "director": "Cody Cameron, Kris Pearn",
+  "country": "United States, Canada",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDM0MDI1NF5BMl5BanBnXkFtZTcwNzQ5NzYxOQ@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt0374080",
+  "title": "Nafrat",
+  "type": "movie",
+  "release": 1987,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "N/A",
+  "genre": [
+    "Action"
+  ],
+  "actors": [
+    "Shoma Anand",
+    "Arun Govil",
+    "Mazhar Khan"
+  ],
+  "director": "Anup Malik",
+  "country": "India",
+  "rating": null,
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt2510894",
+  "title": "Hotel Transylvania 2",
+  "type": "movie",
+  "release": 2015,
+  "duration": "89 min",
+  "quality": "HD",
+  "description": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Adam Sandler",
+    "Andy Samberg",
+    "Selena Gomez"
+  ],
+  "director": "Genndy Tartakovsky",
+  "country": "United States, Canada",
+  "rating": "6.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt5220122",
+  "title": "Hotel Transylvania 3: Summer Vacation",
+  "type": "movie",
+  "release": 2018,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "Count Dracula and company participate in a cruise for sea-loving monsters, unaware that their boat is being commandeered by the monster-hating Van Helsing family.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Adam Sandler",
+    "Andy Samberg",
+    "Selena Gomez"
+  ],
+  "director": "Genndy Tartakovsky",
+  "country": "United States, South Korea",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzU4MmE4MjEtOTU4NS00ZTZiLTg5NTYtNzE2ZWMyODcyYzFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt2771780",
+  "title": "Teen Titans Go!",
+  "type": "movie",
+  "release": 2013,
+  "duration": "10 min",
+  "quality": "HD",
+  "description": "Superhero roommates Robin, Cyborg, Starfire, Raven and Beast Boy love saving the day, but what happens when they're done fighting crime?",
+  "genre": [
+    "Animation",
+    "Short",
+    "Action"
+  ],
+  "actors": [
+    "Greg Cipes",
+    "Scott Menville",
+    "Khary Payton"
+  ],
+  "director": "N/A",
+  "country": "United States",
+  "rating": "5.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjMzOTc1Ml5BMl5BanBnXkFtZTcwNDQxMDY5OQ@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt1323594",
+  "title": "Despicable Me",
+  "type": "movie",
+  "release": 2010,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see the evildoer as their potential father.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Steve Carell",
+    "Jason Segel",
+    "Russell Brand"
+  ],
+  "director": "Pierre Coffin, Chris Renaud",
+  "country": "United States, France",
+  "rating": "7.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt3469046",
+  "title": "Despicable Me 3",
+  "type": "movie",
+  "release": 2017,
+  "duration": "89 min",
+  "quality": "HD",
+  "description": "Gru meets his long-lost, charming, cheerful, and more successful twin brother Dru, who wants to team up with him for one last criminal heist.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Steve Carell",
+    "Kristen Wiig",
+    "Trey Parker"
+  ],
+  "director": "Kyle Balda, Pierre Coffin, Eric Guillon",
+  "country": "United States, France",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt0118617",
+  "title": "Anastasia",
+  "type": "movie",
+  "release": 1997,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "The last surviving child of the Russian Royal Family joins two con men to reunite with her grandmother, the Dowager Empress, while the undead Rasputin seeks her death.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Meg Ryan",
+    "John Cusack",
+    "Christopher Lloyd"
+  ],
+  "director": "Don Bluth, Gary Goldman",
+  "country": "United States",
+  "rating": "7.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGY2YjdjNTItMGIzOC00MDNhLTkxNDMtNzgxN2U4YzA3YzRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt0162650",
+  "title": "Shaft",
+  "type": "movie",
+  "release": 2000,
+  "duration": "99 min",
+  "quality": "HD",
+  "description": "New York City police detective John Shaft (nephew of the original 1970s detective) goes on a personal mission to make sure the son of a real estate tycoon is brought to justice after a racially-motivated murder.",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "actors": [
+    "Samuel L. Jackson",
+    "Vanessa Williams",
+    "Christian Bale"
+  ],
+  "director": "John Singleton",
+  "country": "Germany, United States",
+  "rating": "6.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNThjNDFiMmUtYmY1Ni00YzQyLTk5ZDAtMDdiZmM2MGRkYTY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt0120764",
+  "title": "My Favorite Martian",
+  "type": "movie",
+  "release": 1999,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "A Martian lands on Earth and makes friends with a reporter.",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Christopher Lloyd",
+    "Jeff Daniels",
+    "Elizabeth Hurley"
+  ],
+  "director": "Donald Petrie",
+  "country": "United States, Canada",
+  "rating": "5.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjY0ZGFiY2ItMzJhNi00YTk5LWEzYmEtZmM3ZTRhODgyMzE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+    {
   "imdb": "tt11737520",
   "title": "ONE PIECE",
   "type": "series",
