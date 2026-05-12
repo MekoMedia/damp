@@ -1,6 +1,7408 @@
 {
   "movies": [
-    
+    {
+  "imdb": "tt11737520",
+  "title": "ONE PIECE",
+  "type": "series",
+  "release": 2023,
+  "duration": "3 Seasons",
+  "quality": "4K",
+  "description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+  "genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Iñaki Godoy",
+    "Emily Rudd",
+    "Mackenyu",
+    "Jacob Gibson",
+    "Taz Skylar"
+  ],
+  "director": "Matt Owens, Steven Maeda",
+  "country": "US",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+  "trailer": "https://www.youtube.com/embed/l6kp780S-os",
+  "baseviews": "1.3M",
+  "popularity": 78,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "ROMANCE DAWN",
+          "duration": "66m"
+        },
+        {
+          "title": "THE MAN IN THE STRAW HAT",
+          "duration": "57m"
+        },
+        {
+          "title": "TELL NO TALES",
+          "duration": "59m"
+        },
+        {
+          "title": "THE PIRATES ARE COMING",
+          "duration": "64m"
+        },
+        {
+          "title": "EAT AT BARATIE!",
+          "duration": "52m"
+        },
+        {
+          "title": "THE CHEF AND THE CHORE BOY",
+          "duration": "56m"
+        },
+        {
+          "title": "THE GIRL WITH THE SAWFISH TATTOO",
+          "duration": "60m"
+        },
+        {
+          "title": "WORST IN THE EAST",
+          "duration": "51m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "THE BEGINNING AND THE END",
+          "duration": "66m"
+        },
+        {
+          "title": "GOOD WHALE HUNTING",
+          "duration": "64m"
+        },
+        {
+          "title": "WHISKY BUSINESS",
+          "duration": "64m"
+        },
+        {
+          "title": "BIG TROUBLE IN LITTLE GARDEN",
+          "duration": "55m"
+        },
+        {
+          "title": "WAX ON, WAX OFF",
+          "duration": "58m"
+        },
+        {
+          "title": "NAMI DEEREST",
+          "duration": "56m"
+        },
+        {
+          "title": "REINDEER SHAMES",
+          "duration": "61m"
+        },
+        {
+          "title": "DEER AND LOATHING IN DRUM KINGDOM",
+          "duration": "64m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "WHERE THERE'S SMOKE",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt0149460",
+  "title": "Futurama",
+  "type": "series",
+  "release": 1999,
+  "duration": "10 Seasons",
+  "quality": "4K",
+  "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Billy West",
+    "Katey Sagal",
+    "John DiMaggio",
+    "Tress MacNeille",
+    "Maurice LaMarche"
+  ],
+  "director": "Matt Groening",
+  "country": "US",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",
+  "trailer": "https://www.youtube.com/embed/dUHzt5md1x0",
+  "baseviews": "1.3M",
+  "popularity": 60,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Space Pilot 3000",
+          "duration": "22m"
+        },
+        {
+          "title": "The Series Has Landed",
+          "duration": "22m"
+        },
+        {
+          "title": "I, Roommate",
+          "duration": "22m"
+        },
+        {
+          "title": "Love's Labours Lost in Space",
+          "duration": "22m"
+        },
+        {
+          "title": "Fear of a Bot Planet",
+          "duration": "22m"
+        },
+        {
+          "title": "A Fishful of Dollars",
+          "duration": "22m"
+        },
+        {
+          "title": "My Three Suns",
+          "duration": "22m"
+        },
+        {
+          "title": "A Big Piece of Garbage",
+          "duration": "22m"
+        },
+        {
+          "title": "Hell Is Other Robots",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "A Flight to Remember",
+          "duration": "22m"
+        },
+        {
+          "title": "Mars University",
+          "duration": "22m"
+        },
+        {
+          "title": "When Aliens Attack",
+          "duration": "22m"
+        },
+        {
+          "title": "Fry & the Slurm Factory",
+          "duration": "22m"
+        },
+        {
+          "title": "I Second That Emotion",
+          "duration": "22m"
+        },
+        {
+          "title": "Brannigan, Begin Again",
+          "duration": "22m"
+        },
+        {
+          "title": "A Head in the Polls",
+          "duration": "22m"
+        },
+        {
+          "title": "Xmas Story",
+          "duration": "22m"
+        },
+        {
+          "title": "Why Must I Be a Crustacean in Love?",
+          "duration": "22m"
+        },
+        {
+          "title": "Put Your Head on My Shoulders",
+          "duration": "22m"
+        },
+        {
+          "title": "Lesser of Two Evils",
+          "duration": "22m"
+        },
+        {
+          "title": "Raging Bender",
+          "duration": "22m"
+        },
+        {
+          "title": "A Bicyclops Built For Two",
+          "duration": "22m"
+        },
+        {
+          "title": "How Hermes Requisitioned His Groove Back",
+          "duration": "22m"
+        },
+        {
+          "title": "A Clone of My Own",
+          "duration": "22m"
+        },
+        {
+          "title": "The Deep South",
+          "duration": "22m"
+        },
+        {
+          "title": "Bender Gets Made",
+          "duration": "22m"
+        },
+        {
+          "title": "The Problem with Popplers",
+          "duration": "22m"
+        },
+        {
+          "title": "Mother's Day",
+          "duration": "22m"
+        },
+        {
+          "title": "Anthology of Interest I",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Honking",
+          "duration": "22m"
+        },
+        {
+          "title": "War Is the H-Word",
+          "duration": "22m"
+        },
+        {
+          "title": "The Cryonic Woman",
+          "duration": "22m"
+        },
+        {
+          "title": "Parasites Lost",
+          "duration": "22m"
+        },
+        {
+          "title": "Amazon Women in the Mood",
+          "duration": "22m"
+        },
+        {
+          "title": "Bendless Love",
+          "duration": "22m"
+        },
+        {
+          "title": "The Day the Earth Stood Stupid",
+          "duration": "22m"
+        },
+        {
+          "title": "That's Lobstertainment!",
+          "duration": "22m"
+        },
+        {
+          "title": "The Birdbot of Ice-Catraz",
+          "duration": "22m"
+        },
+        {
+          "title": "The Luck of the Fryrish",
+          "duration": "22m"
+        },
+        {
+          "title": "The Cyber House Rules",
+          "duration": "22m"
+        },
+        {
+          "title": "Insane in the Mainframe",
+          "duration": "22m"
+        },
+        {
+          "title": "Bendin' in the Wind",
+          "duration": "22m"
+        },
+        {
+          "title": "Time Keeps On Slippin'",
+          "duration": "22m"
+        },
+        {
+          "title": "I Dated a Robot",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Roswell That Ends Well",
+          "duration": "22m"
+        },
+        {
+          "title": "A Tale of Two Santas",
+          "duration": "22m"
+        },
+        {
+          "title": "Anthology of Interest II",
+          "duration": "22m"
+        },
+        {
+          "title": "Love and Rocket",
+          "duration": "22m"
+        },
+        {
+          "title": "Leela's Homeworld",
+          "duration": "22m"
+        },
+        {
+          "title": "Where the Buggalo Roam",
+          "duration": "22m"
+        },
+        {
+          "title": "A Pharaoh to Remember",
+          "duration": "22m"
+        },
+        {
+          "title": "Godfellas",
+          "duration": "22m"
+        },
+        {
+          "title": "Future Stock",
+          "duration": "22m"
+        },
+        {
+          "title": "A Leela of Her Own",
+          "duration": "22m"
+        },
+        {
+          "title": "30% Iron Chef",
+          "duration": "22m"
+        },
+        {
+          "title": "Where No Fan Has Gone Before",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Crimes of the Hot",
+          "duration": "22m"
+        },
+        {
+          "title": "Jurassic Bark",
+          "duration": "22m"
+        },
+        {
+          "title": "The Route of All Evil",
+          "duration": "22m"
+        },
+        {
+          "title": "A Taste of Freedom",
+          "duration": "22m"
+        },
+        {
+          "title": "Kif Gets Knocked Up a Notch",
+          "duration": "22m"
+        },
+        {
+          "title": "Less Than Hero",
+          "duration": "22m"
+        },
+        {
+          "title": "Teenage Mutant Leela's Hurdles",
+          "duration": "22m"
+        },
+        {
+          "title": "The Why of Fry",
+          "duration": "22m"
+        },
+        {
+          "title": "The Sting",
+          "duration": "22m"
+        },
+        {
+          "title": "The Farnsworth Parabox",
+          "duration": "22m"
+        },
+        {
+          "title": "Three Hundred Big Boys",
+          "duration": "22m"
+        },
+        {
+          "title": "Spanish Fry",
+          "duration": "22m"
+        },
+        {
+          "title": "Bend Her",
+          "duration": "22m"
+        },
+        {
+          "title": "Obsoletely Fabulous",
+          "duration": "22m"
+        },
+        {
+          "title": "Bender Should Not Be Allowed on TV",
+          "duration": "22m"
+        },
+        {
+          "title": "The Devil's Hands Are Idle Playthings",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Rebirth",
+          "duration": "22m"
+        },
+        {
+          "title": "In-A-Gadda-Da-Leela",
+          "duration": "22m"
+        },
+        {
+          "title": "Attack of the Killer App",
+          "duration": "22m"
+        },
+        {
+          "title": "Proposition Infinity",
+          "duration": "22m"
+        },
+        {
+          "title": "The Duh-Vinci Code",
+          "duration": "22m"
+        },
+        {
+          "title": "Lethal Inspection",
+          "duration": "22m"
+        },
+        {
+          "title": "The Late Philip J. Fry",
+          "duration": "22m"
+        },
+        {
+          "title": "That Darn Katz!",
+          "duration": "22m"
+        },
+        {
+          "title": "A Clockwork Origin",
+          "duration": "22m"
+        },
+        {
+          "title": "The Prisoner of Benda",
+          "duration": "22m"
+        },
+        {
+          "title": "Lrrreconcilable Ndndifferences",
+          "duration": "22m"
+        },
+        {
+          "title": "The Mutants Are Revolting",
+          "duration": "22m"
+        },
+        {
+          "title": "The Futurama Holiday Spectacular",
+          "duration": "22m"
+        },
+        {
+          "title": "Neutopia",
+          "duration": "22m"
+        },
+        {
+          "title": "Benderama",
+          "duration": "22m"
+        },
+        {
+          "title": "Ghost in the Machines",
+          "duration": "22m"
+        },
+        {
+          "title": "Law and Oracle",
+          "duration": "22m"
+        },
+        {
+          "title": "The Silence of the Clamps",
+          "duration": "22m"
+        },
+        {
+          "title": "Yo Leela Leela",
+          "duration": "22m"
+        },
+        {
+          "title": "All the Presidents' Heads",
+          "duration": "22m"
+        },
+        {
+          "title": "Mobius Dick",
+          "duration": "22m"
+        },
+        {
+          "title": "Fry Am the Egg Man",
+          "duration": "22m"
+        },
+        {
+          "title": "The Tip of the Zoidberg",
+          "duration": "22m"
+        },
+        {
+          "title": "Cold Warriors",
+          "duration": "22m"
+        },
+        {
+          "title": "Overclockwise",
+          "duration": "22m"
+        },
+        {
+          "title": "Reincarnation",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Bots and the Bees",
+          "duration": "22m"
+        },
+        {
+          "title": "A Farewell to Arms",
+          "duration": "22m"
+        },
+        {
+          "title": "Decision 3012",
+          "duration": "22m"
+        },
+        {
+          "title": "The Thief of Baghead",
+          "duration": "22m"
+        },
+        {
+          "title": "Zapp Dingbat",
+          "duration": "22m"
+        },
+        {
+          "title": "The Butterjunk Effect",
+          "duration": "22m"
+        },
+        {
+          "title": "The Six Million Dollar Mon",
+          "duration": "22m"
+        },
+        {
+          "title": "Fun on a Bun",
+          "duration": "22m"
+        },
+        {
+          "title": "Free Will Hunting",
+          "duration": "22m"
+        },
+        {
+          "title": "Near-Death Wish",
+          "duration": "22m"
+        },
+        {
+          "title": "Viva Mars Vegas",
+          "duration": "22m"
+        },
+        {
+          "title": "31st Century Fox",
+          "duration": "22m"
+        },
+        {
+          "title": "Naturama",
+          "duration": "22m"
+        },
+        {
+          "title": "2-D Blacktop",
+          "duration": "22m"
+        },
+        {
+          "title": "Fry and Leela's Big Fling",
+          "duration": "22m"
+        },
+        {
+          "title": "T.: The Terrestrial",
+          "duration": "22m"
+        },
+        {
+          "title": "Forty Percent Leadbelly",
+          "duration": "22m"
+        },
+        {
+          "title": "The Inhuman Torch",
+          "duration": "22m"
+        },
+        {
+          "title": "Saturday Morning Fun Pit",
+          "duration": "22m"
+        },
+        {
+          "title": "Calculon 2.0",
+          "duration": "22m"
+        },
+        {
+          "title": "Assie Come Home",
+          "duration": "22m"
+        },
+        {
+          "title": "Leela and the Genestalk",
+          "duration": "22m"
+        },
+        {
+          "title": "Game of Tones",
+          "duration": "22m"
+        },
+        {
+          "title": "Murder on the Planet Express",
+          "duration": "22m"
+        },
+        {
+          "title": "Stench and Stenchibility",
+          "duration": "22m"
+        },
+        {
+          "title": "Meanwhile",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Impossible Stream",
+          "duration": "25m"
+        },
+        {
+          "title": "Children of a Lesser Bog",
+          "duration": "25m"
+        },
+        {
+          "title": "How the West Was 1010001",
+          "duration": "25m"
+        },
+        {
+          "title": "Parasites Regained",
+          "duration": "25m"
+        },
+        {
+          "title": "Related to Items You've Viewed",
+          "duration": "25m"
+        },
+        {
+          "title": "I Know What You Did Next Xmas",
+          "duration": "25m"
+        },
+        {
+          "title": "Rage Against the Vaccine",
+          "duration": "25m"
+        },
+        {
+          "title": "Zapp Gets Canceled",
+          "duration": "25m"
+        },
+        {
+          "title": "The Prince and the Product",
+          "duration": "25m"
+        },
+        {
+          "title": "All the Way Down",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The One Amigo",
+          "duration": "26m"
+        },
+        {
+          "title": "Quids Game",
+          "duration": "25m"
+        },
+        {
+          "title": "The Temp",
+          "duration": "24m"
+        },
+        {
+          "title": "Beauty and the Bug",
+          "duration": "25m"
+        },
+        {
+          "title": "One Is Silicon and the Other Gold",
+          "duration": "25m"
+        },
+        {
+          "title": "Attack of the Clothes",
+          "duration": "25m"
+        },
+        {
+          "title": "Planet Espresso",
+          "duration": "25m"
+        },
+        {
+          "title": "Cuteness Overload",
+          "duration": "25m"
+        },
+        {
+          "title": "The Futurama Mystery Liberry",
+          "duration": "25m"
+        },
+        {
+          "title": "Otherwise",
+          "duration": "25m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Destroy Tall Monsters",
+          "duration": "25m"
+        },
+        {
+          "title": "The World Is Hot Enough",
+          "duration": "25m"
+        },
+        {
+          "title": "Fifty Shades of Green",
+          "duration": "25m"
+        },
+        {
+          "title": "The Numberland Gap",
+          "duration": "25m"
+        },
+        {
+          "title": "Scared Screenless",
+          "duration": "25m"
+        },
+        {
+          "title": "Wicked Human",
+          "duration": "25m"
+        },
+        {
+          "title": "Murderoni",
+          "duration": "25m"
+        },
+        {
+          "title": "Crab Splatter",
+          "duration": "24m"
+        },
+        {
+          "title": "The Trouble with Truffles",
+          "duration": "25m"
+        },
+        {
+          "title": "The White Hole",
+          "duration": "25m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt0121955",
+  "title": "South Park",
+  "type": "series",
+  "release": 1997,
+  "duration": "28 Seasons",
+  "quality": "4K",
+  "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+  "genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "actors": [
+    "Trey Parker",
+    "Matt Stone",
+    "Mona Marshall",
+    "Jennifer Howell"
+  ],
+  "director": "Trey Parker, Matt Stone",
+  "country": "US",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Cartman Gets an Anal Probe",
+          "duration": "23m"
+        },
+        {
+          "title": "Volcano",
+          "duration": "23m"
+        },
+        {
+          "title": "Weight Gain 4000",
+          "duration": "23m"
+        },
+        {
+          "title": "Big Gay Al's Big Gay Boat Ride",
+          "duration": "23m"
+        },
+        {
+          "title": "An Elephant Makes Love to a Pig",
+          "duration": "23m"
+        },
+        {
+          "title": "Death",
+          "duration": "23m"
+        },
+        {
+          "title": "Pinkeye",
+          "duration": "23m"
+        },
+        {
+          "title": "Starvin' Marvin",
+          "duration": "23m"
+        },
+        {
+          "title": "Mr. Hankey, the Christmas Poo",
+          "duration": "23m"
+        },
+        {
+          "title": "Damien",
+          "duration": "23m"
+        },
+        {
+          "title": "Tom's Rhinoplasty",
+          "duration": "23m"
+        },
+        {
+          "title": "Mecha-Streisand",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartman's Mom Is a Dirty Slut",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Terrance and Phillip in Not Without My Anus",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartman's Mom Is Still a Dirty Slut",
+          "duration": "23m"
+        },
+        {
+          "title": "Ike's Wee Wee",
+          "duration": "23m"
+        },
+        {
+          "title": "Chickenlover",
+          "duration": "23m"
+        },
+        {
+          "title": "Conjoined Fetus Lady",
+          "duration": "23m"
+        },
+        {
+          "title": "The Mexican Staring Frog of Southern Sri Lanka",
+          "duration": "23m"
+        },
+        {
+          "title": "City on the Edge of Forever (Flashbacks)",
+          "duration": "23m"
+        },
+        {
+          "title": "Summer Sucks",
+          "duration": "23m"
+        },
+        {
+          "title": "Chef's Chocolate Salty Balls",
+          "duration": "23m"
+        },
+        {
+          "title": "Chickenpox",
+          "duration": "23m"
+        },
+        {
+          "title": "Roger Ebert Should Lay Off the Fatty Foods",
+          "duration": "23m"
+        },
+        {
+          "title": "Clubhouses",
+          "duration": "23m"
+        },
+        {
+          "title": "Cow Days",
+          "duration": "23m"
+        },
+        {
+          "title": "Chef Aid",
+          "duration": "23m"
+        },
+        {
+          "title": "Spookyfish",
+          "duration": "23m"
+        },
+        {
+          "title": "Merry Christmas Charlie Manson!",
+          "duration": "23m"
+        },
+        {
+          "title": "Gnomes",
+          "duration": "23m"
+        },
+        {
+          "title": "Prehistoric Ice Man",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Rainforest Shmainforest",
+          "duration": "23m"
+        },
+        {
+          "title": "Spontaneous Combustion",
+          "duration": "23m"
+        },
+        {
+          "title": "The Succubus",
+          "duration": "23m"
+        },
+        {
+          "title": "Jakovasaurs",
+          "duration": "23m"
+        },
+        {
+          "title": "Tweek vs. Craig",
+          "duration": "23m"
+        },
+        {
+          "title": "Sexual Harassment Panda",
+          "duration": "23m"
+        },
+        {
+          "title": "Cat Orgy",
+          "duration": "23m"
+        },
+        {
+          "title": "Two Guys Naked in a Hot Tub",
+          "duration": "23m"
+        },
+        {
+          "title": "Jewbilee",
+          "duration": "23m"
+        },
+        {
+          "title": "Korn's Groovy Pirate Ghost Mystery",
+          "duration": "23m"
+        },
+        {
+          "title": "Chinpokomon",
+          "duration": "23m"
+        },
+        {
+          "title": "Hooked on Monkey Fonics",
+          "duration": "23m"
+        },
+        {
+          "title": "Starvin' Marvin in Space",
+          "duration": "23m"
+        },
+        {
+          "title": "The Red Badge of Gayness",
+          "duration": "23m"
+        },
+        {
+          "title": "Mr. Hankey's Christmas Classics",
+          "duration": "23m"
+        },
+        {
+          "title": "Are You There God? It's Me, Jesus",
+          "duration": "23m"
+        },
+        {
+          "title": "World Wide Recorder Concert",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Tooth Fairy Tats 2000",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartman's Silly Hate Crime 2000",
+          "duration": "23m"
+        },
+        {
+          "title": "Timmy 2000",
+          "duration": "23m"
+        },
+        {
+          "title": "Quintuplets 2000",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartman Joins NAMBLA",
+          "duration": "23m"
+        },
+        {
+          "title": "Cherokee Hair Tampons",
+          "duration": "23m"
+        },
+        {
+          "title": "Chef Goes Nanners",
+          "duration": "23m"
+        },
+        {
+          "title": "Something You Can Do with Your Finger",
+          "duration": "23m"
+        },
+        {
+          "title": "Do the Handicapped Go to Hell? (1)",
+          "duration": "23m"
+        },
+        {
+          "title": "Probably (2)",
+          "duration": "23m"
+        },
+        {
+          "title": "Fourth Grade",
+          "duration": "23m"
+        },
+        {
+          "title": "Trapper Keeper",
+          "duration": "23m"
+        },
+        {
+          "title": "Helen Keller! The Musical",
+          "duration": "23m"
+        },
+        {
+          "title": "Pip",
+          "duration": "23m"
+        },
+        {
+          "title": "Fat Camp",
+          "duration": "23m"
+        },
+        {
+          "title": "The Wacky Molestation Adventure",
+          "duration": "23m"
+        },
+        {
+          "title": "A Very Crappy Christmas",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "It Hits the Fan",
+          "duration": "23m"
+        },
+        {
+          "title": "Cripple Fight",
+          "duration": "23m"
+        },
+        {
+          "title": "Super Best Friends",
+          "duration": "23m"
+        },
+        {
+          "title": "Scott Tenorman Must Die",
+          "duration": "23m"
+        },
+        {
+          "title": "Terrance and Phillip: Behind the Blow",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartmanland",
+          "duration": "23m"
+        },
+        {
+          "title": "Proper Condom Use",
+          "duration": "23m"
+        },
+        {
+          "title": "Towelie",
+          "duration": "23m"
+        },
+        {
+          "title": "Osama Bin Laden Has Farty Pants",
+          "duration": "23m"
+        },
+        {
+          "title": "How to Eat with Your Butt",
+          "duration": "23m"
+        },
+        {
+          "title": "The Entity",
+          "duration": "23m"
+        },
+        {
+          "title": "Here Comes the Neighborhood",
+          "duration": "23m"
+        },
+        {
+          "title": "Kenny Dies",
+          "duration": "23m"
+        },
+        {
+          "title": "Butters' Very Own Episode",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Jared Has Aides",
+          "duration": "23m"
+        },
+        {
+          "title": "Asspen",
+          "duration": "23m"
+        },
+        {
+          "title": "Freak Strike",
+          "duration": "23m"
+        },
+        {
+          "title": "Fun With Veal",
+          "duration": "23m"
+        },
+        {
+          "title": "The New Terrance and Phillip Movie Trailer",
+          "duration": "23m"
+        },
+        {
+          "title": "Professor Chaos",
+          "duration": "23m"
+        },
+        {
+          "title": "The Simpsons Already Did It",
+          "duration": "23m"
+        },
+        {
+          "title": "Red Hot Catholic Love",
+          "duration": "23m"
+        },
+        {
+          "title": "Free Hat",
+          "duration": "23m"
+        },
+        {
+          "title": "Bebe's Boobs Destroy Society",
+          "duration": "23m"
+        },
+        {
+          "title": "Child Abduction is Not Funny",
+          "duration": "23m"
+        },
+        {
+          "title": "A Ladder to Heaven",
+          "duration": "23m"
+        },
+        {
+          "title": "The Return of the Fellowship of the Ring to the Two Towers",
+          "duration": "23m"
+        },
+        {
+          "title": "The Death Camp of Tolerance",
+          "duration": "23m"
+        },
+        {
+          "title": "The Biggest Douche in the Universe",
+          "duration": "23m"
+        },
+        {
+          "title": "My Future Self n' Me",
+          "duration": "23m"
+        },
+        {
+          "title": "Red Sleigh Down",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Cancelled",
+          "duration": "23m"
+        },
+        {
+          "title": "Krazy Kripples",
+          "duration": "23m"
+        },
+        {
+          "title": "Toilet Paper",
+          "duration": "23m"
+        },
+        {
+          "title": "I'm a Little Bit Country",
+          "duration": "23m"
+        },
+        {
+          "title": "Fat Butt and Pancake Head",
+          "duration": "23m"
+        },
+        {
+          "title": "Lil' Crime Stoppers",
+          "duration": "23m"
+        },
+        {
+          "title": "Red Man's Greed",
+          "duration": "23m"
+        },
+        {
+          "title": "South Park is Gay",
+          "duration": "23m"
+        },
+        {
+          "title": "Christian Rock Hard",
+          "duration": "23m"
+        },
+        {
+          "title": "Grey Dawn",
+          "duration": "23m"
+        },
+        {
+          "title": "Casa Bonita",
+          "duration": "23m"
+        },
+        {
+          "title": "All About Mormons",
+          "duration": "23m"
+        },
+        {
+          "title": "Butt Out",
+          "duration": "23m"
+        },
+        {
+          "title": "Raisins",
+          "duration": "23m"
+        },
+        {
+          "title": "It's Christmas in Canada",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Good Times with Weapons",
+          "duration": "23m"
+        },
+        {
+          "title": "Up the Down Steroid",
+          "duration": "23m"
+        },
+        {
+          "title": "The Passion of the Jew",
+          "duration": "23m"
+        },
+        {
+          "title": "You Got F'd in the A",
+          "duration": "23m"
+        },
+        {
+          "title": "AWESOM-O",
+          "duration": "23m"
+        },
+        {
+          "title": "The Jeffersons",
+          "duration": "23m"
+        },
+        {
+          "title": "Goobacks",
+          "duration": "23m"
+        },
+        {
+          "title": "Douche and Turd",
+          "duration": "23m"
+        },
+        {
+          "title": "Something Wall-Mart This Way Comes",
+          "duration": "23m"
+        },
+        {
+          "title": "Pre-School",
+          "duration": "23m"
+        },
+        {
+          "title": "Quest for Ratings",
+          "duration": "23m"
+        },
+        {
+          "title": "Stupid Spoiled Whore Video Playset",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartman's Incredible Gift",
+          "duration": "23m"
+        },
+        {
+          "title": "Woodland Critter Christmas",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Mr. Garrison's Fancy New Vagina",
+          "duration": "23m"
+        },
+        {
+          "title": "Die Hippie, Die",
+          "duration": "23m"
+        },
+        {
+          "title": "Wing",
+          "duration": "23m"
+        },
+        {
+          "title": "Best Friends Forever",
+          "duration": "23m"
+        },
+        {
+          "title": "The Losing Edge",
+          "duration": "23m"
+        },
+        {
+          "title": "The Death of Eric Cartman",
+          "duration": "23m"
+        },
+        {
+          "title": "Erection Day",
+          "duration": "23m"
+        },
+        {
+          "title": "Two Days Before the Day After Tomorrow",
+          "duration": "23m"
+        },
+        {
+          "title": "Marjorine",
+          "duration": "23m"
+        },
+        {
+          "title": "Follow That Egg",
+          "duration": "23m"
+        },
+        {
+          "title": "Ginger Kids",
+          "duration": "23m"
+        },
+        {
+          "title": "Trapped in the Closet",
+          "duration": "23m"
+        },
+        {
+          "title": "Free Willzyx",
+          "duration": "23m"
+        },
+        {
+          "title": "Bloody Mary",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Return of Chef",
+          "duration": "23m"
+        },
+        {
+          "title": "Smug Alert!",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartoon Wars (1)",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartoon Wars (2)",
+          "duration": "23m"
+        },
+        {
+          "title": "A Million Little Fibers",
+          "duration": "23m"
+        },
+        {
+          "title": "Manbearpig",
+          "duration": "23m"
+        },
+        {
+          "title": "Tsst",
+          "duration": "23m"
+        },
+        {
+          "title": "Make Love, Not Warcraft",
+          "duration": "23m"
+        },
+        {
+          "title": "Mystery of the Urinal Deuce",
+          "duration": "23m"
+        },
+        {
+          "title": "Miss Teacher Bangs a Boy",
+          "duration": "23m"
+        },
+        {
+          "title": "Hell on Earth 2006",
+          "duration": "23m"
+        },
+        {
+          "title": "Go God Go (1)",
+          "duration": "23m"
+        },
+        {
+          "title": "Go God Go XII (2)",
+          "duration": "23m"
+        },
+        {
+          "title": "Stanley's Cup",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "With Apologies to Jesse Jackson",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartman Sucks",
+          "duration": "23m"
+        },
+        {
+          "title": "Lice Capades",
+          "duration": "23m"
+        },
+        {
+          "title": "The Snuke",
+          "duration": "23m"
+        },
+        {
+          "title": "Fantastic Easter Special",
+          "duration": "23m"
+        },
+        {
+          "title": "D-Yikes!",
+          "duration": "23m"
+        },
+        {
+          "title": "Night of the Living Homeless",
+          "duration": "23m"
+        },
+        {
+          "title": "Le Petit Tourette",
+          "duration": "23m"
+        },
+        {
+          "title": "More Crap",
+          "duration": "23m"
+        },
+        {
+          "title": "Imaginationland",
+          "duration": "23m"
+        },
+        {
+          "title": "Imaginationland, Episode II",
+          "duration": "23m"
+        },
+        {
+          "title": "Imaginationland, Episode III",
+          "duration": "23m"
+        },
+        {
+          "title": "Guitar Queer-O",
+          "duration": "23m"
+        },
+        {
+          "title": "The List",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Tonsil Trouble",
+          "duration": "23m"
+        },
+        {
+          "title": "Britney's New Look",
+          "duration": "23m"
+        },
+        {
+          "title": "Major Boobage",
+          "duration": "23m"
+        },
+        {
+          "title": "Canada on Strike",
+          "duration": "23m"
+        },
+        {
+          "title": "Eek, A Penis!",
+          "duration": "23m"
+        },
+        {
+          "title": "Over Logging",
+          "duration": "23m"
+        },
+        {
+          "title": "Super Fun Time",
+          "duration": "23m"
+        },
+        {
+          "title": "The China Probrem",
+          "duration": "23m"
+        },
+        {
+          "title": "Breast Cancer Show Ever",
+          "duration": "23m"
+        },
+        {
+          "title": "Pandemic",
+          "duration": "23m"
+        },
+        {
+          "title": "Pandemic 2: The Startling",
+          "duration": "23m"
+        },
+        {
+          "title": "About Last Night...",
+          "duration": "23m"
+        },
+        {
+          "title": "Elementary School Musical",
+          "duration": "23m"
+        },
+        {
+          "title": "The Ungroundable",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Ring",
+          "duration": "23m"
+        },
+        {
+          "title": "The Coon",
+          "duration": "23m"
+        },
+        {
+          "title": "Margaritaville",
+          "duration": "23m"
+        },
+        {
+          "title": "Eat, Pray, Queef",
+          "duration": "23m"
+        },
+        {
+          "title": "Fishsticks",
+          "duration": "23m"
+        },
+        {
+          "title": "Pinewood Derby",
+          "duration": "23m"
+        },
+        {
+          "title": "Fatbeard",
+          "duration": "23m"
+        },
+        {
+          "title": "Dead Celebrities",
+          "duration": "23m"
+        },
+        {
+          "title": "Butters' Bottom Bitch",
+          "duration": "23m"
+        },
+        {
+          "title": "W.T.F.",
+          "duration": "23m"
+        },
+        {
+          "title": "Whale Whores",
+          "duration": "23m"
+        },
+        {
+          "title": "The F Word",
+          "duration": "23m"
+        },
+        {
+          "title": "Dances With Smurfs",
+          "duration": "23m"
+        },
+        {
+          "title": "Pee",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Sexual Healing",
+          "duration": "23m"
+        },
+        {
+          "title": "The Tale of Scrotie McBoogerballs",
+          "duration": "23m"
+        },
+        {
+          "title": "Medicinal Fried Chicken",
+          "duration": "23m"
+        },
+        {
+          "title": "You Have 0 Friends",
+          "duration": "23m"
+        },
+        {
+          "title": "200",
+          "duration": "23m"
+        },
+        {
+          "title": "201",
+          "duration": "23m"
+        },
+        {
+          "title": "Crippled Summer",
+          "duration": "23m"
+        },
+        {
+          "title": "Poor and Stupid",
+          "duration": "23m"
+        },
+        {
+          "title": "It's a Jersey Thing",
+          "duration": "23m"
+        },
+        {
+          "title": "Insheeption",
+          "duration": "23m"
+        },
+        {
+          "title": "Coon 2: Hindsight",
+          "duration": "23m"
+        },
+        {
+          "title": "Mysterion Rises",
+          "duration": "23m"
+        },
+        {
+          "title": "Coon vs. Coon & Friends",
+          "duration": "23m"
+        },
+        {
+          "title": "Crème Fraiche",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "HUMANCENTiPAD",
+          "duration": "23m"
+        },
+        {
+          "title": "Funnybot",
+          "duration": "23m"
+        },
+        {
+          "title": "Royal Pudding",
+          "duration": "23m"
+        },
+        {
+          "title": "T.M.I.",
+          "duration": "23m"
+        },
+        {
+          "title": "Crack Baby Athletic Association",
+          "duration": "23m"
+        },
+        {
+          "title": "City Sushi",
+          "duration": "23m"
+        },
+        {
+          "title": "You're Getting Old",
+          "duration": "23m"
+        },
+        {
+          "title": "Ass Burgers",
+          "duration": "23m"
+        },
+        {
+          "title": "The Last of the Meheecans",
+          "duration": "23m"
+        },
+        {
+          "title": "Bass to Mouth",
+          "duration": "23m"
+        },
+        {
+          "title": "Broadway Bro Down",
+          "duration": "23m"
+        },
+        {
+          "title": "1%",
+          "duration": "23m"
+        },
+        {
+          "title": "A History Channel Thanksgiving",
+          "duration": "23m"
+        },
+        {
+          "title": "The Poor Kid",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Reverse Cowgirl",
+          "duration": "23m"
+        },
+        {
+          "title": "Cash for Gold",
+          "duration": "23m"
+        },
+        {
+          "title": "Faith Hilling",
+          "duration": "23m"
+        },
+        {
+          "title": "Jewpacabra",
+          "duration": "23m"
+        },
+        {
+          "title": "Butterballs",
+          "duration": "23m"
+        },
+        {
+          "title": "I Should Have Never Gone Ziplining",
+          "duration": "23m"
+        },
+        {
+          "title": "Cartman Finds Love",
+          "duration": "23m"
+        },
+        {
+          "title": "Sarcastaball",
+          "duration": "23m"
+        },
+        {
+          "title": "Raising the Bar",
+          "duration": "23m"
+        },
+        {
+          "title": "Insecurity",
+          "duration": "23m"
+        },
+        {
+          "title": "Going Native",
+          "duration": "23m"
+        },
+        {
+          "title": "A Nightmare on FaceTime",
+          "duration": "23m"
+        },
+        {
+          "title": "A Scause for Applause",
+          "duration": "23m"
+        },
+        {
+          "title": "Obama Wins!",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Let Go, Let Gov",
+          "duration": "23m"
+        },
+        {
+          "title": "Informative Murder Porn",
+          "duration": "23m"
+        },
+        {
+          "title": "World War Zimmerman",
+          "duration": "23m"
+        },
+        {
+          "title": "Goth Kids 3: Dawn of the Posers",
+          "duration": "23m"
+        },
+        {
+          "title": "Taming Strange",
+          "duration": "23m"
+        },
+        {
+          "title": "Ginger Cow",
+          "duration": "23m"
+        },
+        {
+          "title": "Black Friday",
+          "duration": "23m"
+        },
+        {
+          "title": "A Song of Ass and Fire",
+          "duration": "23m"
+        },
+        {
+          "title": "Titties and Dragons",
+          "duration": "23m"
+        },
+        {
+          "title": "The Hobbit",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Go Fund Yourself",
+          "duration": "23m"
+        },
+        {
+          "title": "Gluten Free Ebola",
+          "duration": "23m"
+        },
+        {
+          "title": "The Cissy",
+          "duration": "23m"
+        },
+        {
+          "title": "Handicar",
+          "duration": "23m"
+        },
+        {
+          "title": "The Magic Bush",
+          "duration": "23m"
+        },
+        {
+          "title": "Freemium Isn't Free",
+          "duration": "23m"
+        },
+        {
+          "title": "Grounded Vindaloop",
+          "duration": "23m"
+        },
+        {
+          "title": "Cock Magic",
+          "duration": "23m"
+        },
+        {
+          "title": "#REHASH",
+          "duration": "23m"
+        },
+        {
+          "title": "#HappyHolograms",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Stunning and Brave",
+          "duration": "23m"
+        },
+        {
+          "title": "Where My Country Gone?",
+          "duration": "23m"
+        },
+        {
+          "title": "The City Part of Town",
+          "duration": "23m"
+        },
+        {
+          "title": "You're Not Yelping",
+          "duration": "23m"
+        },
+        {
+          "title": "Safe Space",
+          "duration": "23m"
+        },
+        {
+          "title": "Tweek x Craig",
+          "duration": "23m"
+        },
+        {
+          "title": "Naughty Ninjas",
+          "duration": "23m"
+        },
+        {
+          "title": "Sponsored Content",
+          "duration": "23m"
+        },
+        {
+          "title": "Truth and Advertising",
+          "duration": "23m"
+        },
+        {
+          "title": "PC Principal Final Justice",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Member Berries",
+          "duration": "23m"
+        },
+        {
+          "title": "Skank Hunt",
+          "duration": "23m"
+        },
+        {
+          "title": "The Damned",
+          "duration": "23m"
+        },
+        {
+          "title": "Wieners Out",
+          "duration": "23m"
+        },
+        {
+          "title": "Douche and a Danish",
+          "duration": "23m"
+        },
+        {
+          "title": "Fort Collins",
+          "duration": "23m"
+        },
+        {
+          "title": "Oh, Jeez",
+          "duration": "23m"
+        },
+        {
+          "title": "Members Only",
+          "duration": "23m"
+        },
+        {
+          "title": "Not Funny",
+          "duration": "23m"
+        },
+        {
+          "title": "The End of Serialization as We Know It",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "White People Renovating Houses",
+          "duration": "23m"
+        },
+        {
+          "title": "Put It Down",
+          "duration": "23m"
+        },
+        {
+          "title": "Holiday Special",
+          "duration": "23m"
+        },
+        {
+          "title": "Franchise Prequel",
+          "duration": "23m"
+        },
+        {
+          "title": "Hummels & Heroin",
+          "duration": "23m"
+        },
+        {
+          "title": "Sons a Witches",
+          "duration": "23m"
+        },
+        {
+          "title": "Doubling Down",
+          "duration": "23m"
+        },
+        {
+          "title": "Moss Piglets",
+          "duration": "23m"
+        },
+        {
+          "title": "SUPER HARD PCness",
+          "duration": "23m"
+        },
+        {
+          "title": "Splatty Tomato",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Dead Kids",
+          "duration": "23m"
+        },
+        {
+          "title": "A Boy and a Priest",
+          "duration": "23m"
+        },
+        {
+          "title": "The Problem with a Poo",
+          "duration": "23m"
+        },
+        {
+          "title": "Tegridy Farms",
+          "duration": "23m"
+        },
+        {
+          "title": "The Scoots",
+          "duration": "23m"
+        },
+        {
+          "title": "Time to Get Cereal",
+          "duration": "23m"
+        },
+        {
+          "title": "Nobody Got Cereal?",
+          "duration": "23m"
+        },
+        {
+          "title": "Buddha Box",
+          "duration": "23m"
+        },
+        {
+          "title": "Unfulfilled",
+          "duration": "23m"
+        },
+        {
+          "title": "Bike Parade",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Mexican Joker",
+          "duration": "23m"
+        },
+        {
+          "title": "Band in China",
+          "duration": "23m"
+        },
+        {
+          "title": "SHOTS!!!",
+          "duration": "23m"
+        },
+        {
+          "title": "Let Them Eat Goo",
+          "duration": "23m"
+        },
+        {
+          "title": "Tegridy Farms Halloween Special",
+          "duration": "23m"
+        },
+        {
+          "title": "Season Finale",
+          "duration": "23m"
+        },
+        {
+          "title": "Board Girls",
+          "duration": "23m"
+        },
+        {
+          "title": "Turd Burglars",
+          "duration": "23m"
+        },
+        {
+          "title": "Basic Cable",
+          "duration": "23m"
+        },
+        {
+          "title": "Christmas Snow",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Pandemic Special",
+          "duration": "48m"
+        },
+        {
+          "title": "South ParQ Vaccination Special",
+          "duration": "47m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Pajama Day",
+          "duration": "23m"
+        },
+        {
+          "title": "The Big Fix",
+          "duration": "23m"
+        },
+        {
+          "title": "City People",
+          "duration": "23m"
+        },
+        {
+          "title": "Back to the Cold War",
+          "duration": "23m"
+        },
+        {
+          "title": "Help, My Teenager Hates Me!",
+          "duration": "23m"
+        },
+        {
+          "title": "Credigree Weed St. Patrick's Day Special",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Cupid Ye",
+          "duration": "23m"
+        },
+        {
+          "title": "The Worldwide Privacy Tour",
+          "duration": "23m"
+        },
+        {
+          "title": "Japanese Toilet",
+          "duration": "23m"
+        },
+        {
+          "title": "Deep Learning",
+          "duration": "23m"
+        },
+        {
+          "title": "DikinBaus Hot Dogs",
+          "duration": "23m"
+        },
+        {
+          "title": "Spring Break",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Sermon on the 'Mount",
+          "duration": "23m"
+        },
+        {
+          "title": "Got a Nut",
+          "duration": "23m"
+        },
+        {
+          "title": "Sickofancy",
+          "duration": "23m"
+        },
+        {
+          "title": "Wok Is Dead",
+          "duration": "23m"
+        },
+        {
+          "title": "Conflict of Interest",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Twisted Christian",
+          "duration": "23m"
+        },
+        {
+          "title": "The Woman in the Hat",
+          "duration": "23m"
+        },
+        {
+          "title": "Sora Not Sorry",
+          "duration": "22m"
+        },
+        {
+          "title": "Turkey Trot",
+          "duration": "22m"
+        },
+        {
+          "title": "The Crap Out",
+          "duration": "26m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt0096697",
+  "title": "The Simpsons",
+  "type": "series",
+  "release": 1989,
+  "duration": "37 Seasons",
+  "quality": "4K",
+  "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+  "genre": [
+    "Family",
+    "Animation",
+    "Comedy"
+  ],
+  "actors": [
+    "Dan Castellaneta",
+    "Julie Kavner",
+    "Nancy Cartwright",
+    "Yeardley Smith",
+    "Hank Azaria"
+  ],
+  "director": "Matt Groening",
+  "country": "US",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+  "trailer": "https://www.youtube.com/embed/_jgYEYERYFQ",
+  "baseviews": "1.3M",
+  "popularity": 86,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Simpsons Roasting on an Open Fire",
+          "duration": "24m"
+        },
+        {
+          "title": "Bart the Genius",
+          "duration": "24m"
+        },
+        {
+          "title": "Homer's Odyssey",
+          "duration": "24m"
+        },
+        {
+          "title": "There's No Disgrace Like Home",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart the General",
+          "duration": "23m"
+        },
+        {
+          "title": "Moaning Lisa",
+          "duration": "24m"
+        },
+        {
+          "title": "The Call of the Simpsons",
+          "duration": "24m"
+        },
+        {
+          "title": "The Telltale Head",
+          "duration": "23m"
+        },
+        {
+          "title": "Life on the Fast Lane",
+          "duration": "24m"
+        },
+        {
+          "title": "Homer's Night Out",
+          "duration": "24m"
+        },
+        {
+          "title": "The Crepes of Wrath",
+          "duration": "24m"
+        },
+        {
+          "title": "Krusty Gets Busted",
+          "duration": "24m"
+        },
+        {
+          "title": "Some Enchanted Evening",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Bart Gets an 'F'",
+          "duration": "24m"
+        },
+        {
+          "title": "Simpson and Delilah",
+          "duration": "24m"
+        },
+        {
+          "title": "Treehouse of Horror",
+          "duration": "24m"
+        },
+        {
+          "title": "Two Cars in Every Garage and Three Eyes on Every Fish",
+          "duration": "24m"
+        },
+        {
+          "title": "Dancin' Homer",
+          "duration": "24m"
+        },
+        {
+          "title": "Dead Putting Society",
+          "duration": "24m"
+        },
+        {
+          "title": "Bart vs. Thanksgiving",
+          "duration": "24m"
+        },
+        {
+          "title": "Bart the Daredevil",
+          "duration": "23m"
+        },
+        {
+          "title": "Itchy & Scratchy & Marge",
+          "duration": "24m"
+        },
+        {
+          "title": "Bart Gets Hit by a Car",
+          "duration": "24m"
+        },
+        {
+          "title": "One Fish, Two Fish, Blowfish, Blue Fish",
+          "duration": "24m"
+        },
+        {
+          "title": "The Way We Was",
+          "duration": "24m"
+        },
+        {
+          "title": "Homer vs. Lisa and the 8th Commandment",
+          "duration": "24m"
+        },
+        {
+          "title": "Principal Charming",
+          "duration": "24m"
+        },
+        {
+          "title": "Oh Brother, Where Art Thou?",
+          "duration": "24m"
+        },
+        {
+          "title": "Bart's Dog Gets an 'F'",
+          "duration": "24m"
+        },
+        {
+          "title": "Old Money",
+          "duration": "23m"
+        },
+        {
+          "title": "Brush with Greatness",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa's Substitute",
+          "duration": "23m"
+        },
+        {
+          "title": "The War of the Simpsons",
+          "duration": "24m"
+        },
+        {
+          "title": "Three Men and a Comic Book",
+          "duration": "23m"
+        },
+        {
+          "title": "Blood Feud",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Stark Raving Dad",
+          "duration": "23m"
+        },
+        {
+          "title": "Mr. Lisa Goes to Washington",
+          "duration": "23m"
+        },
+        {
+          "title": "When Flanders Failed",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart the Murderer",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer Defined",
+          "duration": "23m"
+        },
+        {
+          "title": "Like Father, Like Clown",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror II",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa's Pony",
+          "duration": "23m"
+        },
+        {
+          "title": "Saturdays of Thunder",
+          "duration": "23m"
+        },
+        {
+          "title": "Flaming Moe's",
+          "duration": "23m"
+        },
+        {
+          "title": "Burns Verkaufen der Kraftwerk",
+          "duration": "23m"
+        },
+        {
+          "title": "I Married Marge",
+          "duration": "23m"
+        },
+        {
+          "title": "Radio Bart",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa the Greek",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer Alone",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart the Lover",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer at the Bat",
+          "duration": "23m"
+        },
+        {
+          "title": "Separate Vocations",
+          "duration": "23m"
+        },
+        {
+          "title": "Dog of Death",
+          "duration": "23m"
+        },
+        {
+          "title": "Colonel Homer",
+          "duration": "23m"
+        },
+        {
+          "title": "Black Widower",
+          "duration": "23m"
+        },
+        {
+          "title": "The Otto Show",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart's Friend Falls in Love",
+          "duration": "23m"
+        },
+        {
+          "title": "Brother, Can You Spare Two Dimes?",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Kamp Krusty",
+          "duration": "23m"
+        },
+        {
+          "title": "A Streetcar Named Marge",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer the Heretic",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa the Beauty Queen",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror III",
+          "duration": "23m"
+        },
+        {
+          "title": "Itchy & Scratchy: The Movie",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge Gets a Job",
+          "duration": "23m"
+        },
+        {
+          "title": "New Kid on the Block",
+          "duration": "22m"
+        },
+        {
+          "title": "Mr. Plow",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa's First Word",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer's Triple Bypass",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge vs. the Monorail",
+          "duration": "23m"
+        },
+        {
+          "title": "Selma's Choice",
+          "duration": "23m"
+        },
+        {
+          "title": "Brother from the Same Planet",
+          "duration": "23m"
+        },
+        {
+          "title": "I Love Lisa",
+          "duration": "23m"
+        },
+        {
+          "title": "Duffless",
+          "duration": "23m"
+        },
+        {
+          "title": "Last Exit to Springfield",
+          "duration": "23m"
+        },
+        {
+          "title": "So It's Come to This: A Simpsons Clip Show",
+          "duration": "23m"
+        },
+        {
+          "title": "The Front",
+          "duration": "23m"
+        },
+        {
+          "title": "Whacking Day",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge in Chains",
+          "duration": "23m"
+        },
+        {
+          "title": "Krusty Gets Kancelled",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Homer's Barbershop Quartet",
+          "duration": "23m"
+        },
+        {
+          "title": "Cape Feare",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer Goes to College",
+          "duration": "23m"
+        },
+        {
+          "title": "Rosebud",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror IV",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge on the Lam",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart's Inner Child",
+          "duration": "23m"
+        },
+        {
+          "title": "Boy-Scoutz 'N the Hood",
+          "duration": "23m"
+        },
+        {
+          "title": "The Last Temptation of Homer",
+          "duration": "23m"
+        },
+        {
+          "title": "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer the Vigilante",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart Gets Famous",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer and Apu",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa vs. Malibu Stacy",
+          "duration": "23m"
+        },
+        {
+          "title": "Deep Space Homer",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer Loves Flanders",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart Gets an Elephant",
+          "duration": "23m"
+        },
+        {
+          "title": "Burns' Heir",
+          "duration": "23m"
+        },
+        {
+          "title": "Sweet Seymour Skinner's Baadasssss Song",
+          "duration": "23m"
+        },
+        {
+          "title": "The Boy Who Knew Too Much",
+          "duration": "23m"
+        },
+        {
+          "title": "Lady Bouvier's Lover",
+          "duration": "23m"
+        },
+        {
+          "title": "Secrets of a Successful Marriage",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Bart of Darkness",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa's Rival",
+          "duration": "23m"
+        },
+        {
+          "title": "Another Simpsons Clip Show",
+          "duration": "23m"
+        },
+        {
+          "title": "Itchy & Scratchy Land",
+          "duration": "23m"
+        },
+        {
+          "title": "Sideshow Bob Roberts",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror V",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart's Girlfriend",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa on Ice",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer Badman",
+          "duration": "23m"
+        },
+        {
+          "title": "Grampa vs. Sexual Inadequacy",
+          "duration": "23m"
+        },
+        {
+          "title": "Fear of Flying",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer the Great",
+          "duration": "23m"
+        },
+        {
+          "title": "And Maggie Makes Three",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart's Comet",
+          "duration": "23m"
+        },
+        {
+          "title": "Homie the Clown",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart vs. Australia",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer vs. Patty and Selma",
+          "duration": "23m"
+        },
+        {
+          "title": "A Star Is Burns",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa's Wedding",
+          "duration": "23m"
+        },
+        {
+          "title": "Two Dozen and One Greyhounds",
+          "duration": "23m"
+        },
+        {
+          "title": "The PTA Disbands",
+          "duration": "23m"
+        },
+        {
+          "title": "Round Springfield",
+          "duration": "23m"
+        },
+        {
+          "title": "The Springfield Connection",
+          "duration": "23m"
+        },
+        {
+          "title": "Lemon of Troy",
+          "duration": "23m"
+        },
+        {
+          "title": "Who Shot Mr. Burns? (1)",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Who Shot Mr. Burns? (2)",
+          "duration": "24m"
+        },
+        {
+          "title": "Radioactive Man",
+          "duration": "23m"
+        },
+        {
+          "title": "Home Sweet Homediddly-Dum-Doodily",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart Sells His Soul",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa the Vegetarian",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror VI",
+          "duration": "23m"
+        },
+        {
+          "title": "King-Size Homer",
+          "duration": "23m"
+        },
+        {
+          "title": "Mother Simpson",
+          "duration": "23m"
+        },
+        {
+          "title": "Sideshow Bob's Last Gleaming",
+          "duration": "23m"
+        },
+        {
+          "title": "The Simpsons 138th Episode Spectacular",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge Be Not Proud",
+          "duration": "23m"
+        },
+        {
+          "title": "Team Homer",
+          "duration": "24m"
+        },
+        {
+          "title": "Two Bad Neighbors",
+          "duration": "23m"
+        },
+        {
+          "title": "Scenes from the Class Struggle in Springfield",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart the Fink",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa the Iconoclast",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer the Smithers",
+          "duration": "23m"
+        },
+        {
+          "title": "The Day the Violence Died",
+          "duration": "23m"
+        },
+        {
+          "title": "A Fish Called Selma",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart on the Road",
+          "duration": "23m"
+        },
+        {
+          "title": "22 Short Films About Springfield",
+          "duration": "23m"
+        },
+        {
+          "title": "Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying Hellfish'",
+          "duration": "23m"
+        },
+        {
+          "title": "Much Apu About Nothing",
+          "duration": "23m"
+        },
+        {
+          "title": "Homerpalooza",
+          "duration": "23m"
+        },
+        {
+          "title": "Summer of 4 Ft. 2",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Treehouse of Horror VII",
+          "duration": "23m"
+        },
+        {
+          "title": "You Only Move Twice",
+          "duration": "23m"
+        },
+        {
+          "title": "The Homer They Fall",
+          "duration": "23m"
+        },
+        {
+          "title": "Burns, Baby Burns",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart After Dark",
+          "duration": "23m"
+        },
+        {
+          "title": "A Milhouse Divided",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa's Date with Density",
+          "duration": "23m"
+        },
+        {
+          "title": "Hurricane Neddy",
+          "duration": "23m"
+        },
+        {
+          "title": "El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)",
+          "duration": "23m"
+        },
+        {
+          "title": "The Springfield Files",
+          "duration": "23m"
+        },
+        {
+          "title": "The Twisted World of Marge Simpson",
+          "duration": "23m"
+        },
+        {
+          "title": "Mountain of Madness",
+          "duration": "23m"
+        },
+        {
+          "title": "Simpsoncalifragilisticexpiala (Annoyed Grunt) cious",
+          "duration": "23m"
+        },
+        {
+          "title": "The Itchy & Scratchy & Poochie Show",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer's Phobia",
+          "duration": "23m"
+        },
+        {
+          "title": "Brother from Another Series",
+          "duration": "23m"
+        },
+        {
+          "title": "My Sister, My Sitter",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer vs. the Eighteenth Amendment",
+          "duration": "23m"
+        },
+        {
+          "title": "Grade School Confidential",
+          "duration": "23m"
+        },
+        {
+          "title": "The Canine Mutiny",
+          "duration": "23m"
+        },
+        {
+          "title": "The Old Man and the Lisa",
+          "duration": "23m"
+        },
+        {
+          "title": "In Marge We Trust",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer's Enemy",
+          "duration": "23m"
+        },
+        {
+          "title": "The Simpsons Spin-Off Showcase",
+          "duration": "23m"
+        },
+        {
+          "title": "The Secret War of Lisa Simpson",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The City of New York vs. Homer Simpson",
+          "duration": "23m"
+        },
+        {
+          "title": "The Principal and the Pauper",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa's Sax",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror VIII",
+          "duration": "23m"
+        },
+        {
+          "title": "The Cartridge Family",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart Star",
+          "duration": "23m"
+        },
+        {
+          "title": "The Two Mrs. Nahasapeemapetilons",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa the Skeptic",
+          "duration": "23m"
+        },
+        {
+          "title": "Realty Bites",
+          "duration": "23m"
+        },
+        {
+          "title": "Miracle on Evergreen Terrace",
+          "duration": "23m"
+        },
+        {
+          "title": "All Singing, All Dancing",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart Carny",
+          "duration": "23m"
+        },
+        {
+          "title": "The Joy of Sect",
+          "duration": "23m"
+        },
+        {
+          "title": "Das Bus",
+          "duration": "23m"
+        },
+        {
+          "title": "The Last Temptation of Krust",
+          "duration": "23m"
+        },
+        {
+          "title": "Dumbbell Indemnity",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa the Simpson",
+          "duration": "23m"
+        },
+        {
+          "title": "This Little Wiggy",
+          "duration": "23m"
+        },
+        {
+          "title": "Simpson Tide",
+          "duration": "23m"
+        },
+        {
+          "title": "The Trouble with Trillions",
+          "duration": "23m"
+        },
+        {
+          "title": "Girly Edition",
+          "duration": "23m"
+        },
+        {
+          "title": "Trash of the Titans",
+          "duration": "23m"
+        },
+        {
+          "title": "King of the Hill",
+          "duration": "23m"
+        },
+        {
+          "title": "Lost Our Lisa",
+          "duration": "23m"
+        },
+        {
+          "title": "Natural Born Kissers",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Lard of the Dance",
+          "duration": "23m"
+        },
+        {
+          "title": "The Wizard of Evergreen Terrace",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart the Mother",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror IX",
+          "duration": "23m"
+        },
+        {
+          "title": "When You Dish Upon a Star",
+          "duration": "23m"
+        },
+        {
+          "title": "D'oh-in' in the Wind",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa Gets an 'A'",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer Simpson in: 'Kidney Trouble'",
+          "duration": "23m"
+        },
+        {
+          "title": "Mayored to the Mob",
+          "duration": "23m"
+        },
+        {
+          "title": "Viva Ned Flanders",
+          "duration": "23m"
+        },
+        {
+          "title": "Wild Barts Can't Be Broken",
+          "duration": "23m"
+        },
+        {
+          "title": "Sunday, Cruddy Sunday",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer to the Max",
+          "duration": "23m"
+        },
+        {
+          "title": "I'm with Cupid",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge Simpson in: 'Screaming Yellow Honkers'",
+          "duration": "23m"
+        },
+        {
+          "title": "Make Room for Lisa",
+          "duration": "23m"
+        },
+        {
+          "title": "Maximum Homerdrive",
+          "duration": "23m"
+        },
+        {
+          "title": "Simpsons Bible Stories",
+          "duration": "23m"
+        },
+        {
+          "title": "Mom and Pop Art",
+          "duration": "23m"
+        },
+        {
+          "title": "The Old Man and the 'C' Student",
+          "duration": "23m"
+        },
+        {
+          "title": "Monty Can't Buy Me Love",
+          "duration": "23m"
+        },
+        {
+          "title": "They Saved Lisa's Brain",
+          "duration": "23m"
+        },
+        {
+          "title": "Thirty Minutes Over Tokyo",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Beyond Blunderdome",
+          "duration": "23m"
+        },
+        {
+          "title": "Brother's Little Helper",
+          "duration": "23m"
+        },
+        {
+          "title": "Guess Who's Coming to Criticize Dinner?",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror X",
+          "duration": "23m"
+        },
+        {
+          "title": "E-I-E-I-(Annoyed Grunt)",
+          "duration": "23m"
+        },
+        {
+          "title": "Hello Gutter, Hello Fadder",
+          "duration": "23m"
+        },
+        {
+          "title": "Eight Misbehavin'",
+          "duration": "23m"
+        },
+        {
+          "title": "Take My Wife, Sleaze",
+          "duration": "23m"
+        },
+        {
+          "title": "Grift of the Magi",
+          "duration": "23m"
+        },
+        {
+          "title": "Little Big Mom",
+          "duration": "23m"
+        },
+        {
+          "title": "Faith Off",
+          "duration": "23m"
+        },
+        {
+          "title": "The Mansion Family",
+          "duration": "23m"
+        },
+        {
+          "title": "Saddlesore Galactica",
+          "duration": "23m"
+        },
+        {
+          "title": "Alone Again, Natura-Diddily",
+          "duration": "23m"
+        },
+        {
+          "title": "Missionary: Impossible",
+          "duration": "23m"
+        },
+        {
+          "title": "Pygmoelian",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart to the Future",
+          "duration": "22m"
+        },
+        {
+          "title": "Days of Wine and D'oh'ses",
+          "duration": "23m"
+        },
+        {
+          "title": "Kill the Alligator and Run",
+          "duration": "23m"
+        },
+        {
+          "title": "Last Tap Dance in Springfield",
+          "duration": "23m"
+        },
+        {
+          "title": "It's a Mad, Mad, Mad, Mad Marge",
+          "duration": "23m"
+        },
+        {
+          "title": "Behind the Laughter",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Treehouse of Horror XI",
+          "duration": "23m"
+        },
+        {
+          "title": "A Tale of Two Springfields",
+          "duration": "22m"
+        },
+        {
+          "title": "Insane Clown Poppy",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa the Tree Hugger",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer vs. Dignity",
+          "duration": "22m"
+        },
+        {
+          "title": "The Computer Wore Menace Shoes",
+          "duration": "23m"
+        },
+        {
+          "title": "The Great Money Caper",
+          "duration": "23m"
+        },
+        {
+          "title": "Skinner's Sense of Snow",
+          "duration": "24m"
+        },
+        {
+          "title": "HOMЯ",
+          "duration": "23m"
+        },
+        {
+          "title": "Pokey Mom",
+          "duration": "23m"
+        },
+        {
+          "title": "Worst Episode Ever",
+          "duration": "23m"
+        },
+        {
+          "title": "Tennis the Menace",
+          "duration": "23m"
+        },
+        {
+          "title": "Day of the Jackanapes",
+          "duration": "23m"
+        },
+        {
+          "title": "New Kids on the Blecch",
+          "duration": "23m"
+        },
+        {
+          "title": "Hungry, Hungry Homer",
+          "duration": "23m"
+        },
+        {
+          "title": "Bye Bye Nerdie",
+          "duration": "23m"
+        },
+        {
+          "title": "Simpson Safari",
+          "duration": "23m"
+        },
+        {
+          "title": "Trilogy of Error",
+          "duration": "23m"
+        },
+        {
+          "title": "I'm Goin' to Praiseland",
+          "duration": "23m"
+        },
+        {
+          "title": "Children of a Lesser Clod",
+          "duration": "23m"
+        },
+        {
+          "title": "Simpsons Tall Tales",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Treehouse of Horror XII",
+          "duration": "23m"
+        },
+        {
+          "title": "The Parent Rap",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer the Moe",
+          "duration": "23m"
+        },
+        {
+          "title": "A Hunka Hunka Burns in Love",
+          "duration": "23m"
+        },
+        {
+          "title": "The Blunder Years",
+          "duration": "23m"
+        },
+        {
+          "title": "She of Little Faith",
+          "duration": "23m"
+        },
+        {
+          "title": "Brawl in the Family",
+          "duration": "23m"
+        },
+        {
+          "title": "Sweets and Sour Marge",
+          "duration": "23m"
+        },
+        {
+          "title": "Jaws Wired Shut",
+          "duration": "23m"
+        },
+        {
+          "title": "Half-Decent Proposal",
+          "duration": "23m"
+        },
+        {
+          "title": "The Bart Wants What It Wants",
+          "duration": "23m"
+        },
+        {
+          "title": "The Lastest Gun in the West",
+          "duration": "23m"
+        },
+        {
+          "title": "The Old Man and the Key",
+          "duration": "22m"
+        },
+        {
+          "title": "Tales from the Public Domain",
+          "duration": "23m"
+        },
+        {
+          "title": "Blame It on Lisa",
+          "duration": "23m"
+        },
+        {
+          "title": "Weekend at Burnsie's",
+          "duration": "23m"
+        },
+        {
+          "title": "Gump Roast",
+          "duration": "22m"
+        },
+        {
+          "title": "I Am Furious (Yellow)",
+          "duration": "23m"
+        },
+        {
+          "title": "The Sweetest Apu",
+          "duration": "22m"
+        },
+        {
+          "title": "Little Girl in the Big Ten",
+          "duration": "23m"
+        },
+        {
+          "title": "The Frying Game",
+          "duration": "22m"
+        },
+        {
+          "title": "Poppa's Got a Brand New Badge",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Treehouse of Horror XIII",
+          "duration": "23m"
+        },
+        {
+          "title": "How I Spent My Strummer Vacation",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart vs. Lisa vs. the Third Grade",
+          "duration": "22m"
+        },
+        {
+          "title": "Large Marge",
+          "duration": "23m"
+        },
+        {
+          "title": "Helter Shelter",
+          "duration": "23m"
+        },
+        {
+          "title": "The Great Louse Detective",
+          "duration": "23m"
+        },
+        {
+          "title": "Special Edna",
+          "duration": "23m"
+        },
+        {
+          "title": "The Dad Who Knew Too Little",
+          "duration": "23m"
+        },
+        {
+          "title": "The Strong Arms of the Ma",
+          "duration": "22m"
+        },
+        {
+          "title": "Pray Anything",
+          "duration": "22m"
+        },
+        {
+          "title": "Barting Over",
+          "duration": "23m"
+        },
+        {
+          "title": "I'm Spelling as Fast as I Can",
+          "duration": "23m"
+        },
+        {
+          "title": "A Star is Born-Again",
+          "duration": "23m"
+        },
+        {
+          "title": "Mr. Spritz Goes to Washington",
+          "duration": "23m"
+        },
+        {
+          "title": "C. E. D'oh",
+          "duration": "23m"
+        },
+        {
+          "title": "'Scuse Me While I Miss the Sky",
+          "duration": "23m"
+        },
+        {
+          "title": "Three Gays of the Condo",
+          "duration": "23m"
+        },
+        {
+          "title": "Dude, Where's My Ranch?",
+          "duration": "23m"
+        },
+        {
+          "title": "Old Yeller-Belly",
+          "duration": "23m"
+        },
+        {
+          "title": "Brake My Wife, Please",
+          "duration": "23m"
+        },
+        {
+          "title": "The Bart of War",
+          "duration": "23m"
+        },
+        {
+          "title": "Moe Baby Blues",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Treehouse of Horror XIV",
+          "duration": "23m"
+        },
+        {
+          "title": "My Mother the Carjacker",
+          "duration": "23m"
+        },
+        {
+          "title": "The President Wore Pearls",
+          "duration": "23m"
+        },
+        {
+          "title": "The Regina Monologues",
+          "duration": "23m"
+        },
+        {
+          "title": "The Fat and the Furriest",
+          "duration": "22m"
+        },
+        {
+          "title": "Today I Am a Clown",
+          "duration": "23m"
+        },
+        {
+          "title": "'Tis the Fifteenth Season",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays",
+          "duration": "23m"
+        },
+        {
+          "title": "I, (Annoyed Grunt)-Bot",
+          "duration": "23m"
+        },
+        {
+          "title": "Diatribe of a Mad Housewife",
+          "duration": "23m"
+        },
+        {
+          "title": "Margical History Tour",
+          "duration": "23m"
+        },
+        {
+          "title": "Milhouse Doesn't Live Here Anymore",
+          "duration": "23m"
+        },
+        {
+          "title": "Smart & Smarter",
+          "duration": "23m"
+        },
+        {
+          "title": "The Ziff Who Came to Dinner",
+          "duration": "23m"
+        },
+        {
+          "title": "Co-Dependents' Day",
+          "duration": "23m"
+        },
+        {
+          "title": "The Wandering Juvie",
+          "duration": "23m"
+        },
+        {
+          "title": "My Big Fat Geek Wedding",
+          "duration": "23m"
+        },
+        {
+          "title": "Catch 'Em If You Can",
+          "duration": "23m"
+        },
+        {
+          "title": "Simple Simpson",
+          "duration": "23m"
+        },
+        {
+          "title": "The Way We Weren't",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart-Mangled Banner",
+          "duration": "23m"
+        },
+        {
+          "title": "Fraudcast News",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Treehouse of Horror XV",
+          "duration": "23m"
+        },
+        {
+          "title": "All's Fair in Oven War",
+          "duration": "23m"
+        },
+        {
+          "title": "Sleeping with the Enemy",
+          "duration": "23m"
+        },
+        {
+          "title": "She Used to Be My Girl",
+          "duration": "23m"
+        },
+        {
+          "title": "Fat Man and Little Boy",
+          "duration": "23m"
+        },
+        {
+          "title": "Midnight Rx",
+          "duration": "23m"
+        },
+        {
+          "title": "Mommie Beerest",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer and Ned's Hail Mary Pass",
+          "duration": "23m"
+        },
+        {
+          "title": "Pranksta Rap",
+          "duration": "23m"
+        },
+        {
+          "title": "There's Something About Marrying",
+          "duration": "23m"
+        },
+        {
+          "title": "On a Clear Day I Can't See My Sister",
+          "duration": "23m"
+        },
+        {
+          "title": "Goo Goo Gai Pan",
+          "duration": "23m"
+        },
+        {
+          "title": "Mobile Homer",
+          "duration": "23m"
+        },
+        {
+          "title": "The Seven-Beer Snitch",
+          "duration": "23m"
+        },
+        {
+          "title": "Future-Drama",
+          "duration": "23m"
+        },
+        {
+          "title": "Don't Fear the Roofer",
+          "duration": "23m"
+        },
+        {
+          "title": "The Heartbroke Kid",
+          "duration": "23m"
+        },
+        {
+          "title": "A Star Is Torn",
+          "duration": "23m"
+        },
+        {
+          "title": "Thank God It's Doomsday",
+          "duration": "23m"
+        },
+        {
+          "title": "Home Away from Homer",
+          "duration": "23m"
+        },
+        {
+          "title": "The Father, the Son and the Holy Guest Star",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Bonfire of the Manatees",
+          "duration": "22m"
+        },
+        {
+          "title": "The Girl Who Slept Too Little",
+          "duration": "23m"
+        },
+        {
+          "title": "Milhouse of Sand and Fog",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XVI",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge's Son Poisoning",
+          "duration": "23m"
+        },
+        {
+          "title": "See Homer Run",
+          "duration": "23m"
+        },
+        {
+          "title": "The Last of the Red Hat Mamas",
+          "duration": "23m"
+        },
+        {
+          "title": "The Italian Bob",
+          "duration": "23m"
+        },
+        {
+          "title": "Simpsons Christmas Stories",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer's Paternity Coot",
+          "duration": "23m"
+        },
+        {
+          "title": "We're on the Road to D'ohwhere",
+          "duration": "23m"
+        },
+        {
+          "title": "My Fair Laddy",
+          "duration": "23m"
+        },
+        {
+          "title": "The Seemingly Never-Ending Story",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart Has Two Mommies",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer Simpson, This Is Your Wife",
+          "duration": "22m"
+        },
+        {
+          "title": "Million Dollar Abie",
+          "duration": "23m"
+        },
+        {
+          "title": "Kiss Kiss, Bang Bangalore",
+          "duration": "23m"
+        },
+        {
+          "title": "The Wettest Stories Ever Told",
+          "duration": "23m"
+        },
+        {
+          "title": "Girls Just Want to Have Sums",
+          "duration": "23m"
+        },
+        {
+          "title": "Regarding Margie",
+          "duration": "23m"
+        },
+        {
+          "title": "The Monkey Suit",
+          "duration": "22m"
+        },
+        {
+          "title": "Marge and Homer Turn a Couple Play",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Mook, the Chef, the Wife and Her Homer",
+          "duration": "22m"
+        },
+        {
+          "title": "Jazzy and the Pussycats",
+          "duration": "23m"
+        },
+        {
+          "title": "Please Homer, Don't Hammer 'Em",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XVII",
+          "duration": "23m"
+        },
+        {
+          "title": "G.I. (Annoyed Grunt)",
+          "duration": "22m"
+        },
+        {
+          "title": "Moe'N'a Lisa",
+          "duration": "23m"
+        },
+        {
+          "title": "Ice Cream of Margie (With the Light Blue Hair)",
+          "duration": "23m"
+        },
+        {
+          "title": "The Haw-Hawed Couple",
+          "duration": "23m"
+        },
+        {
+          "title": "Kill Gil, Volumes I & II",
+          "duration": "23m"
+        },
+        {
+          "title": "The Wife Aquatic",
+          "duration": "22m"
+        },
+        {
+          "title": "Revenge Is a Dish Best Served Three Times",
+          "duration": "23m"
+        },
+        {
+          "title": "Little Big Girl",
+          "duration": "22m"
+        },
+        {
+          "title": "Springfield Up",
+          "duration": "23m"
+        },
+        {
+          "title": "Yokel Chords",
+          "duration": "23m"
+        },
+        {
+          "title": "Rome-Old and Juli-Eh",
+          "duration": "22m"
+        },
+        {
+          "title": "Homerazzi",
+          "duration": "22m"
+        },
+        {
+          "title": "Marge Gamer",
+          "duration": "23m"
+        },
+        {
+          "title": "The Boys of Bummer",
+          "duration": "23m"
+        },
+        {
+          "title": "Crook and Ladder",
+          "duration": "23m"
+        },
+        {
+          "title": "Stop or My Dog Will Shoot!",
+          "duration": "23m"
+        },
+        {
+          "title": "24 Minutes",
+          "duration": "23m"
+        },
+        {
+          "title": "You Kent Always Say What You Want",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "He Loves to Fly and He D'ohs",
+          "duration": "22m"
+        },
+        {
+          "title": "The Homer of Seville",
+          "duration": "23m"
+        },
+        {
+          "title": "Midnight Towboy",
+          "duration": "23m"
+        },
+        {
+          "title": "I Don't Wanna Know Why the Caged Bird Sings",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XVIII",
+          "duration": "23m"
+        },
+        {
+          "title": "Little Orphan Millie",
+          "duration": "23m"
+        },
+        {
+          "title": "Husbands and Knives",
+          "duration": "23m"
+        },
+        {
+          "title": "Funeral for a Fiend",
+          "duration": "23m"
+        },
+        {
+          "title": "Eternal Moonshine of the Simpson Mind",
+          "duration": "23m"
+        },
+        {
+          "title": "E Pluribus Wiggum",
+          "duration": "23m"
+        },
+        {
+          "title": "That 90's Show",
+          "duration": "23m"
+        },
+        {
+          "title": "Love, Springfieldian Style",
+          "duration": "23m"
+        },
+        {
+          "title": "The Debarted",
+          "duration": "23m"
+        },
+        {
+          "title": "Dial 'N' for Nerder",
+          "duration": "23m"
+        },
+        {
+          "title": "Smoke on the Daughter",
+          "duration": "23m"
+        },
+        {
+          "title": "Papa Don't Leech",
+          "duration": "23m"
+        },
+        {
+          "title": "Apocalypse Cow",
+          "duration": "23m"
+        },
+        {
+          "title": "Any Given Sundance",
+          "duration": "23m"
+        },
+        {
+          "title": "Mona Leaves-a",
+          "duration": "23m"
+        },
+        {
+          "title": "All About Lisa",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Sex, Pies and Idiot Scrapes",
+          "duration": "23m"
+        },
+        {
+          "title": "Lost Verizon",
+          "duration": "23m"
+        },
+        {
+          "title": "Double, Double, Boy in Trouble",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XIX",
+          "duration": "23m"
+        },
+        {
+          "title": "Dangerous Curves",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer and Lisa Exchange Cross Words",
+          "duration": "23m"
+        },
+        {
+          "title": "Mypods and Boomsticks",
+          "duration": "23m"
+        },
+        {
+          "title": "The Burns and the Bees",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa the Drama Queen",
+          "duration": "22m"
+        },
+        {
+          "title": "Take My Life, Please",
+          "duration": "22m"
+        },
+        {
+          "title": "How the Test Was Won",
+          "duration": "22m"
+        },
+        {
+          "title": "No Loan Again, Naturally",
+          "duration": "22m"
+        },
+        {
+          "title": "Gone Maggie Gone",
+          "duration": "23m"
+        },
+        {
+          "title": "In the Name of the Grandfather",
+          "duration": "23m"
+        },
+        {
+          "title": "Wedding for Disaster",
+          "duration": "23m"
+        },
+        {
+          "title": "Eeny Teeny Maya Moe",
+          "duration": "23m"
+        },
+        {
+          "title": "The Good, the Sad and the Drugly",
+          "duration": "23m"
+        },
+        {
+          "title": "Father Knows Worst",
+          "duration": "23m"
+        },
+        {
+          "title": "Waverly Hills 9-0-2-1-D'oh",
+          "duration": "23m"
+        },
+        {
+          "title": "Four Great Women and a Manicure",
+          "duration": "23m"
+        },
+        {
+          "title": "Coming to Homerica",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Homer the Whopper",
+          "duration": "22m"
+        },
+        {
+          "title": "Bart Gets a 'Z'",
+          "duration": "23m"
+        },
+        {
+          "title": "The Great Wife Hope",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XX",
+          "duration": "23m"
+        },
+        {
+          "title": "The Devil Wears Nada",
+          "duration": "23m"
+        },
+        {
+          "title": "Pranks and Greens",
+          "duration": "22m"
+        },
+        {
+          "title": "Rednecks and Broomsticks",
+          "duration": "22m"
+        },
+        {
+          "title": "Oh Brother, Where Bart Thou?",
+          "duration": "23m"
+        },
+        {
+          "title": "Thursdays with Abie",
+          "duration": "23m"
+        },
+        {
+          "title": "Once Upon a Time in Springfield",
+          "duration": "22m"
+        },
+        {
+          "title": "Million Dollar Maybe",
+          "duration": "23m"
+        },
+        {
+          "title": "Boy Meets Curl",
+          "duration": "23m"
+        },
+        {
+          "title": "The Color Yellow",
+          "duration": "23m"
+        },
+        {
+          "title": "Postcards from the Wedge",
+          "duration": "23m"
+        },
+        {
+          "title": "Stealing First Base",
+          "duration": "22m"
+        },
+        {
+          "title": "The Greatest Story Ever D'ohed",
+          "duration": "23m"
+        },
+        {
+          "title": "American History X-cellent",
+          "duration": "22m"
+        },
+        {
+          "title": "Chief of Hearts",
+          "duration": "22m"
+        },
+        {
+          "title": "The Squirt and the Whale",
+          "duration": "22m"
+        },
+        {
+          "title": "To Surveil with Love",
+          "duration": "22m"
+        },
+        {
+          "title": "Moe Letter Blues",
+          "duration": "22m"
+        },
+        {
+          "title": "The Bob Next Door",
+          "duration": "22m"
+        },
+        {
+          "title": "Judge Me Tender",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Elementary School Musical",
+          "duration": "23m"
+        },
+        {
+          "title": "Loan-a-Lisa",
+          "duration": "23m"
+        },
+        {
+          "title": "MoneyBART",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXI",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa Simpson, This Isn't Your Life",
+          "duration": "23m"
+        },
+        {
+          "title": "The Fool Monty",
+          "duration": "23m"
+        },
+        {
+          "title": "How Munched Is That Birdie in the Window?",
+          "duration": "22m"
+        },
+        {
+          "title": "The Fight Before Christmas",
+          "duration": "23m"
+        },
+        {
+          "title": "Donnie Fatso",
+          "duration": "23m"
+        },
+        {
+          "title": "Moms I'd Like to Forget",
+          "duration": "22m"
+        },
+        {
+          "title": "Flaming Moe",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer the Father",
+          "duration": "22m"
+        },
+        {
+          "title": "The Blue and the Gray",
+          "duration": "23m"
+        },
+        {
+          "title": "Angry Dad: The Movie",
+          "duration": "23m"
+        },
+        {
+          "title": "The Scorpion's Tale",
+          "duration": "23m"
+        },
+        {
+          "title": "A Midsummer's Nice Dream",
+          "duration": "22m"
+        },
+        {
+          "title": "Love Is a Many Strangled Thing",
+          "duration": "22m"
+        },
+        {
+          "title": "The Great Simpsina",
+          "duration": "23m"
+        },
+        {
+          "title": "The Real Housewives of Fat Tony",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer Scissorhands",
+          "duration": "23m"
+        },
+        {
+          "title": "500 Keys",
+          "duration": "23m"
+        },
+        {
+          "title": "The Ned-liest Catch",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Falcon and the D'ohman",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart Stops to Smell the Roosevelts",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XXII",
+          "duration": "23m"
+        },
+        {
+          "title": "Replaceable You",
+          "duration": "23m"
+        },
+        {
+          "title": "The Food Wife",
+          "duration": "23m"
+        },
+        {
+          "title": "The Book Job",
+          "duration": "23m"
+        },
+        {
+          "title": "The Man in the Blue Flannel Pants",
+          "duration": "23m"
+        },
+        {
+          "title": "The Ten-Per-Cent Solution",
+          "duration": "23m"
+        },
+        {
+          "title": "Holidays of Future Passed",
+          "duration": "23m"
+        },
+        {
+          "title": "Politically Inept, with Homer Simpson",
+          "duration": "23m"
+        },
+        {
+          "title": "The D'oh-cial Network",
+          "duration": "23m"
+        },
+        {
+          "title": "Moe Goes from Rags to Riches",
+          "duration": "23m"
+        },
+        {
+          "title": "The Daughter Also Rises",
+          "duration": "23m"
+        },
+        {
+          "title": "At Long Last Leave",
+          "duration": "22m"
+        },
+        {
+          "title": "Exit Through the Kwik-E-Mart",
+          "duration": "23m"
+        },
+        {
+          "title": "How I Wet Your Mother",
+          "duration": "23m"
+        },
+        {
+          "title": "Them, Robot",
+          "duration": "22m"
+        },
+        {
+          "title": "Beware My Cheating Bart",
+          "duration": "23m"
+        },
+        {
+          "title": "A Totally Fun Thing That Bart Will Never Do Again",
+          "duration": "23m"
+        },
+        {
+          "title": "The Spy Who Learned Me",
+          "duration": "23m"
+        },
+        {
+          "title": "Ned 'n Edna's Blend Agenda",
+          "duration": "22m"
+        },
+        {
+          "title": "Lisa Goes Gaga",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Moonshine River",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXIII",
+          "duration": "23m"
+        },
+        {
+          "title": "Adventures in Baby-Getting",
+          "duration": "22m"
+        },
+        {
+          "title": "Gone Abie Gone",
+          "duration": "23m"
+        },
+        {
+          "title": "Penny-Wiseguys",
+          "duration": "22m"
+        },
+        {
+          "title": "A Tree Grows in Springfield",
+          "duration": "23m"
+        },
+        {
+          "title": "The Day the Earth Stood Cool",
+          "duration": "23m"
+        },
+        {
+          "title": "To Cur, with Love",
+          "duration": "22m"
+        },
+        {
+          "title": "Homer Goes to Prep School",
+          "duration": "22m"
+        },
+        {
+          "title": "A Test Before Trying",
+          "duration": "23m"
+        },
+        {
+          "title": "The Changing of the Guardian",
+          "duration": "22m"
+        },
+        {
+          "title": "Love Is a Many-Splintered Thing",
+          "duration": "22m"
+        },
+        {
+          "title": "Hardly Kirk-ing",
+          "duration": "22m"
+        },
+        {
+          "title": "Gorgeous Grampa",
+          "duration": "23m"
+        },
+        {
+          "title": "Black-Eyed, Please",
+          "duration": "22m"
+        },
+        {
+          "title": "Dark Knight Court",
+          "duration": "23m"
+        },
+        {
+          "title": "What Animated Women Want",
+          "duration": "23m"
+        },
+        {
+          "title": "Pulpit Friction",
+          "duration": "23m"
+        },
+        {
+          "title": "Whiskey Business",
+          "duration": "23m"
+        },
+        {
+          "title": "The Fabulous Faker Boy",
+          "duration": "23m"
+        },
+        {
+          "title": "The Saga of Carl",
+          "duration": "23m"
+        },
+        {
+          "title": "Dangers on a Train",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Homerland",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXIV",
+          "duration": "23m"
+        },
+        {
+          "title": "Four Regrettings and a Funeral",
+          "duration": "22m"
+        },
+        {
+          "title": "YOLO",
+          "duration": "22m"
+        },
+        {
+          "title": "Labor Pains",
+          "duration": "22m"
+        },
+        {
+          "title": "The Kid Is All Right",
+          "duration": "23m"
+        },
+        {
+          "title": "Yellow Subterfuge",
+          "duration": "22m"
+        },
+        {
+          "title": "White Christmas Blues",
+          "duration": "22m"
+        },
+        {
+          "title": "Steal This Episode",
+          "duration": "23m"
+        },
+        {
+          "title": "Married to the Blob",
+          "duration": "22m"
+        },
+        {
+          "title": "Specs and the City",
+          "duration": "23m"
+        },
+        {
+          "title": "Diggs",
+          "duration": "23m"
+        },
+        {
+          "title": "The Man Who Grew Too Much",
+          "duration": "22m"
+        },
+        {
+          "title": "The Winter of His Content",
+          "duration": "22m"
+        },
+        {
+          "title": "The War of Art",
+          "duration": "23m"
+        },
+        {
+          "title": "You Don't Have to Live Like a Referee",
+          "duration": "23m"
+        },
+        {
+          "title": "Luca$",
+          "duration": "23m"
+        },
+        {
+          "title": "Days of Future Future",
+          "duration": "23m"
+        },
+        {
+          "title": "What to Expect When Bart's Expecting",
+          "duration": "22m"
+        },
+        {
+          "title": "Brick Like Me",
+          "duration": "23m"
+        },
+        {
+          "title": "Pay Pal",
+          "duration": "22m"
+        },
+        {
+          "title": "The Yellow Badge of Cowardge",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Clown in the Dumps",
+          "duration": "22m"
+        },
+        {
+          "title": "The Wreck of the Relationship",
+          "duration": "23m"
+        },
+        {
+          "title": "Super Franchise Me",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXV",
+          "duration": "23m"
+        },
+        {
+          "title": "Opposites A-Frack",
+          "duration": "23m"
+        },
+        {
+          "title": "Simpsorama",
+          "duration": "22m"
+        },
+        {
+          "title": "Blazed and Confused",
+          "duration": "22m"
+        },
+        {
+          "title": "Covercraft",
+          "duration": "23m"
+        },
+        {
+          "title": "I Won't Be Home for Christmas",
+          "duration": "22m"
+        },
+        {
+          "title": "The Man Who Came to Be Dinner",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart's New Friend",
+          "duration": "22m"
+        },
+        {
+          "title": "The Musk Who Fell to Earth",
+          "duration": "22m"
+        },
+        {
+          "title": "Walking Big & Tall",
+          "duration": "23m"
+        },
+        {
+          "title": "My Fare Lady",
+          "duration": "22m"
+        },
+        {
+          "title": "The Princess Guide",
+          "duration": "23m"
+        },
+        {
+          "title": "Sky Police",
+          "duration": "23m"
+        },
+        {
+          "title": "Waiting for Duffman",
+          "duration": "23m"
+        },
+        {
+          "title": "Peeping Mom",
+          "duration": "23m"
+        },
+        {
+          "title": "The Kids Are All Fight",
+          "duration": "22m"
+        },
+        {
+          "title": "Let's Go Fly a Coot",
+          "duration": "23m"
+        },
+        {
+          "title": "Bull-E",
+          "duration": "23m"
+        },
+        {
+          "title": "Mathlete's Feat",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Every Man's Dream",
+          "duration": "22m"
+        },
+        {
+          "title": "Cue Detective",
+          "duration": "23m"
+        },
+        {
+          "title": "Puffless",
+          "duration": "23m"
+        },
+        {
+          "title": "Halloween of Horror",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XXVI",
+          "duration": "22m"
+        },
+        {
+          "title": "Friend with Benefit",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa with an 'S'",
+          "duration": "22m"
+        },
+        {
+          "title": "Paths of Glory",
+          "duration": "23m"
+        },
+        {
+          "title": "Barthood",
+          "duration": "23m"
+        },
+        {
+          "title": "The Girl Code",
+          "duration": "23m"
+        },
+        {
+          "title": "Teenage Mutant Milk-Caused Hurdles",
+          "duration": "22m"
+        },
+        {
+          "title": "Much Apu About Something",
+          "duration": "22m"
+        },
+        {
+          "title": "Love Is in the N2-O2-Ar-CO2-Ne-He-CH4",
+          "duration": "22m"
+        },
+        {
+          "title": "Gal of Constant Sorrow",
+          "duration": "22m"
+        },
+        {
+          "title": "Lisa the Veterinarian",
+          "duration": "23m"
+        },
+        {
+          "title": "The Marge-ian Chronicles",
+          "duration": "23m"
+        },
+        {
+          "title": "The Burns Cage",
+          "duration": "22m"
+        },
+        {
+          "title": "How Lisa Got Her Marge Back",
+          "duration": "22m"
+        },
+        {
+          "title": "Fland Canyon",
+          "duration": "22m"
+        },
+        {
+          "title": "To Courier with Love",
+          "duration": "22m"
+        },
+        {
+          "title": "Simprovised",
+          "duration": "23m"
+        },
+        {
+          "title": "Orange is the New Yellow",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Monty Burns' Fleeing Circus",
+          "duration": "22m"
+        },
+        {
+          "title": "Friends and Family",
+          "duration": "22m"
+        },
+        {
+          "title": "The Town",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XXVII",
+          "duration": "23m"
+        },
+        {
+          "title": "Trust But Clarify",
+          "duration": "22m"
+        },
+        {
+          "title": "There Will Be Buds",
+          "duration": "23m"
+        },
+        {
+          "title": "Havana Wild Weekend",
+          "duration": "22m"
+        },
+        {
+          "title": "Dad Behavior",
+          "duration": "22m"
+        },
+        {
+          "title": "The Last Traction Hero",
+          "duration": "23m"
+        },
+        {
+          "title": "The Nightmare After Krustmas",
+          "duration": "22m"
+        },
+        {
+          "title": "Pork and Burns",
+          "duration": "22m"
+        },
+        {
+          "title": "The Great Phatsby (1)",
+          "duration": "22m"
+        },
+        {
+          "title": "The Great Phatsby (2)",
+          "duration": "22m"
+        },
+        {
+          "title": "Fatzcarraldo",
+          "duration": "22m"
+        },
+        {
+          "title": "The Cad and the Hat",
+          "duration": "22m"
+        },
+        {
+          "title": "Kamp Krustier",
+          "duration": "22m"
+        },
+        {
+          "title": "22 for 30",
+          "duration": "23m"
+        },
+        {
+          "title": "A Father's Watch",
+          "duration": "22m"
+        },
+        {
+          "title": "The Caper Chase",
+          "duration": "23m"
+        },
+        {
+          "title": "Looking for Mr. Goodbart",
+          "duration": "22m"
+        },
+        {
+          "title": "Moho House",
+          "duration": "23m"
+        },
+        {
+          "title": "Dogtown",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Serfsons",
+          "duration": "23m"
+        },
+        {
+          "title": "Springfield Splendor",
+          "duration": "23m"
+        },
+        {
+          "title": "Whistler's Father",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXVIII",
+          "duration": "22m"
+        },
+        {
+          "title": "Grampy Can Ya Hear Me",
+          "duration": "22m"
+        },
+        {
+          "title": "The Old Blue Mayor She Ain't What She Used to Be",
+          "duration": "22m"
+        },
+        {
+          "title": "Singin' in the Lane",
+          "duration": "22m"
+        },
+        {
+          "title": "Mr. Lisa's Opus",
+          "duration": "22m"
+        },
+        {
+          "title": "Gone Boy",
+          "duration": "22m"
+        },
+        {
+          "title": "Haw-Haw Land",
+          "duration": "23m"
+        },
+        {
+          "title": "Frink Gets Testy",
+          "duration": "22m"
+        },
+        {
+          "title": "Homer Is Where the Art Isn't",
+          "duration": "22m"
+        },
+        {
+          "title": "3 Scenes Plus a Tag from a Marriage",
+          "duration": "23m"
+        },
+        {
+          "title": "Fears of a Clown",
+          "duration": "22m"
+        },
+        {
+          "title": "No Good Read Goes Unpunished",
+          "duration": "22m"
+        },
+        {
+          "title": "King Leer",
+          "duration": "23m"
+        },
+        {
+          "title": "Lisa Gets the Blues",
+          "duration": "22m"
+        },
+        {
+          "title": "Forgive and Regret",
+          "duration": "23m"
+        },
+        {
+          "title": "Left Behind",
+          "duration": "22m"
+        },
+        {
+          "title": "Throw Grampa from the Dane",
+          "duration": "23m"
+        },
+        {
+          "title": "Flanders' Ladder",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Bart's Not Dead",
+          "duration": "22m"
+        },
+        {
+          "title": "Heartbreak Hotel",
+          "duration": "23m"
+        },
+        {
+          "title": "My Way or the Highway to Heaven",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XXIX",
+          "duration": "23m"
+        },
+        {
+          "title": "Baby You Can't Drive My Car",
+          "duration": "22m"
+        },
+        {
+          "title": "From Russia Without Love",
+          "duration": "23m"
+        },
+        {
+          "title": "Werking Mom",
+          "duration": "23m"
+        },
+        {
+          "title": "Krusty the Clown",
+          "duration": "23m"
+        },
+        {
+          "title": "Daddicus Finch",
+          "duration": "22m"
+        },
+        {
+          "title": "'Tis the 30th Season",
+          "duration": "22m"
+        },
+        {
+          "title": "Mad About the Toy",
+          "duration": "23m"
+        },
+        {
+          "title": "The Girl on the Bus",
+          "duration": "23m"
+        },
+        {
+          "title": "I'm Dancing as Fat as I Can",
+          "duration": "23m"
+        },
+        {
+          "title": "The Clown Stays in the Picture",
+          "duration": "23m"
+        },
+        {
+          "title": "101 Mitigations",
+          "duration": "22m"
+        },
+        {
+          "title": "I Want You (She's So Heavy)",
+          "duration": "22m"
+        },
+        {
+          "title": "E My Sports",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart vs. Itchy & Scratchy",
+          "duration": "23m"
+        },
+        {
+          "title": "Girl's in the Band",
+          "duration": "22m"
+        },
+        {
+          "title": "I'm Just a Girl Who Can't Say D'oh",
+          "duration": "22m"
+        },
+        {
+          "title": "D'oh Canada",
+          "duration": "22m"
+        },
+        {
+          "title": "Woo-Hoo Dunnit?",
+          "duration": "23m"
+        },
+        {
+          "title": "Crystal Blue-Haired Persuasion",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Winter of Our Monetized Content",
+          "duration": "22m"
+        },
+        {
+          "title": "Go Big or Go Homer",
+          "duration": "23m"
+        },
+        {
+          "title": "The Fat Blue Line",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XXX",
+          "duration": "23m"
+        },
+        {
+          "title": "Gorillas on the Mast",
+          "duration": "23m"
+        },
+        {
+          "title": "Marge the Lumberjill",
+          "duration": "23m"
+        },
+        {
+          "title": "Livin La Pura Vida",
+          "duration": "23m"
+        },
+        {
+          "title": "Thanksgiving of Horror",
+          "duration": "27m"
+        },
+        {
+          "title": "Todd, Todd, Why Hast Thou Forsaken Me?",
+          "duration": "22m"
+        },
+        {
+          "title": "Bobby: It's Cold Outside",
+          "duration": "23m"
+        },
+        {
+          "title": "Hail to the Teeth",
+          "duration": "23m"
+        },
+        {
+          "title": "The Miseducation of Lisa Simpson",
+          "duration": "23m"
+        },
+        {
+          "title": "Frinkcoin",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart the Bad Guy",
+          "duration": "23m"
+        },
+        {
+          "title": "Screenless",
+          "duration": "23m"
+        },
+        {
+          "title": "Better Off Ned",
+          "duration": "23m"
+        },
+        {
+          "title": "Highway to Well",
+          "duration": "23m"
+        },
+        {
+          "title": "The Incredible Lightness of Being a Baby",
+          "duration": "23m"
+        },
+        {
+          "title": "Warrin' Priests (1)",
+          "duration": "23m"
+        },
+        {
+          "title": "Warrin' Priests (2)",
+          "duration": "23m"
+        },
+        {
+          "title": "The Hateful Eight-Year-Olds",
+          "duration": "23m"
+        },
+        {
+          "title": "The Way of the Dog",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Undercover Burns",
+          "duration": "22m"
+        },
+        {
+          "title": "I, Carumbus",
+          "duration": "22m"
+        },
+        {
+          "title": "Now Museum, Now You Don't",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXXI",
+          "duration": "22m"
+        },
+        {
+          "title": "The 7 Beer Itch",
+          "duration": "22m"
+        },
+        {
+          "title": "Podcast News",
+          "duration": "22m"
+        },
+        {
+          "title": "Three Dreams Denied",
+          "duration": "22m"
+        },
+        {
+          "title": "The Road to Cincinnati",
+          "duration": "22m"
+        },
+        {
+          "title": "Sorry Not Sorry",
+          "duration": "22m"
+        },
+        {
+          "title": "A Springfield Summer Christmas for Christmas",
+          "duration": "22m"
+        },
+        {
+          "title": "The Dad Feelings Limited",
+          "duration": "22m"
+        },
+        {
+          "title": "Diary Queen",
+          "duration": "22m"
+        },
+        {
+          "title": "Wad Goals",
+          "duration": "22m"
+        },
+        {
+          "title": "Yokel Hero",
+          "duration": "22m"
+        },
+        {
+          "title": "Do Pizza Bots Dream of Electric Guitars",
+          "duration": "22m"
+        },
+        {
+          "title": "Manger Things",
+          "duration": "22m"
+        },
+        {
+          "title": "Uncut Femmes",
+          "duration": "22m"
+        },
+        {
+          "title": "Burger Kings",
+          "duration": "22m"
+        },
+        {
+          "title": "Panic on the Streets of Springfield",
+          "duration": "24m"
+        },
+        {
+          "title": "Mother and Child Reunion",
+          "duration": "22m"
+        },
+        {
+          "title": "The Man from G.R.A.M.P.A.",
+          "duration": "22m"
+        },
+        {
+          "title": "The Last Barfighter",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Star of the Backstage",
+          "duration": "22m"
+        },
+        {
+          "title": "Bart's in Jail",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXXII",
+          "duration": "22m"
+        },
+        {
+          "title": "The Wayz We Were",
+          "duration": "22m"
+        },
+        {
+          "title": "Lisa's Belly",
+          "duration": "22m"
+        },
+        {
+          "title": "A Serious Flanders (1)",
+          "duration": "22m"
+        },
+        {
+          "title": "A Serious Flanders (2)",
+          "duration": "22m"
+        },
+        {
+          "title": "Portrait of a Lackey on Fire",
+          "duration": "22m"
+        },
+        {
+          "title": "Mothers and Other Strangers",
+          "duration": "22m"
+        },
+        {
+          "title": "A Made Maggie",
+          "duration": "22m"
+        },
+        {
+          "title": "The Longest Marge",
+          "duration": "22m"
+        },
+        {
+          "title": "Pixelated and Afraid",
+          "duration": "22m"
+        },
+        {
+          "title": "Boyz N the Highlands",
+          "duration": "22m"
+        },
+        {
+          "title": "You Won't Believe What This Episode Is About -- Act Three Will Shock You!",
+          "duration": "22m"
+        },
+        {
+          "title": "Bart the Cool Kid",
+          "duration": "22m"
+        },
+        {
+          "title": "Pretty Whittle Liar",
+          "duration": "22m"
+        },
+        {
+          "title": "The Sound of Bleeding Gums",
+          "duration": "22m"
+        },
+        {
+          "title": "My Octopus and a Teacher",
+          "duration": "22m"
+        },
+        {
+          "title": "Girls Just Shauna Have Fun",
+          "duration": "22m"
+        },
+        {
+          "title": "Marge the Meanie",
+          "duration": "22m"
+        },
+        {
+          "title": "Meat Is Murder",
+          "duration": "22m"
+        },
+        {
+          "title": "Poorhouse Rock",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Habeas Tortoise",
+          "duration": "22m"
+        },
+        {
+          "title": "One Angry Lisa",
+          "duration": "22m"
+        },
+        {
+          "title": "Lisa the Boy Scout",
+          "duration": "22m"
+        },
+        {
+          "title": "The King of Nice",
+          "duration": "22m"
+        },
+        {
+          "title": "Not It",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXXIII",
+          "duration": "22m"
+        },
+        {
+          "title": "From Beer to Paternity",
+          "duration": "22m"
+        },
+        {
+          "title": "Step Brother from the Same Planet",
+          "duration": "22m"
+        },
+        {
+          "title": "When Nelson Met Lisa",
+          "duration": "22m"
+        },
+        {
+          "title": "Game Done Changed",
+          "duration": "22m"
+        },
+        {
+          "title": "Top Goon",
+          "duration": "22m"
+        },
+        {
+          "title": "My Life as a Vlog",
+          "duration": "22m"
+        },
+        {
+          "title": "The Many Saints of Springfield",
+          "duration": "22m"
+        },
+        {
+          "title": "Carl Carlson Rides Again",
+          "duration": "22m"
+        },
+        {
+          "title": "Bartless",
+          "duration": "22m"
+        },
+        {
+          "title": "Hostile Kirk Place",
+          "duration": "22m"
+        },
+        {
+          "title": "Pin Gal",
+          "duration": "22m"
+        },
+        {
+          "title": "Fan-ily Feud",
+          "duration": "22m"
+        },
+        {
+          "title": "Write Off This Episode",
+          "duration": "22m"
+        },
+        {
+          "title": "The Very Hungry Caterpillars",
+          "duration": "22m"
+        },
+        {
+          "title": "Clown v. Board of Education",
+          "duration": "22m"
+        },
+        {
+          "title": "Homer's Adventures Through the Windshield Glass",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Homer's Crossing",
+          "duration": "22m"
+        },
+        {
+          "title": "A Mid-Childhood Night's Dream",
+          "duration": "22m"
+        },
+        {
+          "title": "McMansion & Wife",
+          "duration": "22m"
+        },
+        {
+          "title": "Thirst Trap: A Corporate Love Story",
+          "duration": "22m"
+        },
+        {
+          "title": "Treehouse of Horror XXXIV",
+          "duration": "22m"
+        },
+        {
+          "title": "Iron Marge",
+          "duration": "22m"
+        },
+        {
+          "title": "It's a Blunderful Life",
+          "duration": "22m"
+        },
+        {
+          "title": "AE Bonny Romance",
+          "duration": "22m"
+        },
+        {
+          "title": "Murder, She Boat",
+          "duration": "22m"
+        },
+        {
+          "title": "Do the Wrong Thing",
+          "duration": "22m"
+        },
+        {
+          "title": "Frinkenstein's Monster",
+          "duration": "22m"
+        },
+        {
+          "title": "Lisa Gets an F1",
+          "duration": "22m"
+        },
+        {
+          "title": "Clan of the Cave Mom",
+          "duration": "22m"
+        },
+        {
+          "title": "Night of the Living Wage",
+          "duration": "22m"
+        },
+        {
+          "title": "Cremains of the Day",
+          "duration": "22m"
+        },
+        {
+          "title": "The Tell-Tale Pants",
+          "duration": "22m"
+        },
+        {
+          "title": "The Tipping Point",
+          "duration": "22m"
+        },
+        {
+          "title": "Bart's Brain",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Bart's Birthday",
+          "duration": "23m"
+        },
+        {
+          "title": "The Yellow Lotus",
+          "duration": "23m"
+        },
+        {
+          "title": "Desperately Seeking Lisa",
+          "duration": "24m"
+        },
+        {
+          "title": "Shoddy Heat",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XXXV",
+          "duration": "24m"
+        },
+        {
+          "title": "Women in Shorts",
+          "duration": "24m"
+        },
+        {
+          "title": "Treehouse of Horror Presents: Simpsons Wicked This Way Comes",
+          "duration": "23m"
+        },
+        {
+          "title": "Convenience Airways",
+          "duration": "23m"
+        },
+        {
+          "title": "Homer and Her Sisters",
+          "duration": "24m"
+        },
+        {
+          "title": "The Man Who Flew Too Much",
+          "duration": "23m"
+        },
+        {
+          "title": "Bottle Episode",
+          "duration": "24m"
+        },
+        {
+          "title": "The Flandshees of Innersimpson",
+          "duration": "22m"
+        },
+        {
+          "title": "The Last Man Expanding",
+          "duration": "23m"
+        },
+        {
+          "title": "P.S. I Hate You",
+          "duration": "23m"
+        },
+        {
+          "title": "Abe League of Their Moe",
+          "duration": "23m"
+        },
+        {
+          "title": "Stew Lies",
+          "duration": "23m"
+        },
+        {
+          "title": "Full Heart, Empty Pool",
+          "duration": "23m"
+        },
+        {
+          "title": "Estranger Things",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Thrifty Ways to Thieve Your Mother",
+          "duration": "23m"
+        },
+        {
+          "title": "Keep Chalm and Gary On",
+          "duration": "23m"
+        },
+        {
+          "title": "Treehouse of Horror XXXVI",
+          "duration": "24m"
+        },
+        {
+          "title": "Men Behaving Manly",
+          "duration": "23m"
+        },
+        {
+          "title": "Bad Boys... for Life?",
+          "duration": "23m"
+        },
+        {
+          "title": "Bart 'N' Frink",
+          "duration": "23m"
+        },
+        {
+          "title": "Sashes to Sashes",
+          "duration": "23m"
+        },
+        {
+          "title": "The Day of the Jack-Up",
+          "duration": "23m"
+        },
+        {
+          "title": "Aunt Misbehavin'",
+          "duration": "23m"
+        },
+        {
+          "title": "Guess Who's Coming to Skinner",
+          "duration": "23m"
+        },
+        {
+          "title": "Parahormonal Activity",
+          "duration": "24m"
+        },
+        {
+          "title": "¡The Fall Guy-Yi-Yi!",
+          "duration": "24m"
+        },
+        {
+          "title": "Seperance",
+          "duration": "22m"
+        },
+        {
+          "title": "Irrational Treasure [800th episode]",
+          "duration": "24m"
+        },
+        {
+          "title": "Homer? A Cracker Bro?",
+          "duration": "23m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt0386676",
+  "title": "The Office",
+  "type": "series",
+  "release": 2005,
+  "duration": "9 Seasons",
+  "quality": "4K",
+  "description": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Rainn Wilson",
+    "John Krasinski",
+    "Jenna Fischer",
+    "Ed Helms"
+  ],
+  "director": "Greg Daniels",
+  "country": "US",
+  "rating": "8.6",
+  "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+  "trailer": "https://www.youtube.com/embed/-C2z-nshFts",
+  "baseviews": "1.3M",
+  "popularity": 77,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Pilot",
+          "duration": "24m"
+        },
+        {
+          "title": "Diversity Day",
+          "duration": "22m"
+        },
+        {
+          "title": "Health Care",
+          "duration": "23m"
+        },
+        {
+          "title": "The Alliance",
+          "duration": "22m"
+        },
+        {
+          "title": "Basketball",
+          "duration": "23m"
+        },
+        {
+          "title": "Hot Girl",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Dundies",
+          "duration": "21m"
+        },
+        {
+          "title": "Sexual Harassment",
+          "duration": "22m"
+        },
+        {
+          "title": "Office Olympics",
+          "duration": "22m"
+        },
+        {
+          "title": "The Fire",
+          "duration": "22m"
+        },
+        {
+          "title": "Halloween",
+          "duration": "22m"
+        },
+        {
+          "title": "The Fight",
+          "duration": "22m"
+        },
+        {
+          "title": "The Client",
+          "duration": "22m"
+        },
+        {
+          "title": "Performance Review",
+          "duration": "22m"
+        },
+        {
+          "title": "Email Surveillance",
+          "duration": "23m"
+        },
+        {
+          "title": "Christmas Party",
+          "duration": "22m"
+        },
+        {
+          "title": "Booze Cruise",
+          "duration": "22m"
+        },
+        {
+          "title": "The Injury",
+          "duration": "22m"
+        },
+        {
+          "title": "The Secret",
+          "duration": "22m"
+        },
+        {
+          "title": "The Carpet",
+          "duration": "22m"
+        },
+        {
+          "title": "Boys and Girls",
+          "duration": "22m"
+        },
+        {
+          "title": "Valentine's Day",
+          "duration": "22m"
+        },
+        {
+          "title": "Dwight's Speech",
+          "duration": "22m"
+        },
+        {
+          "title": "Take Your Daughter to Work Day",
+          "duration": "21m"
+        },
+        {
+          "title": "Michael's Birthday",
+          "duration": "22m"
+        },
+        {
+          "title": "Drug Testing",
+          "duration": "22m"
+        },
+        {
+          "title": "Conflict Resolution",
+          "duration": "22m"
+        },
+        {
+          "title": "Casino Night",
+          "duration": "29m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Gay Witch Hunt",
+          "duration": "22m"
+        },
+        {
+          "title": "The Convention",
+          "duration": "22m"
+        },
+        {
+          "title": "The Coup",
+          "duration": "22m"
+        },
+        {
+          "title": "Grief Counseling",
+          "duration": "22m"
+        },
+        {
+          "title": "Initiation",
+          "duration": "22m"
+        },
+        {
+          "title": "Diwali",
+          "duration": "22m"
+        },
+        {
+          "title": "Branch Closing",
+          "duration": "31m"
+        },
+        {
+          "title": "The Merger",
+          "duration": "31m"
+        },
+        {
+          "title": "The Convict",
+          "duration": "22m"
+        },
+        {
+          "title": "A Benihana Christmas",
+          "duration": "42m"
+        },
+        {
+          "title": "Back from Vacation",
+          "duration": "22m"
+        },
+        {
+          "title": "Traveling Salesmen",
+          "duration": "22m"
+        },
+        {
+          "title": "The Return",
+          "duration": "29m"
+        },
+        {
+          "title": "Ben Franklin",
+          "duration": "22m"
+        },
+        {
+          "title": "Phyllis' Wedding",
+          "duration": "22m"
+        },
+        {
+          "title": "Business School",
+          "duration": "22m"
+        },
+        {
+          "title": "Cocktails",
+          "duration": "22m"
+        },
+        {
+          "title": "The Negotiation",
+          "duration": "22m"
+        },
+        {
+          "title": "Safety Training",
+          "duration": "22m"
+        },
+        {
+          "title": "Product Recall",
+          "duration": "22m"
+        },
+        {
+          "title": "Women's Appreciation",
+          "duration": "29m"
+        },
+        {
+          "title": "Beach Games",
+          "duration": "28m"
+        },
+        {
+          "title": "The Job",
+          "duration": "43m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Fun Run",
+          "duration": "42m"
+        },
+        {
+          "title": "Dunder Mifflin Infinity",
+          "duration": "42m"
+        },
+        {
+          "title": "Launch Party",
+          "duration": "42m"
+        },
+        {
+          "title": "Money",
+          "duration": "42m"
+        },
+        {
+          "title": "Local Ad",
+          "duration": "22m"
+        },
+        {
+          "title": "Branch Wars",
+          "duration": "22m"
+        },
+        {
+          "title": "Survivor Man",
+          "duration": "22m"
+        },
+        {
+          "title": "The Deposition",
+          "duration": "22m"
+        },
+        {
+          "title": "Dinner Party",
+          "duration": "23m"
+        },
+        {
+          "title": "Chair Model",
+          "duration": "22m"
+        },
+        {
+          "title": "Night Out",
+          "duration": "22m"
+        },
+        {
+          "title": "Did I Stutter?",
+          "duration": "23m"
+        },
+        {
+          "title": "Job Fair",
+          "duration": "21m"
+        },
+        {
+          "title": "Goodbye Toby",
+          "duration": "42m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Weight Loss",
+          "duration": "42m"
+        },
+        {
+          "title": "Business Ethics",
+          "duration": "22m"
+        },
+        {
+          "title": "Baby Shower",
+          "duration": "22m"
+        },
+        {
+          "title": "Crime Aid",
+          "duration": "22m"
+        },
+        {
+          "title": "Employee Transfer",
+          "duration": "22m"
+        },
+        {
+          "title": "Customer Survey",
+          "duration": "22m"
+        },
+        {
+          "title": "Business Trip",
+          "duration": "22m"
+        },
+        {
+          "title": "Frame Toby",
+          "duration": "22m"
+        },
+        {
+          "title": "The Surplus",
+          "duration": "22m"
+        },
+        {
+          "title": "Moroccan Christmas",
+          "duration": "22m"
+        },
+        {
+          "title": "The Duel",
+          "duration": "22m"
+        },
+        {
+          "title": "Prince Family Paper",
+          "duration": "22m"
+        },
+        {
+          "title": "Stress Relief",
+          "duration": "42m"
+        },
+        {
+          "title": "Lecture Circuit (1)",
+          "duration": "22m"
+        },
+        {
+          "title": "Lecture Circuit (2)",
+          "duration": "22m"
+        },
+        {
+          "title": "Blood Drive",
+          "duration": "22m"
+        },
+        {
+          "title": "Golden Ticket",
+          "duration": "22m"
+        },
+        {
+          "title": "New Boss",
+          "duration": "22m"
+        },
+        {
+          "title": "Two Weeks",
+          "duration": "22m"
+        },
+        {
+          "title": "Dream Team",
+          "duration": "22m"
+        },
+        {
+          "title": "Michael Scott Paper Company",
+          "duration": "22m"
+        },
+        {
+          "title": "Heavy Competition",
+          "duration": "22m"
+        },
+        {
+          "title": "Broke",
+          "duration": "22m"
+        },
+        {
+          "title": "Casual Friday",
+          "duration": "22m"
+        },
+        {
+          "title": "Cafe Disco",
+          "duration": "22m"
+        },
+        {
+          "title": "Company Picnic",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Gossip",
+          "duration": "23m"
+        },
+        {
+          "title": "The Meeting",
+          "duration": "23m"
+        },
+        {
+          "title": "The Promotion",
+          "duration": "23m"
+        },
+        {
+          "title": "Niagara",
+          "duration": "45m"
+        },
+        {
+          "title": "Mafia",
+          "duration": "23m"
+        },
+        {
+          "title": "The Lover",
+          "duration": "23m"
+        },
+        {
+          "title": "Koi Pond",
+          "duration": "23m"
+        },
+        {
+          "title": "Double Date",
+          "duration": "23m"
+        },
+        {
+          "title": "Murder",
+          "duration": "23m"
+        },
+        {
+          "title": "Shareholder Meeting",
+          "duration": "23m"
+        },
+        {
+          "title": "Scott's Tots",
+          "duration": "23m"
+        },
+        {
+          "title": "Secret Santa",
+          "duration": "23m"
+        },
+        {
+          "title": "The Banker",
+          "duration": "23m"
+        },
+        {
+          "title": "Sabre",
+          "duration": "23m"
+        },
+        {
+          "title": "The Manager and the Salesman",
+          "duration": "23m"
+        },
+        {
+          "title": "The Delivery",
+          "duration": "45m"
+        },
+        {
+          "title": "St. Patrick's Day",
+          "duration": "23m"
+        },
+        {
+          "title": "New Leads",
+          "duration": "23m"
+        },
+        {
+          "title": "Happy Hour",
+          "duration": "23m"
+        },
+        {
+          "title": "Secretary's Day",
+          "duration": "23m"
+        },
+        {
+          "title": "Body Language",
+          "duration": "23m"
+        },
+        {
+          "title": "The Cover-Up",
+          "duration": "23m"
+        },
+        {
+          "title": "The Chump",
+          "duration": "23m"
+        },
+        {
+          "title": "Whistleblower",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Nepotism",
+          "duration": "23m"
+        },
+        {
+          "title": "Counseling",
+          "duration": "23m"
+        },
+        {
+          "title": "Andy's Play",
+          "duration": "23m"
+        },
+        {
+          "title": "Sex Ed",
+          "duration": "23m"
+        },
+        {
+          "title": "The Sting",
+          "duration": "23m"
+        },
+        {
+          "title": "Costume Contest",
+          "duration": "23m"
+        },
+        {
+          "title": "Christening",
+          "duration": "23m"
+        },
+        {
+          "title": "Viewing Party",
+          "duration": "23m"
+        },
+        {
+          "title": "WUPHF.com",
+          "duration": "23m"
+        },
+        {
+          "title": "China",
+          "duration": "23m"
+        },
+        {
+          "title": "Classy Christmas",
+          "duration": "45m"
+        },
+        {
+          "title": "Ultimatum",
+          "duration": "23m"
+        },
+        {
+          "title": "The Seminar",
+          "duration": "23m"
+        },
+        {
+          "title": "The Search",
+          "duration": "23m"
+        },
+        {
+          "title": "PDA",
+          "duration": "23m"
+        },
+        {
+          "title": "Threat Level Midnight",
+          "duration": "23m"
+        },
+        {
+          "title": "Todd Packer",
+          "duration": "23m"
+        },
+        {
+          "title": "Garage Sale",
+          "duration": "23m"
+        },
+        {
+          "title": "Training Day",
+          "duration": "23m"
+        },
+        {
+          "title": "Michael's Last Dundies",
+          "duration": "23m"
+        },
+        {
+          "title": "Goodbye, Michael",
+          "duration": "37m"
+        },
+        {
+          "title": "The Inner Circle",
+          "duration": "23m"
+        },
+        {
+          "title": "Dwight K. Schrute, (Acting) Manager",
+          "duration": "23m"
+        },
+        {
+          "title": "Search Committee",
+          "duration": "44m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The List",
+          "duration": "23m"
+        },
+        {
+          "title": "The Incentive",
+          "duration": "23m"
+        },
+        {
+          "title": "Lotto",
+          "duration": "23m"
+        },
+        {
+          "title": "Garden Party",
+          "duration": "23m"
+        },
+        {
+          "title": "Spooked",
+          "duration": "23m"
+        },
+        {
+          "title": "Doomsday",
+          "duration": "23m"
+        },
+        {
+          "title": "Pam's Replacement",
+          "duration": "23m"
+        },
+        {
+          "title": "Gettysburg",
+          "duration": "23m"
+        },
+        {
+          "title": "Mrs. California",
+          "duration": "23m"
+        },
+        {
+          "title": "Christmas Wishes",
+          "duration": "23m"
+        },
+        {
+          "title": "Trivia",
+          "duration": "23m"
+        },
+        {
+          "title": "Pool Party",
+          "duration": "23m"
+        },
+        {
+          "title": "Jury Duty",
+          "duration": "23m"
+        },
+        {
+          "title": "Special Project",
+          "duration": "23m"
+        },
+        {
+          "title": "Tallahassee",
+          "duration": "23m"
+        },
+        {
+          "title": "After Hours",
+          "duration": "23m"
+        },
+        {
+          "title": "Test the Store",
+          "duration": "23m"
+        },
+        {
+          "title": "Last Day in Florida",
+          "duration": "23m"
+        },
+        {
+          "title": "Get the Girl",
+          "duration": "23m"
+        },
+        {
+          "title": "Welcome Party",
+          "duration": "23m"
+        },
+        {
+          "title": "Angry Andy",
+          "duration": "23m"
+        },
+        {
+          "title": "Fundraiser",
+          "duration": "23m"
+        },
+        {
+          "title": "Turf War",
+          "duration": "23m"
+        },
+        {
+          "title": "Free Family Portrait Studio",
+          "duration": "23m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "New Guys",
+          "duration": "23m"
+        },
+        {
+          "title": "Roy's Wedding",
+          "duration": "23m"
+        },
+        {
+          "title": "Andy's Ancestry",
+          "duration": "23m"
+        },
+        {
+          "title": "Work Bus",
+          "duration": "22m"
+        },
+        {
+          "title": "Here Comes Treble",
+          "duration": "23m"
+        },
+        {
+          "title": "The Boat",
+          "duration": "23m"
+        },
+        {
+          "title": "The Whale",
+          "duration": "23m"
+        },
+        {
+          "title": "The Target",
+          "duration": "23m"
+        },
+        {
+          "title": "Dwight Christmas",
+          "duration": "22m"
+        },
+        {
+          "title": "Lice",
+          "duration": "23m"
+        },
+        {
+          "title": "Suit Warehouse",
+          "duration": "22m"
+        },
+        {
+          "title": "Customer Loyalty",
+          "duration": "23m"
+        },
+        {
+          "title": "Junior Salesman",
+          "duration": "23m"
+        },
+        {
+          "title": "Vandalism",
+          "duration": "23m"
+        },
+        {
+          "title": "Couples Discount",
+          "duration": "22m"
+        },
+        {
+          "title": "Moving On",
+          "duration": "45m"
+        },
+        {
+          "title": "The Farm",
+          "duration": "23m"
+        },
+        {
+          "title": "Promos",
+          "duration": "23m"
+        },
+        {
+          "title": "Stairmageddon",
+          "duration": "22m"
+        },
+        {
+          "title": "Paper Airplane",
+          "duration": "23m"
+        },
+        {
+          "title": "Livin' the Dream",
+          "duration": "44m"
+        },
+        {
+          "title": "A.A.R.M.",
+          "duration": "45m"
+        },
+        {
+          "title": "Finale",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt0076759",
+  "title": "Star Wars: Episode IV - A New Hope",
+  "type": "movie",
+  "release": 1977,
+  "duration": "121 min",
+  "quality": "HD",
+  "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher"
+  ],
+  "director": "George Lucas",
+  "country": "United States",
+  "rating": "8.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt0080684",
+  "title": "Star Wars: Episode V - The Empire Strikes Back",
+  "type": "movie",
+  "release": 1980,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher"
+  ],
+  "director": "Irvin Kershner",
+  "country": "United States",
+  "rating": "8.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt0086190",
+  "title": "Star Wars: Episode VI - Return of the Jedi",
+  "type": "movie",
+  "release": 1983,
+  "duration": "131 min",
+  "quality": "HD",
+  "description": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher"
+  ],
+  "director": "Richard Marquand",
+  "country": "United States",
+  "rating": "8.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt0120915",
+  "title": "Star Wars: Episode I - The Phantom Menace",
+  "type": "movie",
+  "release": 1999,
+  "duration": "136 min",
+  "quality": "HD",
+  "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their former glory.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Ewan McGregor",
+    "Liam Neeson",
+    "Natalie Portman"
+  ],
+  "director": "George Lucas",
+  "country": "United States, United Kingdom",
+  "rating": "6.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt0121766",
+  "title": "Star Wars: Episode III - Revenge of the Sith",
+  "type": "movie",
+  "release": 2005,
+  "duration": "140 min",
+  "quality": "HD",
+  "description": "As the Clone Wars nears its end, Obi-Wan Kenobi pursues a new threat, while Anakin Skywalker is lured by Chancellor Palpatine into a sinister plot for galactic domination.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Hayden Christensen",
+    "Natalie Portman",
+    "Ewan McGregor"
+  ],
+  "director": "George Lucas",
+  "country": "United States, Italy, Switzerland, Thailand, United Kingdom",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt0121765",
+  "title": "Star Wars: Episode II - Attack of the Clones",
+  "type": "movie",
+  "release": 2002,
+  "duration": "142 min",
+  "quality": "HD",
+  "description": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Hayden Christensen",
+    "Natalie Portman",
+    "Ewan McGregor"
+  ],
+  "director": "George Lucas",
+  "country": "United States, United Kingdom",
+  "rating": "6.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt2488496",
+  "title": "Star Wars: Episode VII - The Force Awakens",
+  "type": "movie",
+  "release": 2015,
+  "duration": "138 min",
+  "quality": "HD",
+  "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Daisy Ridley",
+    "John Boyega",
+    "Oscar Isaac"
+  ],
+  "director": "J.J. Abrams",
+  "country": "United States, United Kingdom",
+  "rating": "7.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt2527336",
+  "title": "Star Wars: Episode VIII - The Last Jedi",
+  "type": "movie",
+  "release": 2017,
+  "duration": "152 min",
+  "quality": "HD",
+  "description": "Rey develops her abilities with the help of Luke Skywalker as the Resistance prepares for battle against the First Order.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Daisy Ridley",
+    "John Boyega",
+    "Mark Hamill"
+  ],
+  "director": "Rian Johnson",
+  "country": "United States",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt2527338",
+  "title": "Star Wars: Episode IX - The Rise of Skywalker",
+  "type": "movie",
+  "release": 2019,
+  "duration": "141 min",
+  "quality": "HD",
+  "description": "The surviving Resistance faces the First Order once again.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Daisy Ridley",
+    "John Boyega",
+    "Oscar Isaac"
+  ],
+  "director": "J.J. Abrams",
+  "country": "United States, United Kingdom",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg5ZTNmMTUtYThlNy00NjljLWE0MGUtYmQ1NDg4NWU5MjQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt3748528",
+  "title": "Rogue One: A Star Wars Story",
+  "type": "movie",
+  "release": 2016,
+  "duration": "133 min",
+  "quality": "HD",
+  "description": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Felicity Jones",
+    "Diego Luna",
+    "Alan Tudyk"
+  ],
+  "director": "Gareth Edwards",
+  "country": "United States",
+  "rating": "7.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt3778644",
+  "title": "Solo: A Star Wars Story",
+  "type": "movie",
+  "release": 2018,
+  "duration": "135 min",
+  "quality": "HD",
+  "description": "During an adventure in the criminal underworld, Han Solo meets his future co-pilot Chewbacca and Lando Calrissian years before joining the Rebel Alliance.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Alden Ehrenreich",
+    "Woody Harrelson",
+    "Emilia Clarke"
+  ],
+  "director": "Ron Howard",
+  "country": "United States",
+  "rating": "6.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+{
+  "imdb": "tt0081505",
+  "title": "The Shining",
+  "type": "movie",
+  "release": 1980,
+  "duration": "146 min",
+  "quality": "HD",
+  "description": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+  "genre": [
+    "Drama",
+    "Horror"
+  ],
+  "actors": [
+    "Jack Nicholson",
+    "Shelley Duvall",
+    "Danny Lloyd"
+  ],
+  "director": "Stanley Kubrick",
+  "country": "United Kingdom, United States",
+  "rating": "8.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt0078748",
+  "title": "Alien",
+  "type": "movie",
+  "release": 1979,
+  "duration": "117 min",
+  "quality": "HD",
+  "description": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+  "genre": [
+    "Horror",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Sigourney Weaver",
+    "Tom Skerritt",
+    "John Hurt"
+  ],
+  "director": "Ridley Scott",
+  "country": "United Kingdom, United States",
+  "rating": "8.5",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt0073195",
+  "title": "Jaws",
+  "type": "movie",
+  "release": 1975,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+  "genre": [
+    "Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "Roy Scheider",
+    "Robert Shaw",
+    "Richard Dreyfuss"
+  ],
+  "director": "Steven Spielberg",
+  "country": "United States",
+  "rating": "8.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt0084787",
+  "title": "The Thing",
+  "type": "movie",
+  "release": 1982,
+  "duration": "109 min",
+  "quality": "HD",
+  "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Kurt Russell",
+    "Wilford Brimley",
+    "Keith David"
+  ],
+  "director": "John Carpenter",
+  "country": "United States",
+  "rating": "8.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt0167404",
+  "title": "The Sixth Sense",
+  "type": "movie",
+  "release": 1999,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "After being shot by a resentful former patient whom he failed to help, a Philadelphia child psychologist seeks redemption by treating a young boy with a disturbing secret.",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Bruce Willis",
+    "Haley Joel Osment",
+    "Toni Collette"
+  ],
+  "director": "M. Night Shyamalan",
+  "country": "United States",
+  "rating": "8.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt0177789",
+  "title": "Galaxy Quest",
+  "type": "movie",
+  "release": 1999,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Tim Allen",
+    "Sigourney Weaver",
+    "Alan Rickman"
+  ],
+  "director": "Dean Parisot",
+  "country": "United States",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJkYmNhMGMtMDYyNC00ZDEyLWE2ZjAtYTg5OWViODJlNDdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt0298130",
+  "title": "The Ring",
+  "type": "movie",
+  "release": 2002,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "actors": [
+    "Naomi Watts",
+    "Martin Henderson",
+    "Brian Cox"
+  ],
+  "director": "Gore Verbinski",
+  "country": "United States, Japan",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt0387564",
+  "title": "Saw",
+  "type": "movie",
+  "release": 2004,
+  "duration": "103 min",
+  "quality": "HD",
+  "description": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Cary Elwes",
+    "Leigh Whannell",
+    "Danny Glover"
+  ],
+  "director": "James Wan",
+  "country": "United States",
+  "rating": "7.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt0421715",
+  "title": "The Curious Case of Benjamin Button",
+  "type": "movie",
+  "release": 2008,
+  "duration": "166 min",
+  "quality": "HD",
+  "description": "Benjamin Button, born in 1918 with the physical state of an elderly man, ages in reverse. He experiences love and break-ups, ecstasy and sorrow, and timelessness by the time he dies in 2003 as a baby.",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "actors": [
+    "Brad Pitt",
+    "Cate Blanchett",
+    "Tilda Swinton"
+  ],
+  "director": "David Fincher",
+  "country": "United States",
+  "rating": "7.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjIyNDExOWItM2Y4ZC00NmY3LWFlN2ItYTJlZDQ1NTJlZTUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt1127180",
+  "title": "Drag Me to Hell",
+  "type": "movie",
+  "release": 2009,
+  "duration": "99 min",
+  "quality": "HD",
+  "description": "An ambitious loan officer must find a way to shatter a curse that threatens her soul with damnation.",
+  "genre": [
+    "Horror"
+  ],
+  "actors": [
+    "Alison Lohman",
+    "Justin Long",
+    "Ruth Livier"
+  ],
+  "director": "Sam Raimi",
+  "country": "United States, India",
+  "rating": "6.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNTMyNjc5Ml5BMl5BanBnXkFtZTcwOTI2MTQ0Mg@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+
+{
+  "imdb": "tt1179904",
+  "title": "Paranormal Activity",
+  "type": "movie",
+  "release": 2007,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence.",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "actors": [
+    "Katie Featherston",
+    "Micah Sloat",
+    "Mark Fredrichs"
+  ],
+  "director": "Oren Peli",
+  "country": "United States",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY1NjcxODQ4MV5BMl5BanBnXkFtZTcwMzUxNjM4Mg@@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt1591095",
+  "title": "Insidious",
+  "type": "movie",
+  "release": 2011,
+  "duration": "103 min",
+  "quality": "HD",
+  "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Patrick Wilson",
+    "Rose Byrne",
+    "Ty Simpkins"
+  ],
+  "director": "James Wan",
+  "country": "United States, Canada",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt1935859",
+  "title": "Miss Peregrine's Home for Peculiar Children",
+  "type": "movie",
+  "release": 2016,
+  "duration": "127 min",
+  "quality": "HD",
+  "description": "When Jacob discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "actors": [
+    "Eva Green",
+    "Asa Butterfield",
+    "Samuel L. Jackson"
+  ],
+  "director": "Tim Burton",
+  "country": "United States, United Kingdom, Belgium, Canada",
+  "rating": "6.7",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc5NzI5NV5BMl5BanBnXkFtZTgwNTk1MDE4MDI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt2380307",
+  "title": "Coco",
+  "type": "movie",
+  "release": 2017,
+  "duration": "105 min",
+  "quality": "HD",
+  "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "actors": [
+    "Anthony Gonzalez",
+    "Gael García Bernal",
+    "Benjamin Bratt"
+  ],
+  "director": "Adrian Molina, Lee Unkrich",
+  "country": "United States, Mexico",
+  "rating": "8.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt3170832",
+  "title": "Room",
+  "type": "movie",
+  "release": 2015,
+  "duration": "118 min",
+  "quality": "HD",
+  "description": "A little boy is held captive in a room with his mother since his birth, so he has never known the world outside.",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "actors": [
+    "Brie Larson",
+    "Jacob Tremblay",
+    "Sean Bridgers"
+  ],
+  "director": "Lenny Abrahamson",
+  "country": "Ireland, Canada, United Kingdom, United States",
+  "rating": "8.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt3289956",
+  "title": "The Autopsy of Jane Doe",
+  "type": "movie",
+  "release": 2016,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "Father and son coroners investigate the death of a beautiful Jane Doe.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Brian Cox",
+    "Emile Hirsch",
+    "Ophelia Lovibond"
+  ],
+  "director": "André Øvredal",
+  "country": "United Kingdom",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt4263482",
+  "title": "The Witch",
+  "type": "movie",
+  "release": 2016,
+  "duration": "92 min",
+  "quality": "HD",
+  "description": "An isolated Puritan family in 1630s New England comes unraveled by the forces of witchcraft and possession.",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "actors": [
+    "Anya Taylor-Joy",
+    "Ralph Ineson",
+    "Kate Dickie"
+  ],
+  "director": "Robert Eggers",
+  "country": "United Kingdom, Canada, United States",
+  "rating": "7.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt4786282",
+  "title": "Lights Out",
+  "type": "movie",
+  "release": 2016,
+  "duration": "81 min",
+  "quality": "HD",
+  "description": "A supernatural entity reemerges to terrorize a family when the lights go out at night.",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "actors": [
+    "Teresa Palmer",
+    "Gabriel Bateman",
+    "Maria Bello"
+  ],
+  "director": "David F. Sandberg",
+  "country": "United States",
+  "rating": "6.3",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGUyNmQxNjQtNjU1OS00YTExLWFjMGUtNWVhN2Y0MGE2ZmZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt5109784",
+  "title": "Mother!",
+  "type": "movie",
+  "release": 2017,
+  "duration": "121 min",
+  "quality": "HD",
+  "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "actors": [
+    "Jennifer Lawrence",
+    "Javier Bardem",
+    "Ed Harris"
+  ],
+  "director": "Darren Aronofsky",
+  "country": "United States, Canada",
+  "rating": "6.6",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt5628302",
+  "title": "Beast",
+  "type": "movie",
+  "release": 2017,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "A troubled woman living in an isolated community finds herself pulled between the control of her oppressive family and the allure of a secretive outsider suspected of a series of brutal murders.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Jessie Buckley",
+    "Geraldine James",
+    "Oliver Maltman"
+  ],
+  "director": "Michael Pearce",
+  "country": "United Kingdom",
+  "rating": "6.8",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIwNzRiNTMtMGFlNi00YzUzLTk2NGUtOWQ0YjNkNjc0NjNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt9495224",
+  "title": "Black Mirror: Bandersnatch",
+  "type": "movie",
+  "release": 2018,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "A young programmer starts to question reality when he adapts a mad writer's fantasy novel into a video game.",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "actors": [
+    "Fionn Whitehead",
+    "Craig Parkinson",
+    "Alice Lowe"
+  ],
+  "director": "David Slade",
+  "country": "United Kingdom, United States",
+  "rating": "7.1",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM5MzgzMjM3OF5BMl5BanBnXkFtZTgwMzQ2MzQwNzM@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt10384108",
+  "title": "Chasing Unicorns",
+  "type": "movie",
+  "release": 2019,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "Chasing Unicorns follows a young startup entrepreneur Õie and a serial failure Tõnu on their crazy ride from small town Estonia to Silicon Valley - and back.",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Liisa Pulk",
+    "Henrik Kalmet",
+    "Johann Urb"
+  ],
+  "director": "Rain Rannu",
+  "country": "Estonia",
+  "rating": "6.9",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmIyNTViYjMtOTcxZC00MTIwLWE4OTMtMjQ3ZDM0NjQyMGEzXkEyXkFqcGdeQXVyNTc0OTkyODU@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt11703710",
+  "title": "Downton Abbey: A New Era",
+  "type": "movie",
+  "release": 2022,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "The Crawleys go on a grand journey to the south of France to uncover the mystery of the Dowager Countess' newly inherited villa.",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Hugh Bonneville",
+    "Jim Carter",
+    "Michelle Dockery"
+  ],
+  "director": "Simon Curtis",
+  "country": "United Kingdom, United States",
+  "rating": "7.4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDg5ZGI2OGYtYzYyZS00NzdkLThjYmQtNTI2N2RlMTg3ZjFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt12507976",
+  "title": "Ici Lyon (Carnet Filmé: 23 août 2019)",
+  "type": "movie",
+  "release": 2019,
+  "duration": "75 min",
+  "quality": "HD",
+  "description": "N/A",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Les Habitants de Lyon"
+  ],
+  "director": "Gérard Courant",
+  "country": "France",
+  "rating": null,
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt17351924",
+  "title": "Saltburn",
+  "type": "movie",
+  "release": 2023,
+  "duration": "131 min",
+  "quality": "HD",
+  "description": "A student at Oxford University finds himself drawn into the world of a charming and aristocratic classmate, who invites him to his eccentric family's sprawling estate for a summer never to be forgotten.",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "actors": [
+    "Barry Keoghan",
+    "Jacob Elordi",
+    "Rosamund Pike"
+  ],
+  "director": "Emerald Fennell",
+  "country": "United Kingdom, United States",
+  "rating": "7.0",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjk4NGE3MWItMDRhMy00YzhiLTk0MGUtZDlkNmQxYWIxYzc2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
     {
   "imdb": "tt0944947",
   "title": "Game of Thrones",
