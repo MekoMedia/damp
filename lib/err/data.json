@@ -1,6 +1,3714 @@
 {
   "movies": [
     {
+  "imdb": "tt10324164",
+  "title": "Prehistoric Planet",
+  "type": "series",
+  "release": 2022,
+  "duration": "3 Seasons",
+  "quality": "4K",
+  "description": "Experience the wonders of our world like never before in this epic series from Jon Favreau and the producers of Planet Earth. Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Tom Hiddleston"
+  ],
+  "director": "Mike Gunton",
+  "country": "GB",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/9yjWMmYWQSDY2eelHECQcwSL816.jpg",
+  "trailer": "https://www.youtube.com/embed/w7EvnNIV8_0",
+  "baseviews": "1.3M",
+  "popularity": 62,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Coasts",
+          "duration": "43m"
+        },
+        {
+          "title": "Deserts",
+          "duration": "41m"
+        },
+        {
+          "title": "Freshwater",
+          "duration": "40m"
+        },
+        {
+          "title": "Ice Worlds",
+          "duration": "42m"
+        },
+        {
+          "title": "Forests",
+          "duration": "42m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Islands",
+          "duration": "42m"
+        },
+        {
+          "title": "Badlands",
+          "duration": "46m"
+        },
+        {
+          "title": "Swamps",
+          "duration": "39m"
+        },
+        {
+          "title": "Oceans",
+          "duration": "38m"
+        },
+        {
+          "title": "North America",
+          "duration": "39m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Big Freeze",
+          "duration": "43m"
+        },
+        {
+          "title": "New Lands",
+          "duration": "36m"
+        },
+        {
+          "title": "Desert Lands",
+          "duration": "41m"
+        },
+        {
+          "title": "Grass Lands",
+          "duration": "40m"
+        },
+        {
+          "title": "The Big Melt",
+          "duration": "41m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt0397820",
+  "title": "Prehistoric Planet",
+  "type": "series",
+  "release": 2002,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "Prehistoric Planet is a re-version of the BBC's Walking with Dinosaurs and Walking with Beasts series, done by Discovery Channel and NBC for the Discovery Kids network. Though the producers kept nearly all of the original animation, David Bock and Peter Sherman wrote new text for a younger target audience, narrated by Ben Stiller and Christian Slater, and interspersed the scenes with occasional quizzes to act as bumpers around the commercial breaks. New music was incorporated as well. Most marketing and advertising for the series focused on the dinosaur episodes. In addition, the final episode, the Prehistoric Planet Top 10 focused solely on the creatures from Walking With Dinosaurs. Some small content edits were done to allow original programs to fit in the 23 minutes of non-commercial time that a normal half-hour program has on network TV. At present, only Season 1 has been released on home video and DVD.",
+  "genre": [],
+  "actors": [
+    "Ben Stiller",
+    "Christian Slater"
+  ],
+  "director": "N/A",
+  "country": "GB",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/ubahGAUSZmZsTVwjKcZpQh7vcIK.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 78,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Dawn of the Dinosaurs",
+          "duration": "42m"
+        },
+        {
+          "title": "Jurassic Giants",
+          "duration": "40m"
+        },
+        {
+          "title": "Jurassic Beach",
+          "duration": "39m"
+        },
+        {
+          "title": "Sky King",
+          "duration": "41m"
+        },
+        {
+          "title": "Dinosaurs of the Ice Forest",
+          "duration": "41m"
+        },
+        {
+          "title": "Death of the Dinosaurs",
+          "duration": "132m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt11192306",
+  "title": "Superman & Lois",
+  "type": "series",
+  "release": 2021,
+  "duration": "4 Seasons",
+  "quality": "HD",
+  "description": "After years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.",
+  "genre": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Tyler Hoechlin",
+    "Elizabeth Tulloch",
+    "Alex Garfin",
+    "Michael Bishop"
+  ],
+  "director": "Greg Berlanti, Todd Helbing",
+  "country": "US",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg",
+  "trailer": "https://www.youtube.com/embed/SJPJPUpNvDw",
+  "baseviews": "1.3M",
+  "popularity": 65,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Pilot",
+          "duration": "64m"
+        },
+        {
+          "title": "Heritage",
+          "duration": "43m"
+        },
+        {
+          "title": "The Perks of Not Being a Wallflower",
+          "duration": "44m"
+        },
+        {
+          "title": "Haywire",
+          "duration": "44m"
+        },
+        {
+          "title": "The Best of Smallville",
+          "duration": "42m"
+        },
+        {
+          "title": "Broken Trust",
+          "duration": "44m"
+        },
+        {
+          "title": "Man of Steel",
+          "duration": "43m"
+        },
+        {
+          "title": "Holding the Wrench",
+          "duration": "45m"
+        },
+        {
+          "title": "Loyal Subjekts",
+          "duration": "44m"
+        },
+        {
+          "title": "O Mother, Where Art Thou?",
+          "duration": "44m"
+        },
+        {
+          "title": "A Brief Reminiscence In-Between Cataclysmic Events",
+          "duration": "42m"
+        },
+        {
+          "title": "Through the Valley of Death",
+          "duration": "43m"
+        },
+        {
+          "title": "Fail Safe",
+          "duration": "45m"
+        },
+        {
+          "title": "The Eradicator",
+          "duration": "41m"
+        },
+        {
+          "title": "Last Sons of Krypton",
+          "duration": "46m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "What Lies Beneath",
+          "duration": "43m"
+        },
+        {
+          "title": "The Ties That Bind",
+          "duration": "43m"
+        },
+        {
+          "title": "The Thing in the Mines",
+          "duration": "43m"
+        },
+        {
+          "title": "The Inverse Method",
+          "duration": "44m"
+        },
+        {
+          "title": "Girl… You'll Be a Woman, Soon",
+          "duration": "43m"
+        },
+        {
+          "title": "Tried and True",
+          "duration": "43m"
+        },
+        {
+          "title": "Anti-Hero",
+          "duration": "44m"
+        },
+        {
+          "title": "Into Oblivion",
+          "duration": "43m"
+        },
+        {
+          "title": "30 Days and 30 Nights",
+          "duration": "43m"
+        },
+        {
+          "title": "Bizarros in a Bizarro World",
+          "duration": "43m"
+        },
+        {
+          "title": "Truth and Consequences",
+          "duration": "43m"
+        },
+        {
+          "title": "Lies That Bind",
+          "duration": "42m"
+        },
+        {
+          "title": "All Is Lost",
+          "duration": "43m"
+        },
+        {
+          "title": "Worlds War Bizarre",
+          "duration": "43m"
+        },
+        {
+          "title": "Waiting for Superman",
+          "duration": "43m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Closer",
+          "duration": "43m"
+        },
+        {
+          "title": "Uncontrollable Force",
+          "duration": "42m"
+        },
+        {
+          "title": "In Cold Blood",
+          "duration": "43m"
+        },
+        {
+          "title": "Too Close to Home",
+          "duration": "43m"
+        },
+        {
+          "title": "Head On",
+          "duration": "43m"
+        },
+        {
+          "title": "Of Sound Mind",
+          "duration": "43m"
+        },
+        {
+          "title": "Forever and Always",
+          "duration": "43m"
+        },
+        {
+          "title": "Guess Who's Coming to Dinner",
+          "duration": "43m"
+        },
+        {
+          "title": "The Dress",
+          "duration": "42m"
+        },
+        {
+          "title": "Collision Course",
+          "duration": "42m"
+        },
+        {
+          "title": "Complications",
+          "duration": "43m"
+        },
+        {
+          "title": "Injustice",
+          "duration": "43m"
+        },
+        {
+          "title": "What Kills You Only Makes You Stronger",
+          "duration": "43m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The End & the Beginning",
+          "duration": "43m"
+        },
+        {
+          "title": "A World Without",
+          "duration": "43m"
+        },
+        {
+          "title": "Always My Hero",
+          "duration": "43m"
+        },
+        {
+          "title": "A Perfectly Good Wedding",
+          "duration": "43m"
+        },
+        {
+          "title": "Break the Cycle",
+          "duration": "43m"
+        },
+        {
+          "title": "When the Lights Come On",
+          "duration": "43m"
+        },
+        {
+          "title": "A Regular Guy",
+          "duration": "43m"
+        },
+        {
+          "title": "Sharp Dressed Man",
+          "duration": "43m"
+        },
+        {
+          "title": "To Live and Die Again",
+          "duration": "43m"
+        },
+        {
+          "title": "It Went By So Fast",
+          "duration": "43m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt5950044",
+  "title": "Superman",
+  "type": "movie",
+  "release": 2025,
+  "duration": "130 min",
+  "quality": "HD",
+  "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+  "genre": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "actors": [
+    "David Corenswet",
+    "Rachel Brosnahan",
+    "Nicholas Hoult",
+    "Edi Gathegi",
+    "Nathan Fillion"
+  ],
+  "director": "James Gunn",
+  "country": "United States of America",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+  "trailer": "https://www.youtube.com/embed/MikgqM0LXr4",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt0115378",
+  "title": "Superman: The Animated Series",
+  "type": "series",
+  "release": 1996,
+  "duration": "3 Seasons",
+  "quality": "HD",
+  "description": "Superman, an incredibly powerful alien from the planet Krypton, defends Metropolis from supercriminals. Superman hides his identity behind the glasses of Clark Kent; a mild-mannered reporter for the newspaper the Daily Planet. At the Daily Planet Superman works with fellow reporter Lois Lane and photographer Jimmy Olsen.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "actors": [
+    "Tim Daly",
+    "Dana Delany"
+  ],
+  "director": "Bruce Timm, Alan Burnett",
+  "country": "US",
+  "rating": "7.7",
+  "poster": "https://image.tmdb.org/t/p/w500/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "The Last Son of Krypton (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "The Last Son of Krypton (2)",
+          "duration": "21m"
+        },
+        {
+          "title": "The Last Son of Krypton (3)",
+          "duration": "21m"
+        },
+        {
+          "title": "Fun and Games",
+          "duration": "21m"
+        },
+        {
+          "title": "A Little Piece of Home",
+          "duration": "21m"
+        },
+        {
+          "title": "Feeding Time",
+          "duration": "21m"
+        },
+        {
+          "title": "The Way of All Flesh",
+          "duration": "21m"
+        },
+        {
+          "title": "Stolen Memories",
+          "duration": "21m"
+        },
+        {
+          "title": "The Main Man (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "The Main Man (2)",
+          "duration": "21m"
+        },
+        {
+          "title": "My Girl",
+          "duration": "21m"
+        },
+        {
+          "title": "Tools of the Trade",
+          "duration": "21m"
+        },
+        {
+          "title": "Two's a Crowd",
+          "duration": "21m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Blasts from the Past (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "Blasts from the Past (2)",
+          "duration": "21m"
+        },
+        {
+          "title": "The Prometheon",
+          "duration": "21m"
+        },
+        {
+          "title": "Speed Demons",
+          "duration": "21m"
+        },
+        {
+          "title": "Livewire",
+          "duration": "21m"
+        },
+        {
+          "title": "Identity Crisis",
+          "duration": "21m"
+        },
+        {
+          "title": "Target",
+          "duration": "21m"
+        },
+        {
+          "title": "Mxyzpixilated",
+          "duration": "21m"
+        },
+        {
+          "title": "Action Figures",
+          "duration": "21m"
+        },
+        {
+          "title": "Double Dose",
+          "duration": "21m"
+        },
+        {
+          "title": "Solar Power",
+          "duration": "21m"
+        },
+        {
+          "title": "Brave New Metropolis",
+          "duration": "21m"
+        },
+        {
+          "title": "Monkey Fun",
+          "duration": "21m"
+        },
+        {
+          "title": "Ghost in the Machine",
+          "duration": "21m"
+        },
+        {
+          "title": "Father's Day",
+          "duration": "21m"
+        },
+        {
+          "title": "World's Finest (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "World's Finest (2)",
+          "duration": "21m"
+        },
+        {
+          "title": "World's Finest (3)",
+          "duration": "21m"
+        },
+        {
+          "title": "The Hand of Fate",
+          "duration": "21m"
+        },
+        {
+          "title": "Bizarro's World",
+          "duration": "21m"
+        },
+        {
+          "title": "Prototype",
+          "duration": "21m"
+        },
+        {
+          "title": "The Late Mr. Kent",
+          "duration": "21m"
+        },
+        {
+          "title": "Heavy Metal",
+          "duration": "21m"
+        },
+        {
+          "title": "Warrior Queen",
+          "duration": "21m"
+        },
+        {
+          "title": "Apokolips... Now! (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "Apokolips... Now! (2)",
+          "duration": "21m"
+        },
+        {
+          "title": "Little Girl Lost (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "Little Girl Lost (2)",
+          "duration": "21m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Where There's Smoke",
+          "duration": "21m"
+        },
+        {
+          "title": "Knight Time",
+          "duration": "21m"
+        },
+        {
+          "title": "New Kids in Town",
+          "duration": "21m"
+        },
+        {
+          "title": "Obsession",
+          "duration": "21m"
+        },
+        {
+          "title": "Little Big Head Man",
+          "duration": "21m"
+        },
+        {
+          "title": "Absolute Power",
+          "duration": "21m"
+        },
+        {
+          "title": "In Brightest Day...",
+          "duration": "21m"
+        },
+        {
+          "title": "Superman's Pal",
+          "duration": "21m"
+        },
+        {
+          "title": "A Fish Story",
+          "duration": "21m"
+        },
+        {
+          "title": "Unity",
+          "duration": "21m"
+        },
+        {
+          "title": "The Demon Reborn",
+          "duration": "21m"
+        },
+        {
+          "title": "Legacy (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "Legacy (2)",
+          "duration": "21m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0213370",
+  "title": "Superman",
+  "type": "series",
+  "release": 1988,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "One of the greatest superheroes of all time, Superman, takes to the air in this action-packed animated series. Disguised as Clark Kent, Superman uses his powers to overcome the forces of evil in a tireless crusade against crime and injustice.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Kids",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Beau Weaver",
+    "Ginny McSwain",
+    "Mark L. Taylor",
+    "Michael Bell",
+    "Alan Oppenheimer"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/3f7IqbwUqtp5iRNMHXj7cUoTPOk.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Destroy the Defendroids",
+          "duration": "12m"
+        },
+        {
+          "title": "The Adoption",
+          "duration": "12m"
+        },
+        {
+          "title": "Fugitive from Space",
+          "duration": "12m"
+        },
+        {
+          "title": "The Supermarket",
+          "duration": "12m"
+        },
+        {
+          "title": "By the Skin of the Dragon's Teeth",
+          "duration": "12m"
+        },
+        {
+          "title": "At the Babysitter's",
+          "duration": "12m"
+        },
+        {
+          "title": "Cybron Strikes",
+          "duration": "12m"
+        },
+        {
+          "title": "The First Day of School",
+          "duration": "12m"
+        },
+        {
+          "title": "The Big Scoop",
+          "duration": "12m"
+        },
+        {
+          "title": "Overnight with the Scouts",
+          "duration": "12m"
+        },
+        {
+          "title": "Triple-Play",
+          "duration": "12m"
+        },
+        {
+          "title": "The Circus",
+          "duration": "12m"
+        },
+        {
+          "title": "The Hunter",
+          "duration": "12m"
+        },
+        {
+          "title": "Little Runaway",
+          "duration": "12m"
+        },
+        {
+          "title": "Superman and Wonder Woman vs. the Sorceress of Time",
+          "duration": "12m"
+        },
+        {
+          "title": "The Birthday Party",
+          "duration": "12m"
+        },
+        {
+          "title": "Bonechill",
+          "duration": "12m"
+        },
+        {
+          "title": "The Driver's License",
+          "duration": "12m"
+        },
+        {
+          "title": "The Beast Beneath These Streets",
+          "duration": "12m"
+        },
+        {
+          "title": "First Date",
+          "duration": "12m"
+        },
+        {
+          "title": "Wildshark",
+          "duration": "12m"
+        },
+        {
+          "title": "To Play or not to Play",
+          "duration": "12m"
+        },
+        {
+          "title": "Night of the Living Shadows",
+          "duration": "12m"
+        },
+        {
+          "title": "Graduation",
+          "duration": "12m"
+        },
+        {
+          "title": "The Last Time I Saw Earth",
+          "duration": "12m"
+        },
+        {
+          "title": "It's Superman",
+          "duration": "12m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0078346",
+  "title": "Superman",
+  "type": "movie",
+  "release": 1978,
+  "duration": "144 min",
+  "quality": "HD",
+  "description": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+  "genre": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Christopher Reeve",
+    "Margot Kidder",
+    "Gene Hackman",
+    "Marlon Brando",
+    "Ned Beatty"
+  ],
+  "director": "Richard Donner",
+  "country": "United Kingdom, United States of America",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+  "trailer": "https://www.youtube.com/embed/xXyuUbtpmxE",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt5129382",
+  "title": "The Return of Superman",
+  "type": "series",
+  "release": 2013,
+  "duration": "14 Seasons",
+  "quality": "HD",
+  "description": "An up-close look at celebrity dads who have to take care of their kids for the next 48 hours without any help. Will it be a dad-tastrophe, or can they finish their wives' to-do lists while having fun with their kids?",
+  "genre": [
+    "Reality"
+  ],
+  "actors": [
+    "Park Joo-ho",
+    "Park Ji-young",
+    "Park Na-eun",
+    "Park Soo-hong",
+    "Choi Ji-woo"
+  ],
+  "director": "Park Ji-young, 奇河正, 徐宥真, 刘智润",
+  "country": "KR",
+  "rating": "7.7",
+  "poster": "https://image.tmdb.org/t/p/w500/qjBx2RCnyyBPgu9qBV7j3UiXjeo.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 73,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "1. Things You Only Realize Once You Raise Them",
+          "duration": "85m"
+        },
+        {
+          "title": "2. They're Just Like Me",
+          "duration": "85m"
+        },
+        {
+          "title": "3. I Can't Live Without You",
+          "duration": "85m"
+        },
+        {
+          "title": "4. This is What Your Dad is Like",
+          "duration": "85m"
+        },
+        {
+          "title": "5. It's Okay to Fail at First",
+          "duration": "85m"
+        },
+        {
+          "title": "6. Kids Raise Dads",
+          "duration": "85m"
+        },
+        {
+          "title": "7. Sons and Daughters",
+          "duration": "85m"
+        },
+        {
+          "title": "8. Merry Christmas",
+          "duration": "85m"
+        },
+        {
+          "title": "9. No Flower Blossoms Without Hardship",
+          "duration": "85m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "10. Tell Me Your Wish!",
+          "duration": "76m"
+        },
+        {
+          "title": "11. My Children's Private Life",
+          "duration": "85m"
+        },
+        {
+          "title": "12. If We Hadn't Met Then...",
+          "duration": "85m"
+        },
+        {
+          "title": "13. Why Are You at My House?",
+          "duration": "85m"
+        },
+        {
+          "title": "14. Families are like Puzzles",
+          "duration": "85m"
+        },
+        {
+          "title": "15. Daddy's Miracle Effect",
+          "duration": "85m"
+        },
+        {
+          "title": "16. I'm Not Afraid If We're Together",
+          "duration": "95m"
+        },
+        {
+          "title": "17. Good Daddy Complex",
+          "duration": "95m"
+        },
+        {
+          "title": "18. Dads Will Fight Through Anything",
+          "duration": "95m"
+        },
+        {
+          "title": "19. You Are My Spring",
+          "duration": "95m"
+        },
+        {
+          "title": "20. Dating Rather Than Babysitting",
+          "duration": "95m"
+        },
+        {
+          "title": "21. This is the Moment",
+          "duration": "95m"
+        },
+        {
+          "title": "22. Daddies Need Holidays Too",
+          "duration": "100m"
+        },
+        {
+          "title": "23. The Story I Want to Tell You",
+          "duration": "100m"
+        },
+        {
+          "title": "24. I Love Jeju-do, I Love You",
+          "duration": "100m"
+        },
+        {
+          "title": "25. The First Time Is Always Exciting",
+          "duration": "100m"
+        },
+        {
+          "title": "26. Spring is Here",
+          "duration": "100m"
+        },
+        {
+          "title": "27. And That's How You Become a Father",
+          "duration": "100m"
+        },
+        {
+          "title": "28. Great Expectations",
+          "duration": "100m"
+        },
+        {
+          "title": "29. You Are My Destiny",
+          "duration": "100m"
+        },
+        {
+          "title": "30. Memories Are Delicious",
+          "duration": "100m"
+        },
+        {
+          "title": "31. Let's Be Friends",
+          "duration": "100m"
+        },
+        {
+          "title": "32. A Dream Come True",
+          "duration": "100m"
+        },
+        {
+          "title": "33. Kids Grow Up Watching Me",
+          "duration": "100m"
+        },
+        {
+          "title": "34. Family Ties",
+          "duration": "100m"
+        },
+        {
+          "title": "35. No Pain, No Gain",
+          "duration": "100m"
+        },
+        {
+          "title": "36. I'm Happier Today",
+          "duration": "100m"
+        },
+        {
+          "title": "37. Slow Steps",
+          "duration": "100m"
+        },
+        {
+          "title": "38. How to Beat Mom",
+          "duration": "100m"
+        },
+        {
+          "title": "39. Daddy's Weight",
+          "duration": "100m"
+        },
+        {
+          "title": "40. A Midsummer Night's Dream",
+          "duration": "100m"
+        },
+        {
+          "title": "41. Travel Together to Travel Far",
+          "duration": "100m"
+        },
+        {
+          "title": "42. I Will Always Root For You",
+          "duration": "100m"
+        },
+        {
+          "title": "43. Chuseok Special: 1 Year Anniversary Special -- The Neighborhood is Needed to Raise One Child, Part 1",
+          "duration": "100m"
+        },
+        {
+          "title": "44. Chuseok Special: 1 Year Anniversary Special -- The Neighborhood is Needed to Raise One Child, Part 2",
+          "duration": "100m"
+        },
+        {
+          "title": "45. A Brand New World",
+          "duration": "100m"
+        },
+        {
+          "title": "46. Raising Kids Makes Life A Joy",
+          "duration": "100m"
+        },
+        {
+          "title": "47. That's How Love Began",
+          "duration": "100m"
+        },
+        {
+          "title": "48. Dads are the Toughest Men in the World",
+          "duration": "100m"
+        },
+        {
+          "title": "49. Children Grow on the Road",
+          "duration": "100m"
+        },
+        {
+          "title": "50. Growing Up with Compliments",
+          "duration": "100m"
+        },
+        {
+          "title": "51. Keep it A Secret From Mom",
+          "duration": "100m"
+        },
+        {
+          "title": "52. It's Great to be Together",
+          "duration": "100m"
+        },
+        {
+          "title": "53. A Very Special Day",
+          "duration": "100m"
+        },
+        {
+          "title": "54. Dads Make Their Children Dream",
+          "duration": "100m"
+        },
+        {
+          "title": "55. A Good Path is One Taken Together",
+          "duration": "100m"
+        },
+        {
+          "title": "56. If By Life You Were Deceived",
+          "duration": "100m"
+        },
+        {
+          "title": "57. Love Actually",
+          "duration": "100m"
+        },
+        {
+          "title": "58. Happier Day By Day",
+          "duration": "100m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "59. In Between Fear and Excitement",
+          "duration": "100m"
+        },
+        {
+          "title": "60. Look Forward To It",
+          "duration": "100m"
+        },
+        {
+          "title": "61. Growing Up Fast",
+          "duration": "100m"
+        },
+        {
+          "title": "62. Today Was Another Great Day",
+          "duration": "100m"
+        },
+        {
+          "title": "63. A Whole New World With Dad",
+          "duration": "100m"
+        },
+        {
+          "title": "64. Children Grow Together",
+          "duration": "100m"
+        },
+        {
+          "title": "65. Just Like Now",
+          "duration": "100m"
+        },
+        {
+          "title": "66. It's A First For Dad Too",
+          "duration": "100m"
+        },
+        {
+          "title": "67. Who Do You Take After?",
+          "duration": "100m"
+        },
+        {
+          "title": "68. The Sound of Spring Approaching",
+          "duration": "100m"
+        },
+        {
+          "title": "69. When Did They Grow So Big?",
+          "duration": "100m"
+        },
+        {
+          "title": "70. Like a Sturdy Tree",
+          "duration": "100m"
+        },
+        {
+          "title": "71. One Step at a Time",
+          "duration": "100m"
+        },
+        {
+          "title": "72. I Can Do It",
+          "duration": "100m"
+        },
+        {
+          "title": "73. I Do It Because I'm Dad",
+          "duration": "100m"
+        },
+        {
+          "title": "74. The Person Who Makes Me Happy",
+          "duration": "100m"
+        },
+        {
+          "title": "75. Children Grow With Nature",
+          "duration": "100m"
+        },
+        {
+          "title": "76. Even If You Don't Remember",
+          "duration": "100m"
+        },
+        {
+          "title": "77. Four Families Under One Roof",
+          "duration": "100m"
+        },
+        {
+          "title": "78. Already One Year",
+          "duration": "100m"
+        },
+        {
+          "title": "79. Grow Up Slowly",
+          "duration": "100m"
+        },
+        {
+          "title": "80. Dad's Imagination Comes True",
+          "duration": "100m"
+        },
+        {
+          "title": "81. You Can Do It!",
+          "duration": "100m"
+        },
+        {
+          "title": "82. We Get Along Pretty Well",
+          "duration": "100m"
+        },
+        {
+          "title": "83. Daddy Doesn't Get Tired",
+          "duration": "100m"
+        },
+        {
+          "title": "84. Raise Them Tough and They Become Strong",
+          "duration": "100m"
+        },
+        {
+          "title": "85. Off On A Trip",
+          "duration": "100m"
+        },
+        {
+          "title": "86. Gift From Time",
+          "duration": "100m"
+        },
+        {
+          "title": "87. About Time",
+          "duration": "100m"
+        },
+        {
+          "title": "88. Just Like Now",
+          "duration": "100m"
+        },
+        {
+          "title": "89. Dads Are Men",
+          "duration": "100m"
+        },
+        {
+          "title": "90. A Big Happy Family",
+          "duration": "100m"
+        },
+        {
+          "title": "91. People Who Make Me Stronger",
+          "duration": "100m"
+        },
+        {
+          "title": "92. You Are the Happiness",
+          "duration": "100m"
+        },
+        {
+          "title": "93. The Fancy Outing",
+          "duration": "100m"
+        },
+        {
+          "title": "94. The Value of Being Together",
+          "duration": "100m"
+        },
+        {
+          "title": "95. Every Day Is a Surprise",
+          "duration": "100m"
+        },
+        {
+          "title": "96. You're my Superstar",
+          "duration": "100m"
+        },
+        {
+          "title": "97. Great Father Grandfather",
+          "duration": "100m"
+        },
+        {
+          "title": "Believe in Dad",
+          "duration": "100m"
+        },
+        {
+          "title": "99. Struggles Lead to a Strong Dad",
+          "duration": "100m"
+        },
+        {
+          "title": "100. To Become a 100% Great Dad",
+          "duration": "100m"
+        },
+        {
+          "title": "101. Changing Fear into Courage",
+          "duration": "100m"
+        },
+        {
+          "title": "102. Tug-of-War with the Kids",
+          "duration": "100m"
+        },
+        {
+          "title": "103. Wise and Gentle",
+          "duration": "100m"
+        },
+        {
+          "title": "104. Little Big Hero",
+          "duration": "100m"
+        },
+        {
+          "title": "105. Drops of Memories",
+          "duration": "100m"
+        },
+        {
+          "title": "106. The Gift of Waiting",
+          "duration": "100m"
+        },
+        {
+          "title": "107. The Long-Awaited Moment",
+          "duration": "100m"
+        },
+        {
+          "title": "108. You are my Energy",
+          "duration": "100m"
+        },
+        {
+          "title": "109. The Power of Dad",
+          "duration": "100m"
+        },
+        {
+          "title": "110. Miracle Made By Dad",
+          "duration": "100m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "111. Every Wish Comes True",
+          "duration": "100m"
+        },
+        {
+          "title": "112. Kids Are Like Clay",
+          "duration": "100m"
+        },
+        {
+          "title": "113. I'll Watch Over and Protect You",
+          "duration": "100m"
+        },
+        {
+          "title": "114. This is Dad's First Time Too",
+          "duration": "100m"
+        },
+        {
+          "title": "115. Don't Worry, Dad",
+          "duration": "100m"
+        },
+        {
+          "title": "116. I Love You, I Love You, I Love You",
+          "duration": "100m"
+        },
+        {
+          "title": "117. Thank You For Coming To Me",
+          "duration": "100m"
+        },
+        {
+          "title": "118. Fly Little Chick",
+          "duration": "100m"
+        },
+        {
+          "title": "119. Good to be Different, Good to be Similar",
+          "duration": "100m"
+        },
+        {
+          "title": "120. It's Okay, It'll All Work Out",
+          "duration": "100m"
+        },
+        {
+          "title": "121. Always Spring",
+          "duration": "100m"
+        },
+        {
+          "title": "122. I Love You and Remember You",
+          "duration": "100m"
+        },
+        {
+          "title": "123. Family is My Strength",
+          "duration": "100m"
+        },
+        {
+          "title": "124. I Prepared This For You",
+          "duration": "100m"
+        },
+        {
+          "title": "125. Two Is Better Than One",
+          "duration": "100m"
+        },
+        {
+          "title": "126. Take a Break from Child Rearing: Part One",
+          "duration": "100m"
+        },
+        {
+          "title": "127. Take a Break from Child Rearing: Part Two",
+          "duration": "100m"
+        },
+        {
+          "title": "128. My Child's Operation Manual",
+          "duration": "100m"
+        },
+        {
+          "title": "129. Dads Needs Dads Too",
+          "duration": "100m"
+        },
+        {
+          "title": "130. Raising Them As Our Child",
+          "duration": "100m"
+        },
+        {
+          "title": "131. Raising a Small Child to be Big",
+          "duration": "100m"
+        },
+        {
+          "title": "132. Joint Babysitting Project, Babysitting is Fun",
+          "duration": "100m"
+        },
+        {
+          "title": "133. Dads Dashing Through Time",
+          "duration": "100m"
+        },
+        {
+          "title": "134. How to Make The Day Special",
+          "duration": "100m"
+        },
+        {
+          "title": "135. Dad School",
+          "duration": "100m"
+        },
+        {
+          "title": "136. Friends Grow Alike",
+          "duration": "100m"
+        },
+        {
+          "title": "137. My Child Has A Secret. Too",
+          "duration": "100m"
+        },
+        {
+          "title": "138. Strong And Fearless",
+          "duration": "100m"
+        },
+        {
+          "title": "139. Can You Hear My Heart ?",
+          "duration": "100m"
+        },
+        {
+          "title": "140. Parenting Is Not Graceful",
+          "duration": "100m"
+        },
+        {
+          "title": "141. Fondly Together",
+          "duration": "100m"
+        },
+        {
+          "title": "142. Who Is Your Father ?",
+          "duration": "100m"
+        },
+        {
+          "title": "143. Operation Parenting",
+          "duration": "100m"
+        },
+        {
+          "title": "144. Six Children",
+          "duration": "100m"
+        },
+        {
+          "title": "145. Courage Brings Happiness",
+          "duration": "100m"
+        },
+        {
+          "title": "146. What Is Precious Is Near You",
+          "duration": "100m"
+        },
+        {
+          "title": "147. Grow Up Just Like This",
+          "duration": "100m"
+        },
+        {
+          "title": "148. You Are My Star",
+          "duration": "100m"
+        },
+        {
+          "title": "149. As You Wish, As You Say",
+          "duration": "100m"
+        },
+        {
+          "title": "150. You Don't Have To Be Perfect",
+          "duration": "100m"
+        },
+        {
+          "title": "Dad Who Teaches How to Catch Fish",
+          "duration": "100m"
+        },
+        {
+          "title": "People Who Changed Me",
+          "duration": "100m"
+        },
+        {
+          "title": "Happiness to People Who Give Us Joy",
+          "duration": "100m"
+        },
+        {
+          "title": "Everyday Becomes an Adventure",
+          "duration": "100m"
+        },
+        {
+          "title": "The Law of 20,000 Hours",
+          "duration": "100m"
+        },
+        {
+          "title": "Love Builds as Much as You Love",
+          "duration": "100m"
+        },
+        {
+          "title": "Kids Will Keep On Marching",
+          "duration": "100m"
+        },
+        {
+          "title": "Who Plays Better?",
+          "duration": "100m"
+        },
+        {
+          "title": "That Year, the Winter Was Warm",
+          "duration": "100m"
+        },
+        {
+          "title": "Cheer Up Dad",
+          "duration": "100m"
+        },
+        {
+          "title": "A Dad is a Child's First Teacher",
+          "duration": "100m"
+        },
+        {
+          "title": "The Christmas Miracle",
+          "duration": "100m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Present is a Present",
+          "duration": "100m"
+        },
+        {
+          "title": "You Can't Have a Rainbow Without Rain",
+          "duration": "100m"
+        },
+        {
+          "title": "The Moments Shine Brighter When We Are Together",
+          "duration": "100m"
+        },
+        {
+          "title": "Let's Learn About Yourself Today",
+          "duration": "100m"
+        },
+        {
+          "title": "As Much Love That's Spread in the World",
+          "duration": "100m"
+        },
+        {
+          "title": "Dad is the Best Playground",
+          "duration": "100m"
+        },
+        {
+          "title": "Remember and Look Forward",
+          "duration": "100m"
+        },
+        {
+          "title": "I Support Your Beginning",
+          "duration": "100m"
+        },
+        {
+          "title": "I Have Grown Up With You",
+          "duration": "100m"
+        },
+        {
+          "title": "Will You Be My Friend?",
+          "duration": "100m"
+        },
+        {
+          "title": "A Day Like a Present",
+          "duration": "100m"
+        },
+        {
+          "title": "One Kind Word",
+          "duration": "100m"
+        },
+        {
+          "title": "Love Comes Back",
+          "duration": "100m"
+        },
+        {
+          "title": "Everyday Heroes",
+          "duration": "100m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 17",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 18",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 19",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 20",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 21",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 22",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 23",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 24",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 25",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 26",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 27",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 28",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 29",
+          "duration": "45m"
+        },
+        {
+          "title": "I Will Be Your Umbrella",
+          "duration": "100m"
+        },
+        {
+          "title": "Very Warm Moments",
+          "duration": "100m"
+        },
+        {
+          "title": "I'm a Star",
+          "duration": "100m"
+        },
+        {
+          "title": "A Midsummer Night's Honey",
+          "duration": "100m"
+        },
+        {
+          "title": "The Gift of Coincidence",
+          "duration": "100m"
+        },
+        {
+          "title": "A Great New Discovery in Everyday Routine",
+          "duration": "100m"
+        },
+        {
+          "title": "A Day Like No Other",
+          "duration": "100m"
+        },
+        {
+          "title": "We Are Not Alone",
+          "duration": "100m"
+        },
+        {
+          "title": "Episode 38",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 39",
+          "duration": "45m"
+        },
+        {
+          "title": "Our Sweet Relationship",
+          "duration": "100m"
+        },
+        {
+          "title": "Bringing Warmth to One Another",
+          "duration": "100m"
+        },
+        {
+          "title": "We Need Secrets of Our Own",
+          "duration": "100m"
+        },
+        {
+          "title": "Love is the Warmest Temperature",
+          "duration": "100m"
+        },
+        {
+          "title": "My Little Hero",
+          "duration": "100m"
+        },
+        {
+          "title": "My First Ever",
+          "duration": "100m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "We'd Choose Ourselves Again in Another Life",
+          "duration": "90m"
+        },
+        {
+          "title": "I'm Glad to Have You",
+          "duration": "90m"
+        },
+        {
+          "title": "For You, Who Always Shine",
+          "duration": "90m"
+        },
+        {
+          "title": "I Cheer on Your Courage",
+          "duration": "90m"
+        },
+        {
+          "title": "Raising Them is Never Easy",
+          "duration": "90m"
+        },
+        {
+          "title": "That Makes a Family",
+          "duration": "90m"
+        },
+        {
+          "title": "We're Coming to Meet You",
+          "duration": "90m"
+        },
+        {
+          "title": "I'll Be on Your Side",
+          "duration": "90m"
+        },
+        {
+          "title": "Living, Loving and Learning",
+          "duration": "90m"
+        },
+        {
+          "title": "The Road to You",
+          "duration": "90m"
+        },
+        {
+          "title": "Traveling and Discovering New Things",
+          "duration": "90m"
+        },
+        {
+          "title": "Like a Lie, Like a Gift",
+          "duration": "90m"
+        },
+        {
+          "title": "In Retrospect, Every Moment was Touching",
+          "duration": "90m"
+        },
+        {
+          "title": "It's Always Spring When Love Abounds",
+          "duration": "90m"
+        },
+        {
+          "title": "The Whole World Is Your Flower",
+          "duration": "90m"
+        },
+        {
+          "title": "You Make Me Happy",
+          "duration": "90m"
+        },
+        {
+          "title": "Dreaming Children and Fulfilling Fathers",
+          "duration": "90m"
+        },
+        {
+          "title": "Happy Incidents Occur Every Day",
+          "duration": "90m"
+        },
+        {
+          "title": "I Like You For Who You Are",
+          "duration": "90m"
+        },
+        {
+          "title": "Which Star Are You From?",
+          "duration": "90m"
+        },
+        {
+          "title": "Looking at the World Through Your Eyes",
+          "duration": "90m"
+        },
+        {
+          "title": "A Small Adventure for a Happy Day",
+          "duration": "90m"
+        },
+        {
+          "title": "The World Is a School",
+          "duration": "90m"
+        },
+        {
+          "title": "Explore, Dream, and Discover",
+          "duration": "90m"
+        },
+        {
+          "title": "Small but Definite Happiness",
+          "duration": "90m"
+        },
+        {
+          "title": "The Moment You Mature into a Father",
+          "duration": "90m"
+        },
+        {
+          "title": "A Surreal Day",
+          "duration": "90m"
+        },
+        {
+          "title": "Because You're So Precious",
+          "duration": "90m"
+        },
+        {
+          "title": "Waiting for Rainbows",
+          "duration": "90m"
+        },
+        {
+          "title": "Today is Always a Special Day",
+          "duration": "90m"
+        },
+        {
+          "title": "Summer Be Good to Me",
+          "duration": "90m"
+        },
+        {
+          "title": "There is No Flower Prettier Than You",
+          "duration": "90m"
+        },
+        {
+          "title": "You Don't Have to Be in a Hurry!",
+          "duration": "90m"
+        },
+        {
+          "title": "I'm Lucky to Have Met You",
+          "duration": "90m"
+        },
+        {
+          "title": "The Time We Walk Together",
+          "duration": "90m"
+        },
+        {
+          "title": "I Support Your First Tries",
+          "duration": "90m"
+        },
+        {
+          "title": "May Everyday Be Like Today",
+          "duration": "90m"
+        },
+        {
+          "title": "Your Day Will be Sunny All Day",
+          "duration": "90m"
+        },
+        {
+          "title": "I Miss You Even When You're With Me",
+          "duration": "90m"
+        },
+        {
+          "title": "You're Always There During Happy Times",
+          "duration": "90m"
+        },
+        {
+          "title": "Changing Together Like Autumn Leaves",
+          "duration": "90m"
+        },
+        {
+          "title": "5th Anniversary Special: From Mount Halla to Mount Paektu",
+          "duration": "90m"
+        },
+        {
+          "title": "5th Anniversary Special: From Mount Halla to Mount Paektu Part 2",
+          "duration": "90m"
+        },
+        {
+          "title": "5th Anniversary Special: From Mount Halla to Mount Paektu Part 3",
+          "duration": "90m"
+        },
+        {
+          "title": "One Step at a Time Into the World",
+          "duration": "90m"
+        },
+        {
+          "title": "The Reason Why Life is Worth Living",
+          "duration": "90m"
+        },
+        {
+          "title": "I'll Go to You Like Winter's First Snow",
+          "duration": "90m"
+        },
+        {
+          "title": "You're the Center of My Universe",
+          "duration": "90m"
+        },
+        {
+          "title": "A Winter Fairytale",
+          "duration": "90m"
+        },
+        {
+          "title": "The Miracle of December",
+          "duration": "90m"
+        },
+        {
+          "title": "End or And",
+          "duration": "90m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Every Moment Was for You",
+          "duration": "90m"
+        },
+        {
+          "title": "I Can Hear Your Heart",
+          "duration": "90m"
+        },
+        {
+          "title": "Our Winter Story",
+          "duration": "90m"
+        },
+        {
+          "title": "I Learned Love from You",
+          "duration": "90m"
+        },
+        {
+          "title": "Everyday is an Existence",
+          "duration": "90m"
+        },
+        {
+          "title": "A Superhero Just for You",
+          "duration": "90m"
+        },
+        {
+          "title": "A Noisy But Happy Day",
+          "duration": "90m"
+        },
+        {
+          "title": "I Will Share My Warmth with You",
+          "duration": "90m"
+        },
+        {
+          "title": "A Magical Day",
+          "duration": "90m"
+        },
+        {
+          "title": "The Loving People",
+          "duration": "90m"
+        },
+        {
+          "title": "I Think I Love You",
+          "duration": "90m"
+        },
+        {
+          "title": "I Want to Take It Slow With You",
+          "duration": "90m"
+        },
+        {
+          "title": "A Bright Day With You",
+          "duration": "90m"
+        },
+        {
+          "title": "You're Blooming Next to Me",
+          "duration": "90m"
+        },
+        {
+          "title": "The Most Beautiful Thoughts Are for You",
+          "duration": "90m"
+        },
+        {
+          "title": "My Heart is Filled with You",
+          "duration": "90m"
+        },
+        {
+          "title": "The Memory of How We Had Fun",
+          "duration": "90m"
+        },
+        {
+          "title": "Do Whatever You Want to Do",
+          "duration": "90m"
+        },
+        {
+          "title": "A Lesson Into the Unfamiliar World",
+          "duration": "90m"
+        },
+        {
+          "title": "Never-ending Cherry Blossom",
+          "duration": "90m"
+        },
+        {
+          "title": "Today, We Sing Again",
+          "duration": "90m"
+        },
+        {
+          "title": "Will You Remember Me?",
+          "duration": "90m"
+        },
+        {
+          "title": "To You Who Taught Me Happiness",
+          "duration": "90m"
+        },
+        {
+          "title": "A Fairytale in Our Daily Life",
+          "duration": "90m"
+        },
+        {
+          "title": "A Poem for the Little Things",
+          "duration": "90m"
+        },
+        {
+          "title": "I'm Happy When You Smile",
+          "duration": "90m"
+        },
+        {
+          "title": "The Sound of Summer Approaching",
+          "duration": "100m"
+        },
+        {
+          "title": "We Must Stay Together to Live",
+          "duration": "100m"
+        },
+        {
+          "title": "You're My Flower",
+          "duration": "100m"
+        },
+        {
+          "title": "Fly to Your World",
+          "duration": "100m"
+        },
+        {
+          "title": "The Memories of Summer",
+          "duration": "100m"
+        },
+        {
+          "title": "The Story Dad Didn't Know About",
+          "duration": "100m"
+        },
+        {
+          "title": "The Hottest Day of My Life",
+          "duration": "100m"
+        },
+        {
+          "title": "To You Who Shines Today",
+          "duration": "100m"
+        },
+        {
+          "title": "Can You Translate How I Feel?",
+          "duration": "100m"
+        },
+        {
+          "title": "It's Written as Failure, but Read as Experience",
+          "duration": "100m"
+        },
+        {
+          "title": "Dear Moon, Our Love",
+          "duration": "100m"
+        },
+        {
+          "title": "Today is Another Lovely Day",
+          "duration": "100m"
+        },
+        {
+          "title": "Walking Through Memories",
+          "duration": "100m"
+        },
+        {
+          "title": "If I'm with You, I Can Do It",
+          "duration": "100m"
+        },
+        {
+          "title": "Let's Walk Our Autumn",
+          "duration": "100m"
+        },
+        {
+          "title": "I Love You 300",
+          "duration": "100m"
+        },
+        {
+          "title": "If Only There Were Practice in Childcare",
+          "duration": "100m"
+        },
+        {
+          "title": "They Grow as Much as You Trust in Them",
+          "duration": "100m"
+        },
+        {
+          "title": "The World is Beautiful When You Smile",
+          "duration": "100m"
+        },
+        {
+          "title": "Finding Happiness by Chance",
+          "duration": "100m"
+        },
+        {
+          "title": "A Little Village Called Memories",
+          "duration": "100m"
+        },
+        {
+          "title": "It's Okay Even When Winter is Here",
+          "duration": "100m"
+        },
+        {
+          "title": "The Time to Change the World",
+          "duration": "100m"
+        },
+        {
+          "title": "The Miracle of an Ordinary Day",
+          "duration": "100m"
+        },
+        {
+          "title": "The Long-Awaited Today",
+          "duration": "100m"
+        },
+        {
+          "title": "Hello and Goodbye",
+          "duration": "100m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Even in the New Year, We're Pretty, Cute and Lovely",
+          "duration": "100m"
+        },
+        {
+          "title": "For All Supermen in the World",
+          "duration": "100m"
+        },
+        {
+          "title": "Love Is Beautiful, Childrearing Is Wonderful",
+          "duration": "100m"
+        },
+        {
+          "title": "Together on Lunar New Year",
+          "duration": "100m"
+        },
+        {
+          "title": "Our Love Lasts Forever",
+          "duration": "100m"
+        },
+        {
+          "title": "Playing with Daddy",
+          "duration": "100m"
+        },
+        {
+          "title": "A Great Day for A Random Getaway",
+          "duration": "100m"
+        },
+        {
+          "title": "The Challenge Has Already Begun",
+          "duration": "100m"
+        },
+        {
+          "title": "Hurray for the Fathers in Korea",
+          "duration": "100m"
+        },
+        {
+          "title": "I'll Go to You When the Weather Is Fine",
+          "duration": "100m"
+        },
+        {
+          "title": "Victory to Superman",
+          "duration": "100m"
+        },
+        {
+          "title": "Our Childrearing League",
+          "duration": "100m"
+        },
+        {
+          "title": "Meeting You Has Made My Life Fuller",
+          "duration": "100m"
+        },
+        {
+          "title": "Childrearing Playbook",
+          "duration": "100m"
+        },
+        {
+          "title": "It's Spring by Chance",
+          "duration": "100m"
+        },
+        {
+          "title": "My Universe Was Filled with You",
+          "duration": "100m"
+        },
+        {
+          "title": "Superman Class",
+          "duration": "100m"
+        },
+        {
+          "title": "So You Can Fly Free",
+          "duration": "100m"
+        },
+        {
+          "title": "You are My Love",
+          "duration": "100m"
+        },
+        {
+          "title": "Today is Another Fun Day",
+          "duration": "100m"
+        },
+        {
+          "title": "My Love, My Family",
+          "duration": "100m"
+        },
+        {
+          "title": "We are Ordered to Be Happy",
+          "duration": "100m"
+        },
+        {
+          "title": "You, My Beautiful Love",
+          "duration": "100m"
+        },
+        {
+          "title": "You're Bright Like Sunlight",
+          "duration": "100m"
+        },
+        {
+          "title": "Splendid Childrearing Wraps Around My Body",
+          "duration": "100m"
+        },
+        {
+          "title": "School on Wheels",
+          "duration": "100m"
+        },
+        {
+          "title": "Today Shines Again Because I Have You",
+          "duration": "100m"
+        },
+        {
+          "title": "The Master of Childcare",
+          "duration": "100m"
+        },
+        {
+          "title": "Follow Your Heart",
+          "duration": "100m"
+        },
+        {
+          "title": "Everybody, Cha, Cha, Cha!",
+          "duration": "100m"
+        },
+        {
+          "title": "Everyone Was a Kid Once",
+          "duration": "100m"
+        },
+        {
+          "title": "Our Song is Not Over Yet",
+          "duration": "100m"
+        },
+        {
+          "title": "I'll Be Loyal to You",
+          "duration": "100m"
+        },
+        {
+          "title": "You Can't Be Happier Than This",
+          "duration": "100m"
+        },
+        {
+          "title": "Kids Are the Index of the Fathers",
+          "duration": "100m"
+        },
+        {
+          "title": "To My Small and Precious Child",
+          "duration": "100m"
+        },
+        {
+          "title": "The Study of Memories",
+          "duration": "100m"
+        },
+        {
+          "title": "Upbringing a Child Is an Uphill Road",
+          "duration": "100m"
+        },
+        {
+          "title": "Today is Yours as Well",
+          "duration": "100m"
+        },
+        {
+          "title": "You Are Like an Assorted Gift Box to Me",
+          "duration": "100m"
+        },
+        {
+          "title": "My Dear Love, You Stay by My Side",
+          "duration": "100m"
+        },
+        {
+          "title": "The Parents Need to Grow Up for the Kids to Grow Up",
+          "duration": "100m"
+        },
+        {
+          "title": "Love Returns",
+          "duration": "100m"
+        },
+        {
+          "title": "It Bloomed Perfectly After Meeting You",
+          "duration": "100m"
+        },
+        {
+          "title": "Children's Imagination Becomes Real",
+          "duration": "100m"
+        },
+        {
+          "title": "The Apple of My Eye",
+          "duration": "100m"
+        },
+        {
+          "title": "Our Happy Moments Together",
+          "duration": "100m"
+        },
+        {
+          "title": "You're Like Jelly, You're So Lovely",
+          "duration": "100m"
+        },
+        {
+          "title": "Let's Connect Our Yesterday with Today",
+          "duration": "100m"
+        },
+        {
+          "title": "Build a Nest in My Arms",
+          "duration": "100m"
+        },
+        {
+          "title": "Dance with Santa",
+          "duration": "100m"
+        },
+        {
+          "title": "Being with You Brings Me Happiness",
+          "duration": "100m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Nice to Meet You, Be Happy",
+          "duration": "100m"
+        },
+        {
+          "title": "You Are My Ocean, Overflowing Love",
+          "duration": "100m"
+        },
+        {
+          "title": "I'm Grateful I Met You",
+          "duration": "100m"
+        },
+        {
+          "title": "Secret Garden at Home",
+          "duration": "100m"
+        },
+        {
+          "title": "The Never-ending Story of Childrearing",
+          "duration": "100m"
+        },
+        {
+          "title": "We Shall Be Happy, We Shall Love, We Shall Be Together",
+          "duration": "100m"
+        },
+        {
+          "title": "We Hope You Shine This Year As Well",
+          "duration": "100m"
+        },
+        {
+          "title": "The Golden Goal of My Life",
+          "duration": "100m"
+        },
+        {
+          "title": "Do You Want to Walk with Daddy?",
+          "duration": "100m"
+        },
+        {
+          "title": "I'll Protect You Until the End",
+          "duration": "100m"
+        },
+        {
+          "title": "Okay, Shiny Daddy",
+          "duration": "100m"
+        },
+        {
+          "title": "Spring Will Come to Childrearing",
+          "duration": "100m"
+        },
+        {
+          "title": "Being a Dad Makes Me Happy All Year Round",
+          "duration": "100m"
+        },
+        {
+          "title": "Getting Used to Childrearing",
+          "duration": "100m"
+        },
+        {
+          "title": "Hello to a Child Who's Like a Flower Petal",
+          "duration": "100m"
+        },
+        {
+          "title": "It Was Fate to Have Met You",
+          "duration": "100m"
+        },
+        {
+          "title": "A Tale of a Little Kid",
+          "duration": "100m"
+        },
+        {
+          "title": "Thank You, You're My All",
+          "duration": "100m"
+        },
+        {
+          "title": "A Serenade for Father",
+          "duration": "100m"
+        },
+        {
+          "title": "Everything Is Fun When We're Together",
+          "duration": "100m"
+        },
+        {
+          "title": "It's a Small Star, But It's Still Shining",
+          "duration": "100m"
+        },
+        {
+          "title": "Let's Go Anywhere Right Now",
+          "duration": "100m"
+        },
+        {
+          "title": "The Rose of Sharon Has Bloomed",
+          "duration": "100m"
+        },
+        {
+          "title": "I'll Make Everything You Want Come True",
+          "duration": "100m"
+        },
+        {
+          "title": "We'll Meet on One Fine Day",
+          "duration": "100m"
+        },
+        {
+          "title": "10 out of 10 for Our Superman",
+          "duration": "110m"
+        },
+        {
+          "title": "You're an Honor to My Family",
+          "duration": "98m"
+        },
+        {
+          "title": "Accept My Heart",
+          "duration": "97m"
+        },
+        {
+          "title": "Today Is Your Greenest Day",
+          "duration": "80m"
+        },
+        {
+          "title": "This Moment Shines Brighter than a Gold Medal",
+          "duration": "80m"
+        },
+        {
+          "title": "A Little Yet Big Hero",
+          "duration": "99m"
+        },
+        {
+          "title": "Happy To Be With You Today",
+          "duration": "99m"
+        },
+        {
+          "title": "The More Exciting Things, The Better",
+          "duration": "99m"
+        },
+        {
+          "title": "Your Smile Makes Me Dance",
+          "duration": "81m"
+        },
+        {
+          "title": "Childrearing Starts with Outs in the 9th Winning",
+          "duration": "80m"
+        },
+        {
+          "title": "Childrearing Olympics for 365 Days",
+          "duration": "80m"
+        },
+        {
+          "title": "Do As Your Heart Says on Chuseok",
+          "duration": "80m"
+        },
+        {
+          "title": "Our 400th Memory",
+          "duration": "80m"
+        },
+        {
+          "title": "Yes, This is What Life is About",
+          "duration": "81m"
+        },
+        {
+          "title": "I Hope Your Day Shines Brighter than the Stars",
+          "duration": "80m"
+        },
+        {
+          "title": "Stop Rushing Me While I Look After My Kids",
+          "duration": "81m"
+        },
+        {
+          "title": "For the Childrearing Home Run",
+          "duration": "80m"
+        },
+        {
+          "title": "On a Great Day in October",
+          "duration": "96m"
+        },
+        {
+          "title": "Dogged Perseverance for Childrearing",
+          "duration": "80m"
+        },
+        {
+          "title": "Forever Silly Parent",
+          "duration": "81m"
+        },
+        {
+          "title": "Take Childrearing Slow and Firm",
+          "duration": "80m"
+        },
+        {
+          "title": "You Are My Most Precious Treasure",
+          "duration": "80m"
+        },
+        {
+          "title": "You're in Love with Me",
+          "duration": "80m"
+        },
+        {
+          "title": "An Aria for You",
+          "duration": "82m"
+        },
+        {
+          "title": "That Winter, We're Raising Kids",
+          "duration": "82m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Can You Remember it for Me",
+          "duration": "90m"
+        },
+        {
+          "title": "Here Comes the Tiger with Child-rearing Spirits",
+          "duration": "78m"
+        },
+        {
+          "title": "You are the Biggest Prize of My Life",
+          "duration": "78m"
+        },
+        {
+          "title": "Everyday is New, Thanks to You",
+          "duration": "79m"
+        },
+        {
+          "title": "Grow! Child-rearing is Fun",
+          "duration": "80m"
+        },
+        {
+          "title": "The Sweet Life of Childrearing",
+          "duration": "81m"
+        },
+        {
+          "title": "All of Us are Parenting",
+          "duration": "80m"
+        },
+        {
+          "title": "It's Okay to Grow Slowly",
+          "duration": "81m"
+        },
+        {
+          "title": "We are Alike",
+          "duration": "78m"
+        },
+        {
+          "title": "Happier Together",
+          "duration": "81m"
+        },
+        {
+          "title": "Our Happy Story",
+          "duration": "80m"
+        },
+        {
+          "title": "Growing A Little At A Time",
+          "duration": "79m"
+        },
+        {
+          "title": "I'm Happy Wherever I'm with You",
+          "duration": "81m"
+        },
+        {
+          "title": "A Heart-fluttering Journey of Every Moment with You!",
+          "duration": "80m"
+        },
+        {
+          "title": "Hello, Nice to Meet You!",
+          "duration": "80m"
+        },
+        {
+          "title": "Strong Body, Strong Mind",
+          "duration": "77m"
+        },
+        {
+          "title": "Children's Day! As Happy as You Want!",
+          "duration": "77m"
+        },
+        {
+          "title": "I Guess We Love Spring",
+          "duration": "78m"
+        },
+        {
+          "title": "You're the Best, No Matter What!",
+          "duration": "78m"
+        },
+        {
+          "title": "I'll Show You a New World!",
+          "duration": "80m"
+        },
+        {
+          "title": "I Miss You and Miss You More!",
+          "duration": "80m"
+        },
+        {
+          "title": "I Will Be with You at All Your Firsts!",
+          "duration": "76m"
+        },
+        {
+          "title": "It's a Miracle We Met",
+          "duration": "80m"
+        },
+        {
+          "title": "We're Still Growing",
+          "duration": "73m"
+        },
+        {
+          "title": "When You Smile, I Smile",
+          "duration": "77m"
+        },
+        {
+          "title": "Let's Celebrate Today, the Most Special Day Ever",
+          "duration": "77m"
+        },
+        {
+          "title": "Hyper Baby Is Here!",
+          "duration": "76m"
+        },
+        {
+          "title": "The Birth of a New Superman",
+          "duration": "77m"
+        },
+        {
+          "title": "Look How Much We've Grown!",
+          "duration": "74m"
+        },
+        {
+          "title": "The World I Want to Show You",
+          "duration": "78m"
+        },
+        {
+          "title": "My Love, My Everything",
+          "duration": "76m"
+        },
+        {
+          "title": "Childcare More Refreshing Than a Vacation?",
+          "duration": "77m"
+        },
+        {
+          "title": "You Are My Universe",
+          "duration": "77m"
+        },
+        {
+          "title": "You're as Bright as the Full Moon",
+          "duration": "78m"
+        },
+        {
+          "title": "The Moment I Learn About You",
+          "duration": "74m"
+        },
+        {
+          "title": "My Day That Changed After Meeting You",
+          "duration": "75m"
+        },
+        {
+          "title": "A Perfect Superman No Matter What Others Say",
+          "duration": "74m"
+        },
+        {
+          "title": "A Miracle That Makes Daily Life Special",
+          "duration": "77m"
+        },
+        {
+          "title": "A World We Dream Together",
+          "duration": "75m"
+        },
+        {
+          "title": "Parenting is Beautiful",
+          "duration": "76m"
+        },
+        {
+          "title": "We Slowly Resemble Each Other",
+          "duration": "80m"
+        },
+        {
+          "title": "Thank You For Being You",
+          "duration": "77m"
+        },
+        {
+          "title": "Every Lovely Moment of You",
+          "duration": "76m"
+        },
+        {
+          "title": "A World Colored with You",
+          "duration": "75m"
+        },
+        {
+          "title": "Dad Is A National Team Player",
+          "duration": "77m"
+        },
+        {
+          "title": "I Prepared It For You",
+          "duration": "79m"
+        },
+        {
+          "title": "My Beloved Family",
+          "duration": "80m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Our Shining End of the Year",
+          "duration": "76m"
+        },
+        {
+          "title": "Children Who Grow With Love",
+          "duration": "75m"
+        },
+        {
+          "title": "Bed of Roses for the New Year",
+          "duration": "78m"
+        },
+        {
+          "title": "It's Better Because We're Together",
+          "duration": "77m"
+        },
+        {
+          "title": "I Love You with This Heart",
+          "duration": "77m"
+        },
+        {
+          "title": "Cheering on New Challenges",
+          "duration": "71m"
+        },
+        {
+          "title": "The Most Beautiful Moment is Now",
+          "duration": "74m"
+        },
+        {
+          "title": "I'm Grateful and I Love You and All That",
+          "duration": "77m"
+        },
+        {
+          "title": "You Can Grow at Your Own Pace",
+          "duration": "77m"
+        },
+        {
+          "title": "You're the Brightest in the Whole World",
+          "duration": "73m"
+        },
+        {
+          "title": "A Magical Day",
+          "duration": "77m"
+        },
+        {
+          "title": "Our First Moments Together",
+          "duration": "77m"
+        },
+        {
+          "title": "That's How You Grow, Little by Little",
+          "duration": "75m"
+        },
+        {
+          "title": "Shush, This is a Secret from Mom",
+          "duration": "76m"
+        },
+        {
+          "title": "You Are My Brilliant Spring",
+          "duration": "78m"
+        },
+        {
+          "title": "Your Dreams Will Come True",
+          "duration": "72m"
+        },
+        {
+          "title": "A Newer World Will Spread Before You",
+          "duration": "75m"
+        },
+        {
+          "title": "I Hope You're As Happy As Can Be",
+          "duration": "77m"
+        },
+        {
+          "title": "Welcome to Childcare World",
+          "duration": "75m"
+        },
+        {
+          "title": "A New Start with You",
+          "duration": "76m"
+        },
+        {
+          "title": "You Are My Happiness",
+          "duration": "80m"
+        },
+        {
+          "title": "The You Who Makes Me Laugh",
+          "duration": "61m"
+        },
+        {
+          "title": "You Make My Day Bright",
+          "duration": "61m"
+        },
+        {
+          "title": "I Will Give My Fullest Love to You",
+          "duration": "59m"
+        },
+        {
+          "title": "Thank You for Being Born",
+          "duration": "59m"
+        },
+        {
+          "title": "My Forever Superhero",
+          "duration": "60m"
+        },
+        {
+          "title": "We're Twice as Happy When We're Together",
+          "duration": "63m"
+        },
+        {
+          "title": "Wherever It Is, Let's Go Together",
+          "duration": "61m"
+        },
+        {
+          "title": "Into the Parenting World",
+          "duration": "59m"
+        },
+        {
+          "title": "I Love You As Much As the Ocean",
+          "duration": "61m"
+        },
+        {
+          "title": "Oh, My Family",
+          "duration": "60m"
+        },
+        {
+          "title": "Your Smile is My Sunshine",
+          "duration": "62m"
+        },
+        {
+          "title": "I Will Remember This Summer Day",
+          "duration": "61m"
+        },
+        {
+          "title": "The Way I Love You",
+          "duration": "62m"
+        },
+        {
+          "title": "Thank You, My Superman",
+          "duration": "62m"
+        },
+        {
+          "title": "I'll Gift You a Special Day",
+          "duration": "60m"
+        },
+        {
+          "title": "Miracles Are Always Close By",
+          "duration": "59m"
+        },
+        {
+          "title": "It Came Like Fate",
+          "duration": "61m"
+        },
+        {
+          "title": "Our Meeting was Inevitable",
+          "duration": "61m"
+        },
+        {
+          "title": "I Miss You All the Time",
+          "duration": "59m"
+        },
+        {
+          "title": "We're 500 Times Happier Because We're Together",
+          "duration": "62m"
+        },
+        {
+          "title": "You Are My Happiness",
+          "duration": "60m"
+        },
+        {
+          "title": "Shall We Go on a Trip?",
+          "duration": "59m"
+        },
+        {
+          "title": "Daddy Will Protect You As You Grow Up",
+          "duration": "61m"
+        },
+        {
+          "title": "All Seasons Are So Precious",
+          "duration": "61m"
+        },
+        {
+          "title": "With You, Every Day Is Christmas",
+          "duration": "60m"
+        },
+        {
+          "title": "I Want To Give You My Everything",
+          "duration": "60m"
+        },
+        {
+          "title": "When You Came to Me, It Felt Like a Dream",
+          "duration": "60m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Our Happy Time",
+          "duration": "61m"
+        },
+        {
+          "title": "Let's Rise Up Again In the New Year",
+          "duration": "60m"
+        },
+        {
+          "title": "Look Closely. This Is How A Super Mom Parents",
+          "duration": "65m"
+        },
+        {
+          "title": "We Shine So Bright",
+          "duration": "60m"
+        },
+        {
+          "title": "Hey, Gather At My House",
+          "duration": "60m"
+        },
+        {
+          "title": "Let's Always Be Together In the New Year",
+          "duration": "60m"
+        },
+        {
+          "title": "The True Child-Rearing Master Is Here",
+          "duration": "60m"
+        },
+        {
+          "title": "My Love, My Star",
+          "duration": "62m"
+        },
+        {
+          "title": "The Brightest Superman in the World",
+          "duration": "61m"
+        },
+        {
+          "title": "High-Energy Super Parenting",
+          "duration": "61m"
+        },
+        {
+          "title": "Pit-A-Pat, Our Meeting",
+          "duration": "61m"
+        },
+        {
+          "title": "Let's Celebrate Every Moment",
+          "duration": "62m"
+        },
+        {
+          "title": "You Are My Spring",
+          "duration": "65m"
+        },
+        {
+          "title": "A Happy Spring Picnic Together",
+          "duration": "65m"
+        },
+        {
+          "title": "Yo! Hip-Hop Baby is Here",
+          "duration": "45m"
+        },
+        {
+          "title": "Spring, Spring, Spring! Spring is Here",
+          "duration": "45m"
+        },
+        {
+          "title": "The Biggest Gift in the World",
+          "duration": "45m"
+        },
+        {
+          "title": "Every Day is A Warm Spring Day When I Look At You",
+          "duration": "45m"
+        },
+        {
+          "title": "Happiness From the Heart",
+          "duration": "45m"
+        },
+        {
+          "title": "Happy First Birthday",
+          "duration": "45m"
+        },
+        {
+          "title": "I Will Do Anything for You",
+          "duration": "45m"
+        },
+        {
+          "title": "Parenting? Don't Try to Be Perfect",
+          "duration": "45m"
+        },
+        {
+          "title": "The New Hosts",
+          "duration": "45m"
+        },
+        {
+          "title": "A Birthday Trip and the Taekwondo Competition",
+          "duration": "45m"
+        },
+        {
+          "title": "The Athletic Niccolo and Adorable Si Ha",
+          "duration": "45m"
+        },
+        {
+          "title": "Let All My Wishes Come True",
+          "duration": "45m"
+        },
+        {
+          "title": "I Love You. Be Happy. Let's Be Together",
+          "duration": "45m"
+        },
+        {
+          "title": "Every New Experience with You is Precious",
+          "duration": "45m"
+        },
+        {
+          "title": "Jeju Trip Part 2, Niccolo Meets a Baby",
+          "duration": "45m"
+        },
+        {
+          "title": "The Soon to Be Dad and Jun Beom TV",
+          "duration": "45m"
+        },
+        {
+          "title": "I Miss You, and I Miss You More",
+          "duration": "45m"
+        },
+        {
+          "title": "The Shining Gold Medalist Uncles",
+          "duration": "45m"
+        },
+        {
+          "title": "You're So Cute, I Want To Hug You Tightly",
+          "duration": "45m"
+        },
+        {
+          "title": "Thank You For Growing Up Well",
+          "duration": "45m"
+        },
+        {
+          "title": "Children Grow As Much As You Wait",
+          "duration": "45m"
+        },
+        {
+          "title": "Perfect Happiness Is You",
+          "duration": "45m"
+        },
+        {
+          "title": "Trot Queen Super Mom Has Appeared!",
+          "duration": "45m"
+        },
+        {
+          "title": "Everyone, Abalone was Born!",
+          "duration": "45m"
+        },
+        {
+          "title": "We All Love Ji Woo",
+          "duration": "45m"
+        },
+        {
+          "title": "Your World Will Be Entirely Beautiful",
+          "duration": "45m"
+        },
+        {
+          "title": "Good Baby, Just Like Me",
+          "duration": "45m"
+        },
+        {
+          "title": "I Really Like You Who Look Like The Ocean",
+          "duration": "90m"
+        },
+        {
+          "title": "It's Supernatural That I Love You",
+          "duration": "90m"
+        },
+        {
+          "title": "Our Sparkling Day",
+          "duration": "90m"
+        },
+        {
+          "title": "You're Always the Number One In My Heart",
+          "duration": "90m"
+        },
+        {
+          "title": "Even More Happiness Because We're Together",
+          "duration": "90m"
+        },
+        {
+          "title": "Let's be together! Merry Christmas",
+          "duration": "90m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Year of the Blue Snake, Full of Joy, Full of Love\"",
+          "duration": "90m"
+        },
+        {
+          "title": "Our Meeting Doubles the Joy",
+          "duration": "90m"
+        },
+        {
+          "title": "Welcome to the Earth",
+          "duration": "90m"
+        },
+        {
+          "title": "Thank You for Coming To Me",
+          "duration": "90m"
+        },
+        {
+          "title": "The More You Get Excited, the Better",
+          "duration": "90m"
+        },
+        {
+          "title": "Congratulations, I love you, Let’s Be Together",
+          "duration": "90m"
+        },
+        {
+          "title": "We’re Growing Up Well",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 562",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 563",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 564",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 565",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 566",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 567",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 568",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 569",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 570",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 571",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 572",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 573",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 574",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 575",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 576",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 577",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 578",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 579",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 580",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 581",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 582",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 583",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 584",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 585",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 586",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 587",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 588",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 589",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 590",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 591",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 592",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 593",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 594",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 595",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 596",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 597",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 598",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 599",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 600",
+          "duration": "90m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "90m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "90m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0307059",
+  "title": "Kingkong",
+  "type": "movie",
+  "release": 2000,
+  "duration": "9 min",
+  "quality": "HD",
+  "description": "In Michaela Grill´s work, the opulence of these images is diametrically opposed to a minimalistic reduction to an element of urban architecture. The disintegration of the initial material (the windowed façade of a building), which resembles a chemical process, produces the colors violet, light blue and white and dissects the urban vocabulary of forms. The dispersion of the big city´s lights carries over to the structure of time and space and ceases to conjure up an external danger. Instead, the viewer is confronted with sound and images which decompose the personal criteria employed in sensory perception.",
+  "genre": [],
+  "actors": [],
+  "director": "Michaela Grill",
+  "country": "Austria",
+  "rating": "4.8",
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt1461195",
+  "title": "Godzila Vs Kingkong",
+  "type": "movie",
+  "release": null,
+  "duration": "113 min",
+  "quality": "HD",
+  "description": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.",
+  "genre": [],
+  "actors": [],
+  "director": "",
+  "country": "",
+  "rating": "6.0",
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt21109552",
+  "title": "Gangnam Zombie",
+  "type": "movie",
+  "release": 2023,
+  "duration": "81 min",
+  "quality": "HD",
+  "description": "Citizens from upscale Gangnam in Seoul start experiencing unusual and terrifying symptoms, devolving into inhuman creatures, leaving only a few survivors with the possibility to make it out alive.",
+  "genre": [
+    "Horror",
+    "Drama",
+    "Action"
+  ],
+  "actors": [
+    "Ji Il-ju",
+    "Park Ji-yeon",
+    "Tak Te-in",
+    "Jo Kyoung-hoon",
+    "Jung Lee-joo"
+  ],
+  "director": "Lee Soo-sung",
+  "country": "South Korea",
+  "rating": "5.1",
+  "poster": "https://image.tmdb.org/t/p/w500/m7H2JvD18pxQr21ImBbv2vyy6kK.jpg",
+  "trailer": "https://www.youtube.com/embed/d13ekNJcQEQ",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+{
+  "imdb": "tt14905854",
+  "title": "Hamnet",
+  "type": "movie",
+  "release": 2025,
+  "duration": "125 min",
+  "quality": "HD",
+  "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+  "genre": [
+    "Drama",
+    "Romance",
+    "History"
+  ],
+  "actors": [
+    "Jessie Buckley",
+    "Paul Mescal",
+    "Emily Watson",
+    "Joe Alwyn",
+    "Jacobi Jupe"
+  ],
+  "director": "Chloé Zhao",
+  "country": "United Kingdom, United States of America",
+  "rating": "7.7",
+  "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+  "trailer": "https://www.youtube.com/embed/xYcgQMxQwmk",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt14205554",
+  "title": "KPop Demon Hunters",
+  "type": "movie",
+  "release": 2025,
+  "duration": "96 min",
+  "quality": "HD",
+  "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+  "genre": [
+    "Fantasy",
+    "Music",
+    "Comedy",
+    "Animation"
+  ],
+  "actors": [
+    "Arden Cho",
+    "May Hong",
+    "Ji-young Yoo",
+    "Ahn Hyo-seop",
+    "Yunjin Kim"
+  ],
+  "director": "Chris Appelhans",
+  "country": "United States of America",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+  "trailer": "https://www.youtube.com/embed/AzCAwdp1uIQ",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt3566834",
+  "title": "A Minecraft Movie",
+  "type": "movie",
+  "release": 2025,
+  "duration": "101 min",
+  "quality": "4K",
+  "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+  "genre": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+  ],
+  "actors": [
+    "Jason Momoa",
+    "Jack Black",
+    "Sebastian Eugene Hansen",
+    "Emma Myers",
+    "Danielle Brooks"
+  ],
+  "director": "Jared Hess",
+  "country": "Sweden, United States of America",
+  "rating": "6.3",
+  "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+  "trailer": "https://www.youtube.com/embed/aSh_L6bvaCQ",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt9603208",
+  "title": "Mission: Impossible - The Final Reckoning",
+  "type": "movie",
+  "release": 2025,
+  "duration": "170 min",
+  "quality": "4K",
+  "description": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+  "genre": [
+    "Action",
+    "Thriller",
+    "Adventure"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Hayley Atwell",
+    "Ving Rhames",
+    "Simon Pegg",
+    "Esai Morales"
+  ],
+  "director": "Christopher McQuarrie",
+  "country": "United States of America",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+  "trailer": "https://www.youtube.com/embed/G1VBfMCZVkw",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt19847976",
+  "title": "Wicked: For Good",
+  "type": "movie",
+  "release": 2025,
+  "duration": "137 min",
+  "quality": "4K",
+  "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+  "genre": [
+    "Fantasy",
+    "Adventure",
+    "Romance"
+  ],
+  "actors": [
+    "Cynthia Erivo",
+    "Ariana Grande",
+    "Jeff Goldblum",
+    "Michelle Yeoh",
+    "Jonathan Bailey"
+  ],
+  "director": "Jon M. Chu",
+  "country": "United States of America",
+  "rating": "6.6",
+  "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+  "trailer": "https://www.youtube.com/embed/R2Xubj7lazE",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt14107334",
+  "title": "The Running Man",
+  "type": "movie",
+  "release": 2025,
+  "duration": "134 min",
+  "quality": "4K",
+  "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+  "genre": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Glen Powell",
+    "William H. Macy",
+    "Lee Pace",
+    "Michael Cera",
+    "Emilia Jones"
+  ],
+  "director": "Edgar Wright",
+  "country": "United States of America, United Kingdom",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+  "trailer": "https://www.youtube.com/embed/_iHJHYjq7XI",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt10676052",
+  "title": "The Fantastic 4: First Steps",
+  "type": "movie",
+  "release": 2025,
+  "duration": "115 min",
+  "quality": "4K",
+  "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+  "genre": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "actors": [
+    "Pedro Pascal",
+    "Vanessa Kirby",
+    "Ebon Moss-Bachrach",
+    "Joseph Quinn",
+    "Ralph Ineson"
+  ],
+  "director": "Matt Shakman",
+  "country": "United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/abqOz6EL3yXyOOafCPZxjL1M5bQ.jpg",
+  "trailer": "https://www.youtube.com/embed/LJa5wv93YGM",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt11245972",
+  "title": "Scream",
+  "type": "movie",
+  "release": 2022,
+  "duration": "114 min",
+  "quality": "HD",
+  "description": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "actors": [
+    "Melissa Barrera",
+    "Jenna Ortega",
+    "Mason Gooding",
+    "Jasmin Savoy Brown",
+    "Jack Quaid"
+  ],
+  "director": "Tyler Gillett",
+  "country": "United States of America",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",
+  "trailer": "https://www.youtube.com/embed/nRwLyKIBNU8",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt27047903",
+  "title": "Scream 7",
+  "type": "movie",
+  "release": 2026,
+  "duration": "114 min",
+  "quality": "4K",
+  "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Crime"
+  ],
+  "actors": [
+    "Neve Campbell",
+    "Courteney Cox",
+    "Isabel May",
+    "Jasmin Savoy Brown",
+    "Mason Gooding"
+  ],
+  "director": "Kevin Williamson",
+  "country": "United States of America",
+  "rating": "6.1",
+  "poster": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+  "trailer": "https://www.youtube.com/embed/4g8OciWNJn4",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt17663992",
+  "title": "Scream VI",
+  "type": "movie",
+  "release": 2023,
+  "duration": "123 min",
+  "quality": "HD",
+  "description": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+  "genre": [
+    "Horror",
+    "Thriller",
+    "Crime"
+  ],
+  "actors": [
+    "Melissa Barrera",
+    "Jenna Ortega",
+    "Jasmin Savoy Brown",
+    "Mason Gooding",
+    "Jack Champion"
+  ],
+  "director": "Matt Bettinelli-Olpin",
+  "country": "United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+  "trailer": "https://www.youtube.com/embed/1Ie2qmAOc6Q",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+    {
   "imdb": "tt2861424",
   "title": "Rick and Morty",
   "type": "series",
