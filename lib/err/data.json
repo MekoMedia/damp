@@ -1,6 +1,5007 @@
 {
   "movies": [
     {
+  "imdb": "tt6611916",
+  "title": "Kingdom",
+  "type": "series",
+  "release": 2019,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people.",
+  "genre": [
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Ju Ji-hoon",
+    "Ryu Seung-ryong",
+    "Bae Doona",
+    "Kim Sang-ho",
+    "Kim Sung-kyu"
+  ],
+  "director": "Kim Eun-hee, Kim Seong-hun",
+  "country": "KR",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+  "trailer": "https://www.youtube.com/embed/Bmhqw0F3q-g",
+  "baseviews": "1.3M",
+  "popularity": 86,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "57m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "55m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "56m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "47m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "53m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "44m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "52m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "40m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "49m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "43m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "36m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "53m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt9362722",
+  "title": "Spider-Man: Across the Spider-Verse",
+  "type": "movie",
+  "release": 2023,
+  "duration": "140 min",
+  "quality": "HD",
+  "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Shameik Moore",
+    "Hailee Steinfeld",
+    "Brian Tyree Henry",
+    "Luna Lauren Vélez",
+    "Jake Johnson"
+  ],
+  "director": "Justin K. Thompson",
+  "country": "United States of America",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+  "trailer": "https://www.youtube.com/embed/yFrxzaBLDQM",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt4633694",
+  "title": "Spider-Man: Into the Spider-Verse",
+  "type": "movie",
+  "release": 2018,
+  "duration": "117 min",
+  "quality": "HD",
+  "description": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Shameik Moore",
+    "Jake Johnson",
+    "Hailee Steinfeld",
+    "Mahershala Ali",
+    "Brian Tyree Henry"
+  ],
+  "director": "Bob Persichetti",
+  "country": "United States of America",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+  "trailer": "https://www.youtube.com/embed/tg52up16eq0",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt12867810",
+  "title": "Start-Up",
+  "type": "series",
+  "release": 2020,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "Young entrepreneurs aspiring to launch virtual dreams into reality compete for success and love in the cutthroat world of Korea's high-tech industry.",
+  "genre": [
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Suzy",
+    "Nam Joo-hyuk",
+    "Kim Seon-ho",
+    "Kang Hanna",
+    "Kim Hae-sook"
+  ],
+  "director": "Park Hye-ryun",
+  "country": "KR",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+  "trailer": "https://www.youtube.com/embed/BemKyzbLDDc",
+  "baseviews": "1.3M",
+  "popularity": 80,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "START-UP",
+          "duration": "85m"
+        },
+        {
+          "title": "FFF (FAMILY, FRIENDS, FOOLS)",
+          "duration": "84m"
+        },
+        {
+          "title": "Angel",
+          "duration": "83m"
+        },
+        {
+          "title": "Sandbox",
+          "duration": "81m"
+        },
+        {
+          "title": "Hackathon",
+          "duration": "82m"
+        },
+        {
+          "title": "Key Man",
+          "duration": "82m"
+        },
+        {
+          "title": "Burn Rate",
+          "duration": "78m"
+        },
+        {
+          "title": "Backup",
+          "duration": "81m"
+        },
+        {
+          "title": "Risk",
+          "duration": "81m"
+        },
+        {
+          "title": "Demo Day",
+          "duration": "85m"
+        },
+        {
+          "title": "Exit",
+          "duration": "77m"
+        },
+        {
+          "title": "Acqhire",
+          "duration": "86m"
+        },
+        {
+          "title": "Comfort Zone",
+          "duration": "73m"
+        },
+        {
+          "title": "Elevator Speech",
+          "duration": "81m"
+        },
+        {
+          "title": "MVP (Minimum Viable Product)",
+          "duration": "78m"
+        },
+        {
+          "title": "Scale Up",
+          "duration": "81m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt5433140",
+  "title": "Fast X",
+  "type": "movie",
+  "release": 2023,
+  "duration": "142 min",
+  "quality": "HD",
+  "description": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "actors": [
+    "Vin Diesel",
+    "Michelle Rodriguez",
+    "Tyrese Gibson",
+    "Ludacris",
+    "John Cena"
+  ],
+  "director": "Louis Leterrier",
+  "country": "United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+  "trailer": "https://www.youtube.com/embed/eoOaKN4qCKw",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt6806448",
+  "title": "Fast & Furious Presents: Hobbs & Shaw",
+  "type": "movie",
+  "release": 2019,
+  "duration": "137 min",
+  "quality": "HD",
+  "description": "Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have traded smack talk and body blows. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, they join forces to defeat him.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Dwayne Johnson",
+    "Jason Statham",
+    "Idris Elba",
+    "Vanessa Kirby",
+    "Helen Mirren"
+  ],
+  "director": "David Leitch",
+  "country": "United States of America",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+  "trailer": "https://www.youtube.com/embed/b736ZM_KfEk",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt1013752",
+  "title": "Fast & Furious",
+  "type": "movie",
+  "release": 2009,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And the two men will find the best way to get revenge: push the limits of what's possible behind the wheel.",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "actors": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Michelle Rodriguez",
+    "Jordana Brewster",
+    "John Ortiz"
+  ],
+  "director": "Justin Lin",
+  "country": "United States of America",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+  "trailer": "https://www.youtube.com/embed/ne5E7hOQqn0",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+
+{
+  "imdb": "tt8322592",
+  "title": "Fast & Furious Spy Racers",
+  "type": "series",
+  "release": 2019,
+  "duration": "6 Seasons",
+  "quality": "4K",
+  "description": "A government agency recruits teen driver Tony Toretto and his thrill-seeking friends to infiltrate a criminal street racing circuit as undercover spies.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Kids",
+    "Family"
+  ],
+  "actors": [
+    "Tyler Posey",
+    "Camille Ramsey",
+    "Luke Youngblood",
+    "Jorge Diaz",
+    "Renée Elise Goldsberry"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+  "trailer": "https://www.youtube.com/embed/ZoabGr0bHe4",
+  "baseviews": "1.3M",
+  "popularity": 62,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Born a Toretto",
+          "duration": "25m"
+        },
+        {
+          "title": "Enter SH1FT3R",
+          "duration": "25m"
+        },
+        {
+          "title": "Ghost Town Grand Prix",
+          "duration": "25m"
+        },
+        {
+          "title": "The Owl Job",
+          "duration": "25m"
+        },
+        {
+          "title": "The Celestial Vault",
+          "duration": "25m"
+        },
+        {
+          "title": "The Final Key",
+          "duration": "25m"
+        },
+        {
+          "title": "Ignition",
+          "duration": "25m"
+        },
+        {
+          "title": "The Key to the Strip",
+          "duration": "25m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Escape from L.A.",
+          "duration": "24m"
+        },
+        {
+          "title": "That Sinking Feeling",
+          "duration": "24m"
+        },
+        {
+          "title": "Bem-vindo ao Rio",
+          "duration": "24m"
+        },
+        {
+          "title": "Combustion",
+          "duration": "24m"
+        },
+        {
+          "title": "Driving Blind",
+          "duration": "24m"
+        },
+        {
+          "title": "An Echo of Nowhere",
+          "duration": "24m"
+        },
+        {
+          "title": "The Patroness",
+          "duration": "24m"
+        },
+        {
+          "title": "Tchau, Uggos",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Giant Haboob",
+          "duration": "24m"
+        },
+        {
+          "title": "The Dead End",
+          "duration": "24m"
+        },
+        {
+          "title": "The Empty Well",
+          "duration": "24m"
+        },
+        {
+          "title": "The Hunt",
+          "duration": "24m"
+        },
+        {
+          "title": "The Bedouin Shield",
+          "duration": "24m"
+        },
+        {
+          "title": "The Eye of the Sahara",
+          "duration": "24m"
+        },
+        {
+          "title": "RoboCleve",
+          "duration": "24m"
+        },
+        {
+          "title": "Sirocco Fire Explosion",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Chasing Phantoms",
+          "duration": "24m"
+        },
+        {
+          "title": "The Convoy",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fugitives",
+          "duration": "24m"
+        },
+        {
+          "title": "That's a Moray",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ocelot King vs. El Mariposa",
+          "duration": "24m"
+        },
+        {
+          "title": "The Siege",
+          "duration": "24m"
+        },
+        {
+          "title": "Into the Labyrinth",
+          "duration": "24m"
+        },
+        {
+          "title": "Don't Go Chasing Lavafalls",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "R.O.A.M. Around the World",
+          "duration": "24m"
+        },
+        {
+          "title": "The Rescue",
+          "duration": "24m"
+        },
+        {
+          "title": "Anchors Away",
+          "duration": "24m"
+        },
+        {
+          "title": "Driving and Crying",
+          "duration": "24m"
+        },
+        {
+          "title": "Ride and Die",
+          "duration": "24m"
+        },
+        {
+          "title": "Ex Machina",
+          "duration": "24m"
+        },
+        {
+          "title": "The Takeover",
+          "duration": "24m"
+        },
+        {
+          "title": "The Toretto Virus",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Incineration Day",
+          "duration": "24m"
+        },
+        {
+          "title": "Snowed In",
+          "duration": "24m"
+        },
+        {
+          "title": "Rafaela's Raf-venge",
+          "duration": "24m"
+        },
+        {
+          "title": "Fun on the Autobahn",
+          "duration": "24m"
+        },
+        {
+          "title": "Detonation",
+          "duration": "24m"
+        },
+        {
+          "title": "Meltdown",
+          "duration": "24m"
+        },
+        {
+          "title": "Hollywood Beginning",
+          "duration": "24m"
+        },
+        {
+          "title": "Dann Hunt",
+          "duration": "24m"
+        },
+        {
+          "title": "Wildcat",
+          "duration": "24m"
+        },
+        {
+          "title": "Oil and Water",
+          "duration": "24m"
+        },
+        {
+          "title": "Say Goodbye to Hollywood (1)",
+          "duration": "24m"
+        },
+        {
+          "title": "Say Goodbye to Hollywood (2)",
+          "duration": "24m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt7510222",
+  "title": "Despicable Me 4",
+  "type": "movie",
+  "release": 2024,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+  "genre": [
+    "Action",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Steve Carell",
+    "Kristen Wiig",
+    "Will Ferrell",
+    "Sofía Vergara",
+    "Miranda Cosgrove"
+  ],
+  "director": "Chris Renaud",
+  "country": "United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+  "trailer": "https://www.youtube.com/embed/LtNYaH61dXY",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt1690953",
+  "title": "Despicable Me 2",
+  "type": "movie",
+  "release": 2013,
+  "duration": "98 min",
+  "quality": "HD",
+  "description": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [
+    "Steve Carell",
+    "Kristen Wiig",
+    "Benjamin Bratt",
+    "Miranda Cosgrove",
+    "Dana Gaier"
+  ],
+  "director": "Chris Renaud",
+  "country": "United States of America",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+  "trailer": "https://www.youtube.com/embed/EK3j98PHaGM",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt2755518",
+  "title": "Despicable Me: Minion Mayhem",
+  "type": "movie",
+  "release": 2012,
+  "duration": "14 min",
+  "quality": "HD",
+  "description": "Gru, one of the world's greatest villains and fathers, has invented a new weapon, the Minion Gun, a machine capable of turning ordinary humans into Minions. He has let his three daughters (Margo, Edith and Agnes) in charge of training some guests. However, because of a distraction in the middle of the training, the Minion-transformed riders, along with Gru and his daughters are forced to recover Agnes' one-year anniversary adoption gift for Gru in the depths of his own laboratory.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Science Fiction",
+    "Family"
+  ],
+  "actors": [
+    "Steve Carell",
+    "Miranda Cosgrove",
+    "Dana Gaier",
+    "Elsie Fisher",
+    "Pierre Coffin"
+  ],
+  "director": "Thierry Coup",
+  "country": "United States of America",
+  "rating": "0.0",
+  "poster": "https://image.tmdb.org/t/p/w500/onnavCoAN5l5wZt5YaB9qTVlfHw.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt2129997",
+  "title": "Despicable Me Presents: Minion Madness",
+  "type": "movie",
+  "release": 2010,
+  "duration": "12 min",
+  "quality": "HD",
+  "description": "Three new mini-movies from the creators of Despicable Me. Orientation Day: Three freshly cloned minions go through the wacky orientation process at the evil laboratories of Gru. Home Makeover: The minions \"assist\" Edith, Margo & Agnes in a home makeover when they find out a social worker is going to pay them a visit. Watch the crazy antics ensue! Banana: A minion finds a banana in his lunch bag. To what lengths will the other minions go through to steal away that coveted yellow goodness?",
+  "genre": [
+    "Family",
+    "Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "actors": [
+    "Miranda Cosgrove",
+    "Dana Gaier",
+    "Elsie Fisher",
+    "Pierre Coffin",
+    "Rob Huebel"
+  ],
+  "director": "Chris Renaud",
+  "country": "United States of America",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/smQcYI4DiF15HKt9RRpLywoWhnK.jpg",
+  "trailer": "https://www.youtube.com/embed/Zd7Tm9DM9EE",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt4262980",
+  "title": "Shin Godzilla",
+  "type": "movie",
+  "release": 2016,
+  "duration": "120 min",
+  "quality": "HD",
+  "description": "When a massive, gilled monster emerges from the deep and tears through the city, the government scrambles to save its citizens.  A rag-tag team of volunteers cuts through a web of red tape to uncover the monster's weakness and its mysterious ties to a foreign superpower.  But time is not on their side - the greatest catastrophe to ever befall the world is about to evolve right before their very eyes.",
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Horror"
+  ],
+  "actors": [
+    "Hiroki Hasegawa",
+    "Yutaka Takenouchi",
+    "Satomi Ishihara",
+    "Kengo Kora",
+    "Satoru Matsuo"
+  ],
+  "director": "Shinji Higuchi",
+  "country": "Japan",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/jPNShaWZMpVF0iQ7j1dvTuZLD20.jpg",
+  "trailer": "https://www.youtube.com/embed/fQKyyhhNxGU",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt13229934",
+  "title": "Godzilla Singular Point",
+  "type": "series",
+  "release": 2021,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "Brought together by a mysterious song, a grad student and an engineer lead the fight against an unimaginable force that may spell doom for the world.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Mystery"
+  ],
+  "actors": [
+    "Yume Miyamoto",
+    "Shoya Ishige",
+    "Wataru Takagi",
+    "Taro Kiuchi",
+    "Misaki Kuno"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/xvlgCjL1Qk9K4FFXqUanugrg97h.jpg",
+  "trailer": "https://www.youtube.com/embed/wUhyxRbLWbk",
+  "baseviews": "1.3M",
+  "popularity": 87,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Terzetto",
+          "duration": "24m"
+        },
+        {
+          "title": "Gamesome",
+          "duration": "24m"
+        },
+        {
+          "title": "Tigerish",
+          "duration": "24m"
+        },
+        {
+          "title": "Gadabout",
+          "duration": "24m"
+        },
+        {
+          "title": "Theorist",
+          "duration": "24m"
+        },
+        {
+          "title": "Enfatico",
+          "duration": "24m"
+        },
+        {
+          "title": "Omniarch",
+          "duration": "24m"
+        },
+        {
+          "title": "Graftage",
+          "duration": "24m"
+        },
+        {
+          "title": "Erumpent",
+          "duration": "24m"
+        },
+        {
+          "title": "Encipher",
+          "duration": "24m"
+        },
+        {
+          "title": "Relaunch",
+          "duration": "24m"
+        },
+        {
+          "title": "Explorer",
+          "duration": "24m"
+        },
+        {
+          "title": "Together",
+          "duration": "24m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0177443",
+  "title": "Godzilla: The Series",
+  "type": "series",
+  "release": 1998,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "Picking up where the blockbuster motion picture left off, Godzilla: The Series is a fast-paced animated adventure series that pits humanity against a new generation of giant monsters.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Kids"
+  ],
+  "actors": [
+    "Ian Ziering",
+    "Charity James",
+    "Brigitte Bako",
+    "Rino Romano",
+    "Malcolm Danare"
+  ],
+  "director": "Jeff Kline, Richard Raynis",
+  "country": "US, JP",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/elcF4hnfQ4tx0lmW9tGKDsI3Vct.jpg",
+  "trailer": "https://www.youtube.com/embed/1b2CtgkwJQA",
+  "baseviews": "1.3M",
+  "popularity": 76,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "New Family (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "New Family (2)",
+          "duration": "21m"
+        },
+        {
+          "title": "D.O.A.",
+          "duration": "21m"
+        },
+        {
+          "title": "Talkin' Trash",
+          "duration": "21m"
+        },
+        {
+          "title": "The Winter of Our Discontent",
+          "duration": "21m"
+        },
+        {
+          "title": "Cat and Mouse",
+          "duration": "21m"
+        },
+        {
+          "title": "What Dreams May Come",
+          "duration": "21m"
+        },
+        {
+          "title": "Leviathan",
+          "duration": "21m"
+        },
+        {
+          "title": "Hive",
+          "duration": "21m"
+        },
+        {
+          "title": "Bird of Paradise",
+          "duration": "21m"
+        },
+        {
+          "title": "DeadLoch",
+          "duration": "21m"
+        },
+        {
+          "title": "Monster Wars (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "Monster Wars (2)",
+          "duration": "21m"
+        },
+        {
+          "title": "Monster Wars (3)",
+          "duration": "21m"
+        },
+        {
+          "title": "Competition",
+          "duration": "21m"
+        },
+        {
+          "title": "Freeze",
+          "duration": "21m"
+        },
+        {
+          "title": "Bug Out",
+          "duration": "21m"
+        },
+        {
+          "title": "Web Site",
+          "duration": "21m"
+        },
+        {
+          "title": "An Early Frost",
+          "duration": "21m"
+        },
+        {
+          "title": "Juggernaut",
+          "duration": "21m"
+        },
+        {
+          "title": "Trust No One",
+          "duration": "21m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Future Shock",
+          "duration": "21m"
+        },
+        {
+          "title": "Cash of the Titans",
+          "duration": "21m"
+        },
+        {
+          "title": "S.C.A.L.E.",
+          "duration": "21m"
+        },
+        {
+          "title": "Protector",
+          "duration": "21m"
+        },
+        {
+          "title": "Freak Show",
+          "duration": "21m"
+        },
+        {
+          "title": "End of the Line",
+          "duration": "21m"
+        },
+        {
+          "title": "What a Long, Strange Trip It's Been",
+          "duration": "20m"
+        },
+        {
+          "title": "Wedding Bells Blew",
+          "duration": "21m"
+        },
+        {
+          "title": "Metamorphosis",
+          "duration": "21m"
+        },
+        {
+          "title": "Area 51",
+          "duration": "21m"
+        },
+        {
+          "title": "The Twister",
+          "duration": "20m"
+        },
+        {
+          "title": "Shafted",
+          "duration": "21m"
+        },
+        {
+          "title": "Where Is Thy Sting?",
+          "duration": "21m"
+        },
+        {
+          "title": "Lizard Season",
+          "duration": "21m"
+        },
+        {
+          "title": "Vision",
+          "duration": "21m"
+        },
+        {
+          "title": "Underground Movement",
+          "duration": "21m"
+        },
+        {
+          "title": "Ring of Fire",
+          "duration": "21m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt6166392",
+  "title": "Wonka",
+  "type": "movie",
+  "release": 2023,
+  "duration": "117 min",
+  "quality": "HD",
+  "description": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "actors": [
+    "Timothée Chalamet",
+    "Calah Lane",
+    "Keegan-Michael Key",
+    "Hugh Grant",
+    "Paterson Joseph"
+  ],
+  "director": "Paul King",
+  "country": "United Kingdom, United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+  "trailer": "https://www.youtube.com/embed/wYmtRhKvmVE",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt0067992",
+  "title": "Willy Wonka & the Chocolate Factory",
+  "type": "movie",
+  "release": 1971,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+  "genre": [
+    "Family",
+    "Fantasy",
+    "Comedy"
+  ],
+  "actors": [
+    "Gene Wilder",
+    "Jack Albertson",
+    "Peter Ostrum",
+    "Roy Kinnear",
+    "Julie Dawn Cole"
+  ],
+  "director": "Mel Stuart",
+  "country": "United States of America",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+  "trailer": "https://www.youtube.com/embed/2WKPKnggJqk",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt6803390",
+  "title": "Tom and Jerry: Willy Wonka & the Chocolate Factory",
+  "type": "movie",
+  "release": 2017,
+  "duration": "79 min",
+  "quality": "HD",
+  "description": "The classic Roald Dahl tale gets a modern twist when Tom and Jerry enter the amazing world of Willy Wonka's Chocolate Factory.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "JP Karliak",
+    "Jess Harnell",
+    "Lincoln Melcher",
+    "Mick Wingert",
+    "Lori Alan"
+  ],
+  "director": "Spike Brandt",
+  "country": "United States of America",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/pzWt8ECED9kGm4LSXLSkPGBWpjE.jpg",
+  "trailer": "https://www.youtube.com/embed/OdAVwckh_EE",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt3559124",
+  "title": "The Tom and Jerry Show",
+  "type": "series",
+  "release": 2014,
+  "duration": "5 Seasons",
+  "quality": "4K",
+  "description": "The iconic cat and mouse rivals are back in a fresh take on the classic series. Preserving the look, characters and sensibility of the original, this series shines a brightly colored, high-definition lens on the madcap slapstick and never-ending battle that has made Tom and Jerry two of the most beloved characters of all time.",
+  "genre": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Kids"
+  ],
+  "actors": [
+    "Rick Zieff",
+    "Kath Soucie",
+    "Grey DeLisle",
+    "Stephen Stanton",
+    "Joey D'Auria"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
+  "trailer": "https://www.youtube.com/embed/-ML6LvPWDAM",
+  "baseviews": "1.3M",
+  "popularity": 81,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Spike Gets Skooled",
+          "duration": "10m"
+        },
+        {
+          "title": "Cat's Ruffled Fur-niture",
+          "duration": "10m"
+        },
+        {
+          "title": "Sleep Disorder",
+          "duration": "10m"
+        },
+        {
+          "title": "Tom's In-Tents Adventure",
+          "duration": "10m"
+        },
+        {
+          "title": "Birthday Bashed",
+          "duration": "10m"
+        },
+        {
+          "title": "Feline Fatale",
+          "duration": "10m"
+        },
+        {
+          "title": "Cat Nippy",
+          "duration": "10m"
+        },
+        {
+          "title": "Ghosts of a Chance",
+          "duration": "10m"
+        },
+        {
+          "title": "Holed-Up",
+          "duration": "10m"
+        },
+        {
+          "title": "One of a Kind",
+          "duration": "10m"
+        },
+        {
+          "title": "Belly Achin'",
+          "duration": "10m"
+        },
+        {
+          "title": "Dog Daze",
+          "duration": "10m"
+        },
+        {
+          "title": "Birds of a Feather",
+          "duration": "10m"
+        },
+        {
+          "title": "Vampire Mouse",
+          "duration": "10m"
+        },
+        {
+          "title": "Entering and Breaking",
+          "duration": "10m"
+        },
+        {
+          "title": "Franken Kitty",
+          "duration": "10m"
+        },
+        {
+          "title": "Tom-Foolery",
+          "duration": "10m"
+        },
+        {
+          "title": "Haunted Mouse",
+          "duration": "10m"
+        },
+        {
+          "title": "Here's Looking A-Choo Kid",
+          "duration": "10m"
+        },
+        {
+          "title": "Superfied",
+          "duration": "10m"
+        },
+        {
+          "title": "What a Pain!",
+          "duration": "10m"
+        },
+        {
+          "title": "Hop to It",
+          "duration": "10m"
+        },
+        {
+          "title": "For the Love of Ruggles",
+          "duration": "10m"
+        },
+        {
+          "title": "Sleuth or Consequences",
+          "duration": "10m"
+        },
+        {
+          "title": "Dinner Is Swerved",
+          "duration": "10m"
+        },
+        {
+          "title": "Bottled Up Emotions",
+          "duration": "10m"
+        },
+        {
+          "title": "Turn About",
+          "duration": "10m"
+        },
+        {
+          "title": "The Plight Before Christmas",
+          "duration": "10m"
+        },
+        {
+          "title": "Tuffy Love",
+          "duration": "10m"
+        },
+        {
+          "title": "Poof!",
+          "duration": "10m"
+        },
+        {
+          "title": "Top Cat",
+          "duration": "10m"
+        },
+        {
+          "title": "Mummy Dearest",
+          "duration": "10m"
+        },
+        {
+          "title": "Domestic Kingdom",
+          "duration": "10m"
+        },
+        {
+          "title": "Molecular Break Up",
+          "duration": "10m"
+        },
+        {
+          "title": "Just Plane Nuts",
+          "duration": "10m"
+        },
+        {
+          "title": "Pets Not Welcome",
+          "duration": "10m"
+        },
+        {
+          "title": "Cruisin' for a Bruisin",
+          "duration": "10m"
+        },
+        {
+          "title": "Road Trippin'",
+          "duration": "10m"
+        },
+        {
+          "title": "Magic Mirror",
+          "duration": "10m"
+        },
+        {
+          "title": "Bone Dry",
+          "duration": "10m"
+        },
+        {
+          "title": "My Bot-y Guard",
+          "duration": "10m"
+        },
+        {
+          "title": "Little Quacker and Mister Fuzzy Hide",
+          "duration": "10m"
+        },
+        {
+          "title": "Pipeline",
+          "duration": "10m"
+        },
+        {
+          "title": "No Brain, No Gain",
+          "duration": "10m"
+        },
+        {
+          "title": "Cat Napped",
+          "duration": "10m"
+        },
+        {
+          "title": "Black Cat",
+          "duration": "10m"
+        },
+        {
+          "title": "Hunger Strikes",
+          "duration": "10m"
+        },
+        {
+          "title": "Gravi-Tom",
+          "duration": "10m"
+        },
+        {
+          "title": "Ghost Party",
+          "duration": "10m"
+        },
+        {
+          "title": "Cat-Astrophe",
+          "duration": "10m"
+        },
+        {
+          "title": "Curse Case Scenario",
+          "duration": "10m"
+        },
+        {
+          "title": "Say Cheese",
+          "duration": "10m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Dental Case",
+          "duration": "25m"
+        },
+        {
+          "title": "Picture Imperfect",
+          "duration": "25m"
+        },
+        {
+          "title": "One-Way Cricket",
+          "duration": "25m"
+        },
+        {
+          "title": "Slinging in the Rain",
+          "duration": "25m"
+        },
+        {
+          "title": "Squeaky Clean",
+          "duration": "25m"
+        },
+        {
+          "title": "Tough Luck Duck",
+          "duration": "25m"
+        },
+        {
+          "title": "The Paper Airplane Chase",
+          "duration": "25m"
+        },
+        {
+          "title": "Round Tripped",
+          "duration": "25m"
+        },
+        {
+          "title": "Smitten with the Kitten",
+          "duration": "25m"
+        },
+        {
+          "title": "Cheesy Ball Run",
+          "duration": "25m"
+        },
+        {
+          "title": "Say Uncle",
+          "duration": "25m"
+        },
+        {
+          "title": "Here Comes the Bribe",
+          "duration": "25m"
+        },
+        {
+          "title": "Slap Happy Birthday",
+          "duration": "25m"
+        },
+        {
+          "title": "Tuffy's Big Adventure",
+          "duration": "25m"
+        },
+        {
+          "title": "Dragon Down the Holidays",
+          "duration": "25m"
+        },
+        {
+          "title": "Big Top Tom",
+          "duration": "25m"
+        },
+        {
+          "title": "Reward If Lost",
+          "duration": "25m"
+        },
+        {
+          "title": "Build-a-Beast",
+          "duration": "25m"
+        },
+        {
+          "title": "To Kill a Mockingbird",
+          "duration": "25m"
+        },
+        {
+          "title": "From Nuts to Soup",
+          "duration": "25m"
+        },
+        {
+          "title": "No Fly Zone",
+          "duration": "25m"
+        },
+        {
+          "title": "X Marks the Thumpin'",
+          "duration": "25m"
+        },
+        {
+          "title": "Charity Case",
+          "duration": "25m"
+        },
+        {
+          "title": "Duck, Duck, Loose",
+          "duration": "25m"
+        },
+        {
+          "title": "Dandy Do-Gooders",
+          "duration": "25m"
+        },
+        {
+          "title": "Shadow Boxin'",
+          "duration": "25m"
+        },
+        {
+          "title": "Baby Blues",
+          "duration": "25m"
+        },
+        {
+          "title": "Life's a Beach",
+          "duration": "25m"
+        },
+        {
+          "title": "Meanie Genie",
+          "duration": "25m"
+        },
+        {
+          "title": "Flea Bitten",
+          "duration": "25m"
+        },
+        {
+          "title": "I Quit",
+          "duration": "25m"
+        },
+        {
+          "title": "The Art of the Deal",
+          "duration": "25m"
+        },
+        {
+          "title": "Hiccup and Away",
+          "duration": "25m"
+        },
+        {
+          "title": "Tom-Fu",
+          "duration": "25m"
+        },
+        {
+          "title": "You Can't Handle the Tooth",
+          "duration": "25m"
+        },
+        {
+          "title": "Pain for Sale",
+          "duration": "25m"
+        },
+        {
+          "title": "Downton Tabby",
+          "duration": "25m"
+        },
+        {
+          "title": "Growing Pains",
+          "duration": "25m"
+        },
+        {
+          "title": "Toodle Boom!",
+          "duration": "25m"
+        },
+        {
+          "title": "Bringing Down the House",
+          "duration": "25m"
+        },
+        {
+          "title": "Return to Sender",
+          "duration": "25m"
+        },
+        {
+          "title": "Jerry Rigged",
+          "duration": "25m"
+        },
+        {
+          "title": "The Art of War",
+          "duration": "25m"
+        },
+        {
+          "title": "Pillow Case",
+          "duration": "25m"
+        },
+        {
+          "title": "Home Insecurity",
+          "duration": "25m"
+        },
+        {
+          "title": "Tail of Two Kitties",
+          "duration": "25m"
+        },
+        {
+          "title": "Vanishing Creamed",
+          "duration": "10m"
+        },
+        {
+          "title": "Unhappily Harried After",
+          "duration": "10m"
+        },
+        {
+          "title": "Splinter of Discontent",
+          "duration": "25m"
+        },
+        {
+          "title": "Forget Me Not",
+          "duration": "10m"
+        },
+        {
+          "title": "In the Beginning",
+          "duration": "25m"
+        },
+        {
+          "title": "Uncle Pecos Rides Again",
+          "duration": "25m"
+        },
+        {
+          "title": "Out with the Old",
+          "duration": "25m"
+        },
+        {
+          "title": "Tic-Tyke-D'oh",
+          "duration": "10m"
+        },
+        {
+          "title": "Tom and Jerry-Geddon",
+          "duration": "10m"
+        },
+        {
+          "title": "No Strings Attached",
+          "duration": "10m"
+        },
+        {
+          "title": "Move It or Lose It",
+          "duration": "25m"
+        },
+        {
+          "title": "Wing Nuts",
+          "duration": "25m"
+        },
+        {
+          "title": "Cat Dance Fever",
+          "duration": "25m"
+        },
+        {
+          "title": "Hunger Games",
+          "duration": "25m"
+        },
+        {
+          "title": "Hair Today, Gone Tomorrow",
+          "duration": "25m"
+        },
+        {
+          "title": "Missing in Traction",
+          "duration": "25m"
+        },
+        {
+          "title": "Funnel Face",
+          "duration": "25m"
+        },
+        {
+          "title": "Dirty Rat",
+          "duration": "25m"
+        },
+        {
+          "title": "Cat-titude Adjustment",
+          "duration": "25m"
+        },
+        {
+          "title": "Pinch Hitter",
+          "duration": "25m"
+        },
+        {
+          "title": "Fight in the Museum",
+          "duration": "25m"
+        },
+        {
+          "title": "Kitten Grifters",
+          "duration": "25m"
+        },
+        {
+          "title": "School of Hard Knocks",
+          "duration": "25m"
+        },
+        {
+          "title": "Cat-a-Tonic Mouse",
+          "duration": "25m"
+        },
+        {
+          "title": "Brain Food",
+          "duration": "25m"
+        },
+        {
+          "title": "Wish Bone",
+          "duration": "25m"
+        },
+        {
+          "title": "Going Going Gone Viral",
+          "duration": "25m"
+        },
+        {
+          "title": "The Tortoise Don't Play Fair",
+          "duration": "25m"
+        },
+        {
+          "title": "Fish Out of Water",
+          "duration": "25m"
+        },
+        {
+          "title": "Cat Match Fever",
+          "duration": "25m"
+        },
+        {
+          "title": "Cold Snap",
+          "duration": "25m"
+        },
+        {
+          "title": "Novel Idea",
+          "duration": "25m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Someone's In the Kitchen With Mynah",
+          "duration": "25m"
+        },
+        {
+          "title": "When You Leash Expect It",
+          "duration": "25m"
+        },
+        {
+          "title": "Don't Cut the Cheese",
+          "duration": "25m"
+        },
+        {
+          "title": "Calamari Jerry",
+          "duration": "25m"
+        },
+        {
+          "title": "Cattyshack",
+          "duration": "25m"
+        },
+        {
+          "title": "Drone Sweet Drone",
+          "duration": "25m"
+        },
+        {
+          "title": "Home Away From Home",
+          "duration": "25m"
+        },
+        {
+          "title": "From Riches to Rags",
+          "duration": "25m"
+        },
+        {
+          "title": "Chew Toy",
+          "duration": "25m"
+        },
+        {
+          "title": "Live and Let Diet",
+          "duration": "25m"
+        },
+        {
+          "title": "Auntie Social",
+          "duration": "25m"
+        },
+        {
+          "title": "A Snootful",
+          "duration": "25m"
+        },
+        {
+          "title": "Lame Duck",
+          "duration": "25m"
+        },
+        {
+          "title": "It's All Relative",
+          "duration": "25m"
+        },
+        {
+          "title": "Vegged Out",
+          "duration": "25m"
+        },
+        {
+          "title": "Frown and Country",
+          "duration": "25m"
+        },
+        {
+          "title": "Lost Marbles",
+          "duration": "25m"
+        },
+        {
+          "title": "Vocal Yokal",
+          "duration": "25m"
+        },
+        {
+          "title": "Hamster Hoopla",
+          "duration": "25m"
+        },
+        {
+          "title": "Tuff Shooting",
+          "duration": "25m"
+        },
+        {
+          "title": "Anger Mismanagement",
+          "duration": "25m"
+        },
+        {
+          "title": "Vampire State",
+          "duration": "25m"
+        },
+        {
+          "title": "It Ain't Over Until the Cat Lady Sings",
+          "duration": "25m"
+        },
+        {
+          "title": "Eggstra Credit",
+          "duration": "25m"
+        },
+        {
+          "title": "Costume Party Smarty",
+          "duration": "25m"
+        },
+        {
+          "title": "Battle of the Butlers",
+          "duration": "25m"
+        },
+        {
+          "title": "Kid Stuff",
+          "duration": "25m"
+        },
+        {
+          "title": "Stolen Heart",
+          "duration": "25m"
+        },
+        {
+          "title": "The Last Laugh",
+          "duration": "25m"
+        },
+        {
+          "title": "The Invisible Cat",
+          "duration": "25m"
+        },
+        {
+          "title": "Eagle Eye Jerry",
+          "duration": "25m"
+        },
+        {
+          "title": "Catching Some Z's",
+          "duration": "25m"
+        },
+        {
+          "title": "Frenemies",
+          "duration": "25m"
+        },
+        {
+          "title": "You Are What You Eat",
+          "duration": "25m"
+        },
+        {
+          "title": "Not My Tyke",
+          "duration": "25m"
+        },
+        {
+          "title": "Everyone Into the Pool",
+          "duration": "25m"
+        },
+        {
+          "title": "A Head for Science",
+          "duration": "25m"
+        },
+        {
+          "title": "Cat Cop",
+          "duration": "25m"
+        },
+        {
+          "title": "Dis-Repair Man",
+          "duration": "25m"
+        },
+        {
+          "title": "Double Dog Trouble",
+          "duration": "25m"
+        },
+        {
+          "title": "Hockey Jockeys",
+          "duration": "25m"
+        },
+        {
+          "title": "Hyde and Shriek",
+          "duration": "25m"
+        },
+        {
+          "title": "Perfume Party",
+          "duration": "25m"
+        },
+        {
+          "title": "The Royal Treatment",
+          "duration": "25m"
+        },
+        {
+          "title": "Lightning Bug Blues",
+          "duration": "25m"
+        },
+        {
+          "title": "The Beast from the Bayou",
+          "duration": "25m"
+        },
+        {
+          "title": "All Cat Jazz",
+          "duration": "25m"
+        },
+        {
+          "title": "Alley Oops!",
+          "duration": "25m"
+        },
+        {
+          "title": "Magic Hat Cat",
+          "duration": "25m"
+        },
+        {
+          "title": "Wrap Star",
+          "duration": "25m"
+        },
+        {
+          "title": "Charm School Dropouts",
+          "duration": "25m"
+        },
+        {
+          "title": "Driven Crazy",
+          "duration": "25m"
+        },
+        {
+          "title": "A Star Forlorn",
+          "duration": "25m"
+        },
+        {
+          "title": "Bird Flue",
+          "duration": "25m"
+        },
+        {
+          "title": "Tom's Tangled Web",
+          "duration": "25m"
+        },
+        {
+          "title": "Saddle Soreheads",
+          "duration": "25m"
+        },
+        {
+          "title": "Rosemary's Gravy",
+          "duration": "25m"
+        },
+        {
+          "title": "Eggs on a Train",
+          "duration": "25m"
+        },
+        {
+          "title": "Truffle Trouble",
+          "duration": "25m"
+        },
+        {
+          "title": "Bars and Stripes",
+          "duration": "25m"
+        },
+        {
+          "title": "Cuckoo Clock",
+          "duration": "25m"
+        },
+        {
+          "title": "Plant Food",
+          "duration": "25m"
+        },
+        {
+          "title": "Whack a Gopher",
+          "duration": "25m"
+        },
+        {
+          "title": "Hula Whoops",
+          "duration": "25m"
+        },
+        {
+          "title": "A Game of Bones",
+          "duration": "25m"
+        },
+        {
+          "title": "Bull Fight",
+          "duration": "25m"
+        },
+        {
+          "title": "No Contest",
+          "duration": "25m"
+        },
+        {
+          "title": "Calorie Count",
+          "duration": "25m"
+        },
+        {
+          "title": "Fortune Hunters",
+          "duration": "25m"
+        },
+        {
+          "title": "Game Changer",
+          "duration": "25m"
+        },
+        {
+          "title": "Kiss and Makeup",
+          "duration": "25m"
+        },
+        {
+          "title": "Suitable for Framing",
+          "duration": "25m"
+        },
+        {
+          "title": "Springtime for Spike",
+          "duration": "25m"
+        },
+        {
+          "title": "Knighty Knight Knight",
+          "duration": "25m"
+        },
+        {
+          "title": "Phan-Tom of the Oompah",
+          "duration": "25m"
+        },
+        {
+          "title": "Ballad of the Catnip Kid",
+          "duration": "25m"
+        },
+        {
+          "title": "Mirror Image",
+          "duration": "25m"
+        },
+        {
+          "title": "Faux Hunt",
+          "duration": "25m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Gym Rat",
+          "duration": "25m"
+        },
+        {
+          "title": "Scrunch Time",
+          "duration": "25m"
+        },
+        {
+          "title": "Mice From Mars",
+          "duration": "25m"
+        },
+        {
+          "title": "The Maltese Pigeon",
+          "duration": "25m"
+        },
+        {
+          "title": "Loch Ness Mess",
+          "duration": "25m"
+        },
+        {
+          "title": "Werewolf of Catsylvania",
+          "duration": "25m"
+        },
+        {
+          "title": "The Great Catsby",
+          "duration": "25m"
+        },
+        {
+          "title": "A Class Of Their Own",
+          "duration": "25m"
+        },
+        {
+          "title": "Yeti, Set, Go",
+          "duration": "25m"
+        },
+        {
+          "title": "Ghoul's Gold",
+          "duration": "25m"
+        },
+        {
+          "title": "What About Blob?",
+          "duration": "25m"
+        },
+        {
+          "title": "Mouse Party",
+          "duration": "25m"
+        },
+        {
+          "title": "Maust",
+          "duration": "25m"
+        },
+        {
+          "title": "Tom Prix",
+          "duration": "25m"
+        },
+        {
+          "title": "Hip Replacement",
+          "duration": "25m"
+        },
+        {
+          "title": "Cat-A-Combs",
+          "duration": "25m"
+        },
+        {
+          "title": "Cat-astrophic Failure",
+          "duration": "25m"
+        },
+        {
+          "title": "Un-Welcome Home",
+          "duration": "25m"
+        },
+        {
+          "title": "Downton Crabby",
+          "duration": "25m"
+        },
+        {
+          "title": "Mega-Tom",
+          "duration": "25m"
+        },
+        {
+          "title": "Jabberwock",
+          "duration": "25m"
+        },
+        {
+          "title": "A Clown Without Pity",
+          "duration": "25m"
+        },
+        {
+          "title": "Duck Sitting",
+          "duration": "25m"
+        },
+        {
+          "title": "Three Heads Are Better Than One",
+          "duration": "25m"
+        },
+        {
+          "title": "Dam Busters",
+          "duration": "25m"
+        },
+        {
+          "title": "The Devil You Know",
+          "duration": "25m"
+        },
+        {
+          "title": "Counting Sheep",
+          "duration": "25m"
+        },
+        {
+          "title": "The Old Gray Hair",
+          "duration": "25m"
+        },
+        {
+          "title": "Chutes and Tatters",
+          "duration": "25m"
+        },
+        {
+          "title": "(Not) Your Father's Mouse-Stache",
+          "duration": "25m"
+        },
+        {
+          "title": "Balloonatics",
+          "duration": "25m"
+        },
+        {
+          "title": "Ball of Fame",
+          "duration": "25m"
+        },
+        {
+          "title": "My Buddy Guard",
+          "duration": "25m"
+        },
+        {
+          "title": "Hangin' Tough",
+          "duration": "25m"
+        },
+        {
+          "title": "Shadow of a Doubt",
+          "duration": "25m"
+        },
+        {
+          "title": "It's the Little Things",
+          "duration": "25m"
+        },
+        {
+          "title": "Always Say Never Again",
+          "duration": "25m"
+        },
+        {
+          "title": "Into the Woods",
+          "duration": "25m"
+        },
+        {
+          "title": "Mice Fair Ladies",
+          "duration": "25m"
+        },
+        {
+          "title": "Hot Wings",
+          "duration": "25m"
+        },
+        {
+          "title": "Wild Goose Chase",
+          "duration": "25m"
+        },
+        {
+          "title": "Play Date with Destiny",
+          "duration": "25m"
+        },
+        {
+          "title": "Mind Your Royal Manners",
+          "duration": "25m"
+        },
+        {
+          "title": "A Rare Breed",
+          "duration": "25m"
+        },
+        {
+          "title": "Oh, Brother",
+          "duration": "25m"
+        },
+        {
+          "title": "Who Sled the Dogs Out?",
+          "duration": "25m"
+        },
+        {
+          "title": "Tick, Tick, Tick",
+          "duration": "25m"
+        },
+        {
+          "title": "The Butterfly Effect",
+          "duration": "25m"
+        },
+        {
+          "title": "Curiosity Thrilled The Cat",
+          "duration": "25m"
+        },
+        {
+          "title": "The Wearing of the Green",
+          "duration": "25m"
+        },
+        {
+          "title": "Ball of Fire",
+          "duration": "25m"
+        },
+        {
+          "title": "The Masked Mouse",
+          "duration": "25m"
+        },
+        {
+          "title": "Flower Power",
+          "duration": "25m"
+        },
+        {
+          "title": "Polar Excess",
+          "duration": "25m"
+        },
+        {
+          "title": "Un-Easy Chair",
+          "duration": "25m"
+        },
+        {
+          "title": "Something to Crow About",
+          "duration": "25m"
+        },
+        {
+          "title": "Hush Puppy",
+          "duration": "25m"
+        },
+        {
+          "title": "Dog Star Spike",
+          "duration": "25m"
+        },
+        {
+          "title": "Donut Daze",
+          "duration": "25m"
+        },
+        {
+          "title": "Tom's Cruise",
+          "duration": "25m"
+        },
+        {
+          "title": "Ten Toms the Trouble",
+          "duration": "25m"
+        },
+        {
+          "title": "Turkey Tom",
+          "duration": "25m"
+        },
+        {
+          "title": "Tom Save the Queen",
+          "duration": "25m"
+        },
+        {
+          "title": "Party Animals",
+          "duration": "25m"
+        },
+        {
+          "title": "Tap Cat",
+          "duration": "25m"
+        },
+        {
+          "title": "The Ol' Switcheroo",
+          "duration": "25m"
+        },
+        {
+          "title": "How to Be a Dog",
+          "duration": "25m"
+        },
+        {
+          "title": "See Ya Gator",
+          "duration": "25m"
+        },
+        {
+          "title": "All That Glitters",
+          "duration": "25m"
+        },
+        {
+          "title": "Junkyard Pup",
+          "duration": "25m"
+        },
+        {
+          "title": "The French Mistake",
+          "duration": "25m"
+        },
+        {
+          "title": "A Kick in the Tail",
+          "duration": "25m"
+        },
+        {
+          "title": "Broom for Improvement",
+          "duration": "25m"
+        },
+        {
+          "title": "Puppy Guard",
+          "duration": "25m"
+        },
+        {
+          "title": "Bones of Contention",
+          "duration": "25m"
+        },
+        {
+          "title": "Farmed and Dangerous",
+          "duration": "25m"
+        },
+        {
+          "title": "Slam Dunk",
+          "duration": "25m"
+        },
+        {
+          "title": "Attachment Disorder",
+          "duration": "25m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Giant Problems",
+          "duration": "25m"
+        },
+        {
+          "title": "Eight Legs, No Waiting",
+          "duration": "25m"
+        },
+        {
+          "title": "Ape for Tom and Jerry",
+          "duration": "25m"
+        },
+        {
+          "title": "Hold the Cheese",
+          "duration": "25m"
+        },
+        {
+          "title": "Cave Cat",
+          "duration": "25m"
+        },
+        {
+          "title": "Not So Grand Canyon",
+          "duration": "25m"
+        },
+        {
+          "title": "The Three Little Mice",
+          "duration": "25m"
+        },
+        {
+          "title": "A Kick In the Butler",
+          "duration": "25m"
+        },
+        {
+          "title": "Tom Thumblestein",
+          "duration": "25m"
+        },
+        {
+          "title": "Sock It To Me",
+          "duration": "25m"
+        },
+        {
+          "title": "Pumpkin Punks",
+          "duration": "25m"
+        },
+        {
+          "title": "Para-Abnormal Activities",
+          "duration": "25m"
+        },
+        {
+          "title": "I Dream of Jerry",
+          "duration": "25m"
+        },
+        {
+          "title": "Pinata Yadda Yadda",
+          "duration": "25m"
+        },
+        {
+          "title": "Mr. Nobody",
+          "duration": "25m"
+        },
+        {
+          "title": "Me and My Big Foot",
+          "duration": "25m"
+        },
+        {
+          "title": "Little Red Katzen Hood",
+          "duration": "25m"
+        },
+        {
+          "title": "Professor Meathead",
+          "duration": "25m"
+        },
+        {
+          "title": "Pranks for Nothin'",
+          "duration": "25m"
+        },
+        {
+          "title": "Dry Hard",
+          "duration": "25m"
+        },
+        {
+          "title": "Tom Quixote",
+          "duration": "25m"
+        },
+        {
+          "title": "Top Dog",
+          "duration": "25m"
+        },
+        {
+          "title": "Rikki Tikki Tabby",
+          "duration": "25m"
+        },
+        {
+          "title": "Day of the Jackalope",
+          "duration": "25m"
+        },
+        {
+          "title": "Diamonds Are For Never",
+          "duration": "25m"
+        },
+        {
+          "title": "Camelot Cat",
+          "duration": "25m"
+        },
+        {
+          "title": "Big Pig",
+          "duration": "25m"
+        },
+        {
+          "title": "Millennium Mouse",
+          "duration": "25m"
+        },
+        {
+          "title": "Grumpelstiltskin",
+          "duration": "25m"
+        },
+        {
+          "title": "Tuxedo Junction",
+          "duration": "25m"
+        },
+        {
+          "title": "A Treehouse Divided",
+          "duration": "25m"
+        },
+        {
+          "title": "Crazy for Ewe",
+          "duration": "25m"
+        },
+        {
+          "title": "Tommy Appleseed",
+          "duration": "25m"
+        },
+        {
+          "title": "Doghouse Rock",
+          "duration": "25m"
+        },
+        {
+          "title": "Downsizing",
+          "duration": "25m"
+        },
+        {
+          "title": "Lord Spike",
+          "duration": "25m"
+        },
+        {
+          "title": "Disappearing Tom",
+          "duration": "25m"
+        },
+        {
+          "title": "Officer Tyke",
+          "duration": "25m"
+        },
+        {
+          "title": "The Not So Ugly Duckling",
+          "duration": "25m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0780438",
+  "title": "Tom and Jerry Tales",
+  "type": "series",
+  "release": 2006,
+  "duration": "2 Seasons",
+  "quality": "HD",
+  "description": "Tom and Jerry Tales is an American animated television series featuring the cat-and-mouse duo Tom and Jerry.",
+  "genre": [
+    "Animation",
+    "Kids",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [],
+  "director": "William Hanna, Joseph Barbera",
+  "country": "US",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/xUASqzq5b3xAeI7iwjtE7pcvx5F.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Tiger Cat",
+          "duration": "7m"
+        },
+        {
+          "title": "Feeding Time",
+          "duration": "7m"
+        },
+        {
+          "title": "Polar Peril",
+          "duration": "7m"
+        },
+        {
+          "title": "Joy Riding Jokers",
+          "duration": "7m"
+        },
+        {
+          "title": "Cat Got Your Luggage?",
+          "duration": "7m"
+        },
+        {
+          "title": "City Dump Chumps",
+          "duration": "7m"
+        },
+        {
+          "title": "Way-Off Broadway",
+          "duration": "7m"
+        },
+        {
+          "title": "Egg Beats",
+          "duration": "7m"
+        },
+        {
+          "title": "Cry Uncle",
+          "duration": "7m"
+        },
+        {
+          "title": "Bats What I Like About the South",
+          "duration": "7m"
+        },
+        {
+          "title": "Fraidy Cat Scat",
+          "duration": "7m"
+        },
+        {
+          "title": "Tomb It May Concern",
+          "duration": "7m"
+        },
+        {
+          "title": "Din-O-Sores",
+          "duration": "7m"
+        },
+        {
+          "title": "Freaky Tiki",
+          "duration": "7m"
+        },
+        {
+          "title": "Prehisterics",
+          "duration": "7m"
+        },
+        {
+          "title": "Digital Dilemma",
+          "duration": "7m"
+        },
+        {
+          "title": "Hi, Robot",
+          "duration": "7m"
+        },
+        {
+          "title": "Tomcat Jetpack",
+          "duration": "7m"
+        },
+        {
+          "title": "Fire Breathing Tom Cat",
+          "duration": "7m"
+        },
+        {
+          "title": "Medieval Menace",
+          "duration": "7m"
+        },
+        {
+          "title": "The Itch",
+          "duration": "7m"
+        },
+        {
+          "title": "Ho, Ho Horrors",
+          "duration": "7m"
+        },
+        {
+          "title": "Doggone Hill Hog",
+          "duration": "7m"
+        },
+        {
+          "title": "Northern Light Fish Fight",
+          "duration": "7m"
+        },
+        {
+          "title": "Cat Nebula",
+          "duration": "7m"
+        },
+        {
+          "title": "Martian Mice",
+          "duration": "7m"
+        },
+        {
+          "title": "Spaced Out Cat",
+          "duration": "7m"
+        },
+        {
+          "title": "Octo Suave",
+          "duration": "7m"
+        },
+        {
+          "title": "Beach Bully Bingo",
+          "duration": "7m"
+        },
+        {
+          "title": "Treasure Map Scrap",
+          "duration": "7m"
+        },
+        {
+          "title": "Destruction Junction",
+          "duration": "7m"
+        },
+        {
+          "title": "Battle of the Power Tools",
+          "duration": "7m"
+        },
+        {
+          "title": "Jackhammered Cat",
+          "duration": "7m"
+        },
+        {
+          "title": "Tin Cat of Tomorrow",
+          "duration": "7m"
+        },
+        {
+          "title": "Beefcake Tom",
+          "duration": "7m"
+        },
+        {
+          "title": "Tom Cat, Superstar",
+          "duration": "7m"
+        },
+        {
+          "title": "Piranha Be Loved By You",
+          "duration": "7m"
+        },
+        {
+          "title": "Spook House Mouse",
+          "duration": "7m"
+        },
+        {
+          "title": "Abracadumb",
+          "duration": "7m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "More Powers to You",
+          "duration": "7m"
+        },
+        {
+          "title": "Catch Me Though You Can't",
+          "duration": "7m"
+        },
+        {
+          "title": "Power Tom",
+          "duration": "7m"
+        },
+        {
+          "title": "Zent Out of Shape",
+          "duration": "7m"
+        },
+        {
+          "title": "I Dream of Meanie",
+          "duration": "7m"
+        },
+        {
+          "title": "Which Witch!",
+          "duration": "7m"
+        },
+        {
+          "title": "Don't Bring Your Pet to School Day",
+          "duration": "7m"
+        },
+        {
+          "title": "Cat Show Catastrophe",
+          "duration": "7m"
+        },
+        {
+          "title": "The Cat Whisperer with Casper Lombardo",
+          "duration": "7m"
+        },
+        {
+          "title": "Adventures in Penguin Sitting",
+          "duration": "7m"
+        },
+        {
+          "title": "Cat of Prey",
+          "duration": "7m"
+        },
+        {
+          "title": "Jungle Love",
+          "duration": "7m"
+        },
+        {
+          "title": "Invasion of the Body Slammers",
+          "duration": "7m"
+        },
+        {
+          "title": "Monster Con",
+          "duration": "7m"
+        },
+        {
+          "title": "Over the River and Boo the Woods",
+          "duration": "7m"
+        },
+        {
+          "title": "Xtreme Trouble",
+          "duration": "7m"
+        },
+        {
+          "title": "A Life Less Guarded",
+          "duration": "7m"
+        },
+        {
+          "title": "Sasquashed",
+          "duration": "7m"
+        },
+        {
+          "title": "Summer Squashing",
+          "duration": "7m"
+        },
+        {
+          "title": "League of Cats",
+          "duration": "7m"
+        },
+        {
+          "title": "Little Big Mouse",
+          "duration": "7m"
+        },
+        {
+          "title": "Bend It Like Thomas",
+          "duration": "7m"
+        },
+        {
+          "title": "Endless Bummer",
+          "duration": "7m"
+        },
+        {
+          "title": "Game Set Match",
+          "duration": "7m"
+        },
+        {
+          "title": "The Declaration of Independunce",
+          "duration": "7m"
+        },
+        {
+          "title": "Kitty Hawked",
+          "duration": "7m"
+        },
+        {
+          "title": "24 Karat Kat",
+          "duration": "7m"
+        },
+        {
+          "title": "Hockey Schtick",
+          "duration": "7m"
+        },
+        {
+          "title": "Snow Brawl",
+          "duration": "7m"
+        },
+        {
+          "title": "Snow Mouse",
+          "duration": "7m"
+        },
+        {
+          "title": "DJ Jerry",
+          "duration": "7m"
+        },
+        {
+          "title": "Kitty Cat Blues",
+          "duration": "7m"
+        },
+        {
+          "title": "Flamenco Fiasco",
+          "duration": "7m"
+        },
+        {
+          "title": "You're Lion",
+          "duration": "7m"
+        },
+        {
+          "title": "Kangadoofus",
+          "duration": "7m"
+        },
+        {
+          "title": "Monkey Chow",
+          "duration": "7m"
+        },
+        {
+          "title": "Game of Mouse & Cat",
+          "duration": "7m"
+        },
+        {
+          "title": "Babysitting Blues",
+          "duration": "7m"
+        },
+        {
+          "title": "Catfish Follies",
+          "duration": "7m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt37185884",
+  "title": "Tom and Jerry: Forbidden Compass",
+  "type": "movie",
+  "release": 2025,
+  "duration": "99 min",
+  "quality": "HD",
+  "description": "During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Adventure"
+  ],
+  "actors": [
+    "Jiang Wen",
+    "Shun Zi",
+    "Lan Long",
+    "Tu Xiongfei",
+    "Li Baixin"
+  ],
+  "director": "Zhang Gang",
+  "country": "China",
+  "rating": "6.6",
+  "poster": "https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg",
+  "trailer": "https://www.youtube.com/embed/VBPlpfK6zXg",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt28500997",
+  "title": "Tom and Jerry",
+  "type": "series",
+  "release": 2023,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "Tom and Jerry as you've never seen them before! With a fresh new look that was born and bred in Asia, they are ready for their adventures in the region. Starting off with Singapore, Tom and Jerry chase each other through the Marina Barrage, Joo Chiat or Bishan Park. Look out also for the Singapore River or your favourite HDB estate! Totally at home with our balmy weather because like true blue Singaporeans, they know exactly how to cool down. Their \"kiasu\" ways come in handy too as they make a new friend with Merli.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Kids"
+  ],
+  "actors": [
+    "William Hanna",
+    "Mel Blanc"
+  ],
+  "director": "N/A",
+  "country": "SG",
+  "rating": "5.6",
+  "poster": "https://image.tmdb.org/t/p/w500/bCOxX1rjJOhn8jsW93ptOzWGip6.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Sky's the Limit",
+          "duration": "3m"
+        },
+        {
+          "title": "What Goes Around Comes Around",
+          "duration": "3m"
+        },
+        {
+          "title": "Be Careful What You Fish For",
+          "duration": "3m"
+        },
+        {
+          "title": "Count On Merli",
+          "duration": "3m"
+        },
+        {
+          "title": "Ice Ice Paradise",
+          "duration": "3m"
+        },
+        {
+          "title": "Colourful Chase",
+          "duration": "4m"
+        },
+        {
+          "title": "What's That Smell",
+          "duration": "4m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0105616",
+  "title": "Tom and Jerry: The Movie",
+  "type": "movie",
+  "release": 1993,
+  "duration": "83 min",
+  "quality": "HD",
+  "description": "The popular cartoon cat and mouse are thrown into a feature film. The story has the twosome trying to help an orphan girl who is being berated and exploited by a greedy guardian.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Music"
+  ],
+  "actors": [
+    "Richard Kind",
+    "Dana Hill",
+    "Anndi McAfee",
+    "Tony Jay",
+    "Rip Taylor"
+  ],
+  "director": "Phil Roman",
+  "country": "United States of America, Germany",
+  "rating": "6.3",
+  "poster": "https://image.tmdb.org/t/p/w500/k68ZB5trRKcEJSQdPiY6jtxVq14.jpg",
+  "trailer": "https://www.youtube.com/embed/dOm0nB4bl9A",
+  "baseviews": "1.3M",
+  "popularity": 87
+},
+
+{
+  "imdb": "tt5700672",
+  "title": "Train to Busan",
+  "type": "movie",
+  "release": 2016,
+  "duration": "118 min",
+  "quality": "HD",
+  "description": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+  "genre": [
+    "Horror",
+    "Thriller",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Gong Yoo",
+    "Kim Su-an",
+    "Jung Yu-mi",
+    "Don Lee",
+    "Choi Woo-shik"
+  ],
+  "director": "Yeon Sang-ho",
+  "country": "South Korea",
+  "rating": "7.7",
+  "poster": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+  "trailer": "https://www.youtube.com/embed/0_sV9luPnMk",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt8850222",
+  "title": "Peninsula",
+  "type": "movie",
+  "release": 2020,
+  "duration": "116 min",
+  "quality": "HD",
+  "description": "A soldier and his team battle hordes of post-apocalyptic zombies in the wastelands of the Korean Peninsula.",
+  "genre": [
+    "Horror",
+    "Action",
+    "Thriller",
+    "Adventure"
+  ],
+  "actors": [
+    "Gang Dong-won",
+    "Lee Jung-hyun",
+    "Lee Re",
+    "Kwon Hae-hyo",
+    "Kim Min-jae"
+  ],
+  "director": "Yeon Sang-ho",
+  "country": "South Korea",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",
+  "trailer": "https://www.youtube.com/embed/cRvHl1dThlg",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+
+{
+  "imdb": "tt14169960",
+  "title": "All of Us Are Dead",
+  "type": "series",
+  "release": 2022,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Park Ji-hu",
+    "Yoon Chan-young",
+    "Cho Yi-hyun",
+    "Lomon",
+    "Yoo In-soo"
+  ],
+  "director": "Chun Sung-il, JQ Lee, Kim Nam-su",
+  "country": "KR",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+  "trailer": "https://www.youtube.com/embed/IN5TD4VRcSM",
+  "baseviews": "1.3M",
+  "popularity": 65,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "70m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "62m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "72m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "56m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "67m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "60m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "58m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "61m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "54m"
+        },
+        {
+          "title": "Episode 11",
+          "duration": "56m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "53m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt11057302",
+  "title": "Madame Web",
+  "type": "movie",
+  "release": 2024,
+  "duration": "117 min",
+  "quality": "HD",
+  "description": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+  "genre": [
+    "Action",
+    "Fantasy"
+  ],
+  "actors": [
+    "Dakota Johnson",
+    "Sydney Sweeney",
+    "Isabela Merced",
+    "Celeste O'Connor",
+    "Tahar Rahim"
+  ],
+  "director": "S.J. Clarkson",
+  "country": "United States of America",
+  "rating": "5.3",
+  "poster": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+  "trailer": "https://www.youtube.com/embed/s_76M4c4LTo",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+{
+  "imdb": "tt0115218",
+  "title": "Iron Man",
+  "type": "series",
+  "release": 1994,
+  "duration": "2 Seasons",
+  "quality": "HD",
+  "description": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Robert Hays",
+    "Dorian Harewood",
+    "Jennifer Hale",
+    "Robert Ito",
+    "Tom Kane"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/nTQWWH6CFtl37x1nPx8HRwbwvGn.jpg",
+  "trailer": "https://www.youtube.com/embed/petzGfv4ctw",
+  "baseviews": "1.3M",
+  "popularity": 80,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "And the Sea Shall Give Up Its Dead",
+          "duration": "20m"
+        },
+        {
+          "title": "Rejoice! I Am Ultimo, Thy Deliverer",
+          "duration": "20m"
+        },
+        {
+          "title": "Data In, Chaos Out",
+          "duration": "20m"
+        },
+        {
+          "title": "Silence My Companion, Death My Destination",
+          "duration": "20m"
+        },
+        {
+          "title": "The Grim Reaper Wears a Teflon Coat",
+          "duration": "20m"
+        },
+        {
+          "title": "Enemy Without, Enemy Within",
+          "duration": "20m"
+        },
+        {
+          "title": "The Origin of the Mandarin",
+          "duration": "20m"
+        },
+        {
+          "title": "The Defection of Hawkeye",
+          "duration": "20m"
+        },
+        {
+          "title": "Iron Man to the Second Power (1)",
+          "duration": "20m"
+        },
+        {
+          "title": "Iron Man to the Second Power (2)",
+          "duration": "20m"
+        },
+        {
+          "title": "The Origin of Iron Man (1)",
+          "duration": "20m"
+        },
+        {
+          "title": "The Origin of Iron Man (2)",
+          "duration": "20m"
+        },
+        {
+          "title": "The Wedding of Iron Man",
+          "duration": "20m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Beast Within",
+          "duration": "21m"
+        },
+        {
+          "title": "Fire and Rain",
+          "duration": "21m"
+        },
+        {
+          "title": "Cell of Iron",
+          "duration": "21m"
+        },
+        {
+          "title": "Not Far from the Tree",
+          "duration": "21m"
+        },
+        {
+          "title": "Beauty Knows No Pain",
+          "duration": "21m"
+        },
+        {
+          "title": "Iron Man, on the Inside",
+          "duration": "21m"
+        },
+        {
+          "title": "Distant Boundaries",
+          "duration": "21m"
+        },
+        {
+          "title": "The Armor Wars (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "The Armor Wars (2)",
+          "duration": "21m"
+        },
+        {
+          "title": "Empowered",
+          "duration": "21m"
+        },
+        {
+          "title": "Hulk Buster",
+          "duration": "21m"
+        },
+        {
+          "title": "Hands of the Mandarin (1)",
+          "duration": "21m"
+        },
+        {
+          "title": "Hands of the Mandarin (2)",
+          "duration": "21m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0371746",
+  "title": "Iron Man",
+  "type": "movie",
+  "release": 2008,
+  "duration": "126 min",
+  "quality": "HD",
+  "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Terrence Howard",
+    "Jeff Bridges",
+    "Gwyneth Paltrow",
+    "Leslie Bibb"
+  ],
+  "director": "Jon Favreau",
+  "country": "United States of America",
+  "rating": "7.7",
+  "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+  "trailer": "https://www.youtube.com/embed/8ugaeA-nMTc",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt1228705",
+  "title": "Iron Man 2",
+  "type": "movie",
+  "release": 2010,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+  "genre": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Gwyneth Paltrow",
+    "Don Cheadle",
+    "Scarlett Johansson",
+    "Sam Rockwell"
+  ],
+  "director": "Jon Favreau",
+  "country": "United States of America",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+  "trailer": "https://www.youtube.com/embed/BoohRoVA9WQ",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt1300854",
+  "title": "Iron Man 3",
+  "type": "movie",
+  "release": 2013,
+  "duration": "130 min",
+  "quality": "HD",
+  "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Gwyneth Paltrow",
+    "Don Cheadle",
+    "Guy Pearce",
+    "Rebecca Hall"
+  ],
+  "director": "Shane Black",
+  "country": "United States of America",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+  "trailer": "https://www.youtube.com/embed/YLorLVa95Xo",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt1707807",
+  "title": "Iron Man",
+  "type": "series",
+  "release": 2010,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "When Tony Stark branches his company into Japan, he is opposed by the nefarious Zodiac organization. It's up to Stark's Iron Man to defeat the Zodiac, and defend Japan.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Keiji Fujiwara",
+    "Takako Honda",
+    "Shizuka Itoh",
+    "Jin Yamanoi",
+    "Unsho Ishizuka"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.4",
+  "poster": "https://image.tmdb.org/t/p/w500/kMoMm93JrYEEz8boMxXFEmKJusv.jpg",
+  "trailer": "https://www.youtube.com/embed/h_ej7ZlS2oQ",
+  "baseviews": "1.3M",
+  "popularity": 67,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Japan: Enter Iron Man",
+          "duration": "23m"
+        },
+        {
+          "title": "Going Nuclear",
+          "duration": "23m"
+        },
+        {
+          "title": "Reap the Whirlwind",
+          "duration": "23m"
+        },
+        {
+          "title": "A Twist of Memory, a Turn of the Mind",
+          "duration": "23m"
+        },
+        {
+          "title": "Outbreak",
+          "duration": "23m"
+        },
+        {
+          "title": "Technical Difficulties",
+          "duration": "23m"
+        },
+        {
+          "title": "At the Mercy of My Friends",
+          "duration": "23m"
+        },
+        {
+          "title": "Daughter of the Zodiac",
+          "duration": "23m"
+        },
+        {
+          "title": "A Duel of Iron",
+          "duration": "23m"
+        },
+        {
+          "title": "Casualties of War",
+          "duration": "23m"
+        },
+        {
+          "title": "Beginning of the End",
+          "duration": "23m"
+        },
+        {
+          "title": "Endgame",
+          "duration": "23m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0837143",
+  "title": "Iron Man: Armored Adventures",
+  "type": "series",
+  "release": 2009,
+  "duration": "2 Seasons",
+  "quality": "HD",
+  "description": "As Iron Man, teenage child prodigy Tony Stark uses his technological inventions to fight various similarly technologically advanced threats. His friends, James \"Rhodey\" Rhodes and Pepper Potts, help him on his courageous and dangerous adventures.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Family"
+  ],
+  "actors": [
+    "Adrian Petriw",
+    "Anna Cummer",
+    "Daniel Bacon"
+  ],
+  "director": "Christopher L. Yost, Romain Van Liemt, Alexandre de La Patellière, Craig Kyle",
+  "country": "CA, US",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/kIJGgBwh37V2nfgnJFaN7zDIjdv.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 68,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Iron Forged in Fire: Part One",
+          "duration": "22m"
+        },
+        {
+          "title": "Iron Forged in Fire: Part Two",
+          "duration": "22m"
+        },
+        {
+          "title": "Secrets and Lies",
+          "duration": "22m"
+        },
+        {
+          "title": "Cold War",
+          "duration": "22m"
+        },
+        {
+          "title": "Whip Lash",
+          "duration": "22m"
+        },
+        {
+          "title": "Iron Man VS The Crimson Dynamo",
+          "duration": "22m"
+        },
+        {
+          "title": "Meltdown",
+          "duration": "22m"
+        },
+        {
+          "title": "Field Trip",
+          "duration": "22m"
+        },
+        {
+          "title": "Ancient History 101",
+          "duration": "22m"
+        },
+        {
+          "title": "Ready, A.I.M., Fire",
+          "duration": "22m"
+        },
+        {
+          "title": "Masquerade",
+          "duration": "22m"
+        },
+        {
+          "title": "Seeing Red",
+          "duration": "22m"
+        },
+        {
+          "title": "Hide and Seek",
+          "duration": "22m"
+        },
+        {
+          "title": "Man and Iron Man",
+          "duration": "22m"
+        },
+        {
+          "title": "Panther's Prey",
+          "duration": "22m"
+        },
+        {
+          "title": "Fun with Lasers",
+          "duration": "22m"
+        },
+        {
+          "title": "Chasing Ghosts",
+          "duration": "22m"
+        },
+        {
+          "title": "Pepper, Interrupted",
+          "duration": "22m"
+        },
+        {
+          "title": "Technovore",
+          "duration": "22m"
+        },
+        {
+          "title": "World on Fire",
+          "duration": "22m"
+        },
+        {
+          "title": "Designed Only for Chaos",
+          "duration": "22m"
+        },
+        {
+          "title": "Don't Worry be Happy",
+          "duration": "22m"
+        },
+        {
+          "title": "Uncontrollable",
+          "duration": "22m"
+        },
+        {
+          "title": "Best Served Cold",
+          "duration": "22m"
+        },
+        {
+          "title": "Tales of Suspense: Part 1",
+          "duration": "22m"
+        },
+        {
+          "title": "Tales of Suspense: Part 2",
+          "duration": "22m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Invincible Iron Man Part 1: Disassembled!",
+          "duration": "22m"
+        },
+        {
+          "title": "The Invincible Iron Man Part 2: Reborn!",
+          "duration": "22m"
+        },
+        {
+          "title": "Look Into the Light",
+          "duration": "22m"
+        },
+        {
+          "title": "Ghost in the Machine",
+          "duration": "22m"
+        },
+        {
+          "title": "Armor Wars",
+          "duration": "22m"
+        },
+        {
+          "title": "Line of Fire",
+          "duration": "22m"
+        },
+        {
+          "title": "Titanium vs. Iron",
+          "duration": "22m"
+        },
+        {
+          "title": "The Might of Doom",
+          "duration": "22m"
+        },
+        {
+          "title": "The Hawk and the Spider",
+          "duration": "22m"
+        },
+        {
+          "title": "Enter: Iron Monger",
+          "duration": "22m"
+        },
+        {
+          "title": "Fugitive of S.H.I.E.L.D.",
+          "duration": "22m"
+        },
+        {
+          "title": "All the Best People Are Mad",
+          "duration": "22m"
+        },
+        {
+          "title": "Heavy Mettle",
+          "duration": "22m"
+        },
+        {
+          "title": "Mandarin's Quest",
+          "duration": "22m"
+        },
+        {
+          "title": "Hostile Takeover",
+          "duration": "22m"
+        },
+        {
+          "title": "Extremis",
+          "duration": "22m"
+        },
+        {
+          "title": "The X-Factor",
+          "duration": "22m"
+        },
+        {
+          "title": "Iron Man 2099",
+          "duration": "22m"
+        },
+        {
+          "title": "Control-Alt-Delete",
+          "duration": "22m"
+        },
+        {
+          "title": "Doomsday",
+          "duration": "22m"
+        },
+        {
+          "title": "The Hammer Falls",
+          "duration": "22m"
+        },
+        {
+          "title": "Rage of the Hulk",
+          "duration": "22m"
+        },
+        {
+          "title": "Iron Monger Lives",
+          "duration": "22m"
+        },
+        {
+          "title": "The Dragonseed",
+          "duration": "22m"
+        },
+        {
+          "title": "The Makluan Invasion Part 1: Annihilate!",
+          "duration": "22m"
+        },
+        {
+          "title": "The Makluan Invasion Part 2: Unite!",
+          "duration": "22m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt4154664",
+  "title": "Captain Marvel",
+  "type": "movie",
+  "release": 2019,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Brie Larson",
+    "Samuel L. Jackson",
+    "Ben Mendelsohn",
+    "Jude Law",
+    "Annette Bening"
+  ],
+  "director": "Ryan Fleck",
+  "country": "United States of America",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+  "trailer": "https://www.youtube.com/embed/GX33bIOA5aA",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt3322312",
+  "title": "Marvel's Daredevil",
+  "type": "series",
+  "release": 2015,
+  "duration": "3 Seasons",
+  "quality": "HD",
+  "description": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Charlie Cox",
+    "Deborah Ann Woll",
+    "Elden Henson",
+    "Vincent D'Onofrio",
+    "Jay Ali"
+  ],
+  "director": "Drew Goddard",
+  "country": "US",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+  "trailer": "https://www.youtube.com/embed/jAy6NJ_D5vU",
+  "baseviews": "1.3M",
+  "popularity": 80,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Into the Ring",
+          "duration": "53m"
+        },
+        {
+          "title": "Cut Man",
+          "duration": "53m"
+        },
+        {
+          "title": "Rabbit in a Snowstorm",
+          "duration": "53m"
+        },
+        {
+          "title": "In the Blood",
+          "duration": "53m"
+        },
+        {
+          "title": "World on Fire",
+          "duration": "56m"
+        },
+        {
+          "title": "Condemned",
+          "duration": "49m"
+        },
+        {
+          "title": "Stick",
+          "duration": "51m"
+        },
+        {
+          "title": "Shadows in the Glass",
+          "duration": "54m"
+        },
+        {
+          "title": "Speak of the Devil",
+          "duration": "58m"
+        },
+        {
+          "title": "Nelson v. Murdock",
+          "duration": "57m"
+        },
+        {
+          "title": "The Path of the Righteous",
+          "duration": "59m"
+        },
+        {
+          "title": "The Ones We Leave Behind",
+          "duration": "60m"
+        },
+        {
+          "title": "Daredevil",
+          "duration": "56m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Bang",
+          "duration": "49m"
+        },
+        {
+          "title": "Dogs to a Gunfight",
+          "duration": "50m"
+        },
+        {
+          "title": "New York's Finest",
+          "duration": "48m"
+        },
+        {
+          "title": "Penny and Dime",
+          "duration": "60m"
+        },
+        {
+          "title": "Kinbaku",
+          "duration": "56m"
+        },
+        {
+          "title": "Regrets Only",
+          "duration": "56m"
+        },
+        {
+          "title": "Semper Fidelis",
+          "duration": "57m"
+        },
+        {
+          "title": "Guilty as Sin",
+          "duration": "55m"
+        },
+        {
+          "title": "Seven Minutes in Heaven",
+          "duration": "60m"
+        },
+        {
+          "title": "The Man in the Box",
+          "duration": "53m"
+        },
+        {
+          "title": ".380",
+          "duration": "56m"
+        },
+        {
+          "title": "The Dark at the End of the Tunnel",
+          "duration": "53m"
+        },
+        {
+          "title": "A Cold Day in Hell's Kitchen",
+          "duration": "59m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Resurrection",
+          "duration": "54m"
+        },
+        {
+          "title": "Please",
+          "duration": "50m"
+        },
+        {
+          "title": "No Good Deed",
+          "duration": "50m"
+        },
+        {
+          "title": "Blindsided",
+          "duration": "55m"
+        },
+        {
+          "title": "The Perfect Game",
+          "duration": "50m"
+        },
+        {
+          "title": "The Devil You Know",
+          "duration": "55m"
+        },
+        {
+          "title": "Aftermath",
+          "duration": "50m"
+        },
+        {
+          "title": "Upstairs/Downstairs",
+          "duration": "51m"
+        },
+        {
+          "title": "Revelations",
+          "duration": "54m"
+        },
+        {
+          "title": "Karen",
+          "duration": "47m"
+        },
+        {
+          "title": "Reunion",
+          "duration": "50m"
+        },
+        {
+          "title": "One Last Shot",
+          "duration": "56m"
+        },
+        {
+          "title": "A New Napkin",
+          "duration": "54m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt5675620",
+  "title": "Marvel's The Punisher",
+  "type": "series",
+  "release": 2017,
+  "duration": "2 Seasons",
+  "quality": "HD",
+  "description": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+  "genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "Jon Bernthal",
+    "Ben Barnes",
+    "Amber Rose Revah",
+    "Josh Stewart",
+    "Jason R. Moore"
+  ],
+  "director": "Steve Lightfoot",
+  "country": "US",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/y6wYElX5HaPZItVGJcYGdQO7k8g.jpg",
+  "trailer": "https://www.youtube.com/embed/s4QV6OZdmWY",
+  "baseviews": "1.3M",
+  "popularity": 67,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "3AM",
+          "duration": "52m"
+        },
+        {
+          "title": "Two Dead Men",
+          "duration": "58m"
+        },
+        {
+          "title": "Kandahar",
+          "duration": "58m"
+        },
+        {
+          "title": "Resupply",
+          "duration": "50m"
+        },
+        {
+          "title": "Gunner",
+          "duration": "56m"
+        },
+        {
+          "title": "The Judas Goat",
+          "duration": "56m"
+        },
+        {
+          "title": "Crosshairs",
+          "duration": "49m"
+        },
+        {
+          "title": "Cold Steel",
+          "duration": "54m"
+        },
+        {
+          "title": "Front Toward Enemy",
+          "duration": "55m"
+        },
+        {
+          "title": "Virtue of the Vicious",
+          "duration": "50m"
+        },
+        {
+          "title": "Danger Close",
+          "duration": "53m"
+        },
+        {
+          "title": "Home",
+          "duration": "52m"
+        },
+        {
+          "title": "Memento Mori",
+          "duration": "56m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Roadhouse Blues",
+          "duration": "53m"
+        },
+        {
+          "title": "Fight or Flight",
+          "duration": "54m"
+        },
+        {
+          "title": "Trouble the Water",
+          "duration": "51m"
+        },
+        {
+          "title": "Scar Tissue",
+          "duration": "57m"
+        },
+        {
+          "title": "One-Eyed Jacks",
+          "duration": "51m"
+        },
+        {
+          "title": "Nakazat",
+          "duration": "56m"
+        },
+        {
+          "title": "One Bad Day",
+          "duration": "51m"
+        },
+        {
+          "title": "My Brother's Keeper",
+          "duration": "48m"
+        },
+        {
+          "title": "Flustercluck",
+          "duration": "57m"
+        },
+        {
+          "title": "The Dark Hearts of Men",
+          "duration": "47m"
+        },
+        {
+          "title": "The Abyss",
+          "duration": "54m"
+        },
+        {
+          "title": "Collision Course",
+          "duration": "49m"
+        },
+        {
+          "title": "The Whirlwind",
+          "duration": "57m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt14094206",
+  "title": "Marvel Studios Assembled",
+  "type": "series",
+  "release": 2021,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [],
+  "director": "N/A",
+  "country": "US",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 80,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "The Making of WandaVision",
+          "duration": "60m"
+        },
+        {
+          "title": "The Making of The Falcon and The Winter Soldier",
+          "duration": "62m"
+        },
+        {
+          "title": "The Making of Loki",
+          "duration": "64m"
+        },
+        {
+          "title": "The Making of Black Widow",
+          "duration": "57m"
+        },
+        {
+          "title": "The Making of What If…?",
+          "duration": "41m"
+        },
+        {
+          "title": "The Making of Shang-Chi and The Legend of The Ten Rings",
+          "duration": "66m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt16027014",
+  "title": "Marvel Zombies",
+  "type": "series",
+  "release": 2025,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "After the Avengers are overtaken by a zombie plague, a desperate group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking life and limb to save their world.",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Animation",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Iman Vellani",
+    "Todd Williams",
+    "David Harbour",
+    "Simu Liu",
+    "Awkwafina"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
+  "trailer": "https://www.youtube.com/embed/8VEmp_Ycjws",
+  "baseviews": "1.3M",
+  "popularity": 83,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "38m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "34m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "33m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "32m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0848228",
+  "title": "The Avengers",
+  "type": "movie",
+  "release": 2012,
+  "duration": "143 min",
+  "quality": "HD",
+  "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+  "genre": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Chris Hemsworth",
+    "Scarlett Johansson"
+  ],
+  "director": "Joss Whedon",
+  "country": "United States of America",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+  "trailer": "https://www.youtube.com/embed/hIR8Ar-Z4hw",
+  "baseviews": "1.3M",
+  "popularity": 87
+},
+
+{
+  "imdb": "tt4154796",
+  "title": "Avengers: Endgame",
+  "type": "movie",
+  "release": 2019,
+  "duration": "181 min",
+  "quality": "HD",
+  "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+  "genre": [
+    "Adventure",
+    "Science Fiction",
+    "Action"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Chris Hemsworth",
+    "Scarlett Johansson"
+  ],
+  "director": "Joe Russo",
+  "country": "United States of America",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+  "trailer": "https://www.youtube.com/embed/AMSITikqKiM",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt4154756",
+  "title": "Avengers: Infinity War",
+  "type": "movie",
+  "release": 2018,
+  "duration": "149 min",
+  "quality": "HD",
+  "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+  "genre": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Chris Hemsworth",
+    "Josh Brolin",
+    "Mark Ruffalo"
+  ],
+  "director": "Joe Russo",
+  "country": "United States of America",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+  "trailer": "https://www.youtube.com/embed/QwievZ1Tx-8",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt0054518",
+  "title": "The Avengers",
+  "type": "series",
+  "release": 1961,
+  "duration": "6 Seasons",
+  "quality": "HD",
+  "description": "A quirky spy show of the adventures of eccentrically suave British Agent John Steed and his predominantly female partners. Jonathan Steed - an urbane, proper gentleman spy - teams with various assistants throughout the series' run, including Dr. David Keel, Cathy Gale, Emma Peel and Tara King, to repeatedly save the world from diabolical schemes plotted by equally diabolical evil-doers (among them robots and man-eating monsters).",
+  "genre": [
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Patrick Macnee",
+    "Linda Thorson",
+    "William Lucas"
+  ],
+  "director": "Sydney Newman",
+  "country": "GB",
+  "rating": "7.7",
+  "poster": "https://image.tmdb.org/t/p/w500/fQ4GHecDFEAmJcwc10zUrdIDLFd.jpg",
+  "trailer": "https://www.youtube.com/embed/LBYhUvffPYs",
+  "baseviews": "1.3M",
+  "popularity": 77,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Hot Snow",
+          "duration": "45m"
+        },
+        {
+          "title": "Brought to Book",
+          "duration": "45m"
+        },
+        {
+          "title": "Square Root of Evil",
+          "duration": "45m"
+        },
+        {
+          "title": "Nightmare",
+          "duration": "45m"
+        },
+        {
+          "title": "Crescent Moon",
+          "duration": "45m"
+        },
+        {
+          "title": "Girl on the Trapeze",
+          "duration": "50m"
+        },
+        {
+          "title": "Diamond Cut Diamond",
+          "duration": "45m"
+        },
+        {
+          "title": "The Radioactive Man",
+          "duration": "45m"
+        },
+        {
+          "title": "Ashes of Roses",
+          "duration": "45m"
+        },
+        {
+          "title": "Hunt the Man Down",
+          "duration": "45m"
+        },
+        {
+          "title": "Please Don't Feed the Animals",
+          "duration": "45m"
+        },
+        {
+          "title": "Dance with Death",
+          "duration": "45m"
+        },
+        {
+          "title": "One for the Mortuary",
+          "duration": "45m"
+        },
+        {
+          "title": "The Springers",
+          "duration": "45m"
+        },
+        {
+          "title": "The Frighteners",
+          "duration": "51m"
+        },
+        {
+          "title": "The Yellow Needle",
+          "duration": "45m"
+        },
+        {
+          "title": "Death on the Slipway",
+          "duration": "45m"
+        },
+        {
+          "title": "Double Danger",
+          "duration": "45m"
+        },
+        {
+          "title": "Toy Trap",
+          "duration": "45m"
+        },
+        {
+          "title": "Tunnel of Fear",
+          "duration": "45m"
+        },
+        {
+          "title": "The Far Distant Dead",
+          "duration": "45m"
+        },
+        {
+          "title": "Kill the King",
+          "duration": "45m"
+        },
+        {
+          "title": "Dead of Winter",
+          "duration": "45m"
+        },
+        {
+          "title": "The Deadly Air",
+          "duration": "45m"
+        },
+        {
+          "title": "A Change of Bait",
+          "duration": "45m"
+        },
+        {
+          "title": "Dragonsfield",
+          "duration": "45m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Mr Teddy Bear",
+          "duration": "51m"
+        },
+        {
+          "title": "Propellant 23",
+          "duration": "52m"
+        },
+        {
+          "title": "The Decapod",
+          "duration": "51m"
+        },
+        {
+          "title": "Bullseye",
+          "duration": "50m"
+        },
+        {
+          "title": "Mission to Montreal",
+          "duration": "53m"
+        },
+        {
+          "title": "The Removal Men",
+          "duration": "52m"
+        },
+        {
+          "title": "The Mauritius Penny",
+          "duration": "51m"
+        },
+        {
+          "title": "Death of a Great Dane",
+          "duration": "53m"
+        },
+        {
+          "title": "The Sell-Out",
+          "duration": "51m"
+        },
+        {
+          "title": "Death on the Rocks",
+          "duration": "52m"
+        },
+        {
+          "title": "Traitor in Zebra",
+          "duration": "51m"
+        },
+        {
+          "title": "The Big Thinker",
+          "duration": "51m"
+        },
+        {
+          "title": "Death Dispatch",
+          "duration": "49m"
+        },
+        {
+          "title": "Dead on Course",
+          "duration": "51m"
+        },
+        {
+          "title": "Intercrime",
+          "duration": "48m"
+        },
+        {
+          "title": "Immortal Clay",
+          "duration": "51m"
+        },
+        {
+          "title": "Box of Tricks",
+          "duration": "51m"
+        },
+        {
+          "title": "Warlock",
+          "duration": "50m"
+        },
+        {
+          "title": "The Golden Eggs",
+          "duration": "50m"
+        },
+        {
+          "title": "School for Traitors",
+          "duration": "51m"
+        },
+        {
+          "title": "The White Dwarf",
+          "duration": "51m"
+        },
+        {
+          "title": "The Man in the Mirror",
+          "duration": "50m"
+        },
+        {
+          "title": "Conspiracy of Silence",
+          "duration": "51m"
+        },
+        {
+          "title": "A Chorus of Frogs",
+          "duration": "48m"
+        },
+        {
+          "title": "Six Hands Across a Table",
+          "duration": "50m"
+        },
+        {
+          "title": "Killer Whale",
+          "duration": "48m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Brief for Murder",
+          "duration": "52m"
+        },
+        {
+          "title": "The Undertakers",
+          "duration": "51m"
+        },
+        {
+          "title": "Man with Two Shadows",
+          "duration": "51m"
+        },
+        {
+          "title": "The Nutshell",
+          "duration": "50m"
+        },
+        {
+          "title": "Death of a Batman",
+          "duration": "51m"
+        },
+        {
+          "title": "November Five",
+          "duration": "51m"
+        },
+        {
+          "title": "The Gilded Cage",
+          "duration": "51m"
+        },
+        {
+          "title": "Second Sight",
+          "duration": "50m"
+        },
+        {
+          "title": "The Medicine Men",
+          "duration": "50m"
+        },
+        {
+          "title": "The Grandeur That Was Rome",
+          "duration": "51m"
+        },
+        {
+          "title": "The Golden Fleece",
+          "duration": "51m"
+        },
+        {
+          "title": "Don't Look Behind You",
+          "duration": "51m"
+        },
+        {
+          "title": "Death \"à la carte\"",
+          "duration": "51m"
+        },
+        {
+          "title": "Dressed to Kill",
+          "duration": "50m"
+        },
+        {
+          "title": "The White Elephant",
+          "duration": "51m"
+        },
+        {
+          "title": "The Little Wonders",
+          "duration": "51m"
+        },
+        {
+          "title": "The Wringer",
+          "duration": "51m"
+        },
+        {
+          "title": "Mandrake",
+          "duration": "52m"
+        },
+        {
+          "title": "The Secrets Broker",
+          "duration": "51m"
+        },
+        {
+          "title": "Trojan Horse",
+          "duration": "50m"
+        },
+        {
+          "title": "Build a Better Mousetrap",
+          "duration": "51m"
+        },
+        {
+          "title": "The Outside-In Man",
+          "duration": "50m"
+        },
+        {
+          "title": "The Charmers",
+          "duration": "50m"
+        },
+        {
+          "title": "Concerto",
+          "duration": "51m"
+        },
+        {
+          "title": "Esprit de corps",
+          "duration": "51m"
+        },
+        {
+          "title": "Lobster Quadrille",
+          "duration": "51m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Town of No Return",
+          "duration": "45m"
+        },
+        {
+          "title": "The Gravediggers",
+          "duration": "45m"
+        },
+        {
+          "title": "The Cybernauts",
+          "duration": "45m"
+        },
+        {
+          "title": "Death at Bargain Prices",
+          "duration": "45m"
+        },
+        {
+          "title": "Castle De'ath",
+          "duration": "45m"
+        },
+        {
+          "title": "The Master Minds",
+          "duration": "45m"
+        },
+        {
+          "title": "The Murder Market",
+          "duration": "60m"
+        },
+        {
+          "title": "A Surfeit of H2O",
+          "duration": "50m"
+        },
+        {
+          "title": "The Hour that Never Was",
+          "duration": "45m"
+        },
+        {
+          "title": "Dial a Deadly Number",
+          "duration": "45m"
+        },
+        {
+          "title": "Man-Eater of Surrey Green",
+          "duration": "60m"
+        },
+        {
+          "title": "Two's a Crowd",
+          "duration": "45m"
+        },
+        {
+          "title": "Too Many Christmas Trees",
+          "duration": "45m"
+        },
+        {
+          "title": "Silent Dust",
+          "duration": "45m"
+        },
+        {
+          "title": "Room Without a View",
+          "duration": "45m"
+        },
+        {
+          "title": "Small Game for Big Hunters",
+          "duration": "45m"
+        },
+        {
+          "title": "The Girl From Auntie",
+          "duration": "49m"
+        },
+        {
+          "title": "The Thirteenth Hole",
+          "duration": "60m"
+        },
+        {
+          "title": "Quick-Quick Slow Death",
+          "duration": "45m"
+        },
+        {
+          "title": "The Danger Makers",
+          "duration": "45m"
+        },
+        {
+          "title": "A Touch of Brimstone",
+          "duration": "45m"
+        },
+        {
+          "title": "What the Butler Saw",
+          "duration": "45m"
+        },
+        {
+          "title": "The House That Jack Built",
+          "duration": "45m"
+        },
+        {
+          "title": "A Sense of History",
+          "duration": "45m"
+        },
+        {
+          "title": "How to Succeed... at Murder",
+          "duration": "60m"
+        },
+        {
+          "title": "Honey for the Prince",
+          "duration": "45m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "From Venus with Love",
+          "duration": "45m"
+        },
+        {
+          "title": "The Fear Merchants",
+          "duration": "45m"
+        },
+        {
+          "title": "Escape in Time",
+          "duration": "60m"
+        },
+        {
+          "title": "The See-Through Man",
+          "duration": "45m"
+        },
+        {
+          "title": "The Bird Who Knew Too Much",
+          "duration": "45m"
+        },
+        {
+          "title": "The Winged Avenger",
+          "duration": "45m"
+        },
+        {
+          "title": "The Living Dead",
+          "duration": "45m"
+        },
+        {
+          "title": "The Hidden Tiger",
+          "duration": "45m"
+        },
+        {
+          "title": "The Correct Way to Kill",
+          "duration": "45m"
+        },
+        {
+          "title": "Never, Never Say Die",
+          "duration": "45m"
+        },
+        {
+          "title": "Epic",
+          "duration": "45m"
+        },
+        {
+          "title": "The Superlative Seven",
+          "duration": "45m"
+        },
+        {
+          "title": "A Funny Thing Happened on the Way to the Station",
+          "duration": "45m"
+        },
+        {
+          "title": "Something Nasty in the Nursery",
+          "duration": "45m"
+        },
+        {
+          "title": "The Joker",
+          "duration": "52m"
+        },
+        {
+          "title": "Who's Who???",
+          "duration": "45m"
+        },
+        {
+          "title": "Return of the Cybernauts",
+          "duration": "60m"
+        },
+        {
+          "title": "Death's Door",
+          "duration": "45m"
+        },
+        {
+          "title": "The £50,000 Breakfast",
+          "duration": "60m"
+        },
+        {
+          "title": "Dead Man's Treasure",
+          "duration": "60m"
+        },
+        {
+          "title": "You Have Just Been Murdered",
+          "duration": "45m"
+        },
+        {
+          "title": "The Positive Negative Man",
+          "duration": "60m"
+        },
+        {
+          "title": "Murdersville",
+          "duration": "45m"
+        },
+        {
+          "title": "Mission... Highly Improbable",
+          "duration": "45m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Forget-Me-Knot",
+          "duration": "60m"
+        },
+        {
+          "title": "Game",
+          "duration": "45m"
+        },
+        {
+          "title": "Super Secret Cypher Snatch",
+          "duration": "60m"
+        },
+        {
+          "title": "You'll Catch Your Death",
+          "duration": "45m"
+        },
+        {
+          "title": "Split!",
+          "duration": "45m"
+        },
+        {
+          "title": "Whoever Shot Poor George Oblique Stroke XR40",
+          "duration": "60m"
+        },
+        {
+          "title": "False Witness",
+          "duration": "60m"
+        },
+        {
+          "title": "All Done With Mirrors",
+          "duration": "45m"
+        },
+        {
+          "title": "Legacy of Death",
+          "duration": "45m"
+        },
+        {
+          "title": "Noon Doomsday",
+          "duration": "60m"
+        },
+        {
+          "title": "Look- (stop me if you've heard this one) But There Were These Two Fellers...",
+          "duration": "60m"
+        },
+        {
+          "title": "Have Guns- Will Haggle",
+          "duration": "60m"
+        },
+        {
+          "title": "They Keep Killing Steed",
+          "duration": "54m"
+        },
+        {
+          "title": "The Interrogators",
+          "duration": "45m"
+        },
+        {
+          "title": "The Rotters",
+          "duration": "60m"
+        },
+        {
+          "title": "Invasion of the Earthmen",
+          "duration": "53m"
+        },
+        {
+          "title": "Killer",
+          "duration": "45m"
+        },
+        {
+          "title": "The Morning After",
+          "duration": "45m"
+        },
+        {
+          "title": "The Curious Case of the Countless Clues",
+          "duration": "45m"
+        },
+        {
+          "title": "Wish You Were Here",
+          "duration": "60m"
+        },
+        {
+          "title": "Love All",
+          "duration": "45m"
+        },
+        {
+          "title": "Stay Tuned",
+          "duration": "45m"
+        },
+        {
+          "title": "Take Me To Your Leader",
+          "duration": "60m"
+        },
+        {
+          "title": "Fog",
+          "duration": "45m"
+        },
+        {
+          "title": "Who Was That Man I Saw You with?",
+          "duration": "60m"
+        },
+        {
+          "title": "Homicide And Old Lace",
+          "duration": "45m"
+        },
+        {
+          "title": "Thingumajig",
+          "duration": "45m"
+        },
+        {
+          "title": "My Wildest Dream",
+          "duration": "45m"
+        },
+        {
+          "title": "Requiem",
+          "duration": "45m"
+        },
+        {
+          "title": "Take-Over",
+          "duration": "45m"
+        },
+        {
+          "title": "Pandora",
+          "duration": "45m"
+        },
+        {
+          "title": "Get-A-Way",
+          "duration": "45m"
+        },
+        {
+          "title": "Bizarre",
+          "duration": "60m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt5090568",
+  "title": "Transformers: Rise of the Beasts",
+  "type": "movie",
+  "release": 2023,
+  "duration": "127 min",
+  "quality": "HD",
+  "description": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+  "genre": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "actors": [
+    "Anthony Ramos",
+    "Dominique Fishback",
+    "Peter Cullen",
+    "Ron Perlman",
+    "Peter Dinklage"
+  ],
+  "director": "Steven Caple Jr.",
+  "country": "United States of America",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+  "trailer": "https://www.youtube.com/embed/ZtuFgnxQMrA",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt32362890",
+  "title": "Thrash",
+  "type": "movie",
+  "release": 2026,
+  "duration": "84 min",
+  "quality": "HD",
+  "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "Phoebe Dynevor",
+    "Whitney Peak",
+    "Djimon Hounsou",
+    "Alyla Browne",
+    "Stacy Clausen"
+  ],
+  "director": "Tommy Wirkola",
+  "country": "United States of America",
+  "rating": "6.0",
+  "poster": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg",
+  "trailer": "https://www.youtube.com/embed/hzyOsNyDkbM",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt29516222",
+  "title": "Deep Water",
+  "type": "movie",
+  "release": 2026,
+  "duration": "106 min",
+  "quality": "HD",
+  "description": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+  "genre": [
+    "Thriller",
+    "Horror"
+  ],
+  "actors": [
+    "Aaron Eckhart",
+    "Molly Belle Wright",
+    "Kelly Gale",
+    "Ben Kingsley",
+    "Angus Sampson"
+  ],
+  "director": "Renny Harlin",
+  "country": "United States of America, Spain, Australia, China, Ukraine",
+  "rating": "6.3",
+  "poster": "https://image.tmdb.org/t/p/w500/2cikvQU83ecoZncnjOmAAATr3Sp.jpg",
+  "trailer": "https://www.youtube.com/embed/f0ptq0Lzdh8",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+    {
   "imdb": "tt13400006",
   "title": "Mr. Queen",
   "type": "series",
