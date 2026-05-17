@@ -1,6 +1,1097 @@
 {
   "movies": [
     {
+  "imdb": "tt13400006",
+  "title": "Mr. Queen",
+  "type": "series",
+  "release": 2020,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+  "genre": [
+    "Drama",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Shin Hae-sun",
+    "Kim Jung-hyun",
+    "Bae Jong-ok",
+    "Kim Tae-woo",
+    "Seol In-a"
+  ],
+  "director": "Park Kye-ok, Choi A-il",
+  "country": "KR",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+  "trailer": "https://www.youtube.com/embed/dImREPX_Pbk",
+  "baseviews": "1.3M",
+  "popularity": 62,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Jang Bong Hwan in Wonderland",
+          "duration": "76m"
+        },
+        {
+          "title": "Nobody Knows",
+          "duration": "81m"
+        },
+        {
+          "title": "Sleeping With The Enemy",
+          "duration": "82m"
+        },
+        {
+          "title": "The Man Who Knows Too Much",
+          "duration": "81m"
+        },
+        {
+          "title": "Susceptible Heels",
+          "duration": "81m"
+        },
+        {
+          "title": "Between Understanding and Misunderstanding",
+          "duration": "74m"
+        },
+        {
+          "title": "Mask",
+          "duration": "67m"
+        },
+        {
+          "title": "A Dangerous Relationship",
+          "duration": "66m"
+        },
+        {
+          "title": "Light and Darkness",
+          "duration": "69m"
+        },
+        {
+          "title": "Living a Nightmare",
+          "duration": "71m"
+        },
+        {
+          "title": "The Unforgiven",
+          "duration": "68m"
+        },
+        {
+          "title": "Dancing on The Swor",
+          "duration": "67m"
+        },
+        {
+          "title": "There is No Tomorrow",
+          "duration": "71m"
+        },
+        {
+          "title": "A Woman Who Must Die To Live",
+          "duration": "67m"
+        },
+        {
+          "title": "The Crazy X In This Palace",
+          "duration": "68m"
+        },
+        {
+          "title": "All In",
+          "duration": "72m"
+        },
+        {
+          "title": "Pregnancy Is Beautiful",
+          "duration": "71m"
+        },
+        {
+          "title": "The Counterattack of Memories",
+          "duration": "71m"
+        },
+        {
+          "title": "The Man Who Came Back From The Dead",
+          "duration": "72m"
+        },
+        {
+          "title": "My Life Without Me",
+          "duration": "67m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt11389872",
+  "title": "Kingdom of the Planet of the Apes",
+  "type": "movie",
+  "release": 2024,
+  "duration": "145 min",
+  "quality": "HD",
+  "description": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
+  "genre": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "actors": [
+    "Owen Teague",
+    "Freya Allan",
+    "Kevin Durand",
+    "Peter Macon",
+    "William H. Macy"
+  ],
+  "director": "Wes Ball",
+  "country": "United States of America",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+  "trailer": "https://www.youtube.com/embed/Tg1FesR8X90",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt1318514",
+  "title": "Rise of the Planet of the Apes",
+  "type": "movie",
+  "release": 2011,
+  "duration": "105 min",
+  "quality": "HD",
+  "description": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
+  "genre": [
+    "Thriller",
+    "Action",
+    "Drama",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Andy Serkis",
+    "James Franco",
+    "Freida Pinto",
+    "John Lithgow",
+    "Brian Cox"
+  ],
+  "director": "Rupert Wyatt",
+  "country": "United Kingdom, United States of America",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+  "trailer": "https://www.youtube.com/embed/P1yKN0llkrY",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt2103281",
+  "title": "Dawn of the Planet of the Apes",
+  "type": "movie",
+  "release": 2014,
+  "duration": "130 min",
+  "quality": "HD",
+  "description": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+  "genre": [
+    "Science Fiction",
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "actors": [
+    "Andy Serkis",
+    "Jason Clarke",
+    "Toby Kebbell",
+    "Gary Oldman",
+    "Keri Russell"
+  ],
+  "director": "Matt Reeves",
+  "country": "United Kingdom, United States of America",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+  "trailer": "https://www.youtube.com/embed/DpSaTrW4leg",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt1757678",
+  "title": "Avatar: Fire and Ash",
+  "type": "movie",
+  "release": 2025,
+  "duration": "198 min",
+  "quality": "HD",
+  "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+  "genre": [
+    "Science Fiction",
+    "Adventure",
+    "Fantasy"
+  ],
+  "actors": [
+    "Sam Worthington",
+    "Zoe Saldaña",
+    "Sigourney Weaver",
+    "Stephen Lang",
+    "Oona Chaplin"
+  ],
+  "director": "James Cameron",
+  "country": "United States of America",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+  "trailer": "https://www.youtube.com/embed/Ma1x7ikpid8",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt1630029",
+  "title": "Avatar: The Way of Water",
+  "type": "movie",
+  "release": 2022,
+  "duration": "192 min",
+  "quality": "HD",
+  "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Sam Worthington",
+    "Zoe Saldaña",
+    "Sigourney Weaver",
+    "Stephen Lang",
+    "Kate Winslet"
+  ],
+  "director": "James Cameron",
+  "country": "United States of America",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  "trailer": "https://www.youtube.com/embed/o5F8MOz_IDw",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+{
+  "imdb": "tt31324295",
+  "title": "Lovely Runner",
+  "type": "series",
+  "release": 2024,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
+  "genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Mystery"
+  ],
+  "actors": [
+    "Byeon Woo-seok",
+    "Kim Hye-yoon",
+    "Song Geon-hee",
+    "Lee Seung-hyub",
+    "Jeong Young-ju"
+  ],
+  "director": "Kim Bbang",
+  "country": "KR",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+  "trailer": "https://www.youtube.com/embed/mZ7-J7dQmyQ",
+  "baseviews": "1.3M",
+  "popularity": 73,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Live Another Day",
+          "duration": "64m"
+        },
+        {
+          "title": "I Want to Protect You",
+          "duration": "62m"
+        },
+        {
+          "title": "It's All About the Timing",
+          "duration": "65m"
+        },
+        {
+          "title": "I'm Back",
+          "duration": "65m"
+        },
+        {
+          "title": "Sun-jae Sings",
+          "duration": "62m"
+        },
+        {
+          "title": "I Liked It That Day",
+          "duration": "65m"
+        },
+        {
+          "title": "Thank You for Being Alive",
+          "duration": "63m"
+        },
+        {
+          "title": "How About Now?",
+          "duration": "66m"
+        },
+        {
+          "title": "Sol Goes Back Again",
+          "duration": "66m"
+        },
+        {
+          "title": "I Figured It All Out",
+          "duration": "62m"
+        },
+        {
+          "title": "Become a Couple",
+          "duration": "64m"
+        },
+        {
+          "title": "Go On a Trip",
+          "duration": "66m"
+        },
+        {
+          "title": "My Future Has Changed",
+          "duration": "62m"
+        },
+        {
+          "title": "The Wrong Script",
+          "duration": "64m"
+        },
+        {
+          "title": "Memories Don't Disappear",
+          "duration": "70m"
+        },
+        {
+          "title": "I Remember Everything",
+          "duration": "77m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt26450613",
+  "title": "A Shop for Killers",
+  "type": "series",
+  "release": 2024,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+  "genre": [
+    "Drama",
+    "Action & Adventure",
+    "Mystery",
+    "Crime"
+  ],
+  "actors": [
+    "Lee Dong-wook",
+    "Kim Hye-jun",
+    "Seo Hyun-woo",
+    "Geum Hannah",
+    "Park Ji-bin"
+  ],
+  "director": "E.oni, Lee Kwon",
+  "country": "KR",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+  "trailer": "https://www.youtube.com/embed/69nzLpyMSHw",
+  "baseviews": "1.3M",
+  "popularity": 71,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Murthehelp",
+          "duration": "50m"
+        },
+        {
+          "title": "Jeong Jin-man, Jeong Jin-man, Jeong Jin-man",
+          "duration": "54m"
+        },
+        {
+          "title": "The Strong Don't Howl",
+          "duration": "45m"
+        },
+        {
+          "title": "The Shopping Mall",
+          "duration": "63m"
+        },
+        {
+          "title": "Babylon",
+          "duration": "60m"
+        },
+        {
+          "title": "Jeong Jin-man",
+          "duration": "56m"
+        },
+        {
+          "title": "Trap",
+          "duration": "61m"
+        },
+        {
+          "title": "Listen Up, Ji-an",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt26628595",
+  "title": "Marry My Husband",
+  "type": "series",
+  "release": 2024,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "Kang Ji-won, a terminally ill cancer patient, is killed by her husband and best friend after she witnesses them having an affair. She wakes up 10 years before the incident and decides to seek revenge with the help of Yu Ji-hyuk, a director at the company where she works. Now, she must reclaim her fate and eliminate the trash from her life.",
+  "genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+  ],
+  "actors": [
+    "Park Min-young",
+    "Na In-woo",
+    "Lee Yi-kyung",
+    "Song Ha-yoon",
+    "Lee Gi-kwang"
+  ],
+  "director": "Shin Yoo-dam",
+  "country": "KR",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
+  "trailer": "https://www.youtube.com/embed/4URidE59IAI",
+  "baseviews": "1.3M",
+  "popularity": 74,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "62m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "59m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "60m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "60m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "61m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "62m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "63m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "65m"
+        },
+        {
+          "title": "Episode 11",
+          "duration": "70m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 13",
+          "duration": "60m"
+        },
+        {
+          "title": "Episode 14",
+          "duration": "61m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "64m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "67m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt26225038",
+  "title": "Death's Game",
+  "type": "series",
+  "release": 2023,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
+  "genre": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Seo In-guk",
+    "Park So-dam",
+    "Kim Ji-hoon",
+    "Kim Jae-uck",
+    "Kim Mi-kyeong"
+  ],
+  "director": "Ha Byung-hoon",
+  "country": "KR",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/ecM5MY9g2mF6x5SrB2QWOYkcH98.jpg",
+  "trailer": "https://www.youtube.com/embed/RbLbACTHBvM",
+  "baseviews": "1.3M",
+  "popularity": 69,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Death",
+          "duration": "45m"
+        },
+        {
+          "title": "The Reason You're Going to Hell",
+          "duration": "51m"
+        },
+        {
+          "title": "Death Can't Take Anything Away",
+          "duration": "58m"
+        },
+        {
+          "title": "The Reason You're Afraid of Death",
+          "duration": "64m"
+        },
+        {
+          "title": "It Is Impossible to Break Free and Fight Against Death",
+          "duration": "59m"
+        },
+        {
+          "title": "Memory",
+          "duration": "58m"
+        },
+        {
+          "title": "Opportunity",
+          "duration": "38m"
+        },
+        {
+          "title": "Don't Go Looking for Death. Death Will Come Find You.",
+          "duration": "40m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt24640580",
+  "title": "Moving",
+  "type": "series",
+  "release": 2023,
+  "duration": "2 Seasons",
+  "quality": "HD",
+  "description": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
+  "genre": [
+    "Mystery",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Ryu Seung-ryong",
+    "Han Hyo-joo",
+    "Zo In-sung",
+    "Cha Tae-hyun",
+    "Ryoo Seung-bum"
+  ],
+  "director": "Park In-je, Kang Full",
+  "country": "KR",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+  "trailer": "https://www.youtube.com/embed/_dJuI1_G638",
+  "baseviews": "1.3M",
+  "popularity": 65,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Senior Year",
+          "duration": "41m"
+        },
+        {
+          "title": "Booyang: Family Support, Levitation",
+          "duration": "44m"
+        },
+        {
+          "title": "1+1",
+          "duration": "41m"
+        },
+        {
+          "title": "The Secret",
+          "duration": "42m"
+        },
+        {
+          "title": "Recall",
+          "duration": "49m"
+        },
+        {
+          "title": "Bungaeman",
+          "duration": "58m"
+        },
+        {
+          "title": "The Stranger",
+          "duration": "58m"
+        },
+        {
+          "title": "Black",
+          "duration": "54m"
+        },
+        {
+          "title": "Humanists",
+          "duration": "46m"
+        },
+        {
+          "title": "The Monster",
+          "duration": "52m"
+        },
+        {
+          "title": "Romanticist",
+          "duration": "51m"
+        },
+        {
+          "title": "Partners",
+          "duration": "54m"
+        },
+        {
+          "title": "Jang Ju-won",
+          "duration": "54m"
+        },
+        {
+          "title": "The Idiot",
+          "duration": "51m"
+        },
+        {
+          "title": "N.T.D.P.",
+          "duration": "45m"
+        },
+        {
+          "title": "The Man Between",
+          "duration": "42m"
+        },
+        {
+          "title": "Awakening",
+          "duration": "39m"
+        },
+        {
+          "title": "South and North",
+          "duration": "43m"
+        },
+        {
+          "title": "Final Battle",
+          "duration": "45m"
+        },
+        {
+          "title": "Graduation Day",
+          "duration": "46m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt27446493",
+  "title": "Twinkling Watermelon",
+  "type": "series",
+  "release": 2023,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "actors": [
+    "Ryeoun",
+    "Choi Hyun-wook",
+    "Seol In-a",
+    "Shin Eun-soo",
+    "Choi Won-young"
+  ],
+  "director": "Jin Soo-wan, Son Jeong-hyeon",
+  "country": "KR",
+  "rating": "8.8",
+  "poster": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+  "trailer": "https://www.youtube.com/embed/KbWi3VW6QuM",
+  "baseviews": "1.3M",
+  "popularity": 79,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Passion Is Born",
+          "duration": "65m"
+        },
+        {
+          "title": "Eun-gyeol Quits Music",
+          "duration": "69m"
+        },
+        {
+          "title": "Seoul 1995",
+          "duration": "59m"
+        },
+        {
+          "title": "Eun-gyeol Becomes Yi-chan's Tutor",
+          "duration": "63m"
+        },
+        {
+          "title": "Se-gyeong Leaves the Country",
+          "duration": "63m"
+        },
+        {
+          "title": "Se-gyeong Returns",
+          "duration": "62m"
+        },
+        {
+          "title": "Where Are You Eun-gyeol?",
+          "duration": "66m"
+        },
+        {
+          "title": "I Found Ha Eun-gyeol",
+          "duration": "63m"
+        },
+        {
+          "title": "Friendship or Love?",
+          "duration": "59m"
+        },
+        {
+          "title": "Let Yourself Twinkle",
+          "duration": "60m"
+        },
+        {
+          "title": "Dangerous Rehearsal",
+          "duration": "63m"
+        },
+        {
+          "title": "The Day of Decision",
+          "duration": "63m"
+        },
+        {
+          "title": "The Final Festival",
+          "duration": "64m"
+        },
+        {
+          "title": "Another Time Traveler",
+          "duration": "64m"
+        },
+        {
+          "title": "The Hints",
+          "duration": "66m"
+        },
+        {
+          "title": "Everything You Hoped for and More",
+          "duration": "74m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt11612120",
+  "title": "Sweet Home",
+  "type": "series",
+  "release": 2020,
+  "duration": "3 Seasons",
+  "quality": "HD",
+  "description": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humanity.",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Song Kang",
+    "Lee Jin-uk",
+    "Lee Si-young",
+    "Jung Jin-young",
+    "Lee Do-hyun"
+  ],
+  "director": "N/A",
+  "country": "KR",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+  "trailer": "https://www.youtube.com/embed/7rI56NmD33Y",
+  "baseviews": "1.3M",
+  "popularity": 80,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "51m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "57m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "47m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "47m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "54m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "50m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "53m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "56m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "59m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "65m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "63m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "62m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "71m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "71m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "76m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "88m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "76m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "50m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "69m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "59m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "53m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "49m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "50m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "48m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "47m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt29569035",
+  "title": "My Demon",
+  "type": "series",
+  "release": 2023,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
+  "genre": [
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Kim You-jung",
+    "Song Kang",
+    "Lee Sang-yi",
+    "Kim Hae-sook",
+    "Jo Hye-joo"
+  ],
+  "director": "Choi A-il, Kim Jang-han, Kwon Da-som",
+  "country": "KR",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+  "trailer": "https://www.youtube.com/embed/D-bAfFqvxZg",
+  "baseviews": "1.3M",
+  "popularity": 61,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Living in the Mist",
+          "duration": "69m"
+        },
+        {
+          "title": "Everyone Has a Demon in Their Heart",
+          "duration": "63m"
+        },
+        {
+          "title": "Joining Hands With a Demon",
+          "duration": "67m"
+        },
+        {
+          "title": "Sweet but Dangerous",
+          "duration": "61m"
+        },
+        {
+          "title": "Only You",
+          "duration": "61m"
+        },
+        {
+          "title": "Into the Wheel of Fortune",
+          "duration": "66m"
+        },
+        {
+          "title": "Stained Relationships",
+          "duration": "67m"
+        },
+        {
+          "title": "The Fateful Choice",
+          "duration": "62m"
+        },
+        {
+          "title": "The Unmasked Truth",
+          "duration": "71m"
+        },
+        {
+          "title": "Breaking Through the Shell",
+          "duration": "61m"
+        },
+        {
+          "title": "A Paradise of the Ominous",
+          "duration": "65m"
+        },
+        {
+          "title": "The Savior of Destruction",
+          "duration": "67m"
+        },
+        {
+          "title": "The Past, the Original Sin",
+          "duration": "66m"
+        },
+        {
+          "title": "Our Personal Hell",
+          "duration": "68m"
+        },
+        {
+          "title": "The End of Fate",
+          "duration": "70m"
+        },
+        {
+          "title": "Our Personal Heaven",
+          "duration": "67m"
+        }
+      ]
+    }
+  ]
+},
+    {
   "imdb": "tt10324164",
   "title": "Prehistoric Planet",
   "type": "series",
