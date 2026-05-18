@@ -1,6 +1,456 @@
 {
   "movies": [
     {
+  "imdb": "tt9765144",
+  "title": "Zombie for Sale",
+  "type": "movie",
+  "release": 2019,
+  "duration": "112 min",
+  "quality": "HD",
+  "description": "When a pharmaceutical company's illegal experiments inadvertently create a zombie, the strange Park family finds it and tries to profit from it.",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Drama"
+  ],
+  "actors": [
+    "Jung Jae-young",
+    "Kim Nam-gil",
+    "Uhm Ji-won",
+    "Lee Soo-kyung",
+    "Jung Ga-ram"
+  ],
+  "director": "Lee Min-jae",
+  "country": "South Korea",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/62WZ0RkSwTakEf0fPEy4ai5VXlX.jpg",
+  "trailer": "https://www.youtube.com/embed/dqHYBCpek84",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt9541602",
+  "title": "Extreme Job",
+  "type": "movie",
+  "release": 2019,
+  "duration": "111 min",
+  "quality": "HD",
+  "description": "A drug squad attempts to take down a criminal organization and they must go undercover to do so, so they begin working at a chicken restaurant, that becomes famous for its delicious chicken. Due to the unexpected popularity, the detectives find themselves in a situation they never expected.",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "actors": [
+    "Ryu Seung-ryong",
+    "Lee Hanee",
+    "Jin Sun-kyu",
+    "Lee Dong-hwi",
+    "Gong Myoung"
+  ],
+  "director": "Lee Byeong-heon",
+  "country": "South Korea",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/52oLgq2gEiZyDjpJ7tgkGruoQI0.jpg",
+  "trailer": "https://www.youtube.com/embed/HB2e_6D7SDI",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt7056732",
+  "title": "Midnight Runners",
+  "type": "movie",
+  "release": 2017,
+  "duration": "109 min",
+  "quality": "HD",
+  "description": "Two apathetic police academy recruits who become best buddies through the tough training together witness a woman being abducted right before their very eyes. As they were taught in the academy, they quickly report the incident to the police, but the police are in no hurry to jump on the case. So the duo decide to take the matter into their own hands and rescue the woman.",
+  "genre": [
+    "Comedy",
+    "Action",
+    "Crime"
+  ],
+  "actors": [
+    "Park Seo-jun",
+    "Kang Ha-neul",
+    "Sung Dong-il",
+    "Park Ha-seon",
+    "Go Joon"
+  ],
+  "director": "Jason Kim",
+  "country": "South Korea",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/11qHlLL2rsQGH1nmPjJ7jFjeGcb.jpg",
+  "trailer": "https://www.youtube.com/embed/XJf3lqjosUo",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt7890304",
+  "title": "Welcome to Waikiki",
+  "type": "series",
+  "release": 2018,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "Kang Dong-Goo dreams of becoming a movie director, but he is cynical due to bad luck. Cheon Joon-Ki wanted to follow in his father's footsteps and become an actor, but he is now just a minor actor. Bong-Doo-Sik came to Seoul to become a scenario writer, but things have not been easy for him.",
+  "genre": [
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Shin Hyun-soo",
+    "Mun Ka-young",
+    "Lee Yi-kyung",
+    "An So-hee",
+    "Kim Seon-ho"
+  ],
+  "director": "Song Ji-eun",
+  "country": "KR",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "63m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "65m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "67m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "64m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "64m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 11",
+          "duration": "70m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "70m"
+        },
+        {
+          "title": "Episode 13",
+          "duration": "65m"
+        },
+        {
+          "title": "Episode 14",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 17",
+          "duration": "63m"
+        },
+        {
+          "title": "Episode 18",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 19",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 20",
+          "duration": "71m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "69m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "69m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "62m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "63m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "65m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 11",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "64m"
+        },
+        {
+          "title": "Episode 13",
+          "duration": "65m"
+        },
+        {
+          "title": "Episode 14",
+          "duration": "64m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "65m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "66m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt22873700",
+  "title": "Gaus Electronics",
+  "type": "series",
+  "release": 2022,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "The series is about the office workers of Marketing Team 3 at the home appliance headquarters of Gaus Electronics—a multinational company. It highlights the highs and lows of corporate life, and love and friendship between the employees.",
+  "genre": [
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Kwak Dong-yeon",
+    "Ko Sung-hee",
+    "Bae Hyeon-seong",
+    "Kang Min-ah",
+    "Bek Hyun-jin"
+  ],
+  "director": "Seo Su-min",
+  "country": "KR",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/tnANewDiVkqXdu9QfKH9pZDwiaF.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 75,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "No-Wind AC For Windy Days",
+          "duration": "49m"
+        },
+        {
+          "title": "Over the Line, Robot Cleaner",
+          "duration": "46m"
+        },
+        {
+          "title": "\"Drink Cold Water and Get a Hold of Yourself.\" - GAUS Water Purifier",
+          "duration": "46m"
+        },
+        {
+          "title": "\"You Need to Lose to Gain...\" - Hair Growth Machine, 'Grow Anew'",
+          "duration": "46m"
+        },
+        {
+          "title": "\"Can You Hear My Heart?\" - AI Speaker",
+          "duration": "46m"
+        },
+        {
+          "title": "\"Painful But Cool\" - GAUS Massage Gun",
+          "duration": "46m"
+        },
+        {
+          "title": "Recalculating Your Route — GPS, 'Detour'",
+          "duration": "46m"
+        },
+        {
+          "title": "As Your Heart Says — GAUS Watch",
+          "duration": "48m"
+        },
+        {
+          "title": "You Keep Getting Stuck? — GAUS Blender, 'Jal Gara'",
+          "duration": "47m"
+        },
+        {
+          "title": "I'll Show You… A Completely Different Me. — GAUS Inversion Table, '180 (Ilpalgong)'",
+          "duration": "54m"
+        },
+        {
+          "title": "Don't Expose Too Much. — GAUS LED Stand, 'Shh-cret'",
+          "duration": "49m"
+        },
+        {
+          "title": "I'll See You Tomorrow.",
+          "duration": "47m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt11133466",
+  "title": "Psychopath Diary",
+  "type": "series",
+  "release": 2019,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "The story of a man named Yook Dong-sik who coincidentally witnesses a murder and picks up the killer's diary. While fleeing the scene, he gets into a car accident causes him to lose his memory. Due to the diary in his possession, he mistakenly believes that he is a psychopathic serial killer.",
+  "genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "actors": [
+    "Yoon Shi-yoon",
+    "Jung In-sun",
+    "Park Sung-hoon",
+    "Lee Han-wi",
+    "Hwang Hyo-eun"
+  ],
+  "director": "Kim Hwan-chae, Ryoo Yong-Jae",
+  "country": "KR",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/hGmNWy80ILs8wLTDLjnwtOieNw4.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Memory Loss",
+          "duration": "79m"
+        },
+        {
+          "title": "I Am a Predator",
+          "duration": "78m"
+        },
+        {
+          "title": "I’m Coming for You",
+          "duration": "76m"
+        },
+        {
+          "title": "You and I Are the Same",
+          "duration": "71m"
+        },
+        {
+          "title": "He’s Not Who He Seems",
+          "duration": "72m"
+        },
+        {
+          "title": "Who is the Real Killer",
+          "duration": "74m"
+        },
+        {
+          "title": "A Copy Cat Killer",
+          "duration": "69m"
+        },
+        {
+          "title": "Closed Case",
+          "duration": "68m"
+        },
+        {
+          "title": "It Wasn’t Me",
+          "duration": "68m"
+        },
+        {
+          "title": "The Killer Inside Me",
+          "duration": "71m"
+        },
+        {
+          "title": "I’m Not a Nice Guy",
+          "duration": "65m"
+        },
+        {
+          "title": "The Confession",
+          "duration": "71m"
+        },
+        {
+          "title": "Jailbreak",
+          "duration": "65m"
+        },
+        {
+          "title": "I Remember",
+          "duration": "69m"
+        },
+        {
+          "title": "The New Chairman",
+          "duration": "60m"
+        },
+        {
+          "title": "The Final Battle",
+          "duration": "65m"
+        }
+      ]
+    }
+  ]
+},
+    {
   "imdb": "tt6611916",
   "title": "Kingdom",
   "type": "series",
