@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MVC JSON Generator</title>
+  <style>
+:root {
+  --bg: #0a0a0a; --card: #1a1a1a; --gold: #f5b042; --white: #fff; --gray: #999;
+  --border: #2a2a2a; --radius: 12px; --green: #2ed573; --purple: #7c3aed; --pink: #e04090;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Inter', system-ui, sans-serif; background: var(--bg); color: var(--white); padding: 2rem; min-height: 100vh; }
+.container { max-width: 900px; margin: 0 auto; }
+h1 { color: var(--gold); margin-bottom: 0.3rem; font-size: 1.8rem; }
+.subtitle { color: var(--gray); margin-bottom: 1.5rem; font-size: 0.85rem; }
+
+.tabs { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+.tab { background: var(--card); color: var(--gray); border: 1px solid var(--border); padding: 0.6rem 1.2rem; border-radius: 20px; cursor: pointer; font-weight: 600; font-size: 0.85rem; transition: all 0.2s; }
+.tab:hover { color: #fff; border-color: var(--gold); }
+.tab.active { background: var(--gold); color: #000; border-color: var(--gold); }
+
+.form-group { margin-bottom: 1rem; }
+label { display: block; color: var(--gray); font-size: 0.7rem; text-transform: uppercase; font-weight: 700; margin-bottom: 0.25rem; letter-spacing: 0.5px; }
+input, textarea, select { width: 100%; background: var(--card); border: 1px solid var(--border); color: #fff; padding: 0.55rem 0.7rem; border-radius: 8px; font-size: 0.82rem; font-family: inherit; outline: none; transition: all 0.2s; }
+input:focus, textarea:focus, select:focus { border-color: var(--gold); }
+textarea { min-height: 75px; resize: vertical; }
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem; }
+.row-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.7rem; }
+
+.season-block { background: var(--card); border-radius: var(--radius); padding: 0.8rem; margin: 0.7rem 0; border-left: 3px solid var(--gold); }
+.season-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.6rem; }
+.season-header h4 { color: var(--gold); font-size: 0.85rem; }
+.episode-item { display: grid; grid-template-columns: 1fr 1fr auto auto; gap: 0.3rem; margin-bottom: 0.3rem; align-items: end; }
+.episode-item input { padding: 0.35rem 0.5rem; font-size: 0.75rem; }
+
+.btn { padding: 0.55rem 1.3rem; border-radius: 18px; font-weight: 700; font-size: 0.8rem; cursor: pointer; border: none; transition: all 0.2s; }
+.btn-gold { background: var(--gold); color: #000; }
+.btn-gold:hover { background: #fff; }
+.btn-outline { background: transparent; border: 1px solid var(--border); color: #fff; }
+.btn-outline:hover { border-color: var(--gold); }
+.btn-sm { padding: 0.3rem 0.7rem; font-size: 0.7rem; }
+.btn-danger { background: #ff4757; color: #fff; }
+.btn-green { background: var(--green); color: #000; }
+.btn-purple { background: var(--purple); color: #fff; }
+.btn-pink { background: var(--pink); color: #fff; }
+
+.output-section { margin-top: 2rem; }
+.output-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; }
+pre { background: #000; border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem; overflow-x: auto; font-size: 0.78rem; color: var(--green); max-height: 400px; overflow-y: auto; white-space: pre-wrap; }
+.actions { display: flex; gap: 0.5rem; margin-top: 0.8rem; flex-wrap: wrap; align-items: center; }
+.copied { color: var(--green); font-size: 0.75rem; display: none; }
+
+.entry-counter { background: var(--purple); color: #fff; padding: 0.2rem 0.6rem; border-radius: 10px; font-size: 0.7rem; font-weight: 700; }
+
+.tooltip { color: var(--gold); font-size: 0.65rem; margin-top: 0.15rem; display: block; }
+
+@media (max-width: 600px) {
+  body { padding: 1rem; }
+  .row, .row-3 { grid-template-columns: 1fr; }
+  .tabs { gap: 0.3rem; }
+  .tab { padding: 0.5rem 0.9rem; font-size: 0.75rem; }
+}
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>🎬 MVC JSON Generator</h1>
+  <p class="subtitle">Stack entries for your GitHub JSON. No brackets, auto-comma, never overwrites.</p>
+
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('movie')">🎥 Movie</button>
+    <button class="tab" onclick="switchTab('series')">📺 Series</button>
+    <button class="tab" onclick="switchTab('lookup')">🔍 TMDB/OMDB Lookup</button>
+    <button class="tab" onclick="switchTab('bulk')">📦 Bulk (IMDb IDs)</button>
+  </div>
+
+  <!-- MOVIE -->
+  <div id="form-movie">
+    <div class="row">
+      <div class="form-group"><label>IMDb ID *</label><input type="text" id="m_imdb" placeholder="tt0145487"><span class="tooltip">From imdb.com/title/tt0145487</span></div>
+      <div class="form-group"><label>Title *</label><input type="text" id="m_title" placeholder="Spider-Man"></div>
+    </div>
+    <div class="row-3">
+      <div class="form-group"><label>Year</label><input type="text" id="m_release" placeholder="2002"></div>
+      <div class="form-group"><label>Duration</label><input type="text" id="m_duration" placeholder="121 min"></div>
+      <div class="form-group"><label>Quality</label><select id="m_quality"><option>HD</option><option>4K</option><option>CAM</option></select></div>
+    </div>
+    <div class="form-group"><label>Description</label><textarea id="m_desc" placeholder="Brief synopsis..."></textarea></div>
+    <div class="row">
+      <div class="form-group"><label>Genre (comma separated)</label><input type="text" id="m_genre" placeholder="Action, Adventure, Sci-Fi"></div>
+      <div class="form-group"><label>Rating</label><input type="text" id="m_rating" placeholder="7.3"></div>
+    </div>
+    <div class="form-group"><label>Actors (comma separated)</label><input type="text" id="m_actors" placeholder="Tobey Maguire, Willem Dafoe"></div>
+    <div class="row">
+      <div class="form-group"><label>Director</label><input type="text" id="m_director" placeholder="Sam Raimi"></div>
+      <div class="form-group"><label>Country</label><input type="text" id="m_country" placeholder="United States"></div>
+    </div>
+    <div class="row">
+      <div class="form-group"><label>Poster URL</label><input type="text" id="m_poster" placeholder="https://..."></div>
+      <div class="form-group"><label>YouTube Trailer</label><input type="text" id="m_trailer" placeholder="https://www.youtube.com/embed/..."></div>
+    </div>
+    <button class="btn btn-gold" onclick="stackMovie()">➕ Stack Movie Entry</button>
+  </div>
+
+  <!-- SERIES -->
+  <div id="form-series" style="display:none;">
+    <div class="row">
+      <div class="form-group"><label>IMDb ID *</label><input type="text" id="s_imdb" placeholder="tt0903747"></div>
+      <div class="form-group"><label>Title *</label><input type="text" id="s_title" placeholder="Breaking Bad"></div>
+    </div>
+    <div class="row">
+      <div class="form-group"><label>Year</label><input type="text" id="s_release" placeholder="2008"></div>
+      <div class="form-group"><label>Quality</label><select id="s_quality"><option>4K</option><option>HD</option></select></div>
+    </div>
+    <div class="form-group"><label>Description</label><textarea id="s_desc" placeholder="Brief synopsis..."></textarea></div>
+    <div class="row">
+      <div class="form-group"><label>Genre (comma separated)</label><input type="text" id="s_genre" placeholder="Crime, Drama, Thriller"></div>
+      <div class="form-group"><label>Rating</label><input type="text" id="s_rating" placeholder="9.5"></div>
+    </div>
+    <div class="form-group"><label>Actors (comma separated)</label><input type="text" id="s_actors" placeholder="Bryan Cranston, Aaron Paul"></div>
+    <div class="row">
+      <div class="form-group"><label>Director</label><input type="text" id="s_director" placeholder="Vince Gilligan"></div>
+      <div class="form-group"><label>Country</label><input type="text" id="s_country" placeholder="USA"></div>
+    </div>
+    <div class="row">
+      <div class="form-group"><label>Poster URL</label><input type="text" id="s_poster" placeholder="https://..."></div>
+      <div class="form-group"><label>YouTube Trailer</label><input type="text" id="s_trailer" placeholder="https://www.youtube.com/embed/..."></div>
+    </div>
+    
+    <div id="seasonsContainer">
+      <div class="season-block" data-season="1">
+        <div class="season-header"><h4>📺 Season 1</h4><button class="btn btn-sm btn-purple" onclick="addEpisode(this)">+ Episode</button></div>
+        <div class="episode-list">
+          <div class="episode-item">
+            <input type="text" placeholder="Title" class="ep-title" value="Pilot">
+            <input type="text" placeholder="Dur (58m)" class="ep-dur" value="58m">
+            <button class="btn btn-sm btn-outline" onclick="addEpisodeAbove(this)">+</button>
+            <button class="btn btn-sm btn-danger" onclick="removeEpisode(this)">✕</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="display:flex;gap:0.5rem;margin-top:0.7rem;">
+      <button class="btn btn-outline" onclick="addSeason()">➕ Add Season</button>
+      <button class="btn btn-gold" onclick="stackSeries()">📺 Stack Series Entry</button>
+    </div>
+  </div>
+
+  <!-- LOOKUP -->
+  <div id="form-lookup" style="display:none;">
+    <p class="subtitle" style="margin-bottom:0.8rem;">Search TMDB or OMDB by title, click a result to auto-fill the form.</p>
+    <div class="row">
+      <div class="form-group"><label>Search</label><input type="text" id="lookupQuery" placeholder="Breaking Bad" onkeydown="if(event.key==='Enter')searchAll()"></div>
+    </div>
+    <button class="btn btn-gold" onclick="searchAll()">🔍 Search</button>
+    <div id="lookupResults" style="margin-top:1rem;"></div>
+  </div>
+
+  <!-- BULK -->
+  <div id="form-bulk" style="display:none;">
+    <p class="subtitle" style="margin-bottom:0.8rem;">Paste IMDb IDs (one per line). Fetches from OMDB.</p>
+    <div class="form-group"><label>IMDb IDs</label><textarea id="bulkIds" placeholder="tt0145487&#10;tt0903747&#10;tt0499549" style="min-height:120px;"></textarea></div>
+    <div class="form-group"><label>Type</label><select id="bulkType"><option value="movie">Movies</option><option value="series">Series</option></select></div>
+    <button class="btn btn-gold" onclick="bulkStack()">📦 Stack All</button>
+    <div id="bulkStatus" style="margin-top:0.5rem;color:var(--gray);font-size:0.8rem;"></div>
+  </div>
+
+  <!-- OUTPUT -->
+  <div class="output-section">
+    <div class="output-header">
+      <h3 style="font-size:1rem;">📋 Stacked Entries <span class="entry-counter" id="entryCount">0</span></h3>
+    </div>
+    <pre id="output">// Generated entries will stack here...
+// Each entry is comma-separated, no outer brackets.
+// Paste directly into your GitHub JSON array.</pre>
+    <div class="actions">
+      <button class="btn btn-green" onclick="copyOutput()">📋 Copy</button>
+      <button class="btn btn-outline" onclick="downloadStack()">💾 Download</button>
+      <button class="btn btn-pink" onclick="clearStack()">🗑 Clear Stack</button>
+      <span class="copied" id="copyMsg">✅ Copied!</span>
+    </div>
+  </div>
+</div>
+
+<script>
+let stackedEntries = [];
+let seasonCounter = 1;
+
+// ===== TABS =====
+function switchTab(tab) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  event.target.classList.add('active');
+  ['movie','series','lookup','bulk'].forEach(id => document.getElementById('form-'+id).style.display='none');
+  document.getElementById('form-'+tab).style.display='block';
+}
+
+// ===== STACK MOVIE =====
+function stackMovie() {
+  const imdb = document.getElementById('m_imdb').value.trim();
+  const title = document.getElementById('m_title').value.trim();
+  if (!imdb || !title) { alert('IMDb ID and Title required!'); return; }
+  
+  const entry = {
+    imdb, title, type: "movie",
+    release: parseInt(document.getElementById('m_release').value) || null,
+    duration: document.getElementById('m_duration').value.trim(),
+    quality: document.getElementById('m_quality').value,
+    description: document.getElementById('m_desc').value.trim(),
+    genre: document.getElementById('m_genre').value.split(',').map(g=>g.trim()).filter(g=>g),
+    actors: document.getElementById('m_actors').value.split(',').map(a=>a.trim()).filter(a=>a),
+    director: document.getElementById('m_director').value.trim(),
+    country: document.getElementById('m_country').value.trim(),
+    rating: document.getElementById('m_rating').value.trim() || null,
+    poster: document.getElementById('m_poster').value.trim(),
+    trailer: document.getElementById('m_trailer').value.trim(),
+    baseviews: "1.3M",
+    popularity: Math.floor(Math.random() * 30) + 60
+  };
+  
+  stackedEntries.push(entry);
+  updateStack();
+  clearMovieForm();
+}
+
+// ===== STACK SERIES =====
+function stackSeries() {
+  const imdb = document.getElementById('s_imdb').value.trim();
+  const title = document.getElementById('s_title').value.trim();
+  if (!imdb || !title) { alert('IMDb ID and Title required!'); return; }
+
+  const seasons = [];
+  document.querySelectorAll('.season-block').forEach(block => {
+    const episodes = [];
+    block.querySelectorAll('.episode-item').forEach(ep => {
+      const et = ep.querySelector('.ep-title')?.value?.trim();
+      const ed = ep.querySelector('.ep-dur')?.value?.trim();
+      if (et) episodes.push({ title: et, duration: ed || '45m' });
+    });
+    if (episodes.length) seasons.push({ episodes });
+  });
+
+  const entry = {
+    imdb, title, type: "series",
+    release: parseInt(document.getElementById('s_release').value) || null,
+    duration: `${seasons.length} Season${seasons.length>1?'s':''}`,
+    quality: document.getElementById('s_quality').value,
+    description: document.getElementById('s_desc').value.trim(),
+    genre: document.getElementById('s_genre').value.split(',').map(g=>g.trim()).filter(g=>g),
+    actors: document.getElementById('s_actors').value.split(',').map(a=>a.trim()).filter(a=>a),
+    director: document.getElementById('s_director').value.trim(),
+    country: document.getElementById('s_country').value.trim(),
+    rating: document.getElementById('s_rating').value.trim() || null,
+    poster: document.getElementById('s_poster').value.trim(),
+    trailer: document.getElementById('s_trailer').value.trim(),
+    baseviews: "1.3M",
+    popularity: Math.floor(Math.random() * 30) + 60,
+    seasons
+  };
+  
+  stackedEntries.push(entry);
+  updateStack();
+}
+
+// ===== SEASONS/EPISODES =====
+function addSeason() {
+  seasonCounter++;
+  const container = document.getElementById('seasonsContainer');
+  const block = document.createElement('div');
+  block.className = 'season-block';
+  block.dataset.season = seasonCounter;
+  block.innerHTML = `<div class="season-header"><h4>📺 Season ${seasonCounter}</h4><button class="btn btn-sm btn-purple" onclick="addEpisode(this)">+ Episode</button></div><div class="episode-list"><div class="episode-item"><input type="text" placeholder="Title" class="ep-title"><input type="text" placeholder="Dur" class="ep-dur" value="45m"><button class="btn btn-sm btn-outline" onclick="addEpisodeAbove(this)">+</button><button class="btn btn-sm btn-danger" onclick="removeEpisode(this)">✕</button></div></div>`;
+  container.appendChild(block);
+}
+function addEpisode(btn) {
+  const list = btn.closest('.season-block').querySelector('.episode-list');
+  const item = document.createElement('div');
+  item.className = 'episode-item';
+  item.innerHTML = `<input type="text" placeholder="Title" class="ep-title"><input type="text" placeholder="Dur" class="ep-dur" value="45m"><button class="btn btn-sm btn-outline" onclick="addEpisodeAbove(this)">+</button><button class="btn btn-sm btn-danger" onclick="removeEpisode(this)">✕</button>`;
+  list.appendChild(item);
+}
+function addEpisodeAbove(btn) {
+  const item = btn.closest('.episode-item');
+  const newItem = document.createElement('div');
+  newItem.className = 'episode-item';
+  newItem.innerHTML = `<input type="text" placeholder="Title" class="ep-title"><input type="text" placeholder="Dur" class="ep-dur" value="45m"><button class="btn btn-sm btn-outline" onclick="addEpisodeAbove(this)">+</button><button class="btn btn-sm btn-danger" onclick="removeEpisode(this)">✕</button>`;
+  item.parentNode.insertBefore(newItem, item);
+}
+function removeEpisode(btn) {
+  const item = btn.closest('.episode-item');
+  if (item.parentNode.children.length > 1) item.remove();
+}
+
+// ===== LOOKUP =====
+async function searchAll() {
+  const q = document.getElementById('lookupQuery').value.trim();
+  if (!q) return;
+  document.getElementById('lookupResults').innerHTML = '<p style="color:var(--gray);">Searching...</p>';
+  
+  let results = [];
+  
+  // Try TMDB
+  try {
+    const res = await fetch(`https://api.themoviedb.org/3/search/multi?api_key=4e44d9029b1270a757cddc766a1bcb63&query=${encodeURIComponent(q)}`);
+    if (res.ok) {
+      const data = await res.json();
+      results = (data.results||[]).filter(r=>r.media_type==='movie'||r.media_type==='tv').slice(0,6);
+    }
+  } catch(e) {}
+  
+  // Fallback OMDB
+  if (!results.length) {
+    try {
+      const res = await fetch(`https://www.omdbapi.com/?s=${encodeURIComponent(q)}&apikey=thewdb`);
+      const data = await res.json();
+      if (data.Search) {
+        results = data.Search.slice(0,6).map(r=>({
+          id: r.imdbID, title: r.Title, media_type: r.Type==='series'?'tv':'movie',
+          poster_path: r.Poster!=='N/A'?r.Poster:null, release_date: r.Year, vote_average: null, overview: ''
+        }));
+      }
+    } catch(e) {}
+  }
+  
+  if (!results.length) { document.getElementById('lookupResults').innerHTML='<p style="color:var(--gray);">Nothing found.</p>'; return; }
+  
+  document.getElementById('lookupResults').innerHTML = results.map(r => {
+    const isSeries = r.media_type === 'tv';
+    const badge = isSeries ? '📺 Series' : '🎬 Movie';
+    const poster = r.poster_path ? (r.poster_path.startsWith('http')?r.poster_path:`https://image.tmdb.org/t/p/w200${r.poster_path}`) : '';
+    const year = (r.release_date||r.first_air_date||'').split('-')[0] || r.Year || '';
+    return `<div style="background:var(--card);border-radius:8px;padding:0.7rem;margin-bottom:0.4rem;display:flex;gap:0.7rem;align-items:start;cursor:pointer;" onclick="fillEntry('${r.id}', '${isSeries?'series':'movie'}')">
+      ${poster?`<img src="${poster}" style="width:45px;border-radius:4px;" onerror="this.style.display='none'">`:'<div style="width:45px;height:68px;background:#111;border-radius:4px;display:flex;align-items:center;justify-content:center;">🎬</div>'}
+      <div><strong>${r.title||r.name}</strong> <span class="badge" style="background:${isSeries?'var(--purple)':'var(--gold)'};color:#fff;padding:2px 6px;border-radius:3px;font-size:0.6rem;font-weight:700;">${badge}</span>
+      <p style="color:var(--gray);font-size:0.7rem;">${year} ${r.vote_average?`• ⭐${r.vote_average.toFixed(1)}`:''}</p></div></div>`;
+  }).join('');
+}
+async function fillEntry(id, type) {
+  try {
+    // Try TMDB
+    const res = await fetch(`https://api.themoviedb.org/3/${type==='series'?'tv':'movie'}/${id}?api_key=4e44d9029b1270a757cddc766a1bcb63&append_to_response=external_ids,credits,videos`);
+    if (res.ok) {
+      const data = await res.json();
+      const imdbId = data.imdb_id || data.external_ids?.imdb_id || '';
+      
+      if (type === 'series') {
+        document.getElementById('s_imdb').value = imdbId;
+        document.getElementById('s_title').value = data.name||'';
+        document.getElementById('s_release').value = (data.first_air_date||'').split('-')[0];
+        document.getElementById('s_desc').value = data.overview||'';
+        document.getElementById('s_genre').value = (data.genres||[]).map(g=>g.name).join(', ');
+        document.getElementById('s_rating').value = data.vote_average?.toFixed(1)||'';
+        document.getElementById('s_poster').value = data.poster_path?`https://image.tmdb.org/t/p/w500${data.poster_path}`:'';
+        const trailer = data.videos?.results?.find(v=>v.type==='Trailer'&&v.site==='YouTube');
+        document.getElementById('s_trailer').value = trailer?`https://www.youtube.com/embed/${trailer.key}`:'';
+        document.getElementById('s_country').value = (data.origin_country||[]).join(', ');
+        document.getElementById('s_actors').value = (data.credits?.cast||[]).slice(0,5).map(a=>a.name).join(', ');
+        document.getElementById('s_director').value = (data.created_by||[]).map(c=>c.name).join(', ')||'N/A';
+        
+        // 🔥 FETCH EPISODES FOR EACH SEASON
+        await fetchAllEpisodes(data.number_of_seasons || 1, id);
+        
+        switchTab('series'); document.querySelectorAll('.tab')[1].click();
+        window.scrollTo({top:0,behavior:'smooth'});
+        return;
+      } else {
+        document.getElementById('m_imdb').value = imdbId;
+        document.getElementById('m_title').value = data.title||'';
+        document.getElementById('m_release').value = (data.release_date||'').split('-')[0];
+        document.getElementById('m_desc').value = data.overview||'';
+        document.getElementById('m_genre').value = (data.genres||[]).map(g=>g.name).join(', ');
+        document.getElementById('m_rating').value = data.vote_average?.toFixed(1)||'';
+        document.getElementById('m_poster').value = data.poster_path?`https://image.tmdb.org/t/p/w500${data.poster_path}`:'';
+        const trailer = data.videos?.results?.find(v=>v.type==='Trailer'&&v.site==='YouTube');
+        document.getElementById('m_trailer').value = trailer?`https://www.youtube.com/embed/${trailer.key}`:'';
+        document.getElementById('m_country').value = (data.production_countries||[]).map(c=>c.name).join(', ');
+        document.getElementById('m_actors').value = (data.credits?.cast||[]).slice(0,5).map(a=>a.name).join(', ');
+        document.getElementById('m_director').value = (data.credits?.crew||[]).find(c=>c.job==='Director')?.name||'';
+        document.getElementById('m_duration').value = data.runtime?`${data.runtime} min`:'';
+        switchTab('movie'); document.querySelectorAll('.tab')[0].click();
+        window.scrollTo({top:0,behavior:'smooth'});
+        return;
+      }
+    }
+  } catch(e) {}
+  
+  // OMDB fallback (no episode data from OMDB)
+  try {
+    const res = await fetch(`https://www.omdbapi.com/?i=${id}&apikey=thewdb&plot=short`);
+    const data = await res.json();
+    if (!data.Title) { alert('Not found.'); return; }
+    const isSeries = data.Type === 'series';
+    if (isSeries) {
+      document.getElementById('s_imdb').value = id;
+      document.getElementById('s_title').value = data.Title;
+      document.getElementById('s_release').value = data.Year;
+      document.getElementById('s_desc').value = data.Plot;
+      document.getElementById('s_genre').value = data.Genre;
+      document.getElementById('s_rating').value = data.imdbRating!=='N/A'?data.imdbRating:'';
+      document.getElementById('s_poster').value = data.Poster!=='N/A'?data.Poster:'';
+      document.getElementById('s_country').value = data.Country;
+      document.getElementById('s_actors').value = data.Actors;
+      document.getElementById('s_director').value = data.Director||'N/A';
+      // OMDB doesn't provide episodes - leave default
+      switchTab('series'); document.querySelectorAll('.tab')[1].click();
+    } else {
+      document.getElementById('m_imdb').value = id;
+      document.getElementById('m_title').value = data.Title;
+      document.getElementById('m_release').value = data.Year;
+      document.getElementById('m_desc').value = data.Plot;
+      document.getElementById('m_genre').value = data.Genre;
+      document.getElementById('m_rating').value = data.imdbRating!=='N/A'?data.imdbRating:'';
+      document.getElementById('m_poster').value = data.Poster!=='N/A'?data.Poster:'';
+      document.getElementById('m_country').value = data.Country;
+      document.getElementById('m_actors').value = data.Actors;
+      document.getElementById('m_director').value = data.Director||'';
+      document.getElementById('m_duration').value = data.Runtime!=='N/A'?data.Runtime:'';
+      switchTab('movie'); document.querySelectorAll('.tab')[0].click();
+    }
+  } catch(e) { alert('Fetch failed. Fill manually.'); }
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+// 🔥 NEW: Fetch all episodes for each season
+async function fetchAllEpisodes(totalSeasons, tmdbId) {
+  const container = document.getElementById('seasonsContainer');
+  
+  // Show loading
+  container.innerHTML = '<p style="color:var(--gold);padding:1rem;">⏳ Fetching episodes for all seasons...</p>';
+  
+  // Clear existing
+  container.innerHTML = '';
+  seasonCounter = 0;
+  
+  for (let sn = 1; sn <= totalSeasons; sn++) {
+    try {
+      const res = await fetch(`https://api.themoviedb.org/3/tv/${tmdbId}/season/${sn}?api_key=4e44d9029b1270a757cddc766a1bcb63`);
+      const data = await res.json();
+      
+      if (data.episodes && data.episodes.length > 0) {
+        seasonCounter++;
+        const block = document.createElement('div');
+        block.className = 'season-block';
+        block.dataset.season = seasonCounter;
+        
+        const episodesHTML = data.episodes.map(ep => `
+          <div class="episode-item">
+            <input type="text" placeholder="Title" class="ep-title" value="${(ep.name || '').replace(/"/g, '&quot;')}">
+            <input type="text" placeholder="Dur" class="ep-dur" value="${ep.runtime ? ep.runtime+'m' : '45m'}">
+            <button class="btn btn-sm btn-outline" onclick="addEpisodeAbove(this)">+</button>
+            <button class="btn btn-sm btn-danger" onclick="removeEpisode(this)">✕</button>
+          </div>
+        `).join('');
+        
+        block.innerHTML = `
+          <div class="season-header">
+            <h4>📺 Season ${sn} (${data.episodes.length} eps)</h4>
+            <button class="btn btn-sm btn-purple" onclick="addEpisode(this)">+ Episode</button>
+          </div>
+          <div class="episode-list">${episodesHTML}</div>
+        `;
+        
+        container.appendChild(block);
+      }
+    } catch(e) {
+      console.error(`Failed to fetch season ${sn}:`, e);
+    }
+  }
+  
+  if (container.children.length === 0) {
+    // Fallback: create empty seasons
+    for (let sn = 1; sn <= totalSeasons; sn++) {
+      seasonCounter++;
+      const block = document.createElement('div');
+      block.className = 'season-block';
+      block.dataset.season = seasonCounter;
+      block.innerHTML = `
+        <div class="season-header"><h4>📺 Season ${sn}</h4><button class="btn btn-sm btn-purple" onclick="addEpisode(this)">+ Episode</button></div>
+        <div class="episode-list">
+          <div class="episode-item">
+            <input type="text" placeholder="Title" class="ep-title">
+            <input type="text" placeholder="Dur" class="ep-dur" value="45m">
+            <button class="btn btn-sm btn-outline" onclick="addEpisodeAbove(this)">+</button>
+            <button class="btn btn-sm btn-danger" onclick="removeEpisode(this)">✕</button>
+          </div>
+        </div>`;
+      container.appendChild(block);
+    }
+  }
+}
+
+// ===== BULK =====
+async function bulkStack() {
+  const ids = document.getElementById('bulkIds').value.split('\n').map(l=>l.trim()).filter(l=>l);
+  const type = document.getElementById('bulkType').value;
+  if (!ids.length) { alert('Paste IMDb IDs!'); return; }
+  
+  document.getElementById('bulkStatus').textContent = `Fetching ${ids.length} entries...`;
+  
+  for (const imdbId of ids) {
+    try {
+      const res = await fetch(`https://www.omdbapi.com/?i=${imdbId}&apikey=thewdb&plot=short`);
+      const data = await res.json();
+      if (data.Title) {
+        const entry = {
+          imdb: imdbId, title: data.Title, type,
+          release: parseInt(data.Year)||null,
+          duration: type==='movie'?data.Runtime:'?',
+          quality: "HD",
+          description: data.Plot||'',
+          genre: data.Genre?data.Genre.split(', '):[],
+          actors: data.Actors?data.Actors.split(', '):[],
+          director: data.Director||'',
+          country: data.Country||'',
+          rating: data.imdbRating!=='N/A'?data.imdbRating:null,
+          poster: data.Poster!=='N/A'?data.Poster:'',
+          trailer: '',
+          baseviews: "1.3M",
+          popularity: Math.floor(Math.random()*30)+60
+        };
+        if (type==='series') entry.seasons = [];
+        stackedEntries.push(entry);
+      }
+    } catch(e) {}
+  }
+  updateStack();
+  document.getElementById('bulkStatus').textContent = `✅ Done! ${stackedEntries.length} entries in stack.`;
+}
+
+// ===== STACK OUTPUT =====
+function updateStack() {
+  // Build comma-separated entries WITHOUT outer brackets
+  const output = stackedEntries.map((entry, i) => {
+    const json = JSON.stringify(entry, null, 2);
+    // Add comma if not the last entry
+    return i < stackedEntries.length - 1 ? json + ',' : json;
+  }).join('\n\n');
+  
+  document.getElementById('output').textContent = output || '// Stack is empty. Generate some entries!';
+  document.getElementById('entryCount').textContent = stackedEntries.length;
+}
+
+function copyOutput() {
+  navigator.clipboard.writeText(document.getElementById('output').textContent);
+  const msg = document.getElementById('copyMsg');
+  msg.style.display = 'inline';
+  setTimeout(() => msg.style.display = 'none', 2000);
+}
+
+function downloadStack() {
+  const blob = new Blob([document.getElementById('output').textContent], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'mvc_stack.json';
+  a.click();
+}
+
+function clearStack() {
+  if (!confirm('Clear all stacked entries?')) return;
+  stackedEntries = [];
+  updateStack();
+}
+
+function clearMovieForm() {
+  ['m_imdb','m_title','m_release','m_duration','m_desc','m_genre','m_actors','m_director','m_country','m_rating','m_poster','m_trailer'].forEach(id => document.getElementById(id).value='');
+}
+</script>
+</body>
+</html>
