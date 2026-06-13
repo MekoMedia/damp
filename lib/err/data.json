@@ -1,4 +1,175 @@
 {
+  {
+  "imdb": "tt37287335",
+  "title": "Obsession",
+  "type": "movie",
+  "release": 2026,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "Michael Johnston",
+    "Inde Navarrette",
+    "Cooper Tomlinson",
+    "Megan Lawless",
+    "Andy Richter"
+  ],
+  "director": "Curry Barker",
+  "country": "United States of America, United Kingdom",
+  "rating": "7.9",
+  "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+  "trailer": "https://www.youtube.com/embed/gMC8kkwbIQQ",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt26657236",
+  "title": "Backrooms",
+  "type": "movie",
+  "release": 2026,
+  "duration": "111 min",
+  "quality": "HD",
+  "description": "A strange doorway appears in the basement of a furniture showroom.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Chiwetel Ejiofor",
+    "Renate Reinsve",
+    "Mark Duplass",
+    "Finn Bennett",
+    "Lukita Maxwell"
+  ],
+  "director": "Kane Parsons",
+  "country": "United States of America, Canada",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+  "trailer": "https://www.youtube.com/embed/0HjdiohVOik",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt0427340",
+  "title": "Masters of the Universe",
+  "type": "movie",
+  "release": 2026,
+  "duration": "141 min",
+  "quality": "HD",
+  "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Nicholas Galitzine",
+    "Camila Mendes",
+    "Idris Elba",
+    "Jared Leto",
+    "Alison Brie"
+  ],
+  "director": "Travis Knight",
+  "country": "United States of America",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+  "trailer": "https://www.youtube.com/embed/rJSmz-zhDxE",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt30825738",
+  "title": "The Mandalorian and Grogu",
+  "type": "movie",
+  "release": 2026,
+  "duration": "132 min",
+  "quality": "HD",
+  "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Pedro Pascal",
+    "Jeremy Allen White",
+    "Sigourney Weaver",
+    "Brendan Wayne",
+    "Lateef Crowder"
+  ],
+  "director": "Jon Favreau",
+  "country": "United States of America",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+  "trailer": "https://www.youtube.com/embed/uwild1rw7Aw",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt27534307",
+  "title": "Speak No Evil",
+  "type": "movie",
+  "release": 2024,
+  "duration": "110 min",
+  "quality": "HD",
+  "description": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "James McAvoy",
+    "Mackenzie Davis",
+    "Scoot McNairy",
+    "Aisling Franciosi",
+    "Alix West Lefler"
+  ],
+  "director": "James Watkins",
+  "country": "United States of America",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+  "trailer": "https://www.youtube.com/embed/iSIuxrjTMk0",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt19244304",
+  "title": "IT: Welcome to Derry",
+  "type": "series",
+  "release": 2025,
+  "duration": "data",
+  "quality": "HD",
+  "description": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+  "genre": [
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Taylour Paige",
+    "Jovan Adepo",
+    "Matilda Lawler",
+    "Amanda Christine",
+    "Clara Stack"
+  ],
+  "director": "Andy Muschietti, Barbara Muschietti, Jason Fuchs",
+  "country": "US",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+  "trailer": "https://www.youtube.com/embed/u4JE2AyqDII",
+  "baseviews": "1.3M",
+  "popularity": 62
+ 
+},
   "movies": [
     {
   "imdb": "tt9765144",
