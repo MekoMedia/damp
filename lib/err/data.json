@@ -1,6 +1,237 @@
 {
   "movies": [
     {
+  "imdb": "tt26443616",
+  "title": "Hoppers",
+  "type": "movie",
+  "release": 2026,
+  "duration": "104 min",
+  "quality": "HD",
+  "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+  "genre": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Piper Curda",
+    "Bobby Moynihan",
+    "Jon Hamm",
+    "Kathy Najimy",
+    "Dave Franco"
+  ],
+  "director": "Daniel Chong",
+  "country": "United States of America",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+  "trailer": "https://www.youtube.com/embed/PypDSyIRRSs",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt33397980",
+  "title": "Office Romance",
+  "type": "movie",
+  "release": 2026,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+  "genre": [
+    "Romance",
+    "Comedy"
+  ],
+  "actors": [
+    "Jennifer Lopez",
+    "Brett Goldstein",
+    "Betty Gilpin",
+    "Edward James Olmos",
+    "Bradley Whitford"
+  ],
+  "director": "Ol Parker",
+  "country": "United States of America",
+  "rating": "6.5",
+  "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+  "trailer": "https://www.youtube.com/embed/11gcNa-TBRA",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt6741278",
+  "title": "INVINCIBLE",
+  "type": "series",
+  "release": 2021,
+  "duration": "4 Seasons",
+  "quality": "4K",
+  "description": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+  "genre": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Steven Yeun",
+    "Sandra Oh",
+    "J.K. Simmons"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "8.6",
+  "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+  "trailer": "https://www.youtube.com/embed/-bfAVpuko5o",
+  "baseviews": "1.3M",
+  "popularity": 73,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "IT'S ABOUT TIME",
+          "duration": "51m"
+        },
+        {
+          "title": "HERE GOES NOTHING",
+          "duration": "48m"
+        },
+        {
+          "title": "WHO YOU CALLING UGLY?",
+          "duration": "45m"
+        },
+        {
+          "title": "NEIL ARMSTRONG, EAT YOUR HEART OUT",
+          "duration": "48m"
+        },
+        {
+          "title": "THAT ACTUALLY HURT",
+          "duration": "50m"
+        },
+        {
+          "title": "YOU LOOK KINDA DEAD",
+          "duration": "48m"
+        },
+        {
+          "title": "WE NEED TO TALK",
+          "duration": "52m"
+        },
+        {
+          "title": "WHERE I REALLY COME FROM",
+          "duration": "48m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "A LESSON FOR YOUR NEXT LIFE",
+          "duration": "49m"
+        },
+        {
+          "title": "IN ABOUT SIX HOURS I LOSE MY VIRGINITY TO A FISH",
+          "duration": "50m"
+        },
+        {
+          "title": "THIS MISSIVE, THIS MACHINATION!",
+          "duration": "50m"
+        },
+        {
+          "title": "IT'S BEEN A WHILE",
+          "duration": "47m"
+        },
+        {
+          "title": "THIS MUST COME AS A SHOCK",
+          "duration": "52m"
+        },
+        {
+          "title": "IT'S NOT THAT SIMPLE",
+          "duration": "51m"
+        },
+        {
+          "title": "I'M NOT GOING ANYWHERE",
+          "duration": "52m"
+        },
+        {
+          "title": "I THOUGHT YOU WERE STRONGER",
+          "duration": "54m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "YOU'RE NOT LAUGHING NOW",
+          "duration": "49m"
+        },
+        {
+          "title": "A DEAL WITH THE DEVIL",
+          "duration": "49m"
+        },
+        {
+          "title": "YOU WANT A REAL COSTUME, RIGHT?",
+          "duration": "51m"
+        },
+        {
+          "title": "YOU WERE MY HERO",
+          "duration": "50m"
+        },
+        {
+          "title": "THIS WAS SUPPOSED TO BE EASY",
+          "duration": "49m"
+        },
+        {
+          "title": "ALL I CAN SAY IS I'M SORRY",
+          "duration": "55m"
+        },
+        {
+          "title": "WHAT HAVE I DONE?",
+          "duration": "52m"
+        },
+        {
+          "title": "I THOUGHT YOU'D NEVER SHUT UP",
+          "duration": "46m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "MAKING THE WORLD A BETTER PLACE",
+          "duration": "53m"
+        },
+        {
+          "title": "I'LL GIVE YOU THE GRAND TOUR",
+          "duration": "51m"
+        },
+        {
+          "title": "I GOTTA GET SOME AIR",
+          "duration": "49m"
+        },
+        {
+          "title": "HURM",
+          "duration": "56m"
+        },
+        {
+          "title": "GIVE US A MOMENT",
+          "duration": "52m"
+        },
+        {
+          "title": "YOU LOOK HORRIBLE",
+          "duration": "53m"
+        },
+        {
+          "title": "DON'T DO ANYTHING RASH",
+          "duration": "54m"
+        },
+        {
+          "title": "DON'T LEAVE ME HANGING HERE",
+          "duration": "52m"
+        }
+      ]
+    }
+  ]
+},
+    {
   "imdb": "tt32547691",
   "title": "Pressure",
   "type": "movie",
