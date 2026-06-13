@@ -142,14 +142,41 @@
   "baseviews": "1.3M",
   "popularity": 64
 },
-
+{
+  "imdb": "tt1396484",
+  "title": "It",
+  "type": "movie",
+  "release": 2017,
+  "duration": "135 min",
+  "quality": "HD",
+  "description": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+  "genre": [
+    "Horror",
+    "Thriller",
+    "Drama"
+  ],
+  "actors": [
+    "Jaeden Martell",
+    "Jeremy Ray Taylor",
+    "Sophia Lillis",
+    "Finn Wolfhard",
+    "Chosen Jacobs"
+  ],
+  "director": "Andy Muschietti",
+  "country": "United States of America",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+  "trailer": "https://www.youtube.com/embed/xKJmEC5ieOk",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
 {
   "imdb": "tt19244304",
   "title": "IT: Welcome to Derry",
   "type": "series",
   "release": 2025,
-  "duration": "data",
-  "quality": "HD",
+  "duration": "10 Season",
+  "quality": "4K",
   "description": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
   "genre": [
     "Drama",
@@ -168,10 +195,46 @@
   "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
   "trailer": "https://www.youtube.com/embed/u4JE2AyqDII",
   "baseviews": "1.3M",
-  "popularity": 62
- 
+  "popularity": 71,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "The Pilot",
+          "duration": "54m"
+        },
+        {
+          "title": "The Thing in the Dark",
+          "duration": "66m"
+        },
+        {
+          "title": "Now You See It",
+          "duration": "59m"
+        },
+        {
+          "title": "The Great Swirling Apparatus of Our Planet's Function",
+          "duration": "63m"
+        },
+        {
+          "title": "Neibolt Street",
+          "duration": "56m"
+        },
+        {
+          "title": "In the Name of the Father",
+          "duration": "57m"
+        },
+        {
+          "title": "The Black Spot",
+          "duration": "62m"
+        },
+        {
+          "title": "Winter Fire",
+          "duration": "69m"
+        }
+      ]
+    }
+  ]
 },
-
     {
   "imdb": "tt9765144",
   "title": "Zombie for Sale",
