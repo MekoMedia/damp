@@ -1,5 +1,2504 @@
 {
   "movies": [
+    {
+  "imdb": "tt32547691",
+  "title": "Pressure",
+  "type": "movie",
+  "release": 2026,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+  "genre": [
+    "Thriller",
+    "History",
+    "War"
+  ],
+  "actors": [
+    "Andrew Scott",
+    "Brendan Fraser",
+    "Kerry Condon",
+    "Chris Messina",
+    "Damian Lewis"
+  ],
+  "director": "Anthony Maras",
+  "country": "United Kingdom, France",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg",
+  "trailer": "https://www.youtube.com/embed/EBh1LGRwiis",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt4052886",
+  "title": "Lucifer",
+  "type": "series",
+  "release": 2016,
+  "duration": "6 Seasons",
+  "quality": "4K",
+  "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+  "genre": [
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Tom Ellis",
+    "Lauren German",
+    "Kevin Alejandro",
+    "D. B. Woodside",
+    "Lesley-Ann Brandt"
+  ],
+  "director": "Tom Kapinos",
+  "country": "US",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+  "trailer": "https://www.youtube.com/embed/X4bF_quwNtw",
+  "baseviews": "1.3M",
+  "popularity": 65,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Pilot",
+          "duration": "43m"
+        },
+        {
+          "title": "Lucifer, Stay. Good Devil.",
+          "duration": "42m"
+        },
+        {
+          "title": "The Would-Be Prince of Darkness",
+          "duration": "41m"
+        },
+        {
+          "title": "Manly Whatnots",
+          "duration": "40m"
+        },
+        {
+          "title": "Sweet Kicks",
+          "duration": "42m"
+        },
+        {
+          "title": "Favorite Son",
+          "duration": "42m"
+        },
+        {
+          "title": "Wingman",
+          "duration": "42m"
+        },
+        {
+          "title": "Et Tu, Doctor?",
+          "duration": "41m"
+        },
+        {
+          "title": "A Priest Walks Into A Bar",
+          "duration": "41m"
+        },
+        {
+          "title": "Pops",
+          "duration": "42m"
+        },
+        {
+          "title": "St. Lucifer",
+          "duration": "42m"
+        },
+        {
+          "title": "#TeamLucifer",
+          "duration": "42m"
+        },
+        {
+          "title": "Take Me Back To Hell",
+          "duration": "42m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Everything's Coming Up Lucifer",
+          "duration": "42m"
+        },
+        {
+          "title": "Liar, Liar, Slutty Dress on Fire",
+          "duration": "42m"
+        },
+        {
+          "title": "Sin-Eater",
+          "duration": "42m"
+        },
+        {
+          "title": "Lady Parts",
+          "duration": "40m"
+        },
+        {
+          "title": "Weaponizer",
+          "duration": "42m"
+        },
+        {
+          "title": "Monster",
+          "duration": "42m"
+        },
+        {
+          "title": "My Little Monkey",
+          "duration": "42m"
+        },
+        {
+          "title": "Trip to Stabby Town",
+          "duration": "42m"
+        },
+        {
+          "title": "Homewrecker",
+          "duration": "42m"
+        },
+        {
+          "title": "Quid Pro Ho",
+          "duration": "43m"
+        },
+        {
+          "title": "Stewardess Interruptus",
+          "duration": "43m"
+        },
+        {
+          "title": "Love Handles",
+          "duration": "42m"
+        },
+        {
+          "title": "A Good Day to Die",
+          "duration": "42m"
+        },
+        {
+          "title": "Candy Morningstar",
+          "duration": "42m"
+        },
+        {
+          "title": "Deceptive Little Parasite",
+          "duration": "42m"
+        },
+        {
+          "title": "God Johnson",
+          "duration": "42m"
+        },
+        {
+          "title": "Sympathy for the Goddess",
+          "duration": "42m"
+        },
+        {
+          "title": "The Good, the Bad and the Crispy",
+          "duration": "42m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "They're Back, Aren't They?",
+          "duration": "42m"
+        },
+        {
+          "title": "The One with the Baby Carrot",
+          "duration": "42m"
+        },
+        {
+          "title": "Mr. and Mrs. Mazikeen Smith",
+          "duration": "42m"
+        },
+        {
+          "title": "What Would Lucifer Do?",
+          "duration": "42m"
+        },
+        {
+          "title": "Welcome Back, Charlotte Richards",
+          "duration": "42m"
+        },
+        {
+          "title": "Vegas with Some Radish",
+          "duration": "42m"
+        },
+        {
+          "title": "Off the Record",
+          "duration": "42m"
+        },
+        {
+          "title": "Chloe Does Lucifer",
+          "duration": "42m"
+        },
+        {
+          "title": "The Sinnerman",
+          "duration": "42m"
+        },
+        {
+          "title": "The Sin Bin",
+          "duration": "42m"
+        },
+        {
+          "title": "City of Angels?",
+          "duration": "41m"
+        },
+        {
+          "title": "All About Her",
+          "duration": "42m"
+        },
+        {
+          "title": "Til Death Do Us Part",
+          "duration": "42m"
+        },
+        {
+          "title": "My Brother's Keeper",
+          "duration": "42m"
+        },
+        {
+          "title": "High School Poppycock",
+          "duration": "42m"
+        },
+        {
+          "title": "Infernal Guinea Pig",
+          "duration": "42m"
+        },
+        {
+          "title": "Let Pinhead Sing!",
+          "duration": "42m"
+        },
+        {
+          "title": "The Last Heartbreak",
+          "duration": "42m"
+        },
+        {
+          "title": "Orange Is the New Maze",
+          "duration": "42m"
+        },
+        {
+          "title": "The Angel of San Bernardino",
+          "duration": "42m"
+        },
+        {
+          "title": "Anything Pierce Can Do I Can Do Better",
+          "duration": "42m"
+        },
+        {
+          "title": "All Hands on Decker",
+          "duration": "42m"
+        },
+        {
+          "title": "Quintessential Deckerstar",
+          "duration": "42m"
+        },
+        {
+          "title": "A Devil of My Word",
+          "duration": "42m"
+        },
+        {
+          "title": "Boo Normal",
+          "duration": "42m"
+        },
+        {
+          "title": "Once Upon a Time",
+          "duration": "42m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Everything's Okay",
+          "duration": "48m"
+        },
+        {
+          "title": "Somebody's Been Reading Dante's Inferno",
+          "duration": "49m"
+        },
+        {
+          "title": "O, Ye of Little Faith, Father",
+          "duration": "49m"
+        },
+        {
+          "title": "All About Eve",
+          "duration": "48m"
+        },
+        {
+          "title": "Expire Erect",
+          "duration": "50m"
+        },
+        {
+          "title": "Orgy Pants to Work",
+          "duration": "50m"
+        },
+        {
+          "title": "Devil Is as Devil Does",
+          "duration": "48m"
+        },
+        {
+          "title": "Super Bad Boyfriend",
+          "duration": "51m"
+        },
+        {
+          "title": "Save Lucifer",
+          "duration": "50m"
+        },
+        {
+          "title": "Who's da New King of Hell?",
+          "duration": "55m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Really Sad Devil Guy",
+          "duration": "51m"
+        },
+        {
+          "title": "Lucifer! Lucifer! Lucifer!",
+          "duration": "57m"
+        },
+        {
+          "title": "¡Diablo!",
+          "duration": "54m"
+        },
+        {
+          "title": "It Never Ends Well for the Chicken",
+          "duration": "55m"
+        },
+        {
+          "title": "Detective Amenadiel",
+          "duration": "55m"
+        },
+        {
+          "title": "BlueBallz",
+          "duration": "56m"
+        },
+        {
+          "title": "Our Mojo",
+          "duration": "55m"
+        },
+        {
+          "title": "Spoiler Alert",
+          "duration": "61m"
+        },
+        {
+          "title": "Family Dinner",
+          "duration": "55m"
+        },
+        {
+          "title": "Bloody Celestial Karaoke Jam",
+          "duration": "60m"
+        },
+        {
+          "title": "Resting Devil Face",
+          "duration": "53m"
+        },
+        {
+          "title": "Daniel Espinoza: Naked and Afraid",
+          "duration": "58m"
+        },
+        {
+          "title": "A Little Harmless Stalking",
+          "duration": "60m"
+        },
+        {
+          "title": "Nothing Lasts Forever",
+          "duration": "59m"
+        },
+        {
+          "title": "Is This Really How It’s Going to End?!",
+          "duration": "62m"
+        },
+        {
+          "title": "A Chance at a Happy Ending",
+          "duration": "53m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Nothing Ever Changes Around Here",
+          "duration": "48m"
+        },
+        {
+          "title": "Buckets of Baggage",
+          "duration": "55m"
+        },
+        {
+          "title": "Yabba Dabba Do Me",
+          "duration": "45m"
+        },
+        {
+          "title": "Pin the Tail on the Daddy",
+          "duration": "44m"
+        },
+        {
+          "title": "The Murder of Lucifer Morningstar",
+          "duration": "47m"
+        },
+        {
+          "title": "A Lot Dirtier Than That",
+          "duration": "54m"
+        },
+        {
+          "title": "My Best Fiend's Wedding",
+          "duration": "58m"
+        },
+        {
+          "title": "Save the Devil, Save the World",
+          "duration": "55m"
+        },
+        {
+          "title": "Goodbye, Lucifer",
+          "duration": "65m"
+        },
+        {
+          "title": "Partners 'Til the End",
+          "duration": "53m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0436992",
+  "title": "Doctor Who",
+  "type": "series",
+  "release": 2005,
+  "duration": "13 Seasons",
+  "quality": "4K",
+  "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Jodie Whittaker",
+    "Mandip Gill",
+    "John Bishop"
+  ],
+  "director": "Sydney Newman, C. E. Webber, Donald Wilson",
+  "country": "GB",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/m6G92osOtSeXwjSfL21jZCUOvxe.jpg",
+  "trailer": "https://www.youtube.com/embed/2V_xYubUJFo",
+  "baseviews": "1.3M",
+  "popularity": 67,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Rose",
+          "duration": "47m"
+        },
+        {
+          "title": "The End of the World",
+          "duration": "47m"
+        },
+        {
+          "title": "The Unquiet Dead",
+          "duration": "47m"
+        },
+        {
+          "title": "Aliens of London (1)",
+          "duration": "45m"
+        },
+        {
+          "title": "World War Three (2)",
+          "duration": "43m"
+        },
+        {
+          "title": "Dalek",
+          "duration": "48m"
+        },
+        {
+          "title": "The Long Game",
+          "duration": "45m"
+        },
+        {
+          "title": "Father's Day",
+          "duration": "43m"
+        },
+        {
+          "title": "The Empty Child (1)",
+          "duration": "42m"
+        },
+        {
+          "title": "The Doctor Dances (2)",
+          "duration": "43m"
+        },
+        {
+          "title": "Boom Town",
+          "duration": "43m"
+        },
+        {
+          "title": "Bad Wolf (1)",
+          "duration": "43m"
+        },
+        {
+          "title": "The Parting of the Ways (2)",
+          "duration": "48m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "New Earth",
+          "duration": "47m"
+        },
+        {
+          "title": "Tooth and Claw",
+          "duration": "47m"
+        },
+        {
+          "title": "School Reunion",
+          "duration": "47m"
+        },
+        {
+          "title": "The Girl in the Fireplace",
+          "duration": "47m"
+        },
+        {
+          "title": "Rise of the Cybermen (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Age of Steel (2)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Idiot's Lantern",
+          "duration": "48m"
+        },
+        {
+          "title": "The Impossible Planet (1)",
+          "duration": "48m"
+        },
+        {
+          "title": "The Satan Pit (2)",
+          "duration": "50m"
+        },
+        {
+          "title": "Love & Monsters",
+          "duration": "48m"
+        },
+        {
+          "title": "Fear Her",
+          "duration": "47m"
+        },
+        {
+          "title": "Army of Ghosts (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "Doomsday (2)",
+          "duration": "49m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Smith and Jones",
+          "duration": "47m"
+        },
+        {
+          "title": "The Shakespeare Code",
+          "duration": "48m"
+        },
+        {
+          "title": "Gridlock",
+          "duration": "48m"
+        },
+        {
+          "title": "Daleks in Manhattan (1)",
+          "duration": "50m"
+        },
+        {
+          "title": "Evolution of the Daleks (2)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Lazarus Experiment",
+          "duration": "46m"
+        },
+        {
+          "title": "42",
+          "duration": "48m"
+        },
+        {
+          "title": "Human Nature (1)",
+          "duration": "48m"
+        },
+        {
+          "title": "The Family of Blood (2)",
+          "duration": "46m"
+        },
+        {
+          "title": "Blink",
+          "duration": "46m"
+        },
+        {
+          "title": "Utopia (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Sound of Drums (2)",
+          "duration": "52m"
+        },
+        {
+          "title": "Last of the Time Lords (3)",
+          "duration": "49m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Partners in Crime",
+          "duration": "51m"
+        },
+        {
+          "title": "The Fires of Pompeii",
+          "duration": "51m"
+        },
+        {
+          "title": "Planet of the Ood",
+          "duration": "46m"
+        },
+        {
+          "title": "The Sontaran Stratagem (1)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Poison Sky (2)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Doctor's Daughter",
+          "duration": "48m"
+        },
+        {
+          "title": "The Unicorn and the Wasp",
+          "duration": "47m"
+        },
+        {
+          "title": "Silence in the Library (1)",
+          "duration": "45m"
+        },
+        {
+          "title": "Forest of the Dead (2)",
+          "duration": "48m"
+        },
+        {
+          "title": "Midnight",
+          "duration": "46m"
+        },
+        {
+          "title": "Turn Left",
+          "duration": "52m"
+        },
+        {
+          "title": "The Stolen Earth (1)",
+          "duration": "48m"
+        },
+        {
+          "title": "Journey's End (2)",
+          "duration": "66m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Eleventh Hour",
+          "duration": "65m"
+        },
+        {
+          "title": "The Beast Below",
+          "duration": "42m"
+        },
+        {
+          "title": "Victory of the Daleks",
+          "duration": "42m"
+        },
+        {
+          "title": "The Time of Angels (1)",
+          "duration": "42m"
+        },
+        {
+          "title": "Flesh and Stone (2)",
+          "duration": "43m"
+        },
+        {
+          "title": "The Vampires of Venice",
+          "duration": "49m"
+        },
+        {
+          "title": "Amy's Choice",
+          "duration": "45m"
+        },
+        {
+          "title": "The Hungry Earth (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "Cold Blood (2)",
+          "duration": "46m"
+        },
+        {
+          "title": "Vincent and the Doctor",
+          "duration": "47m"
+        },
+        {
+          "title": "The Lodger",
+          "duration": "43m"
+        },
+        {
+          "title": "The Pandorica Opens (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Big Bang (2)",
+          "duration": "54m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Impossible Astronaut (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "Day of the Moon (2)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Curse of the Black Spot",
+          "duration": "46m"
+        },
+        {
+          "title": "The Doctor's Wife",
+          "duration": "47m"
+        },
+        {
+          "title": "The Rebel Flesh (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "The Almost People (2)",
+          "duration": "46m"
+        },
+        {
+          "title": "A Good Man Goes to War (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "Let's Kill Hitler (2)",
+          "duration": "49m"
+        },
+        {
+          "title": "Night Terrors",
+          "duration": "44m"
+        },
+        {
+          "title": "The Girl Who Waited",
+          "duration": "47m"
+        },
+        {
+          "title": "The God Complex",
+          "duration": "49m"
+        },
+        {
+          "title": "Closing Time",
+          "duration": "46m"
+        },
+        {
+          "title": "The Wedding of River Song",
+          "duration": "46m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Asylum of the Daleks",
+          "duration": "49m"
+        },
+        {
+          "title": "Dinosaurs on a Spaceship",
+          "duration": "46m"
+        },
+        {
+          "title": "A Town Called Mercy",
+          "duration": "45m"
+        },
+        {
+          "title": "The Power of Three",
+          "duration": "42m"
+        },
+        {
+          "title": "The Angels Take Manhattan",
+          "duration": "45m"
+        },
+        {
+          "title": "The Bells of Saint John",
+          "duration": "45m"
+        },
+        {
+          "title": "The Rings of Akhaten",
+          "duration": "46m"
+        },
+        {
+          "title": "Cold War",
+          "duration": "42m"
+        },
+        {
+          "title": "Hide",
+          "duration": "45m"
+        },
+        {
+          "title": "Journey to the Centre of the TARDIS",
+          "duration": "45m"
+        },
+        {
+          "title": "The Crimson Horror",
+          "duration": "45m"
+        },
+        {
+          "title": "Nightmare in Silver",
+          "duration": "45m"
+        },
+        {
+          "title": "The Name of the Doctor",
+          "duration": "45m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Deep Breath",
+          "duration": "77m"
+        },
+        {
+          "title": "Into the Dalek",
+          "duration": "47m"
+        },
+        {
+          "title": "Robot of Sherwood",
+          "duration": "47m"
+        },
+        {
+          "title": "Listen",
+          "duration": "48m"
+        },
+        {
+          "title": "Time Heist",
+          "duration": "45m"
+        },
+        {
+          "title": "The Caretaker",
+          "duration": "45m"
+        },
+        {
+          "title": "Kill the Moon",
+          "duration": "45m"
+        },
+        {
+          "title": "Mummy on the Orient Express",
+          "duration": "47m"
+        },
+        {
+          "title": "Flatline",
+          "duration": "43m"
+        },
+        {
+          "title": "In the Forest of the Night",
+          "duration": "45m"
+        },
+        {
+          "title": "Dark Water (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "Death in Heaven (2)",
+          "duration": "57m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Magician's Apprentice (1)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Witch's Familiar (2)",
+          "duration": "48m"
+        },
+        {
+          "title": "Under the Lake (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "Before the Flood (2)",
+          "duration": "43m"
+        },
+        {
+          "title": "The Girl Who Died (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "The Woman Who Lived (2)",
+          "duration": "46m"
+        },
+        {
+          "title": "The Zygon Invasion (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "The Zygon Inversion (2)",
+          "duration": "47m"
+        },
+        {
+          "title": "Sleep No More",
+          "duration": "46m"
+        },
+        {
+          "title": "Face the Raven",
+          "duration": "47m"
+        },
+        {
+          "title": "Heaven Sent (1)",
+          "duration": "55m"
+        },
+        {
+          "title": "Hell Bent (2)",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Pilot",
+          "duration": "50m"
+        },
+        {
+          "title": "Smile",
+          "duration": "46m"
+        },
+        {
+          "title": "Thin Ice",
+          "duration": "44m"
+        },
+        {
+          "title": "Knock Knock",
+          "duration": "45m"
+        },
+        {
+          "title": "Oxygen",
+          "duration": "45m"
+        },
+        {
+          "title": "Extremis (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Pyramid at the End of the World (2)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Lie of the Land (3)",
+          "duration": "45m"
+        },
+        {
+          "title": "Empress of Mars",
+          "duration": "44m"
+        },
+        {
+          "title": "The Eaters of Light",
+          "duration": "42m"
+        },
+        {
+          "title": "World Enough and Time (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "The Doctor Falls (2)",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Woman Who Fell to Earth",
+          "duration": "63m"
+        },
+        {
+          "title": "The Ghost Monument",
+          "duration": "49m"
+        },
+        {
+          "title": "Rosa",
+          "duration": "50m"
+        },
+        {
+          "title": "Arachnids in the UK",
+          "duration": "50m"
+        },
+        {
+          "title": "The Tsuranga Conundrum",
+          "duration": "51m"
+        },
+        {
+          "title": "Demons of the Punjab",
+          "duration": "51m"
+        },
+        {
+          "title": "Kerblam!",
+          "duration": "49m"
+        },
+        {
+          "title": "The Witchfinders",
+          "duration": "47m"
+        },
+        {
+          "title": "It Takes You Away",
+          "duration": "50m"
+        },
+        {
+          "title": "The Battle of Ranskoor Av Kolos",
+          "duration": "50m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Spyfall (1)",
+          "duration": "60m"
+        },
+        {
+          "title": "Spyfall (2)",
+          "duration": "61m"
+        },
+        {
+          "title": "Orphan 55",
+          "duration": "47m"
+        },
+        {
+          "title": "Nikola Tesla's Night of Terror",
+          "duration": "51m"
+        },
+        {
+          "title": "Fugitive of the Judoon",
+          "duration": "50m"
+        },
+        {
+          "title": "Praxeus",
+          "duration": "50m"
+        },
+        {
+          "title": "Can You Hear Me?",
+          "duration": "50m"
+        },
+        {
+          "title": "The Haunting of Villa Diodati",
+          "duration": "50m"
+        },
+        {
+          "title": "Ascension of the Cybermen (1)",
+          "duration": "50m"
+        },
+        {
+          "title": "The Timeless Children (2)",
+          "duration": "66m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Halloween Apocalypse",
+          "duration": "51m"
+        },
+        {
+          "title": "War of the Sontarans",
+          "duration": "60m"
+        },
+        {
+          "title": "Once, Upon Time",
+          "duration": "50m"
+        },
+        {
+          "title": "Village of the Angels",
+          "duration": "57m"
+        },
+        {
+          "title": "Survivors of the Flux",
+          "duration": "51m"
+        },
+        {
+          "title": "The Vanquishers",
+          "duration": "60m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0436992",
+  "title": "Doctor Who",
+  "type": "series",
+  "release": 2005,
+  "duration": "13 Seasons",
+  "quality": "4K",
+  "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Jodie Whittaker",
+    "Mandip Gill",
+    "John Bishop"
+  ],
+  "director": "Sydney Newman, C. E. Webber, Donald Wilson",
+  "country": "GB",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/m6G92osOtSeXwjSfL21jZCUOvxe.jpg",
+  "trailer": "https://www.youtube.com/embed/2V_xYubUJFo",
+  "baseviews": "1.3M",
+  "popularity": 73,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Rose",
+          "duration": "47m"
+        },
+        {
+          "title": "The End of the World",
+          "duration": "47m"
+        },
+        {
+          "title": "The Unquiet Dead",
+          "duration": "47m"
+        },
+        {
+          "title": "Aliens of London (1)",
+          "duration": "45m"
+        },
+        {
+          "title": "World War Three (2)",
+          "duration": "43m"
+        },
+        {
+          "title": "Dalek",
+          "duration": "48m"
+        },
+        {
+          "title": "The Long Game",
+          "duration": "45m"
+        },
+        {
+          "title": "Father's Day",
+          "duration": "43m"
+        },
+        {
+          "title": "The Empty Child (1)",
+          "duration": "42m"
+        },
+        {
+          "title": "The Doctor Dances (2)",
+          "duration": "43m"
+        },
+        {
+          "title": "Boom Town",
+          "duration": "43m"
+        },
+        {
+          "title": "Bad Wolf (1)",
+          "duration": "43m"
+        },
+        {
+          "title": "The Parting of the Ways (2)",
+          "duration": "48m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "New Earth",
+          "duration": "47m"
+        },
+        {
+          "title": "Tooth and Claw",
+          "duration": "47m"
+        },
+        {
+          "title": "School Reunion",
+          "duration": "47m"
+        },
+        {
+          "title": "The Girl in the Fireplace",
+          "duration": "47m"
+        },
+        {
+          "title": "Rise of the Cybermen (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Age of Steel (2)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Idiot's Lantern",
+          "duration": "48m"
+        },
+        {
+          "title": "The Impossible Planet (1)",
+          "duration": "48m"
+        },
+        {
+          "title": "The Satan Pit (2)",
+          "duration": "50m"
+        },
+        {
+          "title": "Love & Monsters",
+          "duration": "48m"
+        },
+        {
+          "title": "Fear Her",
+          "duration": "47m"
+        },
+        {
+          "title": "Army of Ghosts (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "Doomsday (2)",
+          "duration": "49m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Smith and Jones",
+          "duration": "47m"
+        },
+        {
+          "title": "The Shakespeare Code",
+          "duration": "48m"
+        },
+        {
+          "title": "Gridlock",
+          "duration": "48m"
+        },
+        {
+          "title": "Daleks in Manhattan (1)",
+          "duration": "50m"
+        },
+        {
+          "title": "Evolution of the Daleks (2)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Lazarus Experiment",
+          "duration": "46m"
+        },
+        {
+          "title": "42",
+          "duration": "48m"
+        },
+        {
+          "title": "Human Nature (1)",
+          "duration": "48m"
+        },
+        {
+          "title": "The Family of Blood (2)",
+          "duration": "46m"
+        },
+        {
+          "title": "Blink",
+          "duration": "46m"
+        },
+        {
+          "title": "Utopia (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Sound of Drums (2)",
+          "duration": "52m"
+        },
+        {
+          "title": "Last of the Time Lords (3)",
+          "duration": "49m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Partners in Crime",
+          "duration": "51m"
+        },
+        {
+          "title": "The Fires of Pompeii",
+          "duration": "51m"
+        },
+        {
+          "title": "Planet of the Ood",
+          "duration": "46m"
+        },
+        {
+          "title": "The Sontaran Stratagem (1)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Poison Sky (2)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Doctor's Daughter",
+          "duration": "48m"
+        },
+        {
+          "title": "The Unicorn and the Wasp",
+          "duration": "47m"
+        },
+        {
+          "title": "Silence in the Library (1)",
+          "duration": "45m"
+        },
+        {
+          "title": "Forest of the Dead (2)",
+          "duration": "48m"
+        },
+        {
+          "title": "Midnight",
+          "duration": "46m"
+        },
+        {
+          "title": "Turn Left",
+          "duration": "52m"
+        },
+        {
+          "title": "The Stolen Earth (1)",
+          "duration": "48m"
+        },
+        {
+          "title": "Journey's End (2)",
+          "duration": "66m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Eleventh Hour",
+          "duration": "65m"
+        },
+        {
+          "title": "The Beast Below",
+          "duration": "42m"
+        },
+        {
+          "title": "Victory of the Daleks",
+          "duration": "42m"
+        },
+        {
+          "title": "The Time of Angels (1)",
+          "duration": "42m"
+        },
+        {
+          "title": "Flesh and Stone (2)",
+          "duration": "43m"
+        },
+        {
+          "title": "The Vampires of Venice",
+          "duration": "49m"
+        },
+        {
+          "title": "Amy's Choice",
+          "duration": "45m"
+        },
+        {
+          "title": "The Hungry Earth (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "Cold Blood (2)",
+          "duration": "46m"
+        },
+        {
+          "title": "Vincent and the Doctor",
+          "duration": "47m"
+        },
+        {
+          "title": "The Lodger",
+          "duration": "43m"
+        },
+        {
+          "title": "The Pandorica Opens (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Big Bang (2)",
+          "duration": "54m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Impossible Astronaut (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "Day of the Moon (2)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Curse of the Black Spot",
+          "duration": "46m"
+        },
+        {
+          "title": "The Doctor's Wife",
+          "duration": "47m"
+        },
+        {
+          "title": "The Rebel Flesh (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "The Almost People (2)",
+          "duration": "46m"
+        },
+        {
+          "title": "A Good Man Goes to War (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "Let's Kill Hitler (2)",
+          "duration": "49m"
+        },
+        {
+          "title": "Night Terrors",
+          "duration": "44m"
+        },
+        {
+          "title": "The Girl Who Waited",
+          "duration": "47m"
+        },
+        {
+          "title": "The God Complex",
+          "duration": "49m"
+        },
+        {
+          "title": "Closing Time",
+          "duration": "46m"
+        },
+        {
+          "title": "The Wedding of River Song",
+          "duration": "46m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Asylum of the Daleks",
+          "duration": "49m"
+        },
+        {
+          "title": "Dinosaurs on a Spaceship",
+          "duration": "46m"
+        },
+        {
+          "title": "A Town Called Mercy",
+          "duration": "45m"
+        },
+        {
+          "title": "The Power of Three",
+          "duration": "42m"
+        },
+        {
+          "title": "The Angels Take Manhattan",
+          "duration": "45m"
+        },
+        {
+          "title": "The Bells of Saint John",
+          "duration": "45m"
+        },
+        {
+          "title": "The Rings of Akhaten",
+          "duration": "46m"
+        },
+        {
+          "title": "Cold War",
+          "duration": "42m"
+        },
+        {
+          "title": "Hide",
+          "duration": "45m"
+        },
+        {
+          "title": "Journey to the Centre of the TARDIS",
+          "duration": "45m"
+        },
+        {
+          "title": "The Crimson Horror",
+          "duration": "45m"
+        },
+        {
+          "title": "Nightmare in Silver",
+          "duration": "45m"
+        },
+        {
+          "title": "The Name of the Doctor",
+          "duration": "45m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Deep Breath",
+          "duration": "77m"
+        },
+        {
+          "title": "Into the Dalek",
+          "duration": "47m"
+        },
+        {
+          "title": "Robot of Sherwood",
+          "duration": "47m"
+        },
+        {
+          "title": "Listen",
+          "duration": "48m"
+        },
+        {
+          "title": "Time Heist",
+          "duration": "45m"
+        },
+        {
+          "title": "The Caretaker",
+          "duration": "45m"
+        },
+        {
+          "title": "Kill the Moon",
+          "duration": "45m"
+        },
+        {
+          "title": "Mummy on the Orient Express",
+          "duration": "47m"
+        },
+        {
+          "title": "Flatline",
+          "duration": "43m"
+        },
+        {
+          "title": "In the Forest of the Night",
+          "duration": "45m"
+        },
+        {
+          "title": "Dark Water (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "Death in Heaven (2)",
+          "duration": "57m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Magician's Apprentice (1)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Witch's Familiar (2)",
+          "duration": "48m"
+        },
+        {
+          "title": "Under the Lake (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "Before the Flood (2)",
+          "duration": "43m"
+        },
+        {
+          "title": "The Girl Who Died (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "The Woman Who Lived (2)",
+          "duration": "46m"
+        },
+        {
+          "title": "The Zygon Invasion (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "The Zygon Inversion (2)",
+          "duration": "47m"
+        },
+        {
+          "title": "Sleep No More",
+          "duration": "46m"
+        },
+        {
+          "title": "Face the Raven",
+          "duration": "47m"
+        },
+        {
+          "title": "Heaven Sent (1)",
+          "duration": "55m"
+        },
+        {
+          "title": "Hell Bent (2)",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Pilot",
+          "duration": "50m"
+        },
+        {
+          "title": "Smile",
+          "duration": "46m"
+        },
+        {
+          "title": "Thin Ice",
+          "duration": "44m"
+        },
+        {
+          "title": "Knock Knock",
+          "duration": "45m"
+        },
+        {
+          "title": "Oxygen",
+          "duration": "45m"
+        },
+        {
+          "title": "Extremis (1)",
+          "duration": "49m"
+        },
+        {
+          "title": "The Pyramid at the End of the World (2)",
+          "duration": "47m"
+        },
+        {
+          "title": "The Lie of the Land (3)",
+          "duration": "45m"
+        },
+        {
+          "title": "Empress of Mars",
+          "duration": "44m"
+        },
+        {
+          "title": "The Eaters of Light",
+          "duration": "42m"
+        },
+        {
+          "title": "World Enough and Time (1)",
+          "duration": "46m"
+        },
+        {
+          "title": "The Doctor Falls (2)",
+          "duration": "61m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Woman Who Fell to Earth",
+          "duration": "63m"
+        },
+        {
+          "title": "The Ghost Monument",
+          "duration": "49m"
+        },
+        {
+          "title": "Rosa",
+          "duration": "50m"
+        },
+        {
+          "title": "Arachnids in the UK",
+          "duration": "50m"
+        },
+        {
+          "title": "The Tsuranga Conundrum",
+          "duration": "51m"
+        },
+        {
+          "title": "Demons of the Punjab",
+          "duration": "51m"
+        },
+        {
+          "title": "Kerblam!",
+          "duration": "49m"
+        },
+        {
+          "title": "The Witchfinders",
+          "duration": "47m"
+        },
+        {
+          "title": "It Takes You Away",
+          "duration": "50m"
+        },
+        {
+          "title": "The Battle of Ranskoor Av Kolos",
+          "duration": "50m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Spyfall (1)",
+          "duration": "60m"
+        },
+        {
+          "title": "Spyfall (2)",
+          "duration": "61m"
+        },
+        {
+          "title": "Orphan 55",
+          "duration": "47m"
+        },
+        {
+          "title": "Nikola Tesla's Night of Terror",
+          "duration": "51m"
+        },
+        {
+          "title": "Fugitive of the Judoon",
+          "duration": "50m"
+        },
+        {
+          "title": "Praxeus",
+          "duration": "50m"
+        },
+        {
+          "title": "Can You Hear Me?",
+          "duration": "50m"
+        },
+        {
+          "title": "The Haunting of Villa Diodati",
+          "duration": "50m"
+        },
+        {
+          "title": "Ascension of the Cybermen (1)",
+          "duration": "50m"
+        },
+        {
+          "title": "The Timeless Children (2)",
+          "duration": "66m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Halloween Apocalypse",
+          "duration": "51m"
+        },
+        {
+          "title": "War of the Sontarans",
+          "duration": "60m"
+        },
+        {
+          "title": "Once, Upon Time",
+          "duration": "50m"
+        },
+        {
+          "title": "Village of the Angels",
+          "duration": "57m"
+        },
+        {
+          "title": "Survivors of the Flux",
+          "duration": "51m"
+        },
+        {
+          "title": "The Vanquishers",
+          "duration": "60m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt31433814",
+  "title": "Doctor Who",
+  "type": "series",
+  "release": 2024,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "The Doctor and his companion travel across time and space encountering incredible friends and foes.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Ncuti Gatwa",
+    "Varada Sethu"
+  ],
+  "director": "N/A",
+  "country": "GB",
+  "rating": "6.4",
+  "poster": "https://image.tmdb.org/t/p/w500/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
+  "trailer": "https://www.youtube.com/embed/pAwebgSJ60k",
+  "baseviews": "1.3M",
+  "popularity": 77,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Space Babies",
+          "duration": "46m"
+        },
+        {
+          "title": "The Devil's Chord",
+          "duration": "49m"
+        },
+        {
+          "title": "Boom",
+          "duration": "44m"
+        },
+        {
+          "title": "73 Yards",
+          "duration": "47m"
+        },
+        {
+          "title": "Dot and Bubble",
+          "duration": "43m"
+        },
+        {
+          "title": "Rogue",
+          "duration": "44m"
+        },
+        {
+          "title": "The Legend of Ruby Sunday (1)",
+          "duration": "45m"
+        },
+        {
+          "title": "Empire of Death (2)",
+          "duration": "56m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Robot Revolution",
+          "duration": "46m"
+        },
+        {
+          "title": "Lux",
+          "duration": "43m"
+        },
+        {
+          "title": "The Well",
+          "duration": "47m"
+        },
+        {
+          "title": "Lucky Day",
+          "duration": "45m"
+        },
+        {
+          "title": "The Story & the Engine",
+          "duration": "47m"
+        },
+        {
+          "title": "The Interstellar Song Contest",
+          "duration": "47m"
+        },
+        {
+          "title": "Wish World (1)",
+          "duration": "44m"
+        },
+        {
+          "title": "The Reality War (2)",
+          "duration": "66m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt5622316",
+  "title": "The Chosen",
+  "type": "series",
+  "release": 2019,
+  "duration": "6 Seasons",
+  "quality": "4K",
+  "description": "The life of Christ through the eyes of those who encountered him.",
+  "genre": [
+    "Action & Adventure",
+    "Family",
+    "Drama"
+  ],
+  "actors": [
+    "Jonathan Roumie",
+    "Shahar Isaac",
+    "Elizabeth Tabish",
+    "Paras Patel",
+    "Noah James"
+  ],
+  "director": "Dallas Jenkins",
+  "country": "US",
+  "rating": "8.7",
+  "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+  "trailer": "https://www.youtube.com/embed/5CVj41dtkIA",
+  "baseviews": "1.3M",
+  "popularity": 66,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "I Have Called You by Name",
+          "duration": "55m"
+        },
+        {
+          "title": "Shabbat",
+          "duration": "38m"
+        },
+        {
+          "title": "Jesus Loves the Little Children",
+          "duration": "29m"
+        },
+        {
+          "title": "The Rock on Which it is Built",
+          "duration": "47m"
+        },
+        {
+          "title": "The Wedding Gift",
+          "duration": "53m"
+        },
+        {
+          "title": "Indescribable Compassion",
+          "duration": "50m"
+        },
+        {
+          "title": "Invitations",
+          "duration": "36m"
+        },
+        {
+          "title": "I Am He",
+          "duration": "56m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Thunder",
+          "duration": "65m"
+        },
+        {
+          "title": "I Saw You",
+          "duration": "53m"
+        },
+        {
+          "title": "Matthew 4:24",
+          "duration": "36m"
+        },
+        {
+          "title": "The Perfect Opportunity",
+          "duration": "59m"
+        },
+        {
+          "title": "Spirit",
+          "duration": "48m"
+        },
+        {
+          "title": "Unlawful",
+          "duration": "45m"
+        },
+        {
+          "title": "Reckoning",
+          "duration": "43m"
+        },
+        {
+          "title": "Beyond Mountains",
+          "duration": "56m"
+        },
+        {
+          "title": "Christmas with The Chosen: The Messengers",
+          "duration": "38m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Homecoming",
+          "duration": "61m"
+        },
+        {
+          "title": "Two by Two",
+          "duration": "70m"
+        },
+        {
+          "title": "Physician, Heal Yourself",
+          "duration": "53m"
+        },
+        {
+          "title": "Clean, Part 1",
+          "duration": "59m"
+        },
+        {
+          "title": "Clean, Part 2",
+          "duration": "56m"
+        },
+        {
+          "title": "Intensity in Tent City",
+          "duration": "72m"
+        },
+        {
+          "title": "Ears to Hear",
+          "duration": "64m"
+        },
+        {
+          "title": "Sustenance",
+          "duration": "99m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Promises",
+          "duration": "57m"
+        },
+        {
+          "title": "Confessions",
+          "duration": "81m"
+        },
+        {
+          "title": "Moon to Blood",
+          "duration": "58m"
+        },
+        {
+          "title": "Calm Before",
+          "duration": "66m"
+        },
+        {
+          "title": "Sitting, Serving, Scheming",
+          "duration": "68m"
+        },
+        {
+          "title": "Dedication",
+          "duration": "65m"
+        },
+        {
+          "title": "The Last Sign",
+          "duration": "74m"
+        },
+        {
+          "title": "Humble",
+          "duration": "85m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Entry",
+          "duration": "63m"
+        },
+        {
+          "title": "House of Cards",
+          "duration": "51m"
+        },
+        {
+          "title": "Woes",
+          "duration": "59m"
+        },
+        {
+          "title": "The Same Coin",
+          "duration": "55m"
+        },
+        {
+          "title": "Because of Me",
+          "duration": "47m"
+        },
+        {
+          "title": "Reunions",
+          "duration": "60m"
+        },
+        {
+          "title": "The Upper Room (1)",
+          "duration": "62m"
+        },
+        {
+          "title": "The Upper Room (2)",
+          "duration": "66m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "45m"
+        },
+        {
+          "title": "Crucifixion",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt0335345",
+  "title": "The Passion of the Christ",
+  "type": "movie",
+  "release": 2004,
+  "duration": "127 min",
+  "quality": "HD",
+  "description": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Jim Caviezel",
+    "Maia Morgenstern",
+    "Christo Jivkov",
+    "Francesco De Vito",
+    "Monica Bellucci"
+  ],
+  "director": "Mel Gibson",
+  "country": "United States of America",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+  "trailer": "https://www.youtube.com/embed/4Aif1qEB_JU",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+{
+  "imdb": "tt2351310",
+  "title": "The Flu",
+  "type": "movie",
+  "release": 2013,
+  "duration": "122 min",
+  "quality": "HD",
+  "description": "A case of the flu quickly morphs into a pandemic. As the death toll mounts and the living panic, the government plans extreme measures to contain it.",
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "actors": [
+    "Jang Hyuk",
+    "Soo Ae",
+    "Park Min-ha",
+    "Yoo Hai-jin",
+    "Don Lee"
+  ],
+  "director": "Kim Sung-soo",
+  "country": "South Korea",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/mvTXhTddHIZbOU9pmrcPODI1kRx.jpg",
+  "trailer": "https://www.youtube.com/embed/1BvKZMg2LjU",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt17677434",
+  "title": "Rich Flu",
+  "type": "movie",
+  "release": 2024,
+  "duration": "116 min",
+  "quality": "HD",
+  "description": "A strange disease kills off some of the richest and most influential people on the planet. First it was the billionaires, then the multi-millionaires and so on progressively... Then it threatens to strike anyone with any sort of fortune. With the whole world panicking, people try to flood the market with assets the world no longer wants.",
+  "genre": [
+    "Thriller",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Mary Elizabeth Winstead",
+    "Rafe Spall",
+    "Lorraine Bracco",
+    "Dixie Egerickx",
+    "César Domboy"
+  ],
+  "director": "Galder Gaztelu-Urrutia",
+  "country": "Spain, Chile",
+  "rating": "5.4",
+  "poster": "https://image.tmdb.org/t/p/w500/fKmn4SrS41loy8gMzyxups69Xof.jpg",
+  "trailer": "https://www.youtube.com/embed/kJ_4XQiC4lg",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt1790864",
+  "title": "The Maze Runner",
+  "type": "movie",
+  "release": 2014,
+  "duration": "113 min",
+  "quality": "HD",
+  "description": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+  "genre": [
+    "Action",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "actors": [
+    "Dylan O'Brien",
+    "Kaya Scodelario",
+    "Thomas Brodie-Sangster",
+    "Ki Hong Lee",
+    "Will Poulter"
+  ],
+  "director": "Wes Ball",
+  "country": "United States of America, United Kingdom",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+  "trailer": "https://www.youtube.com/embed/3b946aGm0zs",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt4046784",
+  "title": "Maze Runner: The Scorch Trials",
+  "type": "movie",
+  "release": 2015,
+  "duration": "131 min",
+  "quality": "HD",
+  "description": "Thomas and his fellow Gladers face their greatest challenge yet: searching for clues about the mysterious and powerful organization known as WCKD. Their journey takes them to the Scorch, a desolate landscape filled with unimaginable obstacles. Teaming up with resistance fighters, the Gladers take on WCKD’s vastly superior forces and uncover its shocking plans for them all.",
+  "genre": [
+    "Science Fiction",
+    "Action",
+    "Thriller",
+    "Adventure"
+  ],
+  "actors": [
+    "Dylan O'Brien",
+    "Kaya Scodelario",
+    "Thomas Brodie-Sangster",
+    "Giancarlo Esposito",
+    "Ki Hong Lee"
+  ],
+  "director": "Wes Ball",
+  "country": "United States of America",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+  "trailer": "https://www.youtube.com/embed/SDofO3P2HpE",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt4500922",
+  "title": "Maze Runner: The Death Cure",
+  "type": "movie",
+  "release": 2018,
+  "duration": "143 min",
+  "quality": "HD",
+  "description": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+  "genre": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "actors": [
+    "Dylan O'Brien",
+    "Kaya Scodelario",
+    "Thomas Brodie-Sangster",
+    "Ki Hong Lee",
+    "Dexter Darden"
+  ],
+  "director": "Wes Ball",
+  "country": "United States of America",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg",
+  "trailer": "https://www.youtube.com/embed/Ww1GiTIJF_Y",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt32093575",
+  "title": "Scary Movie",
+  "type": "movie",
+  "release": 2026,
+  "duration": "96 min",
+  "quality": "HD",
+  "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Marlon Wayans",
+    "Shawn Wayans",
+    "Anna Faris",
+    "Regina Hall",
+    "Damon Wayans Jr."
+  ],
+  "director": "Michael Tiddes",
+  "country": "United States of America",
+  "rating": "5.7",
+  "poster": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
+  "trailer": "https://www.youtube.com/embed/cGgWAHXuTKc",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt15047880",
+  "title": "Disclosure Day",
+  "type": "movie",
+  "release": 2026,
+  "duration": "145 min",
+  "quality": "HD",
+  "description": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "actors": [
+    "Emily Blunt",
+    "Josh O'Connor",
+    "Colin Firth",
+    "Colman Domingo",
+    "Eve Hewson"
+  ],
+  "director": "Steven Spielberg",
+  "country": "United States of America",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+  "trailer": "https://www.youtube.com/embed/icDuEHSxE-w",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt35672862",
+  "title": "Hokum",
+  "type": "movie",
+  "release": 2026,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+  "genre": [
+    "Horror"
+  ],
+  "actors": [
+    "Adam Scott",
+    "Peter Coonan",
+    "David Wilmot",
+    "Florence Ordesh",
+    "Will O'Connell"
+  ],
+  "director": "Damian McCarthy",
+  "country": "United States of America, Ireland, United Arab Emirates, Hong Kong",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+  "trailer": "https://www.youtube.com/embed/qU_i5e48KzQ",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt34611082",
+  "title": "Ladies First",
+  "type": "movie",
+  "release": 2026,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "actors": [
+    "Sacha Baron Cohen",
+    "Rosamund Pike",
+    "Tom Davis",
+    "Emily Mortimer",
+    "Weruche Opia"
+  ],
+  "director": "Thea Sharrock",
+  "country": "United States of America",
+  "rating": "6.0",
+  "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+  "trailer": "https://www.youtube.com/embed/yeetI2DfbaE",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt27681354",
+  "title": "In the Grey",
+  "type": "movie",
+  "release": 2026,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "actors": [
+    "Henry Cavill",
+    "Jake Gyllenhaal",
+    "Eiza González",
+    "Carlos Bardem",
+    "Michael Vu"
+  ],
+  "director": "Guy Ritchie",
+  "country": "United Kingdom, United States of America",
+  "rating": "6.6",
+  "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+  "trailer": "https://www.youtube.com/embed/nufP15iN4GE",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
   {
   "imdb": "tt37287335",
   "title": "Obsession",
