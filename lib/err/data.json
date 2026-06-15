@@ -1,6 +1,435 @@
 {
   "movies": [
     {
+  "imdb": "tt34809853",
+  "title": "Teach You a Lesson",
+  "type": "series",
+  "release": 2026,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Kim Moo-yul",
+    "Lee Sung-min",
+    "Jin Ki-joo",
+    "Pyo Ji-hoon"
+  ],
+  "director": "Hong Jong-chan, Lee Nam-kyu, Kim Da-hee",
+  "country": "KR",
+  "rating": "9.4",
+  "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+  "trailer": "https://www.youtube.com/embed/LdezlX84py0",
+  "baseviews": "1.3M",
+  "popularity": 73,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "52m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "57m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "72m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "69m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "64m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "60m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "67m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "61m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt31227572",
+  "title": "Predator: Badlands",
+  "type": "movie",
+  "release": 2025,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "actors": [
+    "Elle Fanning",
+    "Dimitrius Schuster-Koloamatangi",
+    "Ravi Narayan",
+    "Michael Homick",
+    "Stefan Grube"
+  ],
+  "director": "Dan Trachtenberg",
+  "country": "United States of America",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+  "trailer": "https://www.youtube.com/embed/LkBqjfg8TGM",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt3829266",
+  "title": "The Predator",
+  "type": "movie",
+  "release": 2018,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+  "genre": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+  ],
+  "actors": [
+    "Boyd Holbrook",
+    "Trevante Rhodes",
+    "Sterling K. Brown",
+    "Jacob Tremblay",
+    "Keegan-Michael Key"
+  ],
+  "director": "Shane Black",
+  "country": "United States of America",
+  "rating": "5.6",
+  "poster": "https://image.tmdb.org/t/p/w500/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg",
+  "trailer": "https://www.youtube.com/embed/50_Ala5BKBo",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt0100403",
+  "title": "Predator 2",
+  "type": "movie",
+  "release": 1990,
+  "duration": "108 min",
+  "quality": "HD",
+  "description": "A police chief in the war-torn streets of Los Angeles discovers that an extraterrestrial creature is hunting down residents - and that he is the next target.",
+  "genre": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+  ],
+  "actors": [
+    "Danny Glover",
+    "Gary Busey",
+    "Rubén Blades",
+    "María Conchita Alonso",
+    "Bill Paxton"
+  ],
+  "director": "Stephen Hopkins",
+  "country": "United States of America",
+  "rating": "6.3",
+  "poster": "https://image.tmdb.org/t/p/w500/83X4VwY9sdSJykskmsplIVG0a4h.jpg",
+  "trailer": "https://www.youtube.com/embed/po4MN1V75eU",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt36463894",
+  "title": "Predator: Killer of Killers",
+  "type": "movie",
+  "release": 2025,
+  "duration": "85 min",
+  "quality": "HD",
+  "description": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "actors": [
+    "Lindsay LaVanchy",
+    "Louis Ozawa",
+    "Rick Gonzalez",
+    "Michael Biehn",
+    "Doug Cockle"
+  ],
+  "director": "Dan Trachtenberg",
+  "country": "United States of America",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
+  "trailer": "https://www.youtube.com/embed/fbddYji1F8s",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt0370263",
+  "title": "AVP: Alien vs. Predator",
+  "type": "movie",
+  "release": 2004,
+  "duration": "101 min",
+  "quality": "HD",
+  "description": "When scientists discover something near Antarctica that appears to be a buried Pyramid, they send a research team out to investigate. Little do they know that they are about to step into a hunting ground where Aliens are grown as sport for the Predator race.",
+  "genre": [
+    "Adventure",
+    "Science Fiction",
+    "Action",
+    "Horror"
+  ],
+  "actors": [
+    "Sanaa Lathan",
+    "Lance Henriksen",
+    "Ian Whyte",
+    "Raoul Bova",
+    "Ewen Bremner"
+  ],
+  "director": "Paul W. S. Anderson",
+  "country": "Czech Republic, Germany, United Kingdom, United States of America",
+  "rating": "5.9",
+  "poster": "https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg",
+  "trailer": "https://www.youtube.com/embed/fQE62sQBkqA",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt9103932",
+  "title": "Greatest Events of World War II in Colour",
+  "type": "series",
+  "release": 2019,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "Using highly advanced colourisation techniques, critical moments from World War II, from Stalingrad to The Battle of Britain, are shown in a whole new light.",
+  "genre": [
+    "Documentary",
+    "War & Politics"
+  ],
+  "actors": [
+    "Derek Jacobi"
+  ],
+  "director": "N/A",
+  "country": "GB",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/dZpfRWErT6wyvlgGanhhUM89aQa.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Blitzkrieg",
+          "duration": "50m"
+        },
+        {
+          "title": "Battle of Britain",
+          "duration": "50m"
+        },
+        {
+          "title": "Pearl Harbor",
+          "duration": "50m"
+        },
+        {
+          "title": "Battle of Midway",
+          "duration": "50m"
+        },
+        {
+          "title": "Siege of Stalingrad",
+          "duration": "51m"
+        },
+        {
+          "title": "D-Day",
+          "duration": "50m"
+        },
+        {
+          "title": "The Battle of the Bulge",
+          "duration": "50m"
+        },
+        {
+          "title": "Firestorm Over Dresden",
+          "duration": "51m"
+        },
+        {
+          "title": "Buchenwald Liberation",
+          "duration": "50m"
+        },
+        {
+          "title": "Hiroshima",
+          "duration": "50m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt1371111",
+  "title": "Cloud Atlas",
+  "type": "movie",
+  "release": 2012,
+  "duration": "172 min",
+  "quality": "HD",
+  "description": "A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future.  Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.",
+  "genre": [
+    "Drama",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Halle Berry",
+    "Jim Broadbent",
+    "Hugo Weaving",
+    "Jim Sturgess"
+  ],
+  "director": "Lilly Wachowski",
+  "country": "Germany, United States of America, China, Hong Kong, Singapore",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
+  "trailer": "https://www.youtube.com/embed/ByehYal_cCs",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt5545880",
+  "title": "Atlas",
+  "type": "movie",
+  "release": 2018,
+  "duration": "99 min",
+  "quality": "HD",
+  "description": "Walter is a 60-year-old removal man for forced evictions. He recognizes in one of the tenants about to be evicted his estranged son, Jan. In order to help Jan, Walter has to confront not only his crooked boss but also his own past.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Rainer Bock",
+    "Albrecht Schuch",
+    "Uwe Preuss",
+    "Thorsten Merten",
+    "Nina Gummich"
+  ],
+  "director": "David Nawrath",
+  "country": "Germany",
+  "rating": "6.4",
+  "poster": "https://image.tmdb.org/t/p/w500/xP9Da09itvve7r3Lj7twji8eQ0S.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt14856980",
+  "title": "Atlas",
+  "type": "movie",
+  "release": 2024,
+  "duration": "118 min",
+  "quality": "HD",
+  "description": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+  "genre": [
+    "Science Fiction",
+    "Action"
+  ],
+  "actors": [
+    "Jennifer Lopez",
+    "Simu Liu",
+    "Sterling K. Brown",
+    "Gregory James Cohan",
+    "Abraham Popoola"
+  ],
+  "director": "Brad Peyton",
+  "country": "United States of America",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+  "trailer": "https://www.youtube.com/embed/Jokpt_LJpbw",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt7286456",
+  "title": "Joker",
+  "type": "movie",
+  "release": 2019,
+  "duration": "122 min",
+  "quality": "HD",
+  "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+  "genre": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "actors": [
+    "Joaquin Phoenix",
+    "Robert De Niro",
+    "Zazie Beetz",
+    "Frances Conroy",
+    "Brett Cullen"
+  ],
+  "director": "Todd Phillips",
+  "country": "Canada, United States of America",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+  "trailer": "https://www.youtube.com/embed/-RFFRxcoKfA",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt0372784",
+  "title": "Batman Begins",
+  "type": "movie",
+  "release": 2005,
+  "duration": "140 min",
+  "quality": "HD",
+  "description": "After witnessing his parents' death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Michael Caine",
+    "Ken Watanabe"
+  ],
+  "director": "Christopher Nolan",
+  "country": "United States, United Kingdom",
+  "rating": "8.2",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "trailer": "https://www.youtube.com/embed/lirBhHXvDSg",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+    {
   "imdb": "tt1663202",
   "title": "The Revenant",
   "type": "movie",
