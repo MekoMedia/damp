@@ -1,6 +1,164 @@
 {
   "movies": [
     {
+  "imdb": "tt1663202",
+  "title": "The Revenant",
+  "type": "movie",
+  "release": 2015,
+  "duration": "157 min",
+  "quality": "HD",
+  "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+  "genre": [
+    "Western",
+    "Drama",
+    "Adventure"
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Tom Hardy",
+    "Domhnall Gleeson",
+    "Will Poulter",
+    "Forrest Goodluck"
+  ],
+  "director": "Alejandro G. Iñárritu",
+  "country": "Canada, Hong Kong, Taiwan, United States of America",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+  "trailer": "https://www.youtube.com/embed/EhffABvfAW0",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt1336006",
+  "title": "The Revenant",
+  "type": "movie",
+  "release": 2009,
+  "duration": "117 min",
+  "quality": "HD",
+  "description": "A horror movie/buddy comedy about Joey and his undead friend Bart who comes back from the dead as a revenant: an articulate zombie that needs to drink blood to arrest the decomposition of his body.",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "War"
+  ],
+  "actors": [
+    "Chris Wylde",
+    "David Anders",
+    "Louise Griffiths",
+    "Jacy King",
+    "Eric Payne"
+  ],
+  "director": "D. Kerry Prior",
+  "country": "United States of America",
+  "rating": "6.1",
+  "poster": "https://image.tmdb.org/t/p/w500/bECzzYkRFlCZZAjQ9wboMGyWFcL.jpg",
+  "trailer": "https://www.youtube.com/embed/bN1ZV-aYooY",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+
+{
+  "imdb": "tt15398776",
+  "title": "Oppenheimer",
+  "type": "movie",
+  "release": 2023,
+  "duration": "181 min",
+  "quality": "HD",
+  "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+  "genre": [
+    "Drama",
+    "History"
+  ],
+  "actors": [
+    "Cillian Murphy",
+    "Emily Blunt",
+    "Matt Damon",
+    "Robert Downey Jr.",
+    "Florence Pugh"
+  ],
+  "director": "Christopher Nolan",
+  "country": "United Kingdom, United States of America",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+  "trailer": "https://www.youtube.com/embed/qiuSBWVdgLI",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+    {
+  "imdb": "tt34809853",
+  "title": "Teach You a Lesson",
+  "type": "series",
+  "release": 2026,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Kim Moo-yul",
+    "Lee Sung-min",
+    "Jin Ki-joo",
+    "Pyo Ji-hoon"
+  ],
+  "director": "Hong Jong-chan, Lee Nam-kyu, Kim Da-hee",
+  "country": "KR",
+  "rating": "9.4",
+  "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+  "trailer": "https://www.youtube.com/embed/LdezlX84py0",
+  "baseviews": "1.3M",
+  "popularity": 73,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "52m"
+        },
+        {
+          "title": "Episode 2",
+          "duration": "57m"
+        },
+        {
+          "title": "Episode 3",
+          "duration": "72m"
+        },
+        {
+          "title": "Episode 4",
+          "duration": "68m"
+        },
+        {
+          "title": "Episode 5",
+          "duration": "66m"
+        },
+        {
+          "title": "Episode 6",
+          "duration": "69m"
+        },
+        {
+          "title": "Episode 7",
+          "duration": "64m"
+        },
+        {
+          "title": "Episode 8",
+          "duration": "60m"
+        },
+        {
+          "title": "Episode 9",
+          "duration": "67m"
+        },
+        {
+          "title": "Episode 10",
+          "duration": "61m"
+        }
+      ]
+    }
+  ]
+},
+    {
   "imdb": "tt26443616",
   "title": "Hoppers",
   "type": "movie",
