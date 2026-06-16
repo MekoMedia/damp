@@ -1,5 +1,4851 @@
 {
   "movies": [
+{
+  "imdb": "tt0388629",
+  "title": "One Piece",
+  "type": "series",
+  "release": 1999,
+  "duration": "23 Seasons",
+  "quality": "4K",
+  "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+  "genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Animation"
+  ],
+  "actors": [
+    "Mayumi Tanaka",
+    "Kazuya Nakai",
+    "Mari Yaguchi",
+    "Akemi Okamura",
+    "Kappei Yamaguchi"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.7",
+  "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+  "trailer": "https://www.youtube.com/embed/1KMcoJBMWE4",
+  "baseviews": "1.3M",
+  "popularity": 64,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "I'm Luffy! The Man Who Will Become the Pirate King!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro",
+          "duration": "25m"
+        },
+        {
+          "title": "Morgan VS Luffy! Who's This Beautiful Young Girl?",
+          "duration": "25m"
+        },
+        {
+          "title": "Luffy's Past! The Red-haired Shanks appears",
+          "duration": "25m"
+        },
+        {
+          "title": "Fear, Mysterious Power! Pirate Clown Captain Buggy!",
+          "duration": "25m"
+        },
+        {
+          "title": "Desperate Situation! Beast Tamer Mohji vs Luffy!",
+          "duration": "25m"
+        },
+        {
+          "title": "Grand Duel! Zoro the Swordsman vs Cabaji the Acrobat!",
+          "duration": "25m"
+        },
+        {
+          "title": "Who Will Win? Showdown Between the True Powers of the Devil!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Honorable Liar? Captain Usopp!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Weirdest Guy Ever! Jango the Hypnotist!",
+          "duration": "25m"
+        },
+        {
+          "title": "Expose the Plot! Pirate Butler, Captain Kuro!",
+          "duration": "25m"
+        },
+        {
+          "title": "Clash with the Black Cat Pirates! The Great Battle on the Slope!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Terrifying Duo! Meowban Brothers vs. Zoro!",
+          "duration": "25m"
+        },
+        {
+          "title": "Luffy Back in Action! Miss Kaya's Desperate Resistance!",
+          "duration": "25m"
+        },
+        {
+          "title": "Beat Kuro! Usopp the Man's Tearful Resolve!",
+          "duration": "25m"
+        },
+        {
+          "title": "Protect Kaya! The Usopp Pirates' Great Efforts!",
+          "duration": "25m"
+        },
+        {
+          "title": "Anger Explosion! Kuro vs. Luffy! How it Ends!",
+          "duration": "25m"
+        },
+        {
+          "title": "You're the Weird Creature! Gaimon and His Strange Friends!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Three-Sword Style's Past! Zoro and Kuina's Vow!",
+          "duration": "25m"
+        },
+        {
+          "title": "Famous Cook! Sanji of the Sea Restaurant!",
+          "duration": "25m"
+        },
+        {
+          "title": "Unwelcome Customer! Sanji's Food and Ghin's Debt!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Strongest Pirate Fleet! Commodore Don Krieg!",
+          "duration": "25m"
+        },
+        {
+          "title": "Protect Baratie! The Great Pirate, Red Foot Zeff!",
+          "duration": "25m"
+        },
+        {
+          "title": "Hawk-Eye Mihawk! The Great Swordsman Zoro Falls At Sea!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Deadly Foot Technique Bursts Forth! Sanji vs. The Invincible Pearl!",
+          "duration": "25m"
+        },
+        {
+          "title": "Zeff and Sanji's Dream! The Illusory All Blue!",
+          "duration": "25m"
+        },
+        {
+          "title": "Cool-headed, Cold-hearted Demon! Pirate Fleet Chief Commander Ghin!",
+          "duration": "25m"
+        },
+        {
+          "title": "I Won't Die! Fierce Battle, Luffy vs. Krieg!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Conclusion of the Deadly Battle! A Spear of Blind Determination!",
+          "duration": "25m"
+        },
+        {
+          "title": "Set Sail! The Seafaring Cook Sets Off With Luffy!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Worst Man in the Eastern Seas! Fishman Pirate Arlong!",
+          "duration": "25m"
+        },
+        {
+          "title": "Witch of Cocoyashi Village! Arlong's Female Leader!",
+          "duration": "25m"
+        },
+        {
+          "title": "Usopp Dead?! When is Luffy Going to Make Landfall?!",
+          "duration": "25m"
+        },
+        {
+          "title": "Everyone's Gathered! Usopp Speaks the Truth About Nami!",
+          "duration": "25m"
+        },
+        {
+          "title": "Untold Past! Female Warrior Bellemere!",
+          "duration": "25m"
+        },
+        {
+          "title": "Survive! Mother Bellemere and Nami's Bond!",
+          "duration": "25m"
+        },
+        {
+          "title": "Luffy Rises! Result of the Broken Promise!",
+          "duration": "25m"
+        },
+        {
+          "title": "Luffy in Big Trouble! Fishmen vs. The Luffy Pirates!",
+          "duration": "25m"
+        },
+        {
+          "title": "Luffy Submerged! Zoro vs. Hatchan the Octopus!",
+          "duration": "25m"
+        },
+        {
+          "title": "Proud Warriors! Sanji and Usopp's Fierce Battles!",
+          "duration": "25m"
+        },
+        {
+          "title": "Luffy at Full Power! Nami's Determination and the Straw Hat!",
+          "duration": "25m"
+        },
+        {
+          "title": "Explosion! Fishman Arlong's Fierce Assault From the Sea!",
+          "duration": "25m"
+        },
+        {
+          "title": "End of the Fishman Empire! Nami's My Friend!",
+          "duration": "25m"
+        },
+        {
+          "title": "Setting Out with a Smile! Farewell, Hometown Cocoyashi Village!",
+          "duration": "25m"
+        },
+        {
+          "title": "Bounty! Straw Hat Luffy Becomes Known to the World!",
+          "duration": "25m"
+        },
+        {
+          "title": "Chase Straw Hat! Little Buggy's Big Adventure!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Wait is Over! The Return of Captain Buggy!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Town of the Beginning and the End! Landfall at Logue Town!",
+          "duration": "25m"
+        },
+        {
+          "title": "Zoro's New Swords and the Woman Sergeant Major!",
+          "duration": "25m"
+        },
+        {
+          "title": "Usopp vs. Daddy the Parent! Showdown at High!",
+          "duration": "25m"
+        },
+        {
+          "title": "Fiery Cooking Battle? Sanji vs. The Beautiful Chef!",
+          "duration": "24m"
+        },
+        {
+          "title": "Buggy's Revenge! The Man Who Smiles On the Execution Platform!",
+          "duration": "25m"
+        },
+        {
+          "title": "The Legend Has Started! Head for the Grand Line!",
+          "duration": "25m"
+        },
+        {
+          "title": "Precursor to a New Adventure! Apis, a Mysterious Girl!",
+          "duration": "25m"
+        },
+        {
+          "title": "Miraculous Creature! Apis's Secret and The Legendary Island!",
+          "duration": "25m"
+        },
+        {
+          "title": "Eric Attacks! Great Escape From Warship Island!",
+          "duration": "25m"
+        },
+        {
+          "title": "A Solitary Island in the Distant Sea! The Legendary Lost Island!",
+          "duration": "25m"
+        },
+        {
+          "title": "Showdown in the Ruins! Tense Zoro vs. Eric!",
+          "duration": "25m"
+        },
+        {
+          "title": "Luffy, Completely Surrounded! Commodore Nelson's Secret Strategy!",
+          "duration": "25m"
+        },
+        {
+          "title": "Through the Sky They Soar! The 1000 Year Legend Lives Again!",
+          "duration": "25m"
+        },
+        {
+          "title": "An Angry Showdown! Cross the Red Line!",
+          "duration": "25m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The First Line of Defense? The Giant Whale Laboon Appears!",
+          "duration": "25m"
+        },
+        {
+          "title": "A Promise Between Men! Luffy and the Whale Vow to Meet Again!",
+          "duration": "25m"
+        },
+        {
+          "title": "A Town that Welcomes Pirates? Setting Foot on Whisky Peak!",
+          "duration": "25m"
+        },
+        {
+          "title": "Explosion! The Three Swords Style! Zoro vs. Baroque Works!",
+          "duration": "25m"
+        },
+        {
+          "title": "All Out Battle! Luffy vs. Zoro, Mysterious Grand Duel!",
+          "duration": "24m"
+        },
+        {
+          "title": "Deliver Princess Vivi! The Luffy Pirates Set Sail!",
+          "duration": "24m"
+        },
+        {
+          "title": "Try Hard, Coby! Coby and Helmeppo's Struggles in the Marines!",
+          "duration": "24m"
+        },
+        {
+          "title": "Coby and Helmeppo's Resolve! Vice-Admiral Garp's Parental Affection!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Ancient Island! The Shadow Hiding in Little Garden!",
+          "duration": "24m"
+        },
+        {
+          "title": "Huge Duel! The Giants Dorry and Broggy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!",
+          "duration": "24m"
+        },
+        {
+          "title": "Broggy's Bitter Tears of Victory! The Conclusion of Elbaf!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Devilish Candle! Tears of Regret and Tears of Anger!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Hex on Luffy! Colors Trap!",
+          "duration": "24m"
+        },
+        {
+          "title": "Time to Fight Back! Usopp’s Quick Thinking and Fire Star!",
+          "duration": "24m"
+        },
+        {
+          "title": "Farewell Giant Island! Head for Alabasta!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Nami's Sick? Beyond the Snow Falling on the Sea!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Raid! The Tin Tyrant and Tin Plate Wapol!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Island without Doctors? Adventure in a Nameless Land!",
+          "duration": "24m"
+        },
+        {
+          "title": "Are You Happy? The Doctor Called Witch!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dalton's Resolve! Wapol's Corps Lands on the Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Island Where Snow Lives! Climb the Drum Rockies!",
+          "duration": "24m"
+        },
+        {
+          "title": "Blue-nosed Reindeer! Chopper's Secret!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Outcast's Dream! Hiriluk the Quack!",
+          "duration": "24m"
+        },
+        {
+          "title": "Hiriluk's Cherry Blossoms and the Will that Gets Carried On!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fight Wapol's Crew! The Power of the Munch Munch Fruit!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zoan-type Devil Fruit! Chopper's Seven-form Transformation!",
+          "duration": "24m"
+        },
+        {
+          "title": "When the Kingdom's Rule Ends! The Flag of Faith Flies Forever!",
+          "duration": "24m"
+        },
+        {
+          "title": "Hiriluk's Cherry Blossoms! Miracle in the Drum Rockies!",
+          "duration": "24m"
+        },
+        {
+          "title": "Goodbye Drum Island! I'm Going Out to Sea!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Alabasta's Hero and a Ballerina on the Ship!",
+          "duration": "24m"
+        },
+        {
+          "title": "Off to the Desert Kingdom! The Rain-Summing Powder and the Rebel Army!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Heroes Reunion! His Name is Fire Fist Ace!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ace and Luffy! Hot Emotions and Brotherly Bonds!",
+          "duration": "24m"
+        },
+        {
+          "title": "Erumalu, The City of Green and the Kung Fu Dugongs!!",
+          "duration": "24m"
+        },
+        {
+          "title": "Adventure in the Country of Sand! The Monsters that Live in the Scorching Land!",
+          "duration": "24m"
+        },
+        {
+          "title": "Enter the Desert Pirates! The Men Who Live Freely!",
+          "duration": "24m"
+        },
+        {
+          "title": "False Fortitude! Camu, Rebel Soldier at Heart!",
+          "duration": "24m"
+        },
+        {
+          "title": "Rebel Warrior Koza! The Dream Vowed to Vivi!",
+          "duration": "24m"
+        },
+        {
+          "title": "Showdown in a Heat Haze! Ace vs. the Gallant Scorpion!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ruins and Lost Ways! Vivi, Her Friends, and the Country's Form!",
+          "duration": "24m"
+        },
+        {
+          "title": "Spiders Café at 8 o'Clock! The Enemy Leaders Gather!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battlefront of Alabasta! Rainbase, the City of Dreams!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Trap of Certain Defeat! Storming Raindinners!",
+          "duration": "24m"
+        },
+        {
+          "title": "Operation Utopia Commences! The Swell of Rebellion Stirs!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Terrifying Banana Gators and Mr. Prince!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Key to a Great Comeback Escape! The Wax-Wax Ball!",
+          "duration": "24m"
+        },
+        {
+          "title": "Merciless Mortal Combat! Luffy vs. Crocodile!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dash For a Miracle! Alabasta Animal Land!",
+          "duration": "24m"
+        },
+        {
+          "title": "Rebel Army vs. Royal Army! Showdown at Alubarna!",
+          "duration": "24m"
+        },
+        {
+          "title": "Alubarna Grieves! The Fierce Captain Karoo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sworn on a Friend's Dream! The Battle of Molehill, Block 4!",
+          "duration": "24m"
+        },
+        {
+          "title": "Big Opening Day Today! The Copy-Copy Montage!",
+          "duration": "24m"
+        },
+        {
+          "title": "Transformed into Nami! Bon Clay's Rapid-Fire Ballet Kenpo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Nami's Cyclone Advisory! Clima Takt Burst!",
+          "duration": "24m"
+        },
+        {
+          "title": "Secret Passed Down in the Royal Family! The Ancient Weapon Pluton!",
+          "duration": "24m"
+        },
+        {
+          "title": "Secret of Powerful Swordplay! Ability to Cut Steel and the Rhythm Things Have!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle is Over! Koza Raises the White Flag!",
+          "duration": "24m"
+        },
+        {
+          "title": "Where Vivi's Voice Gets Heard! The Hero Descends!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sand Croc and Water Luffy! The Second Round of the Duel",
+          "duration": "24m"
+        },
+        {
+          "title": "That Looks Croc-ish! Luffy, Run to the Royal Tomb!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Nightmare Draws Near! This is the Sand-Sand Clan's Secret Base!",
+          "duration": "24m"
+        },
+        {
+          "title": "Magnificent Wings! My Name is Pell, Guardian Deity of the Country!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Will Surpass You! Rain Falls in Alabasta!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Farewell to Arms! Pirates and Different Ideas of Justice!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Pirates' Banquet and Operation Escape from Alabasta!",
+          "duration": "24m"
+        },
+        {
+          "title": "It All Started On That Day! Vivi Tells the Story of Her Adventure!",
+          "duration": "24m"
+        },
+        {
+          "title": "Scent of Danger! The Seventh Member is Nico Robin!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The First Patient! The Untold Story of the Rumble Ball!",
+          "duration": "24m"
+        },
+        {
+          "title": "Uprising of the Navigator! For the Unyielding Dream!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Recipe Handed Down! Sanji, the Iron Man of Curry!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Will Make it Bloom! Usopp, the Man, and the Eight-Foot Shell!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fabled Pirate Hunter! Zoro, the Wandering Swordsman!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zenny of the Island of Goats and the Pirate Ship in the Mountains!",
+          "duration": "24m"
+        },
+        {
+          "title": "How's Tricks? The Designs of Zenny the Moneylender!",
+          "duration": "24m"
+        },
+        {
+          "title": "Whereabouts of the Island Treasure! Attack of the Zenny Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "Legend of the Rainbow Mist! Old Man Henzo of Luluka Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Residents of the Land of Eternity! The Pumpkin Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "Thoughts of Home! The Pirate Graveyard of No Escape!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Inevitable Melee! Wetton's Schemes and the Rainbow Tower!",
+          "duration": "24m"
+        },
+        {
+          "title": "And so, the Legend Begins! To the Other Side of the Rainbow!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Log is Taken! Salvage King, Masira!",
+          "duration": "24m"
+        },
+        {
+          "title": "Monsters Appear! Don't Mess with the Whitebeard Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "Quit Dreaming! Mock Town, the Town of Ridicule!",
+          "duration": "24m"
+        },
+        {
+          "title": "Distinguished Pirates! A Man Who Talks of Dreams and the King of Undersea Search!",
+          "duration": "24m"
+        },
+        {
+          "title": "Legendary Family! Noland, the Liar!",
+          "duration": "24m"
+        },
+        {
+          "title": "Steer for the Clouds! Capture the South Bird!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dreams Don't Come True?! Bellamy Versus the Saruyama Alliance!",
+          "duration": "24m"
+        },
+        {
+          "title": "100 Million Man! World's Greatest Power and Pirate Black Beard!",
+          "duration": "24m"
+        },
+        {
+          "title": "Take to the Sky! Ride the Knockup Stream!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sail the White Sea! The Sky Knight and the Gate in the Clouds!",
+          "duration": "24m"
+        },
+        {
+          "title": "Godland, Skypiea! Angels on a Beach of Clouds!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Forbidden Sacred Ground! The Island Where God Lives and Heaven's Judgement!",
+          "duration": "24m"
+        },
+        {
+          "title": "Already Criminals?! Skypiea's Upholder of the Law!",
+          "duration": "24m"
+        },
+        {
+          "title": "Is Escape Possible?!? God's Challenge is Set in Motion",
+          "duration": "24m"
+        },
+        {
+          "title": "A Trap on Lovely Street! The Almighty Eneru",
+          "duration": "24m"
+        },
+        {
+          "title": "Onward Little Crow! To the Sacrificial Altar!",
+          "duration": "24m"
+        },
+        {
+          "title": "10% Survival Rate! Satori, the Mantra Master!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ordeal of Spheres! Desperate Struggle in the Lost Forest!",
+          "duration": "24m"
+        },
+        {
+          "title": "Chopper in Danger! Former God vs. Priest Shura!",
+          "duration": "24m"
+        },
+        {
+          "title": "Profound Mystery! Ordeal of String and Ordeal of Love?!?",
+          "duration": "24m"
+        },
+        {
+          "title": "Light the Fire of Shandora! Wyper the Warrior!",
+          "duration": "24m"
+        },
+        {
+          "title": "Jaya, City of Gold in the Sky! Head for God's Shrine!",
+          "duration": "24m"
+        },
+        {
+          "title": "Festival on the Night Before Gold-Hunting! Feelings for \"Vearth!\"",
+          "duration": "24m"
+        },
+        {
+          "title": "Enter God Eneru! Farewell to the Survivors!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Giant Snake Bares Its Fangs! The Survival Game Begins!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Deadly Reject! War Demon Wyper's Resolve!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fierce Mid-Air Battle! Pirate Zoro vs. Warrior Braham!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Roaring Burn Bazooka!! Pirate Luffy vs. War Demon Wyper!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ordeal of Swamp! Chopper vs Priest Gedatsu!",
+          "duration": "24m"
+        },
+        {
+          "title": "Unbeatable Powers! Eneru's True Form is Revealed!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Mystical City! The Grand Ruins of Shandora!",
+          "duration": "24m"
+        },
+        {
+          "title": "0% Survival Rate! Chopper vs. Ohm, the Sword Wielding Priest!",
+          "duration": "24m"
+        },
+        {
+          "title": "Climb Giant Jack! Deadly Combat in the Upper Ruins!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ordeal of Iron! White Barbed Death Match!",
+          "duration": "24m"
+        },
+        {
+          "title": "Bursting Slash! Zoro vs Ohm!",
+          "duration": "24m"
+        },
+        {
+          "title": "Collapsing Upper Ruins! The Quintet for the Finale!",
+          "duration": "24m"
+        },
+        {
+          "title": "Showdown in the Ancient Ruins! Sky God Eneru's Goal!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ambition Towards the Endless Vearth! The Ark Maxim!",
+          "duration": "24m"
+        },
+        {
+          "title": "They Finally Clash! Pirate Luffy vs God Eneru!",
+          "duration": "24m"
+        },
+        {
+          "title": "Maxim Surfaces! Deathpiea is Activated!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Falls! Eneru's Judgement and Nami's Wish!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Two Awaken! On the Front Lines of the Burning Love Rescue!",
+          "duration": "24m"
+        },
+        {
+          "title": "Capriccio for Despair! The Impending Doom of Sky Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Lead by a Bell's Sound! Tale of the Great Warrior and the Explorer!",
+          "duration": "24m"
+        },
+        {
+          "title": "Free From the Spell! The Great Warrior Sheads Tears!",
+          "duration": "24m"
+        },
+        {
+          "title": "Eternal Friends! The Vowed Bell Echoes Across the Mighty Seas!",
+          "duration": "24m"
+        },
+        {
+          "title": "Angel Island, Obliterated! The Horror of The Raigo's Advent!!",
+          "duration": "24m"
+        },
+        {
+          "title": "Knock Over Giant Jack! Last Hope for Escape!",
+          "duration": "24m"
+        },
+        {
+          "title": "Miracle on Skypiea! The Love Song Heard in the Clouds!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle Ends! Proud Fantasia Echoes Far!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Made it here! The Yarn the Poneglyphs Spin!",
+          "duration": "24m"
+        },
+        {
+          "title": "Off to the Blue Sea!! A Heartfelt Finale!!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "A State of Emergency is Issued! A Notorious Pirate Ship has Infiltrated!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sanji the Cook! Proving His Merit at the Marine Dining Hall!",
+          "duration": "24m"
+        },
+        {
+          "title": "Captured Zoro! Chopper's Emergency Operations!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Marines Dragnet Closes In! The Second Member Captured!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy and Sanji's Daring Rescue Mission!",
+          "duration": "24m"
+        },
+        {
+          "title": "Enter the Hot-Blooded Special Forces! Battle on the Bridge!",
+          "duration": "24m"
+        },
+        {
+          "title": "Breaking Through the Seige! The Going Merry is Recovered!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Pirate Ship Disappears! Fortress Battle, Round #2!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Gold and Waver Recovery Operations!",
+          "duration": "24m"
+        },
+        {
+          "title": "The One Fell Swoop Plan! Jonathan's Surefire Secret Tactic!",
+          "duration": "24m"
+        },
+        {
+          "title": "Farewell, Marine Fortress! The Last Battle for Escape!",
+          "duration": "24m"
+        },
+        {
+          "title": "Great Adventure at Long Ring Long Land!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Davy Back with the Foxy Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "Round 1! One Lap of the Donut Race!",
+          "duration": "24m"
+        },
+        {
+          "title": "Silver Fox Foxy! The Merciless Interference!",
+          "duration": "24m"
+        },
+        {
+          "title": "Round 2! Shoot it into the Groggy Ring!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Barrage of Red Cards in Groggy Ring!",
+          "duration": "24m"
+        },
+        {
+          "title": "Round 3! The Round-and-Round Roller Race!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Seriously Heated Race! Into The Final Round!",
+          "duration": "24m"
+        },
+        {
+          "title": "Screaming-Hot Bombardment! Pirate Dodgeball!",
+          "duration": "24m"
+        },
+        {
+          "title": "Showdown on the Cliff! Red Light, Green Light!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Captains Square Off! The Final Combat Round!",
+          "duration": "24m"
+        },
+        {
+          "title": "Full-Blast Slow-Slow Onslaught Vs. Invulnerable Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Epic, Heated Combat! The Fateful Final Conclusion!",
+          "duration": "24m"
+        },
+        {
+          "title": "Was It Lost? Stolen? Who Are You?",
+          "duration": "24m"
+        },
+        {
+          "title": "A Mysterious Boy with a Horn and Robin's Deduction!",
+          "duration": "24m"
+        },
+        {
+          "title": "Now, Let's Get Back Our Memories! The Pirate Crew Lands on the Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zoro Bares His Fangs! A Savage Animal Stands in the Way!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Last Counterattack by the Memory Thief Who Reveals His True Colors!",
+          "duration": "24m"
+        },
+        {
+          "title": "Proud Man! Silver Fox Foxy!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Guy Who's The Closest To Invincible? And the Most Dangerous Man!",
+          "duration": "24m"
+        },
+        {
+          "title": "Marine Headquarters Admiral Aokiji! The Ferocity of an Ultimate Powerhouse!",
+          "duration": "24m"
+        },
+        {
+          "title": "Duel Between Rubber and Ice! Luffy vs. Aokiji!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Dashing Sea Train and the City of Water: Water Seven!",
+          "duration": "24m"
+        },
+        {
+          "title": "Adventure in the City On the Water! Head to the Mammoth Shipbuilding Plant!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Franky Family and Iceberg!",
+          "duration": "24m"
+        },
+        {
+          "title": "Galley-La Company! A Grand Sight: Dock #1!",
+          "duration": "24m"
+        },
+        {
+          "title": "Pirate Abduction Incident! A Pirate Ship That Can Only Await Her End!",
+          "duration": "24m"
+        },
+        {
+          "title": "Rescuing Our Friend! Raid on the Franky House!",
+          "duration": "24m"
+        },
+        {
+          "title": "Big Fight under the Moon! The Pirate Flag Flutters with Sorrow!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy vs. Usopp! Collision of Two Men's Pride!",
+          "duration": "24m"
+        },
+        {
+          "title": "Severe Shock Hits the City of Water! Iceberg Targeted!",
+          "duration": "24m"
+        },
+        {
+          "title": "Gum-Gum Human Vs. Fire-Breathing Cyborg!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Straw Hat Pirates are the Culprits? The Protectors of the City of Water!",
+          "duration": "24m"
+        },
+        {
+          "title": "Eternal Farewell? Nico Robin, the Woman Who Draws Darkness!",
+          "duration": "24m"
+        },
+        {
+          "title": "Capture Robin! The Determination of the Straw Hats!",
+          "duration": "24m"
+        },
+        {
+          "title": "Cannon Fire Is the Signal! CP9 Goes Into Action!",
+          "duration": "24m"
+        },
+        {
+          "title": "CP9 Takes Off Their Masks! Their Shocking True Faces!",
+          "duration": "24m"
+        },
+        {
+          "title": "Secret Bond! Iceberg and Franky!",
+          "duration": "24m"
+        },
+        {
+          "title": "Come Back, Robin! Showdown with CP9!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Straw Hat Pirates Annihilated? The Menace of the Leopard Model!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Man Who Is Loved Even by His Ship! Usopp's Tears!",
+          "duration": "24m"
+        },
+        {
+          "title": "Franky's Past! The Day the Sea Train First Ran!",
+          "duration": "24m"
+        },
+        {
+          "title": "Spandam's Scheme! The Day the Sea Train Shook!",
+          "duration": "24m"
+        },
+        {
+          "title": "The End of the Legendary Man! The Day the Sea Train Cried!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Truth Behind Her Betrayal! Robin’s Sorrowful Decision!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Steam Whistle Forces Friends Apart! The Sea Train Starts to Run!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sanji Barges In! Sea Train Battle in the Storm!",
+          "duration": "24m"
+        },
+        {
+          "title": "Nami's Soul Cries Out! Straw Hat Luffy Makes a Comeback!",
+          "duration": "24m"
+        },
+        {
+          "title": "Another Sea Train? Rocketman Charges Forth!",
+          "duration": "24m"
+        },
+        {
+          "title": "Rescue Our Friends! A Bond Among Foes Sworn with Fists!",
+          "duration": "24m"
+        },
+        {
+          "title": "Smash the Wave! Luffy and Zoro Use the Strongest Combo!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Mysterious Man Appears?! His Name Is Sogeking!",
+          "duration": "24m"
+        },
+        {
+          "title": "Showdown Between Cooks! Sanji vs. Ramen Kenpo",
+          "duration": "24m"
+        },
+        {
+          "title": "Rooftop Duel! Franky vs. Nero",
+          "duration": "24m"
+        },
+        {
+          "title": "Clash! Demon-Slasher Zoro vs. Ship-Slasher T-Bone!",
+          "duration": "24m"
+        },
+        {
+          "title": "Scramble over Robin! A Cunning Plan by Sogeking!!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Judicial Island! Full View of Enies Lobby!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Landing Operations Start! Charge in, Straw Hats!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Cuts Through! Big Showdown on the Judicial Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Battle Against Giants! Open the Second Gate!",
+          "duration": "24m"
+        },
+        {
+          "title": "Find a Way Out! Rocketman Takes Flight!",
+          "duration": "24m"
+        },
+        {
+          "title": "Catch Up with Luffy! The Straw Hats' All-Out Battle",
+          "duration": "24m"
+        },
+        {
+          "title": "Robin Betrayed! The Motive of the World Government!",
+          "duration": "24m"
+        },
+        {
+          "title": "Give Robin Back! Luffy vs. Blueno!",
+          "duration": "24m"
+        },
+        {
+          "title": "Don’t Stop! Hoist the Counterattack Signal!",
+          "duration": "24m"
+        },
+        {
+          "title": "Almost to Luffy! Gather at the Courthouse Plaza!",
+          "duration": "24m"
+        },
+        {
+          "title": "Everything Is to Protect My Friends! Second Gear Activated!",
+          "duration": "24m"
+        },
+        {
+          "title": "Give Us Your Answer, Robin! The Straw Hats' Outcry!",
+          "duration": "24m"
+        },
+        {
+          "title": "Robin's Past! The Girl was Called a Devil!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fated Mother and Daughter! The Mother's Name is Olvia!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Tragedy of Ohara! The Terror of the Buster Call!",
+          "duration": "24m"
+        },
+        {
+          "title": "Say You Want to Live! We Are Your Friends!!",
+          "duration": "24m"
+        },
+        {
+          "title": "Jump Towards the Falls! Luffy’s Feelings!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ways of Men! Zoro's Techniques, Usopp's Dream!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Bond of Friendship Woven by Tears! Nami's World Map!",
+          "duration": "24m"
+        },
+        {
+          "title": "Parting Builds a Man's Character! Sanji and Chopper!",
+          "duration": "24m"
+        },
+        {
+          "title": "Everything Is for Her Friends! Robin in the Darkness!",
+          "duration": "24m"
+        },
+        {
+          "title": "I'm Not Gonna Hand Over the Blueprints! Franky's Decision!",
+          "duration": "24m"
+        },
+        {
+          "title": "Retrieve the 5 Keys! The Straw Hat Crew VS CP9",
+          "duration": "24m"
+        },
+        {
+          "title": "Power of the Devil Fruit! Kaku and Jabura Transform",
+          "duration": "24m"
+        },
+        {
+          "title": "I Won't Kick Even If It Costs Me My Life! Sanji's Chivalry!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fukurou's Miscalculation! My Cola is the Water of Life!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zoro Busts Out a New Technique! The Sword's Name is Sniperking?",
+          "duration": "24m"
+        },
+        {
+          "title": "Uncontrollable! Chopper's Forbidden Rumble!",
+          "duration": "24m"
+        },
+        {
+          "title": "Boss Luffy Returns! Is It a Dream or Reality? Lottery Ruckus!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Big Rice Cake Tossing Race at the Castle! Red Nose's Plot!",
+          "duration": "24m"
+        },
+        {
+          "title": "Bubble Master Kalifa! The Soap Trap Closes in on Nami!",
+          "duration": "24m"
+        },
+        {
+          "title": "Resounding Bad News! The Buster Call Invoked!",
+          "duration": "24m"
+        },
+        {
+          "title": "Five Namis? Nami Strikes Back With Mirages",
+          "duration": "24m"
+        },
+        {
+          "title": "Nami's Decision! Fire at the Out-Of-Control Chopper!",
+          "duration": "24m"
+        },
+        {
+          "title": "Hunter Sanji Makes An Entrence? Elegy for a Lying Wolf!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fiery Kicks! Sanji's Full Course of Foot Techniques!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fierce Sword Attacks! Zoro vs. Kaku, Powerful Sword Fighting Showdown!",
+          "duration": "24m"
+        },
+        {
+          "title": "Demon God Zoro! An Incarnation Of Asura Born From Fighting Spirit!",
+          "duration": "24m"
+        },
+        {
+          "title": "Spandam Frightened! The Hero on the Tower of Law!",
+          "duration": "24m"
+        },
+        {
+          "title": "Robin Freed! Luffy vs. Lucci, Showdown Between Leaders!",
+          "duration": "24m"
+        },
+        {
+          "title": "Boss Luffy is the Culprit? Track Down the Missing Great Cherry Tree!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Can't Protect Anyone Unless I Win! Third Gear Activated",
+          "duration": "24m"
+        },
+        {
+          "title": "The Terrifying Past! Dark Justice and Rob Lucci",
+          "duration": "24m"
+        },
+        {
+          "title": "A Mysterious Mermaid Appears? As Consciousness Fades Away...",
+          "duration": "24m"
+        },
+        {
+          "title": "Cannon Fire Sinks the Island! Franky's Lamentation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Wait for Luffy! Mortal Combat on the Bridge of Hesitation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fists Full of Emotion! Luffy Unleashes Gatling with All His Might!",
+          "duration": "24m"
+        },
+        {
+          "title": "From the Sea, a Friend Arrives! The Straw Hats Share the Strongest Bond!",
+          "duration": "24m"
+        },
+        {
+          "title": "Everyone Makes a Great Escape! The Road to Victory is for the Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "Thank You, Merry! Snow Falls Over the Parting Sea!",
+          "duration": "24m"
+        },
+        {
+          "title": "Peace Interrupted! A Navy Vice Admiral with a Fist of Love!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Strongest Family? Luffy's Father Revealed!",
+          "duration": "24m"
+        },
+        {
+          "title": "Its Name Is The New World! The Fate of the Grand Line!",
+          "duration": "24m"
+        },
+        {
+          "title": "Shanks Makes a Move! The Linchpin to the Reckless Era!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Girl in Search of Her Yagara! Great Search in the City of Water!",
+          "duration": "24m"
+        },
+        {
+          "title": "Mothers are Strong! Zoro's Hectic Household Chores!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sanji's Shock! Mysterious Old Man and His Super Yummy Cooking!",
+          "duration": "24m"
+        },
+        {
+          "title": "Everyone Finally Has A Bounty! A Pirate Group Worth Over Six Hundred Million!",
+          "duration": "24m"
+        },
+        {
+          "title": "The King of Animals that Overlooks the Sea! The Dream Ship Magnificently Completed!",
+          "duration": "24m"
+        },
+        {
+          "title": "Goodbye My Dear Underlings! Franky Departs!",
+          "duration": "24m"
+        },
+        {
+          "title": "Departing the City of Water! Usopp Mans Up and Brings Closure to the Duel!",
+          "duration": "24m"
+        },
+        {
+          "title": "Wanted Posters Make It Around the World! Celebrations in Their Hometowns as the Ship Moves Forward!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Most Heinous Power! Blackbeard's Darkness Attacks Ace!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Mysterious Band of Pirates! Sunny and the Dangerous Trap!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sunny in a Pinch! Roar, Secret Superspeed Mecha!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Dream Sinking in the New World! The Disillusioned Pirate, Puzzle!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Assassins Attack! The Great Battle on Ice Begins!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Staw Hat’s Hard Battles! A Pirate Soul Risking It All for the Flag!",
+          "duration": "24m"
+        },
+        {
+          "title": "Hot Full Throttle! The Twin’s Magnetic Power Drawing Near!",
+          "duration": "24m"
+        },
+        {
+          "title": "Mansion of Great Chaos! The Enraged Don and the Captured Crew!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Return of the Phoenix! The Dream of the Pirate Flag Sworn to a Friend!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Red Hot Decisive Battle! Luffy vs. The Scorching Don!",
+          "duration": "24m"
+        },
+        {
+          "title": "Waiting in the New World! Farewell to the Brave Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "Chopperman to the Rescue! Protect the TV Station by the Shore!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Plunging into the Devil’s Sea! The Mysterious Skeleton Floating in the Fog!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Joy of Seeing People! The Gentleman Skeleton’s True Identity!",
+          "duration": "24m"
+        },
+        {
+          "title": "One Unnatural Phenomenon After the Next! Disembarking on Thriller Bark!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Man Called a Genius! Hogback Makes His Appearance!",
+          "duration": "24m"
+        },
+        {
+          "title": "Nami’s in a Major Pinch! The Zombie Mansion and the Invisible Man!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Zombie’s Secret! Hogback’s Nightmarish Laboratory!",
+          "duration": "24m"
+        },
+        {
+          "title": "His Name is Moria! The Great Shadow-Seizing Pirate's Trap!",
+          "duration": "24m"
+        },
+        {
+          "title": "Feast of the Zombie Song! The Night Raid's Bell is the Sound of Darkness!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Bunch of Animals? Perona's Wonder Garden!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Vanishing Straw Hat Crew! A Mysterious Swordsman Appears!",
+          "duration": "24m"
+        },
+        {
+          "title": "Chivalry Remains! The Traitorous Zombie Protects Nami!",
+          "duration": "24m"
+        },
+        {
+          "title": "Appearing from the Sky! That Man Is the Humming Swordsman!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's Emergency Situation! The Ultimate Shadow's Destination!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Warrior Known As the \"Devil\"!! The Moment of Oars' Revival",
+          "duration": "24m"
+        },
+        {
+          "title": "Awakening After 500 Years!! Oars Opens His Eyes!!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Belief Worth Begging to Live for!! Brook Defends His Afro",
+          "duration": "24m"
+        },
+        {
+          "title": "A Man's Promise Never Dies!! To the Friend Waiting Under the Distant Sky",
+          "duration": "24m"
+        },
+        {
+          "title": "I Swear to Go See Him! Brook and the Cape of Promise",
+          "duration": "24m"
+        },
+        {
+          "title": "Food, Nami and Shadows!! Luffy's Enraged Counterattack",
+          "duration": "24m"
+        },
+        {
+          "title": "Usopp's the Strongest? Leave Anything Negative to Him",
+          "duration": "24m"
+        },
+        {
+          "title": "The General Zombies Are Down in a Flash!! Oars Feels Like an Adventure!!",
+          "duration": "24m"
+        },
+        {
+          "title": "Blazing Knight Sanji!! Kick Down the Fake Wedding",
+          "duration": "24m"
+        },
+        {
+          "title": "A Clear-Clear History? Sanji's Stolen Dream",
+          "duration": "24m"
+        },
+        {
+          "title": "Save Me, Hero!! My Enemy Is the Immortal Princess",
+          "duration": "24m"
+        },
+        {
+          "title": "Perona Is Terrified!! Usopp and Untruthful Share the Same \"U\"",
+          "duration": "24m"
+        },
+        {
+          "title": "Slashes Dancing On the Rooftop!! Zoro vs. Ryuma's Showdown",
+          "duration": "24m"
+        },
+        {
+          "title": "Chopper Is Furious!! Hogback's Evil Medical Practices",
+          "duration": "24m"
+        },
+        {
+          "title": "Oars Roars! Come Out, Straw Hat Crew",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Is the Enemy! The Ultimate Zombie vs. The Straw Hat Crew",
+          "duration": "24m"
+        },
+        {
+          "title": "You're Going Down, Absalom!! Nami's Lightning Attack of Friendship!!",
+          "duration": "24m"
+        },
+        {
+          "title": "Knock Him Down!! Special Attack: Straw Hat Docking",
+          "duration": "24m"
+        },
+        {
+          "title": "The Silent Assault!! The Mysterious Visitor, Tyrant Kuma",
+          "duration": "24m"
+        },
+        {
+          "title": "Oars + Moria! The Most Heinous Combination of Brains and Brawn",
+          "duration": "24m"
+        },
+        {
+          "title": "The Secret Plan to Turn the Tables! Nightmare Luffy Makes His Appearance",
+          "duration": "24m"
+        },
+        {
+          "title": "The Straw Hat Crew Gets Wiped Out! The Shadow-Shadow's Powers in Full Swing",
+          "duration": "24m"
+        },
+        {
+          "title": "The Incredible Battle Starts! Luffy vs Luffy",
+          "duration": "24m"
+        },
+        {
+          "title": "The End of the Battle Is Nigh! Pound in the Finishing Move",
+          "duration": "24m"
+        },
+        {
+          "title": "Our Bodies Vanish! The Morning Sun Shines On the Nightmarish Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Not Out of Danger Yet! Orders to Annihilate the Straw Hat Crew",
+          "duration": "24m"
+        },
+        {
+          "title": "It Repels Everything! Kuma’s Paw-Paw Power!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Pain of My Crewmates Is My Pain! Zoro's Desperate Fight!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Promise from a Distant Day! The Pirates' Song and a Small Whale!",
+          "duration": "24m"
+        },
+        {
+          "title": "Brook's Past! A Sad Farewell with His Cheerful Comrade!",
+          "duration": "24m"
+        },
+        {
+          "title": "Bink's Booze! The Song that Connects the Past with the Present!",
+          "duration": "24m"
+        },
+        {
+          "title": "A New Crewmate! The Musician, Humming Brook!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Slow-Slow Menace! 'Silver Fox' Foxy Returns!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Great Scramble for Treasure! Collapse! Spa Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Brook's Great Struggle! Is the Path to Becoming a True Comrade Rigorous?",
+          "duration": "24m"
+        },
+        {
+          "title": "Arriving at Halfway Through the Grand Line! The Red Line",
+          "duration": "24m"
+        },
+        {
+          "title": "Hatred for the Straw Hats! Iron Mask Duval Appears!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fated Reunion! Save the Imprisoned Fish-man",
+          "duration": "24m"
+        },
+        {
+          "title": "Tragedy! The Truth of the Unmasked Duval",
+          "duration": "24m"
+        },
+        {
+          "title": "Explosion! The Sunny's Super Secret Weapon: Gaon Cannon",
+          "duration": "24m"
+        },
+        {
+          "title": "Landing to Get to Fish-man Island – The Sabaody Archipelago",
+          "duration": "24m"
+        },
+        {
+          "title": "Tyranny! The Rulers of Sabaody, the Celestial Dragons",
+          "duration": "24m"
+        },
+        {
+          "title": "New Rivals Gather! The 11 Supernovas",
+          "duration": "24m"
+        },
+        {
+          "title": "The Target is Camie! The Looming Clutches of a Professional Kidnapper",
+          "duration": "24m"
+        },
+        {
+          "title": "Rescue Camie! The Archipelago’s Lingering Dark History",
+          "duration": "24m"
+        },
+        {
+          "title": "Time Limit – The Human Auction Begins",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fist Explodes! Destroy the Auction",
+          "duration": "24m"
+        },
+        {
+          "title": "Major Panic! Desperate Struggle at the Auction House",
+          "duration": "24m"
+        },
+        {
+          "title": "Admiral Kizaru Takes Action! Sabaody Archipelago Thrown into Chaos",
+          "duration": "24m"
+        },
+        {
+          "title": "Break Through the Siege! The Navy vs. the Three Captains",
+          "duration": "24m"
+        },
+        {
+          "title": "Roger and Rayleigh – the King of the Pirates and His Right Hand Man",
+          "duration": "24m"
+        },
+        {
+          "title": "No Escape!? Admiral Kizaru’s Light Speed Kick!!",
+          "duration": "24m"
+        },
+        {
+          "title": "Overwhelming! The Navy’s Fighting Weapons, the Pacifistas",
+          "duration": "24m"
+        },
+        {
+          "title": "An Even Stronger Enemy Appears! The Battle Axe-Carrying Sentomaru",
+          "duration": "24m"
+        },
+        {
+          "title": "Admiral Kizaru's Fierce Assault! The Straw Hats Face Certain Death!",
+          "duration": "24m"
+        },
+        {
+          "title": "Eliminated Friends – The Final Day of the Straw Hat Crew",
+          "duration": "24m"
+        },
+        {
+          "title": "Feudal Era Side Story – Boss Luffy Appears Again",
+          "duration": "24m"
+        },
+        {
+          "title": "Feudal Era Side Story – Defeat Thriller Company's Trap",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Landing! The All-Female Island, Amazon Lily",
+          "duration": "24m"
+        },
+        {
+          "title": "Hurry Back to Your Friends! The Maiden Island Adventure",
+          "duration": "24m"
+        },
+        {
+          "title": "Everyone Falls in Love! Pirate Empress Hancock",
+          "duration": "24m"
+        },
+        {
+          "title": "The Secret Hidden on the Backs – Luffy and the Snake Princess Meet",
+          "duration": "24m"
+        },
+        {
+          "title": "Heartless Judgment! Margaret is Turned to Stone!!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Difficult Fight for Luffy! The Snake Sisters' Haki Power!!",
+          "duration": "24m"
+        },
+        {
+          "title": "All-Out Special Power Battle!! Gum-Gum vs. Snake-Snake",
+          "duration": "24m"
+        },
+        {
+          "title": "Hancock's Confession – The Sisters' Abhorrent Past",
+          "duration": "24m"
+        },
+        {
+          "title": "Saving Ace! The Next Stop: the Great Prison!",
+          "duration": "24m"
+        },
+        {
+          "title": "Love is a Hurricane! Hancock Madly in Love!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Friends' Whereabouts – The Science of Weather and the Mechanical Island",
+          "duration": "24m"
+        },
+        {
+          "title": "The Friends' Whereabouts! An Island of Giant Birds and a Pink Paradise!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Friends' Whereabouts – Bridging the Islands and Vicious Vegetations!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Friends' Whereabouts! A Princess Negativity and the King of Demons!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "A Deadly Infiltration! The Underwater Prison Impel Down",
+          "duration": "24m"
+        },
+        {
+          "title": "A Reunion in Hell?! The Man Who Ate the Chop-Chop Fruit!",
+          "duration": "24m"
+        },
+        {
+          "title": "Break Through the Crimson Hell! Buggy's Chaos-Inducing Plan",
+          "duration": "24m"
+        },
+        {
+          "title": "The Strongest Man in the Prison! Poison Man Magellan Appears",
+          "duration": "24m"
+        },
+        {
+          "title": "A Special Presentation Related to the Movie! A Gold Lion's Ambition on the Move",
+          "duration": "24m"
+        },
+        {
+          "title": "A Special Presentation Related to the Movie! Little East Blue in Danger",
+          "duration": "24m"
+        },
+        {
+          "title": "A Special Presentation Related to the Movie! The Fierce Onslaught of the Amigo Pirates",
+          "duration": "24m"
+        },
+        {
+          "title": "A Special Presentation Related to the Movie! The Battle Is On! Luffy vs. Largo",
+          "duration": "24m"
+        },
+        {
+          "title": "A Warlord in Prison! Jimbei, the Honorable Pirate",
+          "duration": "24m"
+        },
+        {
+          "title": "Chief Guard Saldeath's Trap! Level 3 - Starvation Hell",
+          "duration": "24m"
+        },
+        {
+          "title": "The Unleashed Swan! A Reunion with Bon Clay",
+          "duration": "24m"
+        },
+        {
+          "title": "Warden Magellan's Strategy! Straw Hat Entrapment Completed!",
+          "duration": "24m"
+        },
+        {
+          "title": "All Forces Have Gathered! The Battle on Level 4, the Burning Heat Hell!",
+          "duration": "24m"
+        },
+        {
+          "title": "Mighty Magellan! Bon Clay Bugs Out",
+          "duration": "24m"
+        },
+        {
+          "title": "The Showdown Has Come! Luffy's Desperate Last Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "For His Friend! Bon Clay Goes to the Deadly Rescue!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Paradise in Hell! Impel Down Level 5.5!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's Treatment Begins! Ivan-san's Miraculous Power!",
+          "duration": "24m"
+        },
+        {
+          "title": "Believe in Miracles! Bon Clay's Cries from the Heart",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's Back! Ivan-san Begins the Breakout Plan!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ace's Convoy Begins! Battle on the Lowest Floor, Level 6!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ultimate Team Has Formed! Shaking Impel Down!",
+          "duration": "24m"
+        },
+        {
+          "title": "Even More Chaos! Here Comes Blackbeard Teech!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Dangerous Encounter! Blackbeard and Shiryu of the Rain!",
+          "duration": "24m"
+        },
+        {
+          "title": "No Price Too High! Serious Hannyabal!",
+          "duration": "24m"
+        },
+        {
+          "title": "Jet Pistol of Anger! Luffy vs. Blackbeard!",
+          "duration": "24m"
+        },
+        {
+          "title": "Stop Magellan! Ivan-san's Esoteric Technique Explodes",
+          "duration": "24m"
+        },
+        {
+          "title": "Magellan's Tricky Move! A Foiled Escape Plan!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Escapee Team in Trouble! The Forbidden Move: Venom Demon!",
+          "duration": "24m"
+        },
+        {
+          "title": "Come, Final Miracle! Break Through the Gate of Justice!",
+          "duration": "24m"
+        },
+        {
+          "title": "To the Navy Headquarters! Off to Rescue Ace!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Friends' Whereabouts! The Weatheria Report and the Cyborg Animals!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Friends' Whereabouts! A Cheeper of Giant Birds and a Pink Showdown!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Friends' Whereabouts! Revolutionaries and the Gorging Forest's Trap!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Friends' Whereabouts! A Huge Tomb and the Panty Debt!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Special Retrospective Before Marineford! The Vow of the Brotherhood!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Special Retrospective Before Marineford! The Three Navy Admirals Come Together!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ticking Down to the Time of Battle! The Navy's Strongest Lineup in Position!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Vast Fleet Appears! Here Come the Whitebeard Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Beginning of the War! Ace and Whitebeard's Past!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Force That Could Destroy the World! The Power of the Tremor-Tremor Fruit!",
+          "duration": "24m"
+        },
+        {
+          "title": "An All-Consuming Inferno!! Admiral Akainu's Power!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Descendent of the Beast! Little Oars Jr. - Full Speed Ahead!",
+          "duration": "24m"
+        },
+        {
+          "title": "Justice for the Winners! Sengoku's Strategy in Action!",
+          "duration": "24m"
+        },
+        {
+          "title": "Straw Hat Team Arrives! Tension Grows at the Battlefield",
+          "duration": "24m"
+        },
+        {
+          "title": "Even If It Means Death! Luffy vs. the Navy; The Battle Starts!",
+          "duration": "24m"
+        },
+        {
+          "title": "Hard Battles, One After Another! Devil Fruit Eaters vs. Devil Fruit Eaters!",
+          "duration": "24m"
+        },
+        {
+          "title": "Kuma's Transformation! Ivan-san's Blow of Anger!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Great Swordsman Mihawk! Luffy Comes Under the Attack of the Black Sword!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Extermination Strategy in Action! The Power of the Pacifistas!",
+          "duration": "24m"
+        },
+        {
+          "title": "Akainu's Plot! Whitebeard Entrapped!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Encircling Walls Activated! The Whitebeard Pirates backed into a corner!",
+          "duration": "24m"
+        },
+        {
+          "title": "Execution Order Issued! Break Through the Encircling Walls!",
+          "duration": "24m"
+        },
+        {
+          "title": "Moving into the Final Phase! Whitebeard's Trump Card for Recovery!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy at the End of His Tether! An All-out Battle at the Oris Plaza!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Power That Will Shorten One's Life! Energy Hormone, Redux!",
+          "duration": "24m"
+        },
+        {
+          "title": "To Live Up to a Promise! Luffy and Coby Collide!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Scaffold at Last! The Way to Ace Has Opened!",
+          "duration": "24m"
+        },
+        {
+          "title": "Each on Different Paths! Luffy vs. Garp!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ace Rescued! Whitebeard's Final Order!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Power That Can Burn Even Fire! Akainu's Ruthless Pursuit!",
+          "duration": "24m"
+        },
+        {
+          "title": "Looking for the Answer!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Navy Headquarters Falls! Whitebeard's Unspeakable Wrath!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ending the Matter! Whitebeard vs. The Blackbeard Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Show Begins! Blackbeard's Plot is Revealed!",
+          "duration": "24m"
+        },
+        {
+          "title": "Akainu's Tenacity! The Fist of Magma Attacks Luffy",
+          "duration": "24m"
+        },
+        {
+          "title": "The Desperate Scream! Courageous Moments that Will Change the Future",
+          "duration": "24m"
+        },
+        {
+          "title": "Here Comes Shanks! The War of the Best is Finally Over!",
+          "duration": "24m"
+        },
+        {
+          "title": "Mighty Leaders Face Each Other Down! Heralding the 'New Era'!",
+          "duration": "24m"
+        },
+        {
+          "title": "Landing at the Maiden Island! The Harsh Reality Falls upon Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (II)",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy and Ace! The Story of How the Brothers Met!",
+          "duration": "24m"
+        },
+        {
+          "title": "Here Comes Sabo! The Boy at the Gray Terminal!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Won't Run! Ace's Desperate Rescue Operation!",
+          "duration": "24m"
+        },
+        {
+          "title": "To The Sea Someday! The Pledge of the Three Brats!",
+          "duration": "24m"
+        },
+        {
+          "title": "Leaving the Dadan Family for Good?! The Kids' Hideout Has Been Built!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Becoming an Apprentice?! A Man Who Fought Against the King of the Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle against the Big Tiger! Who is Going to be Captain?!",
+          "duration": "24m"
+        },
+        {
+          "title": "Freedom Taken Away! The Nobles' Plot Closing in on the Brothers!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fire Has Been Set! The Gray Terminal in Crisis!",
+          "duration": "24m"
+        },
+        {
+          "title": "Where can freedom be found? A Sad Departure of a Boy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Take Good Care of Him! A Letter from the Brother!",
+          "duration": "24m"
+        },
+        {
+          "title": "To Live Up to the Promise! Departures of Their Own!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Want to See Them! Luffy's Mournful Cry!",
+          "duration": "24m"
+        },
+        {
+          "title": "Straw Hats in Shock! The Bad News Has Reached Them!",
+          "duration": "24m"
+        },
+        {
+          "title": "Reunited with Dark King Rayleigh! Decision Time for Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Back to Our Captain! A Jail Break at the Sky Island and the Incident on the Winter Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Encounter! The Great Swordsman Mihawk! Zoro's Self-Willed Deadly Struggle!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Disaster for Sanji! The Queen's Return to the Kingdom!",
+          "duration": "24m"
+        },
+        {
+          "title": "Unexpected Relanding! Luffy, to Marineford!",
+          "duration": "24m"
+        },
+        {
+          "title": "With Hopes It Will Reach My Friends! Big News Spreading Fast!",
+          "duration": "24m"
+        },
+        {
+          "title": "Pirates Get on the Move! Astounding New World!",
+          "duration": "24m"
+        },
+        {
+          "title": "Living through Hell! Sanji's Fight for His Manhood!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Will Get Much, Much Stronger! Zoro's Pledge to His Captain!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's Training Begins! To the Place We Promised in 2 Years!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Beginning of The New Chapter! The Straw Hats Reunited!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Explosive Situation! Luffy vs. Fake Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Navy Has Set Out! The Straw Hats in Danger!",
+          "duration": "24m"
+        },
+        {
+          "title": "Big Guns Assembled! The Danger of the Fake Straw Hats!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle is on! Show Them What You Got From Training!",
+          "duration": "24m"
+        },
+        {
+          "title": "Everyone Together! Luffy, Setting Out for the New World!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "A Surprising Fact! The Man Who Guarded the Sunny!",
+          "duration": "24m"
+        },
+        {
+          "title": "Deadly Combat under the Sea! The Demon of the Ocean Strikes!",
+          "duration": "24m"
+        },
+        {
+          "title": "Lost in the Deep Sea! The Straw Hats Get Separated!",
+          "duration": "24m"
+        },
+        {
+          "title": "Undersea Volcanic Eruption! Drifting to the Fish-Man Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Landing at the Fish-Man Island! Beautiful Mermaids!",
+          "duration": "24m"
+        },
+        {
+          "title": "Excitement Blow-out! Sanji's Life Under Threat!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fish-Man Island Will Be Annihilated?! Sharley's Prophecy!",
+          "duration": "24m"
+        },
+        {
+          "title": "The King of the Fish-Man Island! Neptune, the God of the Sea!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ryugu Palace! Taken by the Shark that They Saved!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Coward and a Crybaby! The Princess in the Hard Shell Tower!",
+          "duration": "24m"
+        },
+        {
+          "title": "It's An Emergency! The Ryugu Palace Is Occupied!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ryugu Palace in Shock! the Kidnapping of Shirahoshi!",
+          "duration": "24m"
+        },
+        {
+          "title": "Hordy's Onslaught! The Retaliatory Plan Set Into Motion!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ryugu Palace Fight! Zoro vs. Hordy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Keep Shirahoshi Safe! Decken Close Behind!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Straw Hats Defeated!? Hordy Gains Control of the Ryugu Palace!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Haunting Ties! Nami And The Fish-Man Pirates! The Resurrected Destiny! Nami and the Fishman Pirate Crew!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Hero Who Freed The Slaves! An Adventurer Tiger!",
+          "duration": "24m"
+        },
+        {
+          "title": "Kizaru Appears! A Trap To Catch Tiger!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Team Is Formed! Save Chopper (II)",
+          "duration": "24m"
+        },
+        {
+          "title": "The Death of the Hero! A Shocking Truth of Tiger!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Sun Pirates Split! Jimbei vs. Arlong!",
+          "duration": "24m"
+        },
+        {
+          "title": "Shaking Fish-Man Island! A Celestial Dragon Drifts In!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Sudden Tragedy! A Gunshot Shuts Down the Future!",
+          "duration": "24m"
+        },
+        {
+          "title": "Back to the Present! Hordy Makes a Move!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Kingdom in Shock! An Order to Execute Neptune Issued!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Rift Opens Up! Luffy vs. Jimbei!",
+          "duration": "24m"
+        },
+        {
+          "title": "Something Has Happened to Hordy! The True Power of the Evil Drug!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle is on! At Conchcorde Plaza!",
+          "duration": "24m"
+        },
+        {
+          "title": "Surprising Confession! The Truth Behind the Assassination of Otohime!",
+          "duration": "24m"
+        },
+        {
+          "title": "Shirahoshi's Tears! Luffy Finally Shows Up!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Great Clash! The Straw Hat Crew vs. 100,000 Enemies",
+          "duration": "24m"
+        },
+        {
+          "title": "Deadly Attacks One After Another! Zoro and Sanji Join The Battle!",
+          "duration": "24m"
+        },
+        {
+          "title": "Unveiled! The Secret Weapons of the Sunny!",
+          "duration": "24m"
+        },
+        {
+          "title": "Iron Pirates! General Franky Appears",
+          "duration": "24m"
+        },
+        {
+          "title": "Noah Approaches! The Crisis of Fishman Island's Destruction!",
+          "duration": "24m"
+        },
+        {
+          "title": "Hurry Up, Luffy! Shirahoshi's Desperate Situation",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle Begins! Luffy Vs. Hordy!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Massive Confused Fight! The Straw Hats vs. The New Fish-Man Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Loses the Fight?! Hordy's Long Awaited Revenge!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Shocking Fact! The True Identity of Hordy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Back to Zero! Ernest Wishes for Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's All-out Attack! Red Hawk Blasts!",
+          "duration": "24m"
+        },
+        {
+          "title": "Coming to an End! The Final Decisive Battle Against Hordy",
+          "duration": "24m"
+        },
+        {
+          "title": "Stop, Noah! Desperate Elephant Gantling!",
+          "duration": "24m"
+        },
+        {
+          "title": "To the Future! The Path to the Sun!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Secret Revealed! The Truth About the Ancient Weapon!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Straw Hats Stunned! The New Fleet Admiral of the Navy!",
+          "duration": "24m"
+        },
+        {
+          "title": "She Loves Sweets! Big Mom of the Four Emperors!",
+          "duration": "24m"
+        },
+        {
+          "title": "Many Problems Lie Ahead! A Trap Awaiting in the New World!",
+          "duration": "24m"
+        },
+        {
+          "title": "Finally Time to Go! Goodbye, Fish-Man Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "To the New World! Heading for the Ultimate Sea!",
+          "duration": "24m"
+        },
+        {
+          "title": "Z's Ambition! Lily the Little Giant!",
+          "duration": "24m"
+        },
+        {
+          "title": "Z's Ambition! A Dark and Powerful Army!",
+          "duration": "24m"
+        },
+        {
+          "title": "Z's Ambition! A Great and Desperate Escape Plan!",
+          "duration": "24m"
+        },
+        {
+          "title": "Z's Ambition! Luffy vs. Shuzo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Arriving! A Burning Island - Punk Hazard!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Battle in the Heat! Luffy vs. The Giant Dragon!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Straw Hats Stunned! Enter: A Samurai's Horrifying Severed Head!",
+          "duration": "24m"
+        },
+        {
+          "title": "Startling! The Secret of the Island Is Finally Revealed",
+          "duration": "24m"
+        },
+        {
+          "title": "Save the Children! The Straw Hats Start to Fight!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Swordplay Showdown! Brook Vs. The Mysterious Torso Samurai!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Warlord! Trafalgar Law",
+          "duration": "24m"
+        },
+        {
+          "title": "In a Real Pinch! Luffy Sinks into the Ice-cold Lake!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Collision! Law vs. Vice Admiral Smoker!",
+          "duration": "24m"
+        },
+        {
+          "title": "Meeting Again After Two Years! Luffy and Law!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Worst in the World! A Scientist of Terror - Caesar!",
+          "duration": "24m"
+        },
+        {
+          "title": "History's Strongest Collaboration vs. Glutton of the Sea (II)",
+          "duration": "24m"
+        },
+        {
+          "title": "Chopper's Fury! The Master's Inhumane Experiment!",
+          "duration": "24m"
+        },
+        {
+          "title": "To Annihilate the Straw Hats! Legendary Assassins Descend!",
+          "duration": "24m"
+        },
+        {
+          "title": "Save Nami! Luffy's Fight on the Snow-Capped Mountains!",
+          "duration": "24m"
+        },
+        {
+          "title": "Formed! Luffy and Law's Pirate Alliance!",
+          "duration": "24m"
+        },
+        {
+          "title": "Capture M! The Pirate Alliance's Operation Launches!",
+          "duration": "24m"
+        },
+        {
+          "title": "On the Verge of Annihilation! A Deadly Monster Comes Flying In!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Intense Battle! Caesar Exercises His True Power!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Samurai that Cuts the Fire! Kin'emon of Foxfire!",
+          "duration": "24m"
+        },
+        {
+          "title": "Shocking! The True Identity of the Mystery Man Vergo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Save the Children! The Master's Evil Hands Close in!",
+          "duration": "24m"
+        },
+        {
+          "title": "Shaking Up the New World! Caesar's Horrendous Experiment!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Deadliest Weapon of Mass Destruction in History! Shinokuni!",
+          "duration": "24m"
+        },
+        {
+          "title": "Launching the Counter Attack! Luffy and Law's Great Escape!",
+          "duration": "24m"
+        },
+        {
+          "title": "Get to Building R! The Pirate Alliance's Great Advance!",
+          "duration": "24m"
+        },
+        {
+          "title": "Tashigi's Tears! G-5's Desperate Breakthrough Plan!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Treacherous Vice Admiral! Demon Bamboo Vergo!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Fierce Battle Gets Heated! Luffy vs. Caesar!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Mastermind Underground! Doflamingo Makes His Move!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Dies from Exposure?! The Spine-chilling Snow Woman Monet!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fists Collide! A Battle of the Two Vice Admirals!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Small Dragon! Momonosuke Appears!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Deadly Fight in a Blizzard! The Straw Hats vs. the Snow Woman!",
+          "duration": "24m"
+        },
+        {
+          "title": "Showing Off His Techniques! Zoro's Formidable One-Sword Style!",
+          "duration": "24m"
+        },
+        {
+          "title": "To Save Her Friends! Mocha Runs at the Risk of Her Life!",
+          "duration": "24m"
+        },
+        {
+          "title": "Brownbeard in Grief! Luffy Lands a Furious Blow!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Surprising Outcome! White Chase vs. Vergo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Caesar's Defeat! The Powerful Grizzly Magnum!",
+          "duration": "24m"
+        },
+        {
+          "title": "Raid! An Assassin from Dressrosa!",
+          "duration": "24m"
+        },
+        {
+          "title": "Running Wild! Invincible General Franky!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Critical Situation! Punk Hazard Explodes!",
+          "duration": "24m"
+        },
+        {
+          "title": "Capture Caesar! General Cannon Blast!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Touching Reunion! Momonosuke and Kin'emon!",
+          "duration": "24m"
+        },
+        {
+          "title": "It's Time to Say Goodbye! Leaving Punk Hazard!",
+          "duration": "24m"
+        },
+        {
+          "title": "The G-5 Wiped Out! Doflamingo's Sudden Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "Intense! Aokiji vs. Doflamingo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Caesar Goes Missing! The Pirate Alliance Makes a Sortie!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Dies at Sea?! The Pirate Alliance Comes Apart!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Major Turnaround! Luffy's Angry Iron Fist Strikes!",
+          "duration": "24m"
+        },
+        {
+          "title": "Startling! The Big News Shakes Up the New World!",
+          "duration": "24m"
+        },
+        {
+          "title": "Explore! A Kingdom of Love and Passion: Dressrosa!",
+          "duration": "24m"
+        },
+        {
+          "title": "Full of Enthusiasm! The Corrida Colosseum!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Dangerous Love! The Dancer Girl: Violet!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Formidable, Unknown Warrior! Here Comes Lucy!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Pirate Noble! Cavendish!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fateful Reunion! Bellamy the Hyena!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Super Rookie! Bartolomeo the Cannibal!",
+          "duration": "24m"
+        },
+        {
+          "title": "Big Names Duke It Out! The Heated Block B Battle!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Deadly Blow! The Astonishing King Punch!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fishing Fish Strike! Across the Deadly Iron Bridge!",
+          "duration": "24m"
+        },
+        {
+          "title": "Explore! Fairies' Island - Green Bit!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Unknown World! The Tontatta Kingdom!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Stratagem of the Century! Doflamingo Makes His Move!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Shaking Heaven and Earth! Admiral Fujitora's Power!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Blow of Anger! A Giant vs. Lucy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Destruction Cannon Blasts! Lucy in Trouble!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Legendary Pirate! Don Chinjao!",
+          "duration": "24m"
+        },
+        {
+          "title": "Light and Shadow! Darkness behind Dressrosa!",
+          "duration": "24m"
+        },
+        {
+          "title": "Making a Sortie! The Legendary Hero Usoland!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fierce Battle Coming to the End! Lucy vs. Chinjao!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy and the Gladiator of Fate - Rebecca!",
+          "duration": "24m"
+        },
+        {
+          "title": "Protect You to the End! Rebecca and the Toy Soldier!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Last - and Bloodiest - Block! Block D Battle Begins!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Decisive Battle! Giolla vs. the Straw Hats!",
+          "duration": "24m"
+        },
+        {
+          "title": "Beautiful Sword! Cavendish of the White Horse!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Great Clash! Sanji vs. Doflamingo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Rebeccca’s Sword of Death! Backwater Sword Dance!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Most Violent Fighter! Logan vs. Rebecca!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Big Surprise! A True Identity of the Toy Soldier!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Horrible Past! The Secret of Dressrosa!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Nightmare! The Tragic Night of Dressrosa!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Showdown Between the Warlords! Law vs. Doflamingo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Two Great Rivals Meet Each Other! Straw Hat and Heavenly Demon!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Astonished! The Man Who Inherits Ace's Will!",
+          "duration": "24m"
+        },
+        {
+          "title": "Operation SOP Starts! Usoland Charges Forth!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Burning Passion! Rebecca vs. Suleiman!",
+          "duration": "24m"
+        },
+        {
+          "title": "The End of the Match?! A Surprising Result of Block D!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Admiral's Decision! Fujitora vs. Doflamingo!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Final Round Starts! Diamante The Hero Shows Up!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Moving Castle! The Top Executive Pica Rises up!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dragon Claw Strikes! Lucy's Intimidating Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "Defeat Sugar! The Army of the Little People Charges!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Last Light of Hope! The Secret of Our Commander!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Rupture Human! Gladius Blows Up Big Time!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Liar! Usoland on the Run!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Fateful Encounter! Kyros and King Riku!",
+          "duration": "24m"
+        },
+        {
+          "title": "Operation Failed! Usoland the Hero Dies!?",
+          "duration": "24m"
+        },
+        {
+          "title": "The Legend is Back! Kyros' All-Out Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fire Fist Strikes! The Flare-Flare Fruit Power Returns!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dashing onto the Scene! The Chief of Staff of the Revolutionary Army - Sabo!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Devil's Trap! A Dressrosa Extermination Plan!",
+          "duration": "24m"
+        },
+        {
+          "title": "The 500 Million Berry Man! Target: Usoland!",
+          "duration": "24m"
+        },
+        {
+          "title": "Breaking through Enemy Lines! Luffy and Zoro Launch the Counter-Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "With a Rumbling of the Ground! The God of Destruction - Giant Pica Descends!",
+          "duration": "24m"
+        },
+        {
+          "title": "Gathering into a Powerful Front! Luffy and a Group of Brutal Warriors!",
+          "duration": "24m"
+        },
+        {
+          "title": "Steady Progress! Luffy's Army vs. Pica!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Shocking Confession! Law's Soulful Vow!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Big Collision! Chief of Staff - Sabo vs. Admiral Fujitora!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Desperate Situation! Luffy Gets Caught in a Trap!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Great Escape! Luffy's Tide-turning Elephant Gun!",
+          "duration": "24m"
+        },
+        {
+          "title": "A United Front - Luffy's Breakthrough Towards Victory!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Second Samurai - Evening Shower Kanjuro Appears",
+          "duration": "24m"
+        },
+        {
+          "title": "A Hard-Fought Battle Against Pica! Zoro's Deadly Attack!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Little People's Princess! Captive Mansherry!",
+          "duration": "24m"
+        },
+        {
+          "title": "Invincible! A Gruesome Army of Headcracker Dolls!",
+          "duration": "24m"
+        },
+        {
+          "title": "Risking Their Lives! Luffy is the Trump Card for Victory!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Tearful Reunion! Rebecca and Kyros!",
+          "duration": "24m"
+        },
+        {
+          "title": "One Shot One Kill! The Man Who Will Save Dressrosa!",
+          "duration": "24m"
+        },
+        {
+          "title": "Anger Erupts! Luffy and Law's Ultimate Stratagem!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Noble Family! The True Identity of Doflamingo!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ultimate Power! The Secret of the Op-Op Fruit!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sad Memories! Law the Boy from the White Town!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Celestial Dragon! Doffy's Stormy Past",
+          "duration": "24m"
+        },
+        {
+          "title": "A Rocky Road! Law and Corazon's Journey of Life!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Time is Ticking Down! Seize the Op-Op Fruit!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Moment of Resolution! Corazon's Farewell Smile!",
+          "duration": "24m"
+        },
+        {
+          "title": "Advance, Law! The Kindhearted Man's Final Fight!",
+          "duration": "24m"
+        },
+        {
+          "title": "To Be Free! Law's Injection Shot Blasts!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Intense Battle! Law vs. Doflamingo!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Decisive Battle Against the Executives! Proud Hajrudin!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle of Love! The New Leader Sai vs. Baby 5!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Man's Pride! Bellamy's Last Charge!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Strong Wind and a Surge! Hakuba vs. Dellinger!",
+          "duration": "24m"
+        },
+        {
+          "title": "Barrier-Barrier! Homage God Fist Strikes!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healing Princess! Save Mansherry!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Manly Duel! Señor's Elegy of Love!",
+          "duration": "24m"
+        },
+        {
+          "title": "Stardust of Death! Diamante's Storm of Vicious Attacks!",
+          "duration": "24m"
+        },
+        {
+          "title": "Trueno Bastardo! Kyros' Furious Strike!",
+          "duration": "24m"
+        },
+        {
+          "title": "Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Decisive Battle in Midair! Zoro's New Special Secret Technique Blasts!",
+          "duration": "24m"
+        },
+        {
+          "title": "So Long! Bellamy's Farewell Blow!",
+          "duration": "24m"
+        },
+        {
+          "title": "Law Dies! Luffy's Raging Onslaught!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Blade of Tenacity! The Gamma Knife Counterattack!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Collision of Haki! Luffy vs. Doflamingo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Unassailable! The Stunning Secret of Trebol!",
+          "duration": "24m"
+        },
+        {
+          "title": "Anger Erupts - I'm Going to Take it All on!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fourth Gear! The Phenomenal Bounce-man!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Massive Counterattack! Doflamingo's Awakening!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy! An All-Out Leo Bazooka!",
+          "duration": "24m"
+        },
+        {
+          "title": "Flame Dragon King! Protect Luffy's Life!",
+          "duration": "24m"
+        },
+        {
+          "title": "Tears of Miracles! Mansherry's Fight!",
+          "duration": "24m"
+        },
+        {
+          "title": "As Long as We Breathe! Stop the Deadly Birdcage!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dead or Alive! A Fateful Countdown!",
+          "duration": "24m"
+        },
+        {
+          "title": "Attack on a Celestial! Luffy's King Kong Gun of Anger!",
+          "duration": "24m"
+        },
+        {
+          "title": "To Be Free! Dressrosa's Delight!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Unheard-of! Admiral Fujitora's Surprising Decision!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sending a Shock Wave! The Worst Generation Goes Into Action!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Birth of the Legend! The Adventures of the Revolutionary Warrior Sabo!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Brothers' Bond! The Untold Story Behind Luffy and Sabo's Reunion!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Strongest Creature! One of the Four Emperors - Kaido, King of the Beasts!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fujitora Takes Action! The Complete Siege of the Straw Hats!",
+          "duration": "24m"
+        },
+        {
+          "title": "A State of Emergency! Rebecca Is Kidnapped!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Bond Between Father and Daughter! Kyros and Rebecca!",
+          "duration": "24m"
+        },
+        {
+          "title": "Men's Pride! Luffy vs. Fujitora, Head-to-Head!",
+          "duration": "24m"
+        },
+        {
+          "title": "No Way Out! Admiral Fujitora's Ruthless Pursuit!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sons' Cups! Straw Hat Fleet is Formed!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Numerous Rivals Struggle Amongst Themselves! The Raging Monsters of the New World",
+          "duration": "24m"
+        },
+        {
+          "title": "The Silver Fortress – The Great Adventures of Luffy and Bart",
+          "duration": "24m"
+        },
+        {
+          "title": "An Underground Labyrinth – Luffy vs. Mine Cart Man",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Sword Technique Heats Up! Law and Zoro Finally Appear!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Desperate Situation - Luffy Fights a Battle in Extreme Heat",
+          "duration": "24m"
+        },
+        {
+          "title": "The Start of a New Adventure - Arrival at the Mysterious Island, 'Zou'!",
+          "duration": "24m"
+        },
+        {
+          "title": "The New Shichibukai - Son of the Legendary Whitebeard Arrives",
+          "duration": "24m"
+        },
+        {
+          "title": "A Deadly Elephant Climb - A Great Adventure on the Back of the Giant Elephant!",
+          "duration": "24m"
+        },
+        {
+          "title": "Battle Starts! Luffy vs. the Mink Tribe!",
+          "duration": "24m"
+        },
+        {
+          "title": "Garchu! The Straw Hat Crew Reunites",
+          "duration": "24m"
+        },
+        {
+          "title": "The Counterattack Begins! The Curly Hat Pirates Move Out!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Incoming Threat - Jack of the Beasts Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "The King of the Day! Duke Dogstorm Appears!",
+          "duration": "24m"
+        },
+        {
+          "title": "The King of the Night! Master Cat Viper Emerges!",
+          "duration": "24m"
+        },
+        {
+          "title": "Destruction of the Capital - Curly Hat Pirates Arrive on Land!",
+          "duration": "24m"
+        },
+        {
+          "title": "Race Against Time - The Bond of the Minks and the Crew!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Rascal Returns Home - Yonko Big Mom's Assassin",
+          "duration": "24m"
+        },
+        {
+          "title": "The Truth Behind His Disappearance - Sanji's Shocking Invitation",
+          "duration": "24m"
+        },
+        {
+          "title": "To My Buds! Sanji's Farewell Note!",
+          "duration": "24m"
+        },
+        {
+          "title": "Let's Go See Master Nekomamushi",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's Decision - Sanji on the Brink of Quitting!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Volatile Situation! The Dog and the Cat and the Samurai!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Third One! Raizo of the Mist, the Ninja, Appears",
+          "duration": "24m"
+        },
+        {
+          "title": "A Red Stone! A Guide to the One Piece",
+          "duration": "24m"
+        },
+        {
+          "title": "The Secret of the Wano Country - The Kozuki Family and the Poneglyphs",
+          "duration": "24m"
+        },
+        {
+          "title": "A Vow Between Two Men - Luffy and Kozuki Momonosuke",
+          "duration": "24m"
+        },
+        {
+          "title": "The Legendary Journey - The Dog and the Cat and the Pirate King!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Nightmare Returns - The Invincible Jack's Fierce Attack",
+          "duration": "24m"
+        },
+        {
+          "title": "A Battle to Defend Zou - Luffy and Zunisha!",
+          "duration": "24m"
+        },
+        {
+          "title": "Save Zunisha - The Straw Hat's Rescue Operation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Saying Goodbye and Descending from the Elephant - Setting Out to Take Back Sanji!",
+          "duration": "24m"
+        },
+        {
+          "title": "To the Reverie - Princess Vivi and Princess Shirahoshi",
+          "duration": "24m"
+        },
+        {
+          "title": "To the Reverie - Rebecca and the Sakura Kingdom",
+          "duration": "24m"
+        },
+        {
+          "title": "Kaido Returns - An Imminent Threat to the Worst Generation!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Hungry Front - Luffy and the Marine Rookies!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Implacable Three - A Big Chase After the Straw Hats!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Devil's Fist - A Show Down! Luffy vs. Grount",
+          "duration": "24m"
+        },
+        {
+          "title": "Sanji's Homecoming! Into Big Mom's Territory!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zero and Four! Encountering Germa 66!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Deadly Poison Crisis! Luffy and Reiju!",
+          "duration": "24m"
+        },
+        {
+          "title": "Totto Land! Emperor Big Mom Appears!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Emperor's Daughter! Sanji's Fiancée - Pudding!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Massive Attack! Mom's Hunger Pangs!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Capital City Falls?! Big Mom and Jimbei!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Emperor's Castle! Arriving at the Whole Cake Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Mysterious Forest Full of Candies! Luffy vs. Luffy?!",
+          "duration": "24m"
+        },
+        {
+          "title": "Mom's Assassin! Luffy and the Seducing Woods!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Seafaring Kingdom! Germa's King Judge!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Battle Between Father and Son! Judge vs. Sanji!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Giant Ambition! Big Mom and Caesar!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Land of Souls! Mom's Fatal Ability!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Top Officer! The Sweet 3 General Cracker Appears!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Enemy Worth 800 Million! Luffy vs. Thousand Armed Cracker!",
+          "duration": "24m"
+        },
+        {
+          "title": "An All-out Duel! Gear Four vs. the Bis-Bis Ability",
+          "duration": "24m"
+        },
+        {
+          "title": "The First and the Second Join! The Vinsmoke Family!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Benefactor's Life! Sanji and Owner Zeff!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Angry Sanji! The Secret of Germa 66!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Past that He Let Go of! Vinsmoke Sanji!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "To the East Blue! Sanji's Resolute Departure!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Battle of Limits! Luffy and the Infinite Biscuits!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Power of Satiety! A New Gear Four Form - Tank Man!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Heartbreaking Duel! Luffy vs Sanji! (1)",
+          "duration": "24m"
+        },
+        {
+          "title": "A Heartbreaking Duel! Luffy vs Sanji! (2)",
+          "duration": "24m"
+        },
+        {
+          "title": "A Storm of Revenge! An Enraged Army Comes to Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "The End of the Adventure! Sanji's Resolute Proposal!",
+          "duration": "24m"
+        },
+        {
+          "title": "I'll Wait Here! Luffy vs. the Enraged Army!",
+          "duration": "24m"
+        },
+        {
+          "title": "Invading the Chateau! Reach the Road Ponegliff!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Fateful Confrontation! Luffy and Big Mom!",
+          "duration": "24m"
+        },
+        {
+          "title": "Shout of the Soul! Brook and Pedro's Lightning Operation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Goodbye! Pudding's Tearful Determination!",
+          "duration": "24m"
+        },
+        {
+          "title": "The History of the Left Eye! Pedro vs. Baron Tamago!",
+          "duration": "24m"
+        },
+        {
+          "title": "Moist Cigarette! The Night Before Sanji's Wedding!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Undaunted Soul! Brook vs. Big Mom!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sora's Wish! Germa's Failure - Sanji!",
+          "duration": "24m"
+        },
+        {
+          "title": "To Reach Sanji! Luffy's Vengeful Hell-bent Dash!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Chateau in Turmoil! Luffy, to the Rendezvous!",
+          "duration": "24m"
+        },
+        {
+          "title": "Deciding to Say Goodbye! Sanji and his Straw-Hat Bento!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Emperor Rolls Over! Rescue Brook Mission!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Rendezvous! Luffy, a One-on-One at His Limit!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Liar! Luffy and Sanji!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sanji Comes Back! Crash! The Tea Party from Hell!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Secret Meeting! Luffy vs. the Fire Tank Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Deadly Pact! Luffy & Bege's Allied Forces!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Engages in a Secret Maneuver! The Wedding Full of Conspiracies Starts Soon!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Family Gets Together! The Hellish Tea Party Starts!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Broken Couple! Sanji and Pudding Enter!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off!",
+          "duration": "24m"
+        },
+        {
+          "title": "Returning the Sake Cup! The Manly Jimbei Pays His Debt!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Mission Failed?! The Big Mom Pirates Strike Back!",
+          "duration": "24m"
+        },
+        {
+          "title": "Run, Sanji! SOS! Germa 66!",
+          "duration": "24m"
+        },
+        {
+          "title": "Mom's Secret! The Giant's Island Elbaph and a Little Monster!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Birth of Mom! The Day That Carmel Vanished!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Launcher Blasts! The Moment of Big Mom's Assassination!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Evil Army! Transform! Germa 66!",
+          "duration": "24m"
+        },
+        {
+          "title": "Cutting the Father-Son Relationship! Sanji and Judge!",
+          "duration": "24m"
+        },
+        {
+          "title": "Escape From the Tea Party! Luffy vs. Big Mom!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Execution Begins! Luffy's Allied Forces Are Annihilated?!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Castle Collapses! The Straw Hat’s Great Escape Begins!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Spear of Elbaph! Onslaught! The Flying Big Mom!",
+          "duration": "24m"
+        },
+        {
+          "title": "Pudding's Determination! Ablaze! The Seducing Woods!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Lightning Counterattack! Nami and Zeus the Thundercloud!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Coincidental Reunion! Sanji and the Lovestruck Evil Pudding!",
+          "duration": "24m"
+        },
+        {
+          "title": "Save the Sunny! Fighting Bravely! Chopper and Brook!",
+          "duration": "24m"
+        },
+        {
+          "title": "Before the Dawn! Pedro, the Captain of the Guardians!",
+          "duration": "24m"
+        },
+        {
+          "title": "I'll Be Back! Luffy, Deadly Departure",
+          "duration": "24m"
+        },
+        {
+          "title": "The Man with a Bounty of Billion! The Strongest Sweet General, Katakuri!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Hard Battle Starts! Luffy vs. Katakuri!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Green Room! An Invincible Helmsman, Jimbei!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Threat of the Mole! Luffy’s Silent Fight!",
+          "duration": "24m"
+        },
+        {
+          "title": "The End of the Deadly Battle?! Katakuri's Awakening in Anger!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Forbidden Secret! Katakuri’s Merienda!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Fights Back! The Invincible Katakuri's Weak Point!",
+          "duration": "24m"
+        },
+        {
+          "title": "Another Crisis! Gear Four vs. Unstoppable Donuts!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Rebellious Daughter, Chiffon! Sanji's Big Plan for Transporting the Cake!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Man's Way of Life! Bege and Luffy's Determination as Captains!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Cake Sank?! Sanji and Bege's Getaway Battle!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sulong! Carrot's Big Mystic Transformation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Break Through! The Straw Hat's Mighty Sea Battle!",
+          "duration": "24m"
+        },
+        {
+          "title": "Finally, They Clash! The Emperor of the Sea vs. the Straw Hats!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dark King's Direct Precepts! The Battle Against Katakuri Turns Around!",
+          "duration": "24m"
+        },
+        {
+          "title": "Finally He Returns! Sanji, the Man Who'll Stop the Emperor of the Sea!",
+          "duration": "24m"
+        },
+        {
+          "title": "Lurking in the Darkness! An Assassin Targeting Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "One Man's Determination! Katakuri's Deadly Big Fight!",
+          "duration": "24m"
+        },
+        {
+          "title": "Wake Up! The Power of Observation Able to Top the Strongest!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Fist of Divine Speed! Another Fourth Gear Application Activated!",
+          "duration": "24m"
+        },
+        {
+          "title": "Finally, It's Over! The Climax of the Intense Fight against Katakuri!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Desperate Situation! The Iron-Tight Entrapment of Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Pulling Back from the Brink! The Formidable Reinforcements – Germa!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Last Hope! The Sun Pirates Emerge!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Captivating Flavor! Sanji's Cake of Happiness!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Man of Humanity and Justice! Jimbei, a Desperate Massive Ocean Current!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Parting Time! Pudding's Last Wish!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The World is Stunned! The Fifth Emperor of the Sea Emerges!",
+          "duration": "24m"
+        },
+        {
+          "title": "To the Reverie! The Straw Hats' Sworn Allies Come Together!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sabo Goes into Action! All the Captains of the Revolutionary Army Appear!",
+          "duration": "24m"
+        },
+        {
+          "title": "Going into Action! The Implacable New Admiral of the Fleet - Sakazuki!",
+          "duration": "24m"
+        },
+        {
+          "title": "The War of the Best! The Inherited Will of the King of the Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "One Step Forward for Her Dream! Shirahoshi Goes Out in the Sun!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Miss Him! Vivi and Rebecca's Sentiments!",
+          "duration": "24m"
+        },
+        {
+          "title": "In the Dark Recesses of the Holyland! A Mysterious Giant Straw Hat!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Holyland in Tumult! The Targeted Princess Shirahoshi!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Explosive Situation! Two Emperors of the Sea Going After Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sabo Enraged! The Tragedy of the Revolutionary Army Officer Kuma!",
+          "duration": "24m"
+        },
+        {
+          "title": "Finally, It Starts! The Conspiracy-filled Reverie!",
+          "duration": "24m"
+        },
+        {
+          "title": "Marco! The Keeper of Whitebeard's Last Memento!",
+          "duration": "24m"
+        },
+        {
+          "title": "Climbing Up a Waterfall! A Great Journey Through the Land of Wano's Sea Zone!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Land of Wano! To the Samurai Country where Cherry Blossoms Flutter!",
+          "duration": "24m"
+        },
+        {
+          "title": "Otama Appears! Luffy vs. Kaido's Army!",
+          "duration": "24m"
+        },
+        {
+          "title": "He'll Come! The Legend of Ace in the Land of Wano!",
+          "duration": "24m"
+        },
+        {
+          "title": "Side Story! The World's Greatest Bounty Hunter, Cidre!",
+          "duration": "24m"
+        },
+        {
+          "title": "Side Story! Clash! Luffy vs. the King of Carbonation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Save Otama! Straw Hat, Bounding through the Wasteland!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Headliner! Hawkins the Magician Appears!",
+          "duration": "24m"
+        },
+        {
+          "title": "Defeat is Inevitable! The Strawman's Fierce Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!",
+          "duration": "24m"
+        },
+        {
+          "title": "Charging into the Enemy's Territory! Bakura Town - Where Officials Thrive!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Yokozuna Appears! The Invincible Urashima Goes After Okiku!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Climactic Sumo Battle! Straw Hat vs. the Strongest Ever Yokozuna!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Rages! Rescue Otama from Danger!",
+          "duration": "24m"
+        },
+        {
+          "title": "Taking Back Otama! A Fierce Fight Against Holdem!",
+          "duration": "24m"
+        },
+        {
+          "title": "Duel! The Magician and the Surgeon of Death!",
+          "duration": "24m"
+        },
+        {
+          "title": "Romance Dawn",
+          "duration": "24m"
+        },
+        {
+          "title": "The Coming of the Treasure Ship! Luffytaro Returns the Favor!",
+          "duration": "24m"
+        },
+        {
+          "title": "Mysterious Grave Markers! A Reunion at the Ruins of Oden Castle!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Legendary Samurai! The Man Who Roger Admired!",
+          "duration": "24m"
+        },
+        {
+          "title": "Bringing Down the Emperor of the Sea! A Secret Raid Operation Begins!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Strongest Man in the World! Shutenmaru, the Thieves Brigade Chief!",
+          "duration": "24m"
+        },
+        {
+          "title": "Everyone is Annihilated! Kaido's Furious Blast Breath!",
+          "duration": "24m"
+        },
+        {
+          "title": "Finally Clashing! The Ferocious Luffy vs. Kaido!",
+          "duration": "24m"
+        },
+        {
+          "title": "Destructive! One Shot, One Kill – Thunder Bagua!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Living Hell! Luffy, Humiliated in the Great Mine!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles!",
+          "duration": "24m"
+        },
+        {
+          "title": "It's On! The Special Operation to Bring Down Kaido!",
+          "duration": "24m"
+        },
+        {
+          "title": "Rampage! The Prisoners – Luffy and Kid!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Great Sensation! Sanji's Special Soba!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luxurious and Gorgeous! Wano's Most Beautiful Woman – Komurasaki!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Tale of Chivalry! Zoro and Tonoyasu's Little Trip!",
+          "duration": "24m"
+        },
+        {
+          "title": "A State of Emergency! Big Mom Closes in!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Capital in an Uproar! Another Assassin Targets Sanji!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dashing! The Righteous Soba Mask!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Desperate Situation! Orochi's Menacing Oniwabanshu!",
+          "duration": "24m"
+        },
+        {
+          "title": "Pandemonium! The Monster Snake, Shogun Orochi!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Flower Falls! The Final Moment of the Most Beautiful Woman in the Land of Wano!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Bond Between Prisoners! Luffy and Old Man Hyo!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Lead Performer! Queen the Plague Emerges!",
+          "duration": "24m"
+        },
+        {
+          "title": "Climb Up! Luffy's Desperate Escape!",
+          "duration": "24m"
+        },
+        {
+          "title": "Dead or Alive! Queen's Sumo Inferno!",
+          "duration": "24m"
+        },
+        {
+          "title": "Gyukimaru! Zoro Fights a Duel on Bandit's Bridge!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Big Turnover! The Three-Sword Style Overcomes Danger!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zoro, Stunned! The Shocking Identity of the Mysterious Woman!",
+          "duration": "24m"
+        },
+        {
+          "title": "Get the Hang of It! The Land of Wano's Haki - Ryuo!",
+          "duration": "24m"
+        },
+        {
+          "title": "Tonoyasu! Ebisu Town's Most Loved!",
+          "duration": "24m"
+        },
+        {
+          "title": "Shaking the Nation! The Identity of Ushimitsu Kozo The Chivalrous Thief!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Straw Hats Run! Save the Captive Tonoyasu!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zoro's Fury! The Truth About the Smile!",
+          "duration": "24m"
+        },
+        {
+          "title": "Toko's Tears! Orochi's Pitiless Bullets!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Straw Hats Step In! An Uproarious Deadly Battle at the Execution Ground!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's Determination! Win Through the Sumo Inferno!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Storm Has Come! A Raging Big Mom!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Grudge Over Red-bean Soup! Luffy Gets into a Desperate Situation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Stop the Emperor of the Sea! Queen's Secret Plan!",
+          "duration": "24m"
+        },
+        {
+          "title": "Brutal Ammunition! The Plague Rounds Aim at Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "Start Fighting Back! Luffy and the Akazaya Samurai!",
+          "duration": "24m"
+        },
+        {
+          "title": "We’re Here to Win! Luffy's Desperate Scream!",
+          "duration": "24m"
+        },
+        {
+          "title": "Warriors' Dream! Luffy's Conquer of Udon!",
+          "duration": "24m"
+        },
+        {
+          "title": "Orochi's Hunting Party! The Ninja Group vs. Zoro!",
+          "duration": "24m"
+        },
+        {
+          "title": "Tension Rises in Onigashima! Two Emperors of the Sea Meet?!",
+          "duration": "24m"
+        },
+        {
+          "title": "Hiyori's Confession! A Reunion at Bandit's Bridge!",
+          "duration": "24m"
+        },
+        {
+          "title": "Its Name is Enma! Oden's Great Swords!",
+          "duration": "24m"
+        },
+        {
+          "title": "A New Alliance?! Kaido’s Army Gathers!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ticking Down to the Great Battle! The Straw Hats Go into Combat Mode!",
+          "duration": "24m"
+        },
+        {
+          "title": "Big News! An Incident That Will Affect the Seven Warlords!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Legendary Battle! Garp and Roger!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Rendezvous Port! The Land of Wano Act Three Begins!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Number-One Samurai in the Land of Wano! Here comes Kozuki Oden!",
+          "duration": "24m"
+        },
+        {
+          "title": "Tearfully Swearing Allegiance! Oden and Kin'emon!",
+          "duration": "24m"
+        },
+        {
+          "title": "Changing Destiny! The Whitebeard Pirates Cast Ashore!",
+          "duration": "24m"
+        },
+        {
+          "title": "Oden's Determination! Whitebeard's Test!",
+          "duration": "24m"
+        },
+        {
+          "title": "Whitebeard's Little Brother! Oden's Great Adventure!",
+          "duration": "24m"
+        },
+        {
+          "title": "Crossing Swords! Roger and Whitebeard!",
+          "duration": "24m"
+        },
+        {
+          "title": "Roger's Wish! A New Journey!",
+          "duration": "24m"
+        },
+        {
+          "title": "Devoting His Life! Roger's Adventure!",
+          "duration": "24m"
+        },
+        {
+          "title": "The King of the Pirates is Born! Arriving at the Last Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "To the Land of Wano! The Roger Pirates Disband!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sad News! The Opening of the Great Pirate Era!",
+          "duration": "24m"
+        },
+        {
+          "title": "Raid! Oden and the Akazaya Nine!",
+          "duration": "24m"
+        },
+        {
+          "title": "The End of the Battle! Oden vs. Kaido!",
+          "duration": "24m"
+        },
+        {
+          "title": "Boiled to Death! Oden's One-hour Struggle!",
+          "duration": "24m"
+        },
+        {
+          "title": "Oden Wouldn't Be Oden If It Wasn't Boiled!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Castle on Fire! The Fate of the Kozuki Clan!",
+          "duration": "24m"
+        },
+        {
+          "title": "Back to the Present Day! 20 Years Later!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Sea Is For Pirates! Raid! To Onigashima!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Worst Generation Charges in! The Battle of the Stormy Sea!",
+          "duration": "24m"
+        },
+        {
+          "title": "Good Luck?! Leader Kin’emon’s Plot!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Tearful Promise! The Kidnapped Momonosuke!",
+          "duration": "24m"
+        },
+        {
+          "title": "A New Member! 'First Son of the Sea' Jimbei!",
+          "duration": "24m"
+        },
+        {
+          "title": "Kaido’s Trump Card! The Tobi Roppo Appear!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Samurai Warriors’ Earnestness! The Straw Hats Land at Onigashima!",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Goes Out of Control?! Sneaking into Kaido’s Banquet!",
+          "duration": "24m"
+        },
+        {
+          "title": "Thinking of Otama! Luffy’s Furious Strike!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fighting Music! An Ability That Harms Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "His Dream Broken?! The Trap That Lures Sanji!",
+          "duration": "24m"
+        },
+        {
+          "title": "Reinforcements Arrive! The Commander of the Whitebeard Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Pact Between Men! The Fierce Fighting of Brachio Tank!",
+          "duration": "24m"
+        },
+        {
+          "title": "Thunder Bagua! Here Comes Kaido’s Son!",
+          "duration": "24m"
+        },
+        {
+          "title": "Enemy or Ally? Luffy and Yamato!",
+          "duration": "24m"
+        },
+        {
+          "title": "Desire to be Oden! Yamato’s Dream!",
+          "duration": "24m"
+        },
+        {
+          "title": "Explosive?! The Handcuffs that Shackle Yamato’s Freedom!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Akazaya Face-off! Kikunojo vs. Kanjuro!",
+          "duration": "24m"
+        },
+        {
+          "title": "Raid! Inheriting Oden's Will!",
+          "duration": "24m"
+        },
+        {
+          "title": "Onigashima in Tumult! Luffy’s All-Out War Begins!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle Under the Moon! The Berserker, Sulong the Moon Lion!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zeus’ Treason?! The Cornered Nami!",
+          "duration": "24m"
+        },
+        {
+          "title": "I’ll Protect You! Yamato Meets Momonosuke!",
+          "duration": "24m"
+        },
+        {
+          "title": "Overwhelming Strength! The Straw Hats Come Together!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Risky Invitation! A Plot to Eliminate Queen!",
+          "duration": "24m"
+        },
+        {
+          "title": "A New Rivalry! Nami and Ulti!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Heroic Blade! Akazaya vs. Kaido, Again Once More!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Inherited Technique! Unleashing Oden’s Secret Swordplay!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Power of Ice Oni! A New Version of the Plague Rounds!",
+          "duration": "24m"
+        },
+        {
+          "title": "I Won’t Forgive Him! Chopper’s Determination!",
+          "duration": "24m"
+        },
+        {
+          "title": "Zoro’s Pursuit! Ice Oni Tag!",
+          "duration": "24m"
+        },
+        {
+          "title": "Nami Surrenders?! Ulti’s Fierce Headbutt!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sasaki’s Onslaught! Armored Division vs. Yamato!",
+          "duration": "24m"
+        },
+        {
+          "title": "Eliminate the Ice Oni! Chopper’s Fire Trick!",
+          "duration": "24m"
+        },
+        {
+          "title": "It’s Not Okay! The Spider Lures Sanji!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Turnaround Move! The Flames of Marco the Phoenix!",
+          "duration": "24m"
+        },
+        {
+          "title": "Yamato’s Past! The Man Who Came for an Emperor of the Sea!",
+          "duration": "24m"
+        },
+        {
+          "title": "Marco’s Tears! The Bond of the Whitebeard Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "Straw Hat Luffy! The Man Who Will Become the King of the Pirates!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Battle of the Monsters! The Three Stubborn Captains!",
+          "duration": "24m"
+        },
+        {
+          "title": "Barrage of Powerful Techniques! The Fierce Attacks of the Worst Generation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Kaido Laughs! The Emperors of the Sea vs. the New Generation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Otama’s Secret Plan! Operation Kibi Dango!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sanji’s Scream! An SOS Echoes Over the Island!",
+          "duration": "24m"
+        },
+        {
+          "title": "Spank Strikes! Sanji's Woman-trouble!",
+          "duration": "24m"
+        },
+        {
+          "title": "No Regrets! Luffy and Boss, a Master-Disciple Bond!",
+          "duration": "24m"
+        },
+        {
+          "title": "All Set! Chopperphage Nebulizer!",
+          "duration": "24m"
+        },
+        {
+          "title": "Oden Appears! The Confused Hearts of the Akazaya Members!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Worst Generation Gets Wiped Out?! The Emperors’ Deadly Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Supernovas Strike Back! The Mission to Tear Apart the Emperors!",
+          "duration": "24m"
+        },
+        {
+          "title": "Defend Luffy! Zoro and Law’s Sword Technique!",
+          "duration": "24m"
+        },
+        {
+          "title": "Surpass the Emperor of the Sea! Luffy Strikes Back with an Iron Fist!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Faint Memory! Luffy and Red-Haired’s Daughter Uta!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Pledge for the New Genesis! Luffy and Uta!",
+          "duration": "24m"
+        },
+        {
+          "title": "Nami Screams - A Deadly Death Race!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Dawn of the Land of Wano! The All-Out Battle Heats Up!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Conclusion! Luffy, Accelerating Fist of the Supreme King",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy, Defeated! The Straw Hats in Jeopardy?!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Animal Kingdom Pirates Trample Down! The End of the Kozuki Clan!",
+          "duration": "24m"
+        },
+        {
+          "title": "Fight Against the Dark Night! The Commander-in-chief of the Land of Wano Sounds Off!",
+          "duration": "24m"
+        },
+        {
+          "title": "Believe in Luffy! The Alliance’s Counterattack Begins!",
+          "duration": "24m"
+        },
+        {
+          "title": "Nami’s Lethal Attack! Otama’s Desperate Challenge!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Dramatic Increase of Allies! Straw Hats Fight Back!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Pride of a Helmsman! The Enraged Jimbei!",
+          "duration": "24m"
+        },
+        {
+          "title": "Showdown Battles of the Monsters! Yamato and Franky",
+          "duration": "24m"
+        },
+        {
+          "title": "The Predator’s Trap - Black Maria’s Temptation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Slash the Nightmare! Brook Draws His Freezing Sword!",
+          "duration": "24m"
+        },
+        {
+          "title": "Clutch! A Demon Incarnate, Robin!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Spell! Kid and Zoro Facing Threats!",
+          "duration": "24m"
+        },
+        {
+          "title": "Taking a Chance! The Two Arms Go into Battle!",
+          "duration": "24m"
+        },
+        {
+          "title": "Ascend to the Dawn! A Pink Dragon Gets Agitated",
+          "duration": "24m"
+        },
+        {
+          "title": "For the Future! Yamato and the Great Swordsmen’s Pledge",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Soars! Revenge Against the King of the Beasts",
+          "duration": "24m"
+        },
+        {
+          "title": "Two Dragons Face Off! Momonosuke’s Determination!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Legend All Over Again! Luffy’s Fist Roars in the Sky",
+          "duration": "24m"
+        },
+        {
+          "title": "The Situation Has Grown Tense! The End of Onigashima!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sanji's Mutation - The Two Arms in Crisis!",
+          "duration": "24m"
+        },
+        {
+          "title": "Death to Your Partner! Killer's Deadly Gamble!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Shadowy Figure Pulls the Strings! Onigashima in Flames",
+          "duration": "24m"
+        },
+        {
+          "title": "Strike Back! Law and Kid's Counterattack Alliance",
+          "duration": "24m"
+        },
+        {
+          "title": "For Luffy - Sanji and Zoro's Oath",
+          "duration": "24m"
+        },
+        {
+          "title": "The Onslaught of Kazenbo - Orochi's Evil Clutches Close in",
+          "duration": "24m"
+        },
+        {
+          "title": "Zoro's Hardship - A Monster! King the Wildfire",
+          "duration": "24m"
+        },
+        {
+          "title": "Secrets of Enma! The Cursed Sword Entrusted to Zoro",
+          "duration": "24m"
+        },
+        {
+          "title": "The Strike of an Ifrit! Sanji vs. Queen",
+          "duration": "24m"
+        },
+        {
+          "title": "The Three-Sword Style of the Supreme King! Zoro vs. King",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy is on the Move! A Turning Point of a New Era!",
+          "duration": "24m"
+        },
+        {
+          "title": "Drunken Dragon Bagua! The Lawless Dragon Closing in on Luffy",
+          "duration": "24m"
+        },
+        {
+          "title": "The Destruction of the Alliance?! Fire up, the Will of the New Generation!",
+          "duration": "24m"
+        },
+        {
+          "title": "Here Comes the Main Act! Powerful Techniques of Shockwave and Magnetism!",
+          "duration": "24m"
+        },
+        {
+          "title": "To the New Era! Settled! The Determination of the Brats",
+          "duration": "24m"
+        },
+        {
+          "title": "Moon Princess Echoes! The Final Phase of the Land of Wano!",
+          "duration": "24m"
+        },
+        {
+          "title": "There is Only One Winner - Luffy vs. Kaido",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy Is Defeated?! The Determination of Those Left Behind",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's Peak - Attained! Gear Five",
+          "duration": "24m"
+        },
+        {
+          "title": "The Ridiculous Power! Gear Five in Full Play",
+          "duration": "24m"
+        },
+        {
+          "title": "No Way Out! A Hellish Scene on Onigashima",
+          "duration": "24m"
+        },
+        {
+          "title": "I Trust Momo - Luffy's Final Powerful Technique!",
+          "duration": "24m"
+        },
+        {
+          "title": "20 Years' Worth of Prayers! Take Back the Land of Wano!",
+          "duration": "24m"
+        },
+        {
+          "title": "The World That Luffy Wants!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Curtain Falls! The Winner, Straw Hat Luffy!",
+          "duration": "24m"
+        },
+        {
+          "title": "He Returns! The Shogun of the Land of Wano, Kozuki Momonosuke",
+          "duration": "24m"
+        },
+        {
+          "title": "The Morning Comes! Luffy and the Others Rest!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Celebration Banquet! The New Emperors of the Sea!",
+          "duration": "24m"
+        },
+        {
+          "title": "The World Will Burn! The Onslaught of a Navy Admiral!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Coming of the New Era! The Red-Haired's Imperial Rage",
+          "duration": "24m"
+        },
+        {
+          "title": "The World That Moves On! A New Organization, Cross Guild",
+          "duration": "24m"
+        },
+        {
+          "title": "Time to Depart - The Land of Wano and the Straw Hats",
+          "duration": "24m"
+        },
+        {
+          "title": "The Last Curtain! Luffy and Momonosuke's Vow",
+          "duration": "24m"
+        },
+        {
+          "title": "A New Emperor! Buggy the Genius Jester!",
+          "duration": "24m"
+        },
+        {
+          "title": "The War on the Island of Women! A Case Involving Koby the Hero",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy's Dream",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Entering a New Chapter! Luffy and Sabo's Paths!",
+          "duration": "24m"
+        },
+        {
+          "title": "A New Island! Future Island Egghead",
+          "duration": "24m"
+        },
+        {
+          "title": "Brimming with the Future! An Adventure on the Island of Science!",
+          "duration": "24m"
+        },
+        {
+          "title": "Bonney's Lamentation! Darkness Lurking on the Future Island",
+          "duration": "24m"
+        },
+        {
+          "title": "The Winner Takes All! Law vs. Blackbeard!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Mystery Deepens! Egghead Labophase",
+          "duration": "24m"
+        },
+        {
+          "title": "The Brain of a Genius - Six Vegapunks!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Forbidden Piece of History! A Theory Concerning a Kingdom",
+          "duration": "24m"
+        },
+        {
+          "title": "The Will of Ohara! The Inherited Research",
+          "duration": "24m"
+        },
+        {
+          "title": "The Eccentric Dream of a Genius!",
+          "duration": "24m"
+        },
+        {
+          "title": "Preparations for Interception! Rob Lucci Strikes!",
+          "duration": "24m"
+        },
+        {
+          "title": "Powers on a Different Level! Luffy vs. Lucci!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Strongest Form of Humanity! The Seraphim's Powers!",
+          "duration": "24m"
+        },
+        {
+          "title": "Sinister Schemes! The Operation to Escape Egghead",
+          "duration": "24m"
+        },
+        {
+          "title": "Turn Back My Father! Bonney's Futile Wish!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Desperate Situation! The Seraphim's All-out Attack!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Beautiful Act of Treason! The Spy, Stussy",
+          "duration": "24m"
+        },
+        {
+          "title": "Trouble Occurs! Seek Dr. Vegapunk!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Shudder! The Evil Hand Creeping Up on the Laboratory",
+          "duration": "24m"
+        },
+        {
+          "title": "Incomprehensible! The Seraphim's Rebellion!",
+          "duration": "24m"
+        },
+        {
+          "title": "A Tough Decision! An Unusual United Front!",
+          "duration": "24m"
+        },
+        {
+          "title": "Survive! Deadly Combat with the Strongest Form of Humanity!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Second Ohara! The Mastermind's Ambition!",
+          "duration": "24m"
+        },
+        {
+          "title": "Clash! Shanks vs. Eustass Kid",
+          "duration": "24m"
+        },
+        {
+          "title": "Run, Koby! A Desperate Escape Strategy!",
+          "duration": "24m"
+        },
+        {
+          "title": "For the Beloved Pupil - The Fist of Vice Admiral Garp!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Navy Surprised! The Navy Headquarters' Former Admiral, Kuzan",
+          "duration": "24m"
+        },
+        {
+          "title": "Let's Go Get It! Buggy's Big Declaration",
+          "duration": "24m"
+        },
+        {
+          "title": "Sabo Returns - The Shocking Truth to Be Told!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Holy Land in Tumult! Sai and Leo's Full-Power Blow!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Entrusted Message! King Cobra’s Resolve",
+          "duration": "24m"
+        },
+        {
+          "title": "The World Is Shaken! The Ruler's Judgment and the Five Elders' Actions!",
+          "duration": "24m"
+        },
+        {
+          "title": "Garp and Kuzan - A Master and a Pupil's Beliefs Clash",
+          "duration": "24m"
+        },
+        {
+          "title": "The Last Lesson! Impact Inherited",
+          "duration": "24m"
+        },
+        {
+          "title": "The World Shakes! The Straw Hats' Hostage Situation",
+          "duration": "24m"
+        },
+        {
+          "title": "Completely Surrounded! The Operation to Escape Egghead",
+          "duration": "24m"
+        },
+        {
+          "title": "A Clash of Two Men's Determination! Kizaru and Sentomaru",
+          "duration": "24m"
+        },
+        {
+          "title": "Looming Despair! Admiral Kizaru's Depressing Mission",
+          "duration": "24m"
+        },
+        {
+          "title": "Luffy vs. Kizaru!  A Fierce Kaleidoscopic Battle",
+          "duration": "24m"
+        },
+        {
+          "title": "The Nightmare Strikes - Godhead of Science & Defense, St. Saturn",
+          "duration": "24m"
+        },
+        {
+          "title": "Kuma's Past - Better Off Dead in This World",
+          "duration": "24m"
+        },
+        {
+          "title": "A History Erased! God Valley of Despair",
+          "duration": "23m"
+        },
+        {
+          "title": "A Fleeting Moment of Happiness - Kumachi and Ginny",
+          "duration": "23m"
+        },
+        {
+          "title": "A Pledge to Ginny - Kuma Becomes a Father",
+          "duration": "24m"
+        },
+        {
+          "title": "To Save His Daughter - Kuma the Timid Pacifist",
+          "duration": "24m"
+        },
+        {
+          "title": "Cruel Fate - Kuma's Decision as a Father",
+          "duration": "24m"
+        },
+        {
+          "title": "To the Sea Where My Father Is! The Future Bonney Chooses",
+          "duration": "24m"
+        },
+        {
+          "title": "Kuma's Life",
+          "duration": "24m"
+        },
+        {
+          "title": "I'm Sorry, Dad - Bonney's Tears and Kuma's Fist",
+          "duration": "24m"
+        },
+        {
+          "title": "Thank You, Dad - Bonney and Kuma's Warm Embrace",
+          "duration": "24m"
+        },
+        {
+          "title": "Destroy Egghead - The Buster Call Is Invoked",
+          "duration": "24m"
+        },
+        {
+          "title": "An Admired Hero - The Warrior of Liberation Who Saves Bonney",
+          "duration": "24m"
+        },
+        {
+          "title": "Reliable Reinforcements! Dorry and Brogy Arrive!",
+          "duration": "23m"
+        },
+        {
+          "title": "Come In, World - Vegapunk's Message",
+          "duration": "24m"
+        },
+        {
+          "title": "Vegapunk's Secret Plan - A Tense Worldwide Broadcast",
+          "duration": "24m"
+        },
+        {
+          "title": "The Worst Nightmare - The Five Elders Come Together",
+          "duration": "24m"
+        },
+        {
+          "title": "Friends Fight Together! Luffy and the Warriors of Elbaph",
+          "duration": "24m"
+        },
+        {
+          "title": "An Imminent Threat - Stussy and Edison's Resolve",
+          "duration": "24m"
+        },
+        {
+          "title": "A Stunning Conclusion - Vegapunk's Great Prediction",
+          "duration": "24m"
+        },
+        {
+          "title": "The Lost History - Joyboy, the First Pirate",
+          "duration": "24m"
+        },
+        {
+          "title": "The Void Century - A Revelation About a Sinking World",
+          "duration": "24m"
+        },
+        {
+          "title": "Get the Ship Moving! The Iron Giant Activates",
+          "duration": "24m"
+        },
+        {
+          "title": "Her and Her Father's Dream! Bonney's Free Future",
+          "duration": "24m"
+        },
+        {
+          "title": "Her Father and Mother's Legacy! Bonney's Nika Punch",
+          "duration": "24m"
+        },
+        {
+          "title": "The Upheaval of an Era! The Color of the Supreme King That Leads Luffy",
+          "duration": "24m"
+        },
+        {
+          "title": "The Truth Behind the Secret Plan - Vegapunk Claims Victory",
+          "duration": "24m"
+        },
+        {
+          "title": "The Promised Horizon - Off to the Long-Awaited Elbaph!",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Long-sought Elbaph! The Big Reunion Banquet!",
+          "duration": "24m"
+        },
+        {
+          "title": "Nami in a Fix! An Adventure in Block Kingdom",
+          "duration": "24m"
+        },
+        {
+          "title": "A Quest in the Land of Mystery! The Secret of the Sun God",
+          "duration": "23m"
+        },
+        {
+          "title": "Destroy the Miniature Garden - Escape Block Kingdom!",
+          "duration": "24m"
+        },
+        {
+          "title": "An Encounter on a Snowfield - Loki, the Accursed Prince",
+          "duration": "24m"
+        },
+        {
+          "title": "A Dangerous Deal! Loki of the Underworld and Luffy",
+          "duration": "24m"
+        },
+        {
+          "title": "A Gargantuan Wave of Emotion - The Dreamlike Scenery of Elbaph",
+          "duration": "24m"
+        },
+        {
+          "title": "I Want You to Praise Me - The Reunion of Robin and Saul",
+          "duration": "24m"
+        },
+        {
+          "title": "Saul's Resolve - The Inherited Will of Ohara",
+          "duration": "24m"
+        },
+        {
+          "title": "A Welcome with Friends' Cups and Intruders Seeking Loki",
+          "duration": "23m"
+        },
+        {
+          "title": "Encountering Loki - Gunko of the Knights of God",
+          "duration": "23m"
+        },
+        {
+          "title": "Shamrock Appears - Commander of the Knights of God",
+          "duration": "23m"
+        },
+        {
+          "title": "Episode 1168",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1169",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1170",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1171",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1172",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1173",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1174",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1175",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1176",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1177",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1178",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1179",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1180",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 1181",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
     {
   "imdb": "tt34809853",
   "title": "Teach You a Lesson",
