@@ -1,5 +1,1406 @@
 {
   "movies": [
+    {
+  "imdb": "tt13293588",
+  "title": "Mushoku Tensei: Jobless Reincarnation",
+  "type": "series",
+  "release": 2021,
+  "duration": "3 Seasons",
+  "quality": "4K",
+  "description": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+  "genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Yumi Uchiyama",
+    "Tomokazu Sugita",
+    "Konomi Kohara",
+    "Ai Kakuma",
+    "Ai Kayano"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.6",
+  "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+  "trailer": "https://www.youtube.com/embed/k5VxfJpzy1Q",
+  "baseviews": "1.3M",
+  "popularity": 86,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Jobless Reincarnation",
+          "duration": "24m"
+        },
+        {
+          "title": "Master",
+          "duration": "24m"
+        },
+        {
+          "title": "A Friend",
+          "duration": "24m"
+        },
+        {
+          "title": "Emergency Family Meeting",
+          "duration": "24m"
+        },
+        {
+          "title": "A Young Lady and Violence",
+          "duration": "24m"
+        },
+        {
+          "title": "A Day Off in Roa",
+          "duration": "24m"
+        },
+        {
+          "title": "What Lies Beyond Effort",
+          "duration": "24m"
+        },
+        {
+          "title": "Turning Point 1",
+          "duration": "24m"
+        },
+        {
+          "title": "A Chance Encounter",
+          "duration": "24m"
+        },
+        {
+          "title": "The Value of a Life and the First Job",
+          "duration": "24m"
+        },
+        {
+          "title": "Children and Warriors",
+          "duration": "24m"
+        },
+        {
+          "title": "The Woman with the Demon Eyes",
+          "duration": "24m"
+        },
+        {
+          "title": "Missed Connections",
+          "duration": "24m"
+        },
+        {
+          "title": "No Such Thing as a Free Lunch",
+          "duration": "24m"
+        },
+        {
+          "title": "Slow Life in the Doldia Village",
+          "duration": "24m"
+        },
+        {
+          "title": "Family Squabble",
+          "duration": "24m"
+        },
+        {
+          "title": "Reunion",
+          "duration": "24m"
+        },
+        {
+          "title": "Separate Journeys",
+          "duration": "24m"
+        },
+        {
+          "title": "Route Selection",
+          "duration": "24m"
+        },
+        {
+          "title": "The Birth of My Little Sister, the Maid",
+          "duration": "24m"
+        },
+        {
+          "title": "Turning Point 2",
+          "duration": "24m"
+        },
+        {
+          "title": "Dreams and Reality",
+          "duration": "24m"
+        },
+        {
+          "title": "Wake Up and Take a Step",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Brokenhearted Mage",
+          "duration": "24m"
+        },
+        {
+          "title": "The Forest in the Dead of Night",
+          "duration": "24m"
+        },
+        {
+          "title": "Abrupt Approach",
+          "duration": "24m"
+        },
+        {
+          "title": "Letter of Invitation",
+          "duration": "24m"
+        },
+        {
+          "title": "Ranoa University of Magic",
+          "duration": "24m"
+        },
+        {
+          "title": "I Don't Want To Die",
+          "duration": "24m"
+        },
+        {
+          "title": "The Kidnapping and Confinement of Beast Girls",
+          "duration": "24m"
+        },
+        {
+          "title": "The Fiancé of Despair",
+          "duration": "24m"
+        },
+        {
+          "title": "The White Mask",
+          "duration": "24m"
+        },
+        {
+          "title": "These Feelings",
+          "duration": "24m"
+        },
+        {
+          "title": "To You",
+          "duration": "24m"
+        },
+        {
+          "title": "I Want to Tell You",
+          "duration": "24m"
+        },
+        {
+          "title": "My Dream Home",
+          "duration": "24m"
+        },
+        {
+          "title": "Wedding Reception",
+          "duration": "24m"
+        },
+        {
+          "title": "Afar",
+          "duration": "24m"
+        },
+        {
+          "title": "Norn and Aisha",
+          "duration": "24m"
+        },
+        {
+          "title": "My Older Brother's Feelings",
+          "duration": "24m"
+        },
+        {
+          "title": "Turning Point 3",
+          "duration": "24m"
+        },
+        {
+          "title": "Desert Journey",
+          "duration": "24m"
+        },
+        {
+          "title": "Into the Labyrinth",
+          "duration": "24m"
+        },
+        {
+          "title": "Magic Circle to the Sixth Stratum",
+          "duration": "24m"
+        },
+        {
+          "title": "Parents",
+          "duration": "24m"
+        },
+        {
+          "title": "Let's Go Home",
+          "duration": "24m"
+        },
+        {
+          "title": "Succession",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "duration": "24m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt2560140",
+  "title": "Attack on Titan",
+  "type": "series",
+  "release": 2013,
+  "duration": "4 Seasons",
+  "quality": "4K",
+  "description": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+  "genre": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Yuki Kaji",
+    "Yui Ishikawa",
+    "Marina Inoue",
+    "Kisho Taniyama",
+    "Hiro Shimono"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.7",
+  "poster": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+  "trailer": "https://www.youtube.com/embed/HJaUvV9Hwgs",
+  "baseviews": "1.3M",
+  "popularity": 84,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "To You, in 2000 Years: The Fall of Shiganshina (1)",
+          "duration": "24m"
+        },
+        {
+          "title": "That Day: The Fall of Shiganshina (2)",
+          "duration": "24m"
+        },
+        {
+          "title": "A Dim Light Amid Despair: Humanity's Comeback (1)",
+          "duration": "24m"
+        },
+        {
+          "title": "The Night of the Closing Ceremony: Humanity's Comeback (2)",
+          "duration": "24m"
+        },
+        {
+          "title": "First Battle: The Struggle for Trost (1)",
+          "duration": "24m"
+        },
+        {
+          "title": "The World the Girl Saw: The Struggle for Trost (2)",
+          "duration": "24m"
+        },
+        {
+          "title": "Small Blade: The Struggle for Trost (3)",
+          "duration": "24m"
+        },
+        {
+          "title": "I Can Hear His Heartbeat: The Struggle for Trost (4)",
+          "duration": "24m"
+        },
+        {
+          "title": "Whereabouts of His Left Arm: The Struggle for Trost (5)",
+          "duration": "24m"
+        },
+        {
+          "title": "Response: The Struggle for Trost (6)",
+          "duration": "24m"
+        },
+        {
+          "title": "Idol: The Struggle for Trost (7)",
+          "duration": "24m"
+        },
+        {
+          "title": "Wound: The Struggle for Trost (8)",
+          "duration": "24m"
+        },
+        {
+          "title": "Primal Desire: The Struggle for Trost (9)",
+          "duration": "24m"
+        },
+        {
+          "title": "Can't Look into His Eyes Yet: Eve of the Counterattack (1)",
+          "duration": "24m"
+        },
+        {
+          "title": "Special Operations Squad: Eve of the Counterattack (2)",
+          "duration": "24m"
+        },
+        {
+          "title": "What Needs to Be Done Now: Eve of the Counterattack (3)",
+          "duration": "24m"
+        },
+        {
+          "title": "Female Titan: The 57th Exterior Scouting Mission (1)",
+          "duration": "24m"
+        },
+        {
+          "title": "Forest of Giant Trees: The 57th Exterior Scouting Mission (2)",
+          "duration": "24m"
+        },
+        {
+          "title": "Bite: The 57th Exterior Scouting Mission (3)",
+          "duration": "24m"
+        },
+        {
+          "title": "Erwin Smith: The 57th Exterior Scouting Mission (4)",
+          "duration": "24m"
+        },
+        {
+          "title": "Crushing Blow: The 57th Exterior Scouting Mission (5)",
+          "duration": "24m"
+        },
+        {
+          "title": "The Defeated: The 57th Exterior Scouting Mission (6)",
+          "duration": "24m"
+        },
+        {
+          "title": "Smile: Assault on Stohess (1)",
+          "duration": "24m"
+        },
+        {
+          "title": "Mercy: Assault on Stohess (2)",
+          "duration": "24m"
+        },
+        {
+          "title": "Wall: Assault on Stohess (3)",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Beast Titan",
+          "duration": "24m"
+        },
+        {
+          "title": "I'm Home",
+          "duration": "24m"
+        },
+        {
+          "title": "Southwestward",
+          "duration": "24m"
+        },
+        {
+          "title": "Soldier",
+          "duration": "24m"
+        },
+        {
+          "title": "Historia",
+          "duration": "24m"
+        },
+        {
+          "title": "Warrior",
+          "duration": "24m"
+        },
+        {
+          "title": "Close Combat",
+          "duration": "24m"
+        },
+        {
+          "title": "The Hunters",
+          "duration": "24m"
+        },
+        {
+          "title": "Opening",
+          "duration": "24m"
+        },
+        {
+          "title": "Children",
+          "duration": "24m"
+        },
+        {
+          "title": "Charge",
+          "duration": "24m"
+        },
+        {
+          "title": "Scream",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Smoke Signal",
+          "duration": "24m"
+        },
+        {
+          "title": "Pain",
+          "duration": "24m"
+        },
+        {
+          "title": "Old Story",
+          "duration": "24m"
+        },
+        {
+          "title": "Trust",
+          "duration": "24m"
+        },
+        {
+          "title": "Reply",
+          "duration": "24m"
+        },
+        {
+          "title": "Sin",
+          "duration": "24m"
+        },
+        {
+          "title": "Wish",
+          "duration": "24m"
+        },
+        {
+          "title": "Outside the Walls of Orvud District",
+          "duration": "24m"
+        },
+        {
+          "title": "Ruler of the Walls",
+          "duration": "24m"
+        },
+        {
+          "title": "Friends",
+          "duration": "24m"
+        },
+        {
+          "title": "Bystander",
+          "duration": "24m"
+        },
+        {
+          "title": "Night of the Battle to Retake the Wall",
+          "duration": "24m"
+        },
+        {
+          "title": "The Town Where Everything Began",
+          "duration": "24m"
+        },
+        {
+          "title": "Thunder Spears",
+          "duration": "24m"
+        },
+        {
+          "title": "Descent",
+          "duration": "24m"
+        },
+        {
+          "title": "Perfect Game",
+          "duration": "24m"
+        },
+        {
+          "title": "Hero",
+          "duration": "24m"
+        },
+        {
+          "title": "Midnight Sun",
+          "duration": "24m"
+        },
+        {
+          "title": "The Basement",
+          "duration": "24m"
+        },
+        {
+          "title": "That Day",
+          "duration": "24m"
+        },
+        {
+          "title": "The Attack Titan",
+          "duration": "24m"
+        },
+        {
+          "title": "The Other Side of the Wall",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The Other Side of the Sea",
+          "duration": "24m"
+        },
+        {
+          "title": "Midnight Train",
+          "duration": "24m"
+        },
+        {
+          "title": "The Door of Hope",
+          "duration": "24m"
+        },
+        {
+          "title": "From One Hand to Another",
+          "duration": "24m"
+        },
+        {
+          "title": "Declaration of War",
+          "duration": "24m"
+        },
+        {
+          "title": "The War Hammer Titan",
+          "duration": "24m"
+        },
+        {
+          "title": "Assault",
+          "duration": "24m"
+        },
+        {
+          "title": "Assassin's Bullet",
+          "duration": "24m"
+        },
+        {
+          "title": "Brave Volunteers",
+          "duration": "24m"
+        },
+        {
+          "title": "A Sound Argument",
+          "duration": "24m"
+        },
+        {
+          "title": "Deceiver",
+          "duration": "24m"
+        },
+        {
+          "title": "Guides",
+          "duration": "24m"
+        },
+        {
+          "title": "Children of the Forest",
+          "duration": "24m"
+        },
+        {
+          "title": "Savagery",
+          "duration": "24m"
+        },
+        {
+          "title": "Sole Salvation",
+          "duration": "24m"
+        },
+        {
+          "title": "Above and Below",
+          "duration": "24m"
+        },
+        {
+          "title": "Judgment",
+          "duration": "24m"
+        },
+        {
+          "title": "Sneak Attack",
+          "duration": "24m"
+        },
+        {
+          "title": "Two Brothers",
+          "duration": "24m"
+        },
+        {
+          "title": "Memories of the Future",
+          "duration": "24m"
+        },
+        {
+          "title": "From You, 2,000 Years Ago",
+          "duration": "24m"
+        },
+        {
+          "title": "Thaw",
+          "duration": "24m"
+        },
+        {
+          "title": "Sunset",
+          "duration": "24m"
+        },
+        {
+          "title": "Pride",
+          "duration": "24m"
+        },
+        {
+          "title": "Night of the End",
+          "duration": "24m"
+        },
+        {
+          "title": "Traitor",
+          "duration": "24m"
+        },
+        {
+          "title": "Retrospective",
+          "duration": "24m"
+        },
+        {
+          "title": "The Dawn of Humanity",
+          "duration": "23m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt5607616",
+  "title": "Re:ZERO -Starting Life in Another World-",
+  "type": "series",
+  "release": 2016,
+  "duration": "1 Season",
+  "quality": "4K",
+  "description": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Yusuke Kobayashi",
+    "Rie Takahashi",
+    "Yumi Uchiyama",
+    "Rie Murakawa",
+    "Inori Minase"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.9",
+  "poster": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+  "trailer": "https://www.youtube.com/embed/P4l9d-rlD4o",
+  "baseviews": "1.3M",
+  "popularity": 87,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "The End of the Beginning and the Beginning of the End",
+          "duration": "49m"
+        },
+        {
+          "title": "Reunion with the Witch",
+          "duration": "24m"
+        },
+        {
+          "title": "Starting Life from Zero in Another World",
+          "duration": "25m"
+        },
+        {
+          "title": "The Happy Roswaal Mansion Family",
+          "duration": "25m"
+        },
+        {
+          "title": "The Morning of Our Promise Is Still Distant",
+          "duration": "25m"
+        },
+        {
+          "title": "The Sound of Chains",
+          "duration": "25m"
+        },
+        {
+          "title": "Natsuki Subaru’s Restart",
+          "duration": "24m"
+        },
+        {
+          "title": "I Cried, Cried My Lungs Out, and Stopped Crying",
+          "duration": "25m"
+        },
+        {
+          "title": "The Meaning of Courage",
+          "duration": "25m"
+        },
+        {
+          "title": "Demonically Inspired Methods",
+          "duration": "25m"
+        },
+        {
+          "title": "Rem",
+          "duration": "25m"
+        },
+        {
+          "title": "Return to the Capital",
+          "duration": "25m"
+        },
+        {
+          "title": "Self-Proclaimed Knight Natsuki Subaru",
+          "duration": "25m"
+        },
+        {
+          "title": "The Sickness Called Despair",
+          "duration": "26m"
+        },
+        {
+          "title": "The Outside of Madness",
+          "duration": "25m"
+        },
+        {
+          "title": "A Pig's Greed",
+          "duration": "25m"
+        },
+        {
+          "title": "Disgrace in the Extreme",
+          "duration": "25m"
+        },
+        {
+          "title": "From Zero",
+          "duration": "26m"
+        },
+        {
+          "title": "Battle Against the White Whale",
+          "duration": "25m"
+        },
+        {
+          "title": "Wilhelm van Astrea",
+          "duration": "25m"
+        },
+        {
+          "title": "A Wager That Defies Despair",
+          "duration": "25m"
+        },
+        {
+          "title": "A Flash of Sloth",
+          "duration": "25m"
+        },
+        {
+          "title": "Nefarious Sloth",
+          "duration": "25m"
+        },
+        {
+          "title": "The Self-Proclaimed Knight and the Greatest of Knights",
+          "duration": "25m"
+        },
+        {
+          "title": "That’s All This Story Is About",
+          "duration": "27m"
+        },
+        {
+          "title": "Each One's Promise",
+          "duration": "28m"
+        },
+        {
+          "title": "The Next Location",
+          "duration": "25m"
+        },
+        {
+          "title": "The Long-Awaited Reunion",
+          "duration": "25m"
+        },
+        {
+          "title": "Parent and Child",
+          "duration": "29m"
+        },
+        {
+          "title": "A Step Forward",
+          "duration": "26m"
+        },
+        {
+          "title": "The Maiden's Gospel",
+          "duration": "26m"
+        },
+        {
+          "title": "Friend",
+          "duration": "26m"
+        },
+        {
+          "title": "The Value of Life",
+          "duration": "24m"
+        },
+        {
+          "title": "Love Love Love Love Love Love You",
+          "duration": "24m"
+        },
+        {
+          "title": "I Know Hell",
+          "duration": "26m"
+        },
+        {
+          "title": "The Taste of Death",
+          "duration": "26m"
+        },
+        {
+          "title": "The Witches’ Tea Party",
+          "duration": "27m"
+        },
+        {
+          "title": "The Sounds That Make You Want to Cry",
+          "duration": "27m"
+        },
+        {
+          "title": "Straight Bet",
+          "duration": "28m"
+        },
+        {
+          "title": "Otto Suwen / A Reason to Believe",
+          "duration": "27m"
+        },
+        {
+          "title": "Nobody Can Lift a Quain Stone Alone",
+          "duration": "29m"
+        },
+        {
+          "title": "A Journey Through Memories",
+          "duration": "29m"
+        },
+        {
+          "title": "The Day Betelgeuse Laughed",
+          "duration": "29m"
+        },
+        {
+          "title": "The Permafrost of Elior Forest",
+          "duration": "29m"
+        },
+        {
+          "title": "The Beginning of the Sanctuary and the Beginning of the End",
+          "duration": "29m"
+        },
+        {
+          "title": "Reunion of Roars",
+          "duration": "29m"
+        },
+        {
+          "title": "Happiness Reflected on the Water's Surface",
+          "duration": "29m"
+        },
+        {
+          "title": "Love Me Down to My Blood and Guts",
+          "duration": "29m"
+        },
+        {
+          "title": "Choose Me",
+          "duration": "29m"
+        },
+        {
+          "title": "Offbeat Steps Under the Moonlight",
+          "duration": "29m"
+        },
+        {
+          "title": "Theatrical Malice",
+          "duration": "91m"
+        },
+        {
+          "title": "A Showdown of Fire and Ice",
+          "duration": "24m"
+        },
+        {
+          "title": "Gorgeous Tiger",
+          "duration": "24m"
+        },
+        {
+          "title": "Operation: Take Back the Government Office",
+          "duration": "24m"
+        },
+        {
+          "title": "A Dark Torrent",
+          "duration": "24m"
+        },
+        {
+          "title": "Conditions of the Knight",
+          "duration": "24m"
+        },
+        {
+          "title": "The Newest of Heroes and the Most Ancient of Heroes",
+          "duration": "29m"
+        },
+        {
+          "title": "The One I'll Love Someday",
+          "duration": "24m"
+        },
+        {
+          "title": "City Scramble",
+          "duration": "24m"
+        },
+        {
+          "title": "The Plan to Conquer Greed",
+          "duration": "24m"
+        },
+        {
+          "title": "Liliana Masquerade",
+          "duration": "24m"
+        },
+        {
+          "title": "Regulus Corneas",
+          "duration": "28m"
+        },
+        {
+          "title": "The Warrior's Commendation",
+          "duration": "24m"
+        },
+        {
+          "title": "Theresia van Astrea",
+          "duration": "24m"
+        },
+        {
+          "title": "A Hideous Dinner Party",
+          "duration": "24m"
+        },
+        {
+          "title": "The Result of the Battle for Priestella",
+          "duration": "24m"
+        },
+        {
+          "title": "The Reason I'm Taking You with Me / Gorgeous Tiger Reloaded",
+          "duration": "24m"
+        },
+        {
+          "title": "Overcome Sand Time",
+          "duration": "24m"
+        },
+        {
+          "title": "The Keeper of the Watchtower",
+          "duration": "24m"
+        },
+        {
+          "title": "A White Sky Asterism",
+          "duration": "24m"
+        },
+        {
+          "title": "Stick Swinger",
+          "duration": "24m"
+        },
+        {
+          "title": "Julius Juukulius",
+          "duration": "24m"
+        },
+        {
+          "title": "Walking Out of the Convenience Store and into a Wondrous World",
+          "duration": "24m"
+        },
+        {
+          "title": "Who Are You?",
+          "duration": "24m"
+        },
+        {
+          "title": "Empty Shell",
+          "duration": "24m"
+        },
+        {
+          "title": "Murder Is a Habit",
+          "duration": "24m"
+        },
+        {
+          "title": "Episode 77",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 78",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 79",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 80",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 81",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 82",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 83",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 84",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 85",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "imdb": "tt19064770",
+  "title": "The Angel Next Door Spoils Me Rotten",
+  "type": "series",
+  "release": 2023,
+  "duration": "2 Seasons",
+  "quality": "4K",
+  "description": "Amane lives alone in an apartment, and the most beautiful girl in school, Mahiru, lives just next door. They've almost never spoken—until the day he sees her in distress on a rainy day and lends her his umbrella. To return the favour, she offers him help around the house, and a relationship slowly begins to blossom as the distance between them closes…",
+  "genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "actors": [
+    "Taito Ban",
+    "Manaka Iwami",
+    "Taku Yashiro",
+    "Haruka Shiraishi"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/pjNFTabj2mXUGquE8Oj3buPeKvQ.jpg",
+  "trailer": "https://www.youtube.com/embed/b5EJ9ZkK6kE",
+  "baseviews": "1.3M",
+  "popularity": 64,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "Meet the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "Dinner with the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "Reward for the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "The Angel in the Christmas",
+          "duration": "24m"
+        },
+        {
+          "title": "Hatsumode With the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "A Gift From the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "A Promise With the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "The Angel in the New Term",
+          "duration": "24m"
+        },
+        {
+          "title": "Going Out With the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "The Angel in the Dream",
+          "duration": "24m"
+        },
+        {
+          "title": "The Angel Next Door Spoils Me Rotten",
+          "duration": "24m"
+        },
+        {
+          "title": "Say Goodbye to My Cowardice",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Going to School Together and Making a Debut",
+          "duration": "24m"
+        },
+        {
+          "title": "The Start of Summer Vacation",
+          "duration": "24m"
+        },
+        {
+          "title": "Homecoming, and Revealing the Relationship",
+          "duration": "24m"
+        },
+        {
+          "title": "A Stay-at-Home Date With the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "A Summer Festival With the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "A Once-Desired, Now Undesired Meeting, and a Resolution",
+          "duration": "24m"
+        },
+        {
+          "title": "The Angel's Pleas",
+          "duration": "24m"
+        },
+        {
+          "title": "Culture Festival, Day One",
+          "duration": "24m"
+        },
+        {
+          "title": "The Angel's Request",
+          "duration": "24m"
+        },
+        {
+          "title": "An Important Promise With the Angel",
+          "duration": "24m"
+        },
+        {
+          "title": "First Part-Time Job",
+          "duration": "24m"
+        },
+        {
+          "title": "Episode 12",
+          "duration": "24m"
+        }
+      ]
+    }
+  ]
+},
+{
+  "imdb": "tt7263328",
+  "title": "Classroom of the Elite",
+  "type": "series",
+  "release": 2017,
+  "duration": "4 Seasons",
+  "quality": "HD",
+  "description": "Kiyotaka Ayanokouji enrolls at the prestigious Tokyo Koudo Ikusei Academy, but is assigned to Class 1-D, where students with behavioral problems are housed. The school awards points equivalent to 100,000 yen per month and allows unusual freedom in classes, masking a more complex system.",
+  "genre": [
+    "Animation",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Shoya Chiba",
+    "Akari Kito",
+    "Ayana Taketatsu",
+    "Yurika Kubo",
+    "Mao Ichimichi"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+  "trailer": "https://www.youtube.com/embed/RTvdxGyWV6c",
+  "baseviews": "1.3M",
+  "popularity": 89,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "What is evil? Whatever springs from weakness.",
+          "duration": "24m"
+        },
+        {
+          "title": "It takes a great talent and skill to conceal one's talent and skill.",
+          "duration": "24m"
+        },
+        {
+          "title": "Man is an animal that makes bargains: no other animal does this - no dog exchanges bones with another.",
+          "duration": "24m"
+        },
+        {
+          "title": "We should not be upset that others hide the truth from us, when we hide it so often from ourselves.",
+          "duration": "24m"
+        },
+        {
+          "title": "Hell is other people.",
+          "duration": "24m"
+        },
+        {
+          "title": "There are two kinds of lies; one concerns an accomplished fact, the other concerns a future duty.",
+          "duration": "24m"
+        },
+        {
+          "title": "Nothing is as dangerous as an ignorant friend; a wise enemy is to be preferred.",
+          "duration": "24m"
+        },
+        {
+          "title": "Abandon all hope, ye who enter here.",
+          "duration": "24m"
+        },
+        {
+          "title": "Man is condemned to be free.",
+          "duration": "24m"
+        },
+        {
+          "title": "Every man has in himself the most dangerous traitor of all.",
+          "duration": "24m"
+        },
+        {
+          "title": "What people commonly call fate is mostly their own stupidity.",
+          "duration": "24m"
+        },
+        {
+          "title": "Genius lives only one story above madness.",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Remember to keep a clear head in difficult times.",
+          "duration": "24m"
+        },
+        {
+          "title": "There are two main human sins from which all the others derive: impatience and indolence.",
+          "duration": "24m"
+        },
+        {
+          "title": "The greatest souls are capable of the greatest vices as well as of the greatest virtues.",
+          "duration": "24m"
+        },
+        {
+          "title": "The material has to be created.",
+          "duration": "24m"
+        },
+        {
+          "title": "Every failure is a step to success.",
+          "duration": "24m"
+        },
+        {
+          "title": "Adversity is the first path to truth.",
+          "duration": "24m"
+        },
+        {
+          "title": "To doubt everything or to believe everything are two equally convenient solutions; both dispense with the necessity of reflection.",
+          "duration": "24m"
+        },
+        {
+          "title": "The wound is at her heart.",
+          "duration": "24m"
+        },
+        {
+          "title": "If you make a mistake and do not correct it, this is called a mistake.",
+          "duration": "24m"
+        },
+        {
+          "title": "People, often deceived by an illusive good, desire their own ruin.",
+          "duration": "24m"
+        },
+        {
+          "title": "A man who cannot command himself will always be a slave.",
+          "duration": "24m"
+        },
+        {
+          "title": "Force without wisdom falls of its own weight.",
+          "duration": "24m"
+        },
+        {
+          "title": "The worst enemy you can meet will always be yourself.",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "The strongest principle of growth lies in the human choice.",
+          "duration": "24m"
+        },
+        {
+          "title": "Man is wolf to man.",
+          "duration": "24m"
+        },
+        {
+          "title": "Man never forgets what he wants to forget.",
+          "duration": "24m"
+        },
+        {
+          "title": "To work you have the right, but not to the fruits thereof.",
+          "duration": "24m"
+        },
+        {
+          "title": "Fortune favors the bold.",
+          "duration": "24m"
+        },
+        {
+          "title": "It is better to receive an injury than to inflict one.",
+          "duration": "24m"
+        },
+        {
+          "title": "People will do anything, no matter how absurd, in order to avoid facing their own souls",
+          "duration": "24m"
+        },
+        {
+          "title": "Those who cannot remember the past are condemned to repeat it.",
+          "duration": "24m"
+        },
+        {
+          "title": "Extreme justice is extreme injustice.",
+          "duration": "24m"
+        },
+        {
+          "title": "The first cause of absurd conclusions I ascribe to the want of method.",
+          "duration": "24m"
+        },
+        {
+          "title": "There is only one rule in love: bring happiness to those you love.",
+          "duration": "24m"
+        },
+        {
+          "title": "Change your desires rather than the order of the world.",
+          "duration": "24m"
+        },
+        {
+          "title": "Love is the best teacher.",
+          "duration": "24m"
+        }
+      ]
+    },
+    {
+      "episodes": [
+        {
+          "title": "Assassin From the White Room",
+          "duration": "24m"
+        },
+        {
+          "title": "Contract and Payment",
+          "duration": "24m"
+        },
+        {
+          "title": "Determination of a Leader",
+          "duration": "24m"
+        },
+        {
+          "title": "To Whom the Blade Turns",
+          "duration": "24m"
+        },
+        {
+          "title": "The 20 Million Man",
+          "duration": "24m"
+        },
+        {
+          "title": "A Turbulent Battle for Recruitment",
+          "duration": "24m"
+        },
+        {
+          "title": "Plotting",
+          "duration": "24m"
+        },
+        {
+          "title": "The Subject of the Dragons' Gaze",
+          "duration": "24m"
+        },
+        {
+          "title": "A Disquieting Beginning",
+          "duration": "24m"
+        },
+        {
+          "title": "Love Uncommunicated",
+          "duration": "24m"
+        },
+        {
+          "title": "Connection",
+          "duration": "24m"
+        },
+        {
+          "title": "After Vengeance",
+          "duration": "24m"
+        },
+        {
+          "title": "Obscured by the Rain",
+          "duration": "24m"
+        },
+        {
+          "title": "The Extraordinary Prodigy",
+          "duration": "24m"
+        },
+        {
+          "title": "Episode 15",
+          "duration": "45m"
+        },
+        {
+          "title": "Episode 16",
+          "duration": "45m"
+        }
+      ]
+    }
+  ]
+},
 {
   "imdb": "tt0388629",
   "title": "One Piece",
