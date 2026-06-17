@@ -1,6 +1,90 @@
 {
   "movies": [
     {
+  "imdb": "tt13370404",
+  "title": "Redo of Healer",
+  "type": "series",
+  "release": 2021,
+  "duration": "1 Season",
+  "quality": "HD",
+  "description": "In a world of monsters, adventurers and magic, some of the most gifted healers are subjugated to brute force. Keyaru gains the ability to rewind time and turns the tables on those who’ve exploited him in this dark fantasy tale of vengeance and fury.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "actors": [
+    "Yuya Hozumi",
+    "Ayano Shibuya",
+    "Shizuka Ishigami",
+    "Natsuki Aikawa",
+    "Natsumi Takamori"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
+  "trailer": "https://www.youtube.com/embed/zSg-CQ39Jrk",
+  "baseviews": "1.3M",
+  "popularity": 82,
+  "seasons": [
+    {
+      "episodes": [
+        {
+          "title": "The Healer Starts Over!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Ruins Princess Flare!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Buys a Slave!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Acquires Setsuna!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Finds a New Toy!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Sheds Blood and Tears!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Executes Justice!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Meets the Demon Lord!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Takes Revenge for a Meal!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Becomes a Single, Lovely Flower!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer is Troubled by Norn’s Brutality!",
+          "duration": "24m"
+        },
+        {
+          "title": "The Healer Starts a New Journey!",
+          "duration": "24m"
+        }
+      ]
+    }
+  ]
+},
+    {
   "imdb": "tt13759970",
   "title": "Taxi Driver",
   "type": "series",
