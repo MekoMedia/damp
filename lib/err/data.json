@@ -1,5 +1,787 @@
 {
   "movies": [
+   {
+  "imdb": "tt31975855",
+  "title": "Viral Hit",
+  "type": "series",
+  "release": 2024,
+  "duration": "4K",
+  "quality": "4K",
+  "description": "Scrawny high school student Hobin Yu is probably the last guy you'd expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Hobin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Hobin keep this up, or will he eventually meet his match?",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Satoshi Niwa",
+    "Nobuhiko Okamoto",
+    "Fairouz Ai",
+    "Yui Ishikawa",
+    "Shunsuke Takeuchi"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/1kZBsmNYgjRxFPBfrFxkQGwS7xX.jpg",
+  "trailer": "https://www.youtube.com/embed/zKFWWXhcZrQ",
+  "baseviews": "1.3M",
+  "popularity": 87
+},
+
+{
+  "imdb": "tt39400589",
+  "title": "Viral Hit",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A bullied high schooler becomes an overnight sensation after a viral video. But when his newfound fame turns sour, he must learn to fight for himself.",
+  "genre": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Ouji Suzuka",
+    "Ai Mikami",
+    "Araki Sugou",
+    "Meru Nukumi",
+    "Noritaka Hamao"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/kllmJ1DdzuRszNNwFFu0M7V55Fg.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt27898511",
+  "title": "Trigger",
+  "type": "series",
+  "release": 2025,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+  ],
+  "actors": [
+    "Park Yoon-ho",
+    "Kim Nam-gil",
+    "Kim Young-kwang",
+    "Moon Seong-hyun",
+    "Park Hoon"
+  ],
+  "director": "Kwon Oh-seung",
+  "country": "KR",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+  "trailer": "https://www.youtube.com/embed/2JUx8MqpRuM",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt33503859",
+  "title": "Grisaia: Phantom Trigger",
+  "type": "series",
+  "release": 2025,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "What was once \"Mihama Academy,\" a sanctuary for young girls, has now been transformed into a SORD (Special Organization for Research & Development) training school dedicated to fostering talent for national defense. Rena and Maki specialize in firearms, Tohka and Gumi excel at sniping, Chris handles explosives and data processing, and Murasaki is a skilled ninja for intelligence operations. Together, they take on cases too complex for the police or Self-Defense Forces, repeatedly facing dangerous missions. This is the story of these young girls, painted in blood and gunpowder.",
+  "genre": [
+    "Animation",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Maaya Uchida",
+    "Ayane Sakura",
+    "Kaori Nazuka",
+    "Atsumi Tanezaki",
+    "Yoshino Nanjo"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "6.1",
+  "poster": "https://image.tmdb.org/t/p/w500/z1AC8hMSPKK7OjeOldasielDWZE.jpg",
+  "trailer": "https://www.youtube.com/embed/f81UYYIF2LQ",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt11958610",
+  "title": "Trigger Point",
+  "type": "series",
+  "release": 2022,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "For London's bomb disposal experts, no day is ever the same as they risk their lives protecting the city from harm.",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "Vicky McClure",
+    "Eric Shango",
+    "Nabil Elouahabi",
+    "Natalie Simpson",
+    "Maanuv Thiara"
+  ],
+  "director": "Daniel Brierley",
+  "country": "GB",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/cjMpwyWL0l1n0EkNw88QyzWRsHW.jpg",
+  "trailer": "https://www.youtube.com/embed/o5UW95E_vJI",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+
+{
+  "imdb": "tt3950102",
+  "title": "World Trigger",
+  "type": "series",
+  "release": 2014,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A gate to another world opens in Mikado City, and monsters called Neighbors emerge. It's up to Border Defense agent Osamu Mikumo to fight them.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Nao Tamura",
+    "Yuichi Nakamura",
+    "Tomo Muranaka",
+    "Yuki Kaji",
+    "Hideyuki Tanaka"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/lchqxvVvOeSfkpuvVAIxaDm8Mth.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt14482616",
+  "title": "Ultraman Trigger: New Generation Tiga",
+  "type": "series",
+  "release": 2021,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Young Kengo Manaka lives on Mars. As he lives out his peaceful, day-to-day life, the monster Golba suddenly appears, throwing the town into chaos! Meanwhile, Kengo has a fateful meeting with a giant stone statue sleeping deep beneath the ground on Mars. When Kengo becomes one with an Ultra-Ancient light, his destiny is forcefully thrown into motion!",
+  "genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "actors": [
+    "Raiga Terasaka",
+    "Runa Toyoda",
+    "Shunya Kaneko",
+    "Kei Hosogai",
+    "Tadashi Mizuno"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/dbdC74YfFWG3FNbur2swe5H8ABP.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt0246395",
+  "title": "Trigger Happy TV",
+  "type": "series",
+  "release": 2000,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Trigger Happy TV is a hidden camera/practical joke reality television series. The original British edition of the show, produced by Absolutely Productions, starred Dom Joly and ran for two series on the British television channel Channel 4 from 2000 to 2003. Although Channel 4 is owned and operated by the Channel Four Television Corporation, he made a name for himself as the sole star of the show, which he produced and directed with cameraman Sam Cadman.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Dom Joly"
+  ],
+  "director": "Dom Joly",
+  "country": "GB",
+  "rating": "7.4",
+  "poster": "https://image.tmdb.org/t/p/w500/jTxlVydhgzBpcuMciNaf1Qak7mR.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt29355505",
+  "title": "Toy Story 5",
+  "type": "movie",
+  "release": 2026,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+  "genre": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack",
+    "Greta Lee",
+    "Conan O'Brien"
+  ],
+  "director": "Andrew Stanton",
+  "country": "United States of America",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+  "trailer": "https://www.youtube.com/embed/QftAW9TTmuQ",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt1716710",
+  "title": "Toy Story Treats",
+  "type": "series",
+  "release": 1996,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A series of shorts/spots originally aired on ABC's One Saturday Morning, which were also included on the Toy Story DVDs as \"Toy Story Treats\".",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Kids"
+  ],
+  "actors": [
+    "Jim Hanks",
+    "Pat Fraley",
+    "John Ratzenberger",
+    "Wallace Shawn",
+    "Jeff Pidgeon"
+  ],
+  "director": "John Lasseter",
+  "country": "US",
+  "rating": "5.9",
+  "poster": "https://image.tmdb.org/t/p/w500/XN7YIrndvobhXcQaCR2AlrXwHA.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt3473654",
+  "title": "Toy Story That Time Forgot",
+  "type": "movie",
+  "release": 2014,
+  "duration": "22 min",
+  "quality": "HD",
+  "description": "During a post-Christmas play date, the gang find themselves in uncharted territory when the coolest set of action figures ever turn out to be dangerously delusional. It's all up to Trixie, the triceratops, if the gang hopes to return to Bonnie's room in this Toy Story That Time Forgot.",
+  "genre": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Kristen Schaal",
+    "Kevin McKidd",
+    "Tom Hanks",
+    "Tim Allen",
+    "Emily Hahn"
+  ],
+  "director": "Steve Purcell",
+  "country": "United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/kVOaFo8RaYQceHfTqbZGmV9R80q.jpg",
+  "trailer": "https://www.youtube.com/embed/m7_UZPAa6oA",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt0443649",
+  "title": "10,000 BC",
+  "type": "movie",
+  "release": 2008,
+  "duration": "109 min",
+  "quality": "HD",
+  "description": "A prehistoric epic that follows a young mammoth hunter's journey through uncharted territory to secure the future of his tribe.",
+  "genre": [
+    "Adventure",
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "actors": [
+    "Steven Strait",
+    "Camilla Belle",
+    "Cliff Curtis",
+    "Nathanael Baring",
+    "Mo Zinal"
+  ],
+  "director": "Roland Emmerich",
+  "country": "United States of America, South Africa, New Zealand",
+  "rating": "5.5",
+  "poster": "https://image.tmdb.org/t/p/w500/9I7gV6wRbGnbfI3XOKjHeLMjYEo.jpg",
+  "trailer": "https://www.youtube.com/embed/GMO8PC94egI",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt1133985",
+  "title": "Green Lantern",
+  "type": "movie",
+  "release": 2011,
+  "duration": "114 min",
+  "quality": "HD",
+  "description": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.",
+  "genre": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Ryan Reynolds",
+    "Blake Lively",
+    "Peter Sarsgaard",
+    "Mark Strong",
+    "Tim Robbins"
+  ],
+  "director": "Martin Campbell",
+  "country": "United States of America",
+  "rating": "5.2",
+  "poster": "https://image.tmdb.org/t/p/w500/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+  "trailer": "https://www.youtube.com/embed/ojYMekJgqJU",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt1724587",
+  "title": "Green Lantern: The Animated Series",
+  "type": "series",
+  "release": 2011,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "The Green Lanterns Hal and his partner Kilowog fight against the forces of the Red Lanterns.",
+  "genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Kids"
+  ],
+  "actors": [
+    "Josh Keaton",
+    "Kevin Michael Richardson",
+    "Jason Spisak",
+    "Grey DeLisle"
+  ],
+  "director": "Bruce Timm",
+  "country": "US",
+  "rating": "7.7",
+  "poster": "https://image.tmdb.org/t/p/w500/xJwEpFAoedQ6POM9dD83ijFk5ME.jpg",
+  "trailer": "https://www.youtube.com/embed/rLz--y1Cf8I",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt1683043",
+  "title": "Green Lantern: Emerald Knights",
+  "type": "movie",
+  "release": 2011,
+  "duration": "84 min",
+  "quality": "HD",
+  "description": "As the home planet of the Green Lantern Corps faces a battle with an ancient enemy, Hal Jordan prepares new recruit Arisia for the coming conflict by relating stories of the first Green Lantern and several of Hal's comrades.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Science Fiction",
+    "Drama",
+    "Fantasy"
+  ],
+  "actors": [
+    "Nathan Fillion",
+    "Jason Isaacs",
+    "Elisabeth Moss",
+    "Henry Rollins",
+    "Arnold Vosloo"
+  ],
+  "director": "Lauren Montgomery",
+  "country": "United States of America",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/v8ZGOwcE0aFEpfWdZrVdmdGoFWC.jpg",
+  "trailer": "https://www.youtube.com/embed/nNsGQxY0--c",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+
+{
+  "imdb": "tt1384590",
+  "title": "Green Lantern: First Flight",
+  "type": "movie",
+  "release": 2009,
+  "duration": "75 min",
+  "quality": "HD",
+  "description": "Test pilot Hal Jordan finds himself recruited as the newest member of the intergalactic police force, The Green Lantern Corps.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Animation",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Christopher Meloni",
+    "Victor Garber",
+    "Michael Madsen",
+    "Tricia Helfer",
+    "John Larroquette"
+  ],
+  "director": "Lauren Montgomery",
+  "country": "United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
+  "trailer": "https://www.youtube.com/embed/B_v_-A26xK8",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt20192230",
+  "title": "Green Lantern: Beware My Power",
+  "type": "movie",
+  "release": 2022,
+  "duration": "88 min",
+  "quality": "HD",
+  "description": "Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn't come with instructions - but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.",
+  "genre": [
+    "Animation",
+    "Science Fiction",
+    "Action"
+  ],
+  "actors": [
+    "Aldis Hodge",
+    "Jimmi Simpson",
+    "Ike Amadi",
+    "Brian Bloom",
+    "Jamie Gray Hyder"
+  ],
+  "director": "Jeff Wamester",
+  "country": "United States of America",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/nS41LN1m2HYvVotvgOTcbPW2cjL.jpg",
+  "trailer": "https://www.youtube.com/embed/bjD3r8wPQQA",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt1985949",
+  "title": "The Angry Birds Movie",
+  "type": "movie",
+  "release": 2016,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "An island populated entirely by happy, flightless birds or almost entirely. In this paradise, Red, a bird with a temper problem, speedy Chuck, and the volatile Bomb have always been outsiders. But when the island is visited by mysterious green piggies, it’s up to these unlikely outcasts to figure out what the pigs are up to.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [
+    "Jason Sudeikis",
+    "Josh Gad",
+    "Danny McBride",
+    "Maya Rudolph",
+    "Bill Hader"
+  ],
+  "director": "Clay Kaytis",
+  "country": "Finland, United States of America",
+  "rating": "6.3",
+  "poster": "https://image.tmdb.org/t/p/w500/iOH0fEFtV9z9rZp9zmBFGGeWicv.jpg",
+  "trailer": "https://www.youtube.com/embed/Hksyh33N5dg",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt6095472",
+  "title": "The Angry Birds Movie 2",
+  "type": "movie",
+  "release": 2019,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an island covered in ice are planning to use an elaborate weapon to destroy the fowl and swine.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "actors": [
+    "Jason Sudeikis",
+    "Josh Gad",
+    "Danny McBride",
+    "Leslie Jones",
+    "Bill Hader"
+  ],
+  "director": "Thurop Van Orman",
+  "country": "Finland, United States of America",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/dz3AjGWAPV4cK8lRDY0DdaVfGUK.jpg",
+  "trailer": "https://www.youtube.com/embed/RDj8Y2K0ODA",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt1571234",
+  "title": "Mortal Engines",
+  "type": "movie",
+  "release": 2018,
+  "duration": "128 min",
+  "quality": "HD",
+  "description": "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.",
+  "genre": [
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Hera Hilmar",
+    "Robert Sheehan",
+    "Hugo Weaving",
+    "Jihae",
+    "Ronan Raftery"
+  ],
+  "director": "Christian Rivers",
+  "country": "New Zealand, United States of America",
+  "rating": "6.2",
+  "poster": "https://image.tmdb.org/t/p/w500/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+  "trailer": "https://www.youtube.com/embed/dqYyKztOZOw",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt11116912",
+  "title": "Troll",
+  "type": "movie",
+  "release": 2022,
+  "duration": "104 min",
+  "quality": "HD",
+  "description": "When an explosion in the Norwegian mountains awakens an ancient troll, officials appoint a fearless paleontologist to stop it from wreaking deadly havoc.",
+  "genre": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "actors": [
+    "Ine Marie Wilmann",
+    "Kim S. Falck-Jørgensen",
+    "Mads Sjøgård Pettersen",
+    "Gard B. Eidsvold",
+    "Anneke von der Lippe"
+  ],
+  "director": "Roar Uthaug",
+  "country": "Norway",
+  "rating": "6.6",
+  "poster": "https://image.tmdb.org/t/p/w500/ulgKdif3ubMACDltr8VZy6fyVjW.jpg",
+  "trailer": "https://www.youtube.com/embed/AiohkY_XQYQ",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt29232158",
+  "title": "Troll 2",
+  "type": "movie",
+  "release": 2025,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Thriller"
+  ],
+  "actors": [
+    "Ine Marie Wilmann",
+    "Kim S. Falck-Jørgensen",
+    "Mads Sjøgård Pettersen",
+    "Sara Khorami",
+    "Karoline Viktoria Sletteng Garvang"
+  ],
+  "director": "Roar Uthaug",
+  "country": "Norway",
+  "rating": "6.4",
+  "poster": "https://image.tmdb.org/t/p/w500/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+  "trailer": "https://www.youtube.com/embed/Hzk4ovnGOyw",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt5737046",
+  "title": "Troll Tales",
+  "type": "series",
+  "release": 2000,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Troll Tales is an animated television show based on the book by Henning Kure. it involves three young trolls called Snapper, Tumbler and Willy Wee.",
+  "genre": [
+    "Animation",
+    "Kids",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Thomas Mørk",
+    "Paprika Steen",
+    "Morten Eisner",
+    "Trine Dyrholm",
+    "Hella Joof"
+  ],
+  "director": "Henning Kure, Karsten Kiilerich",
+  "country": "DK",
+  "rating": "9.0",
+  "poster": "https://image.tmdb.org/t/p/w500/t6lYLJt0HOUZjlHi8wyANSLGhZd.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt1823672",
+  "title": "Chappie",
+  "type": "movie",
+  "release": 2015,
+  "duration": "120 min",
+  "quality": "HD",
+  "description": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
+  "genre": [
+    "Crime",
+    "Action",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Sharlto Copley",
+    "Dev Patel",
+    "Hugh Jackman",
+    "Ninja",
+    "Yo-Landi Visser"
+  ],
+  "director": "Neill Blomkamp",
+  "country": "United States of America, South Africa",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
+  "trailer": "https://www.youtube.com/embed/lyy7y0QOK-0",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt7766378",
+  "title": "The Electric State",
+  "type": "movie",
+  "release": 2025,
+  "duration": "125 min",
+  "quality": "HD",
+  "description": "An orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Millie Bobby Brown",
+    "Chris Pratt",
+    "Ke Huy Quan",
+    "Jason Alexander",
+    "Woody Norman"
+  ],
+  "director": "Joe Russo",
+  "country": "United States of America",
+  "rating": "6.5",
+  "poster": "https://image.tmdb.org/t/p/w500/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg",
+  "trailer": "https://www.youtube.com/embed/QIw6ITiwgBU",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt9140554",
+  "title": "Loki",
+  "type": "series",
+  "release": 2021,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+  "genre": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Tom Hiddleston",
+    "Sophia Di Martino",
+    "Wunmi Mosaku",
+    "Eugene Cordero",
+    "Ke Huy Quan"
+  ],
+  "director": "Michael Waldron",
+  "country": "US",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+  "trailer": "https://www.youtube.com/embed/nW948Va-l10",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt39503410",
+  "title": "Project Loki",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "One of Wattpad’s top mystery-crime thrillers comes alive with Viva One stars Dylan Menor, Marco Gallo, and Jayda Avanzado. Join Loki and Lorelei as they crack puzzles, solve cases, and uncover dark secrets within the halls of Clark University.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Dylan Menor",
+    "Jayda Avanzado",
+    "Marco Gallo",
+    "Yumi Garcia",
+    "Martin Luigie Venegas"
+  ],
+  "director": "Xian Lim",
+  "country": "PH",
+  "rating": "10.0",
+  "poster": "https://image.tmdb.org/t/p/w500/44hWjk2A4cf9X3JDOCcvQxGMsGW.jpg",
+  "trailer": "https://www.youtube.com/embed/clc5ZerhfXQ",
+  "baseviews": "1.3M",
+  "popularity": 77
+}, 
     {
   "imdb": "tt13370404",
   "title": "Redo of Healer",
