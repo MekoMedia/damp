@@ -1,13 +1,398 @@
 {
   "movies": [
-  
-  {"imdb":"tt0167260","title":"The Lord of the Rings: The Return of the King","type":"movie","release":2003,"quality":"HD","description":"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.","genre":["Adventure","Drama","Fantasy"],"actors":["Elijah Wood","Viggo Mortensen","Ian McKellen"],"director":"Peter Jackson","country":"New Zealand, United States","poster":"https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg","trailer":"","baseviews":"1.3M","popularity":64,"duration":"201 min"},
-  {"imdb":"tt0120737","title":"The Lord of the Rings: The Fellowship of the Ring","type":"movie","release":2001,"quality":"HD","description":"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.","genre":["Adventure","Drama","Fantasy"],"actors":["Elijah Wood","Ian McKellen","Orlando Bloom"],"director":"Peter Jackson","country":"New Zealand, United States","poster":"https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg","trailer":"","baseviews":"1.3M","popularity":70,"duration":"178 min"},
-  {"imdb":"tt1119644","title":"Fringe","type":"series","release":2008,"quality":"HD","description":"An F.B.I. agent is forced to work with an institutionalized scientist and his son in order to rationalize a brewing storm of unexplained phenomena.","genre":["Drama","Mystery","Sci-Fi"],"actors":["Anna Torv","Joshua Jackson","John Noble"],"director":"N/A","country":"United States, Canada","poster":"https://m.media-amazon.com/images/M/MV5BMWVlMmE1MmEtNjhjMC00MDdmLWIzZGMtNjc1YTZmNDc2MWExXkEyXkFqcGc@._V1_SX300.jpg","trailer":"","baseviews":"1.3M","popularity":65},
-  {"imdb":"tt4574334","title":"Stranger Things","type":"series","release":2016,"quality":"HD","description":"In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.","genre":["Drama","Fantasy","Horror"],"actors":["Millie Bobby Brown","Finn Wolfhard","Winona Ryder"],"director":"N/A","country":"United States","poster":"https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg","trailer":"","baseviews":"1.3M","popularity":63},
-  {"imdb":"tt7660850","title":"Succession","type":"series","release":2018,"quality":"HD","description":"The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company.","genre":["Comedy","Drama"],"actors":["Nicholas Braun","Brian Cox","Kieran Culkin"],"director":"N/A","country":"United States","poster":"https://m.media-amazon.com/images/M/MV5BYTY4YTVkY2QtMjRmOS00YzliLWIxOWQtMTdkOTVkN2UzODNmXkEyXkFqcGc@._V1_SX300.jpg","trailer":"","baseviews":"1.3M","popularity":88},
-  {"imdb":"tt2085059","title":"Black Mirror","type":"series","release":2011,"quality":"HD","description":"Featuring stand-alone dramas -- sharp, suspenseful, satirical tales that explore techno-paranoia -- \"Black Mirror\" is a contemporary reworking of \"The Twilight Zone\" with stories that tap into the collective unease about the moder...","genre":["Crime","Drama","Mystery"],"actors":["Anjana Vasan","Cristin Milioti","Jesse Plemons"],"director":"N/A","country":"United Kingdom","poster":"https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg","trailer":"","baseviews":"1.3M","popularity":67},
-  {"imdb":"tt1475582","title":"Sherlock","type":"series","release":2010,"quality":"HD","description":"In modern-day London, brilliant but eccentric detective Sherlock Holmes teams with war veteran Dr. John Watson to crack baffling crimes, outwit formidable foes, and aid Scotland Yard with razor-sharp deduction.","genre":["Crime","Drama","Mystery"],"actors":["Benedict Cumberbatch","Martin Freeman","Una Stubbs"],"director":"N/A","country":"United Kingdom, United States","poster":"https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg","trailer":"","baseviews":"1.3M","popularity":76},
+  {
+  "imdb": "tt1464335",
+  "title": "Uncharted",
+  "type": "movie",
+  "release": 2022,
+  "duration": "116 min",
+  "quality": "HD",
+  "description": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Mystery"
+  ],
+  "actors": [
+    "Tom Holland",
+    "Mark Wahlberg",
+    "Sophia Ali",
+    "Tati Gabrielle",
+    "Antonio Banderas"
+  ],
+  "director": "Ruben Fleischer",
+  "country": "United States of America",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+  "trailer": "https://www.youtube.com/embed/l-LD16Yzi2c",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt13938794",
+  "title": "Uncharted Walker",
+  "type": "series",
+  "release": 2018,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A magician, a female doctor, a gangster, an archaeology professor, a policewoman, a drug dealer, a businessman... Such a random group of people find themselves trapped on a desolate island when they wake up from sleep one day. They are surrounded by primitive tribes, mutant viruses, and countless life and death situations on this mysterious island. What will they do to survive and escape?",
+  "genre": [
+    "Animation",
+    "Mystery"
+  ],
+  "actors": [
+    "Su Shangqing",
+    "Chen Zhangtaikang",
+    "Yun Hezhui",
+    "Chen Liyang",
+    "Sheng Feng"
+  ],
+  "director": "N/A",
+  "country": "CN",
+  "rating": "7.9",
+  "poster": "https://image.tmdb.org/t/p/w500/jgSYbMgNktbiK7XNryxuJvqU8kW.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+
+{
+  "imdb": "tt21359482",
+  "title": "Uncharted",
+  "type": "series",
+  "release": 2022,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Behind the facade of gentrifi cation in a tranquil town on the outskirts of Hamburg lies a moral abyss of violence and trauma waiting to be uncovered. From the award-winning author Orkun Ertener comes a turbulent social drama that shines a light on the egocentric nature of Germany’s middle class.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Peri Baumeister",
+    "Godehard Giese",
+    "Lucas Prisor",
+    "Cooper Dillon",
+    "Mina Tander"
+  ],
+  "director": "N/A",
+  "country": "DE",
+  "rating": "7.4",
+  "poster": "https://image.tmdb.org/t/p/w500/llrQ6M75LOFC1l8EIfOeZaq01zg.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt14609428",
+  "title": "The King's Affection",
+  "type": "series",
+  "release": 2021,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "When the crown prince is killed, his twin sister assumes the throne while trying to keep her identity and affection for her first love a royal secret.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Park Eun-bin",
+    "Rowoon",
+    "Nam Yoon-su",
+    "Bae Yoon-kyung",
+    "Choi Byung-chan"
+  ],
+  "director": "Han Hee-jung",
+  "country": "KR",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/2Qim2grFzfNJ4h3QSTzxi8CsKdG.jpg",
+  "trailer": "https://www.youtube.com/embed/P4zM7jHdVFc",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt3501632",
+  "title": "Thor: Ragnarok",
+  "type": "movie",
+  "release": 2017,
+  "duration": "131 min",
+  "quality": "HD",
+  "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Comedy"
+  ],
+  "actors": [
+    "Chris Hemsworth",
+    "Mark Ruffalo",
+    "Tom Hiddleston",
+    "Cate Blanchett",
+    "Idris Elba"
+  ],
+  "director": "Taika Waititi",
+  "country": "United States of America",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+  "trailer": "https://www.youtube.com/embed/ue80QwXMRHg",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt10872600",
+  "title": "Spider-Man: No Way Home",
+  "type": "movie",
+  "release": 2021,
+  "duration": "148 min",
+  "quality": "HD",
+  "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Tom Holland",
+    "Zendaya",
+    "Benedict Cumberbatch",
+    "Jacob Batalon",
+    "Jon Favreau"
+  ],
+  "director": "Jon Watts",
+  "country": "United States of America",
+  "rating": "7.9",
+  "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+  "trailer": "https://www.youtube.com/embed/1mTjfMFyPi8",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt27543632",
+  "title": "The Housemaid",
+  "type": "movie",
+  "release": 2025,
+  "duration": "131 min",
+  "quality": "HD",
+  "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+  "genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Sydney Sweeney",
+    "Amanda Seyfried",
+    "Brandon Sklenar",
+    "Michele Morrone",
+    "Indiana Elle"
+  ],
+  "director": "Paul Feig",
+  "country": "United States of America",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+  "trailer": "https://www.youtube.com/embed/BqWH0KDqm3U",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+
+{
+  "imdb": "tt15887102",
+  "title": "The Housemaid",
+  "type": "movie",
+  "release": 2021,
+  "duration": "114 min",
+  "quality": "HD",
+  "description": "Daisy's task as a new maid to a wealthy family is to watch over a young kid, but unknowingly she's being watched by the kid's father. When temptation kicks in Daisy and the wealthy family's lives start to shatter in pieces.",
+  "genre": [
+    "Thriller"
+  ],
+  "actors": [
+    "Kylie Verzosa",
+    "Jaclyn Jose",
+    "Alma Moreno",
+    "Albert Martinez",
+    "Louise delos Reyes"
+  ],
+  "director": "Roman Perez Jr.",
+  "country": "Philippines",
+  "rating": "5.4",
+  "poster": "https://image.tmdb.org/t/p/w500/6QgSlS0IV9jlDadjdVrrN4quqEM.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt6443346",
+  "title": "Black Adam",
+  "type": "movie",
+  "release": 2022,
+  "duration": "125 min",
+  "quality": "HD",
+  "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Dwayne Johnson",
+    "Aldis Hodge",
+    "Noah Centineo",
+    "Sarah Shahi",
+    "Quintessa Swindell"
+  ],
+  "director": "Jaume Collet-Serra",
+  "country": "United States of America",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+  "trailer": "https://www.youtube.com/embed/mkomfZHG5q4",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt27486290",
+  "title": "Stranger Things: Tales from '85",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
+  "genre": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Brooklyn Davey Norstedt",
+    "Jolie Hoang-Rappaport",
+    "Luca Diaz",
+    "Elisha Williams",
+    "Braxton Quinney"
+  ],
+  "director": "Eric Robles, Jennifer Muro",
+  "country": "US",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+  "trailer": "https://www.youtube.com/embed/kajCUhg36R0",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt39075270",
+  "title": "Stranger Things: Fireplace",
+  "type": "movie",
+  "release": 2025,
+  "duration": "60 min",
+  "quality": "HD",
+  "description": "Gather 'round the fireplace in Hawkins, where the flames crackle, the alphabet glows — and the holidays get turned Upside Down.",
+  "genre": [
+    "Science Fiction"
+  ],
+  "actors": [],
+  "director": "",
+  "country": "United States of America",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/9RSXHEEqakGcZHeXjvf2rTsknWV.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt7146812",
+  "title": "Onward",
+  "type": "movie",
+  "release": 2020,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+  "genre": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "actors": [
+    "Tom Holland",
+    "Chris Pratt",
+    "Julia Louis-Dreyfus",
+    "Octavia Spencer",
+    "Mel Rodriguez"
+  ],
+  "director": "Dan Scanlon",
+  "country": "United States of America",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+  "trailer": "https://www.youtube.com/embed/HxKXiQvyG_o",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt0382932",
+  "title": "Ratatouille",
+  "type": "movie",
+  "release": 2007,
+  "duration": "111 min",
+  "quality": "HD",
+  "description": "Remy, a rat, possesses a palate far more refined than that of his fellow comrades. He dreams of becoming a chef, one who creates rather than scavenges. When fate deposits him in the sewers beneath one of Paris’s most famous restaurants, he finds himself ideally placed to fulfill his dream. Forming an unusual alliance with a hapless young kitchen worker, Remy begins a daring culinary double life.  As Remy pursues his vision, he must navigate the suspicions of the calculating Head Chef Skinner, the disapproval of Remy’s own colony, and the foreboding presence of renowned food critic Anton Ego, who strikes fear in the hearts of chefs all throughout France.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "actors": [
+    "Patton Oswalt",
+    "Ian Holm",
+    "Lou Romano",
+    "Brian Dennehy",
+    "Peter Sohn"
+  ],
+  "director": "Brad Bird",
+  "country": "United States of America",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+  "trailer": "https://www.youtube.com/embed/NgsQ8mVkN8w",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt1298650",
+  "title": "Pirates of the Caribbean: On Stranger Tides",
+  "type": "movie",
+  "release": 2011,
+  "duration": "136 min",
+  "quality": "HD",
+  "description": "When Jack crosses paths with a woman from his past, he's not sure if it's love...or if she's a ruthless con artist using him to find the fabled Fountain of Youth.",
+  "genre": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "actors": [
+    "Johnny Depp",
+    "Penélope Cruz",
+    "Geoffrey Rush",
+    "Ian McShane",
+    "Kevin McNally"
+  ],
+  "director": "Rob Marshall",
+  "country": "United Kingdom, United States of America",
+  "rating": "6.6",
+  "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+  "trailer": "https://www.youtube.com/embed/0BXCVe8Yww4",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
     {
   "imdb": "tt0448115",
   "title": "Shazam!",
