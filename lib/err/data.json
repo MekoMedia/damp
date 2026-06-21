@@ -1,5 +1,2226 @@
 {
   "movies": [
+    {
+  "imdb": "tt11126994",
+  "title": "Arcane",
+  "type": "series",
+  "release": 2021,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Hailee Steinfeld",
+    "Ella Purnell"
+  ],
+  "director": "Christian Linke, Alex Yee",
+  "country": "US",
+  "rating": "8.8",
+  "poster": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+  "trailer": "https://www.youtube.com/embed/W4gLFBNGgiY",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt0121220",
+  "title": "Dragon Ball Z",
+  "type": "series",
+  "release": 1989,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+  "genre": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Masako Nozawa",
+    "Ryo Horikawa",
+    "Toshio Furukawa",
+    "Mayumi Tanaka",
+    "Naoki Tatsuta"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/yfyToia25GnvjY7FPAGaCm3lKRc.jpg",
+  "trailer": "https://www.youtube.com/embed/G6ANe8NYLrE",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt1409055",
+  "title": "Dragon Ball Z Kai",
+  "type": "series",
+  "release": 2009,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Rejoin Goku and his friends in a series of cosmic battles! Toei has redubbed, recut, and cleaned up the animation of the original 1989 animated series. The show's story arc has been refined to better follow the comic book series on which it is based. The show also features a new opening and ending. In the series, martial artist Goku, and his various friends, battle increasingly powerful enemies to defend the world against evil. Can Earth's defender defeat demons, aliens, and other villains?",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "actors": [
+    "Masako Nozawa",
+    "Joji Yanami",
+    "Mayumi Tanaka",
+    "Ryo Horikawa",
+    "Toshio Furukawa"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/ykl67ghR2ug6KGFH3CQcI01pzQJ.jpg",
+  "trailer": "https://www.youtube.com/embed/cUq5HHbu1Lw",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt3819668",
+  "title": "Dragon Ball Z: Resurrection 'F'",
+  "type": "movie",
+  "release": 2015,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "One peaceful day on Earth, two remnants of Frieza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Frieza. They succeed, and Frieza subsequently seeks revenge on the Saiyans.",
+  "genre": [
+    "Action",
+    "Animation",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Masako Nozawa",
+    "Ryo Horikawa",
+    "Ryusei Nakao",
+    "Koichi Yamadera",
+    "Masakazu Morita"
+  ],
+  "director": "Tadayoshi Yamamuro",
+  "country": "Japan",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg",
+  "trailer": "https://www.youtube.com/embed/uRlSMA1XKYA",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt2263944",
+  "title": "Dragon Ball Z: Battle of Gods",
+  "type": "movie",
+  "release": 2013,
+  "duration": "85 min",
+  "quality": "HD",
+  "description": "After the defeat of Majin Buu, a powerful God of Destruction known as Beerus searches for the Saiyan warrior who defeated Frieza. Realizing the threat Beerus poses to Earth, the Z-fighters must stop him. Only Goku, humanity’s last hope, can ascend to the level of a legendary Super Saiyan God and save the planet, and possibly the entire universe!",
+  "genre": [
+    "Animation",
+    "Action",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Masako Nozawa",
+    "Koichi Yamadera",
+    "Masakazu Morita",
+    "Ryo Horikawa",
+    "Hiromi Tsuru"
+  ],
+  "director": "Masahiro Hosoda",
+  "country": "Japan",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/nxZEdYcHMuD8SSuwusDnK9CD2H1.jpg",
+  "trailer": "https://www.youtube.com/embed/MxGp3wHXtNE",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt0142235",
+  "title": "Dragon Ball Z: Dead Zone",
+  "type": "movie",
+  "release": 1989,
+  "duration": "41 min",
+  "quality": "HD",
+  "description": "In order to wish for immortality and avenge his father, Garlic Jr. collects the dragon balls, kidnapping Goku's son Gohan in the process. Goku, Kami, Piccolo, and Krillin unite to rescue Gohan and save the world from being sucked into a dead zone.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Fantasy"
+  ],
+  "actors": [
+    "Masako Nozawa",
+    "Toshio Furukawa",
+    "Hiromi Tsuru",
+    "Mayumi Tanaka",
+    "Daisuke Gori"
+  ],
+  "director": "Daisuke Nishio",
+  "country": "Japan",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/ywtyEDTM2YO7qod7USNNwhrAfvA.jpg",
+  "trailer": "https://www.youtube.com/embed/B4VX95mjiT4",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt0142238",
+  "title": "Dragon Ball Z: Bojack Unbound",
+  "type": "movie",
+  "release": 1993,
+  "duration": "51 min",
+  "quality": "HD",
+  "description": "Mr. Money is holding another World Martial Arts Tournament and Mr. Satan invites everyone in the world to join in. Little does he know that Bojack, an ancient villain who has escaped his prison, is competing. Since Goku is currently dead, it is up to Gohan, Vegeta, and Trunks to defeat Bojack and his henchman.",
+  "genre": [
+    "Action",
+    "Animation",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Masako Nozawa",
+    "Daisuke Gori",
+    "Tessyo Genda",
+    "Toshio Furukawa",
+    "Mayumi Tanaka"
+  ],
+  "director": "Yoshihiro Ueda",
+  "country": "Japan",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/iihTK9Af8G1ZzBjkIIAV4qQMkzF.jpg",
+  "trailer": "https://www.youtube.com/embed/DJZ3vjBqYFU",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt32141377",
+  "title": "28 Years Later: The Bone Temple",
+  "type": "movie",
+  "release": 2026,
+  "duration": "109 min",
+  "quality": "HD",
+  "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+  "genre": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "actors": [
+    "Ralph Fiennes",
+    "Jack O'Connell",
+    "Alfie Williams",
+    "Erin Kellyman",
+    "Chi Lewis-Parry"
+  ],
+  "director": "Nia DaCosta",
+  "country": "United Kingdom, United States of America",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+  "trailer": "https://www.youtube.com/embed/rl_DJZCyEH4",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt13443470",
+  "title": "Wednesday",
+  "type": "series",
+  "release": 2022,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Comedy"
+  ],
+  "actors": [
+    "Jenna Ortega",
+    "Steve Buscemi",
+    "Emma Myers",
+    "Hunter Doohan",
+    "Joy Sunday"
+  ],
+  "director": "Miles Millar, Alfred Gough",
+  "country": "US",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg",
+  "trailer": "https://www.youtube.com/embed/Qa5kFRxBkNw",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt8036976",
+  "title": "Send Help",
+  "type": "movie",
+  "release": 2026,
+  "duration": "113 min",
+  "quality": "HD",
+  "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+  "genre": [
+    "Horror",
+    "Thriller",
+    "Comedy"
+  ],
+  "actors": [
+    "Rachel McAdams",
+    "Dylan O'Brien",
+    "Edyll Ismail",
+    "Dennis Haysbert",
+    "Xavier Samuel"
+  ],
+  "director": "Sam Raimi",
+  "country": "United States of America",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
+  "trailer": "https://www.youtube.com/embed/cOmnmFz_Uzs",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt5249462",
+  "title": "ERASED",
+  "type": "series",
+  "release": 2016,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Satoru Fujinuma is a struggling manga artist who has the ability to turn back time and prevent deaths. When his mother is killed he turns back time to solve the mystery, but ends up back in elementary school, just before the disappearance of his classmate Kayo.",
+  "genre": [
+    "Animation",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Shinnosuke Mitsushima",
+    "Tao Tsuchiya",
+    "Minami Takayama"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/EljUwZJhpuYfVuSfqY8Pt1xxpH.jpg",
+  "trailer": "https://www.youtube.com/embed/TZzMOC-4k6M",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt7573686",
+  "title": "Erased",
+  "type": "series",
+  "release": 2017,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "After finding his mom killed, Satoru's time-traveling ability takes him back 18 years for a chance to prevent her death and those of three classmates.",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Crime"
+  ],
+  "actors": [
+    "Yuki Furukawa",
+    "Tomoka Kurotani",
+    "Mio Yuki",
+    "Shigeyuki Totsugi",
+    "Masato Yano"
+  ],
+  "director": "Kei Sambe",
+  "country": "JP",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/5PKJjw3dxZlBjJekuEvjl1hUUPV.jpg",
+  "trailer": "https://www.youtube.com/embed/Hv_sCn8sqY0",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt1645155",
+  "title": "Erased",
+  "type": "movie",
+  "release": 2012,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "A former agent of the CIA and his estranged daughter go on the run after his employers target them for assassination.",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "actors": [
+    "Aaron Eckhart",
+    "Liana Liberato",
+    "Olga Kurylenko",
+    "Garrick Hagon",
+    "Éric Godon"
+  ],
+  "director": "Philipp Stölzl",
+  "country": "Belgium, Canada, United Kingdom, United States of America",
+  "rating": "6.1",
+  "poster": "https://image.tmdb.org/t/p/w500/42OvgvP795xTfVINk48PAYWEFt7.jpg",
+  "trailer": "https://www.youtube.com/embed/vknG01yvT9s",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt7008872",
+  "title": "Boy Erased",
+  "type": "movie",
+  "release": 2018,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Lucas Hedges",
+    "Nicole Kidman",
+    "Russell Crowe",
+    "Joel Edgerton",
+    "Troye Sivan"
+  ],
+  "director": "Joel Edgerton",
+  "country": "Australia, China, United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/oZbhTdi0ZQY7iiSQ0L7h3ya6NDF.jpg",
+  "trailer": "https://www.youtube.com/embed/QEpU7EF0oVY",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt4882964",
+  "title": "Erased",
+  "type": "movie",
+  "release": 2016,
+  "duration": "120 min",
+  "quality": "HD",
+  "description": "Struggling manga author Satoru Fujinuma is beset by his fear to express himself. However, he has a supernatural ability of being forced to prevent deaths and catastrophes by being sent back in time before the incident occurred, repeating time until the accident is prevented. One day, he gets involved in an accident that has him framed as a murderer. Desperate to save the victim, he sends himself back in time only to find himself as a grade-schooler one month before fellow classmate Kayo Hinazuki went missing. Satoru now embarks on a new quest: to save Kayo and solve the mystery behind her disappearance.",
+  "genre": [
+    "Thriller",
+    "Fantasy"
+  ],
+  "actors": [
+    "Tatsuya Fujiwara",
+    "Kasumi Arimura",
+    "Yuriko Ishida",
+    "Tetta Sugimoto",
+    "Mitsuhiro Oikawa"
+  ],
+  "director": "Yuichiro Hirakawa",
+  "country": "Japan",
+  "rating": "6.6",
+  "poster": "https://image.tmdb.org/t/p/w500/q4LTbdVFKx5gUoUGSm2JQelMqce.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt0993846",
+  "title": "The Wolf of Wall Street",
+  "type": "movie",
+  "release": 2013,
+  "duration": "180 min",
+  "quality": "HD",
+  "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Jonah Hill",
+    "Margot Robbie",
+    "Matthew McConaughey",
+    "Kyle Chandler"
+  ],
+  "director": "Martin Scorsese",
+  "country": "United States of America",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+  "trailer": "https://www.youtube.com/embed/Slj4-Sv-YNA",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt5897304",
+  "title": "Mob Psycho 100",
+  "type": "series",
+  "release": 2016,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Setsuo Ito",
+    "Takahiro Sakurai",
+    "Miyu Irino",
+    "Akio Otsuka"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "trailer": "https://www.youtube.com/embed/YIezct4JGNs",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt7701694",
+  "title": "Mob Psycho 100",
+  "type": "series",
+  "release": 2018,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "An inconspicuous middle school psychic confronts an organization plotting to use other psychics to rule the world. Based on the hit manga.",
+  "genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Mystery"
+  ],
+  "actors": [
+    "Tatsuomi Hamada",
+    "Kazuki Namioka",
+    "Yuki Yoda",
+    "Ayumu Mochizuki",
+    "Atsushi Arai"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "5.8",
+  "poster": "https://image.tmdb.org/t/p/w500/bKsuVX1jnxJDEIg7x0gEeIT0diA.jpg",
+  "trailer": "https://www.youtube.com/embed/bDw2DvqP4WA",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+
+{
+  "imdb": "tt35848827",
+  "title": "Boyfriend on Demand",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+  "genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "actors": [
+    "JISOO",
+    "Seo In-guk",
+    "Gong Min-jeung",
+    "Cho Han-cheul"
+  ],
+  "director": "Namgung Do-young, Kim Jung-sik",
+  "country": "KR",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+  "trailer": "https://www.youtube.com/embed/A0GqKTgSpuE",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt10048342",
+  "title": "The Queen's Gambit",
+  "type": "series",
+  "release": 2020,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Anya Taylor-Joy",
+    "Chloe Pirrie"
+  ],
+  "director": "Scott Frank, Allan Scott",
+  "country": "US",
+  "rating": "8.4",
+  "poster": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+  "trailer": "https://www.youtube.com/embed/oZn3qSgmLqI",
+  "baseviews": "1.3M",
+  "popularity": 80
+},
+
+{
+  "imdb": "tt3398228",
+  "title": "BoJack Horseman",
+  "type": "series",
+  "release": 2014,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Meet the most beloved sitcom horse of the '90s , 20 years later. He's a curmudgeon with a heart of...not quite gold...but something like gold. Copper?",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Will Arnett",
+    "Aaron Paul",
+    "Alison Brie",
+    "Amy Sedaris",
+    "Paul F. Tompkins"
+  ],
+  "director": "Raphael Bob-Waksberg",
+  "country": "US",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+  "trailer": "https://www.youtube.com/embed/i1eJMig5Ik4",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt28685497",
+  "title": "Berserk of Gluttony",
+  "type": "series",
+  "release": 2023,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Fate Graphite was born into a world where magical skills shape your destiny. His skill is Gluttony, a seemingly useless curse of unending hunger that has left him shunned and looked down upon. Until one day, after he takes the life of a thief, his true power awakens: he can devour the skill of anyone he kills to feed his appetite. Will he learn to control this gruesome ability for the better?",
+  "genre": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Ryota Osaka",
+    "Tomokazu Seki",
+    "Hisako Tojo",
+    "Hitomi Sekine",
+    "Misato Matsuoka"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/zHGYM1okHkFRlqFcTCkIHDyaW98.jpg",
+  "trailer": "https://www.youtube.com/embed/fDHLSymOkh4",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt7366338",
+  "title": "Chernobyl",
+  "type": "series",
+  "release": 2019,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Jared Harris",
+    "Stellan Skarsgård",
+    "Emily Watson",
+    "Paul Ritter",
+    "Jessie Buckley"
+  ],
+  "director": "Craig Mazin",
+  "country": "US",
+  "rating": "8.7",
+  "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+  "trailer": "https://www.youtube.com/embed/s9APLXM9Ei8",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt10648714",
+  "title": "Chernobyl: Abyss",
+  "type": "movie",
+  "release": 2021,
+  "duration": "136 min",
+  "quality": "HD",
+  "description": "The aftermath of a shocking explosion at the Chernobyl nuclear power station made hundreds of people sacrifice their lives to clean up the site of the catastrophe and to successfully prevent an even bigger disaster that could have turned a large part of the European continent into an uninhabitable exclusion zone. This is their story.",
+  "genre": [
+    "Drama",
+    "History",
+    "Action"
+  ],
+  "actors": [
+    "Danila Kozlovsky",
+    "Oksana Akinshina",
+    "Philipp Avdeev",
+    "Ravshana Kurkova",
+    "Arthur Beschastny"
+  ],
+  "director": "Danila Kozlovsky",
+  "country": "Russia",
+  "rating": "6.2",
+  "poster": "https://image.tmdb.org/t/p/w500/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",
+  "trailer": "https://www.youtube.com/embed/XiztZZSMVZI",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt14780354",
+  "title": "Chernobyl",
+  "type": "series",
+  "release": 2022,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "The action takes place from April to December 1986. The KGB department of the USSR becomes aware of the interest shown by foreign intelligence services in the Chornobyl nuclear power plant. To establish the whereabouts of an experienced CIA officer, Albert Lenz, who is suspected of espionage, on the territory of Pripyat, Lieutenant Colonel of military counterintelligence Andrey Nikolaev arrives in the city.",
+  "genre": [
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Igor Petrenko",
+    "Aleksandr Ilyin Jr",
+    "Dmitri Ulyanov",
+    "Nadezhda Mikhalkova",
+    "Mariya Andreeva"
+  ],
+  "director": "N/A",
+  "country": "RU",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/c85dop60aR2RVZy3hrMM4Tx5aHK.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt8772296",
+  "title": "Euphoria",
+  "type": "series",
+  "release": 2019,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Zendaya",
+    "Hunter Schafer",
+    "Sydney Sweeney",
+    "Jacob Elordi",
+    "Alexa Demie"
+  ],
+  "director": "Sam Levinson",
+  "country": "US",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+  "trailer": "https://www.youtube.com/embed/UR4Pxgnm-GA",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt33737583",
+  "title": "Euphoria",
+  "type": "movie",
+  "release": 2026,
+  "duration": "148 min",
+  "quality": "HD",
+  "description": "A young woman and her family seek justice after she is raped by a group of young men who come from powerful and influential backgrounds.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Sara Arjun",
+    "Gautham Vasudev Menon",
+    "Naveena Reddy",
+    "Ravi Prakash",
+    "Rajsekhar Aningi"
+  ],
+  "director": "Gunasekhar",
+  "country": "India",
+  "rating": "3.8",
+  "poster": "https://image.tmdb.org/t/p/w500/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt1475582",
+  "title": "Sherlock",
+  "type": "series",
+  "release": 2010,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Benedict Cumberbatch",
+    "Martin Freeman"
+  ],
+  "director": "Mark Gatiss, Steven Moffat",
+  "country": "GB",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+  "trailer": "https://www.youtube.com/embed/gGqWqGOSTGQ",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt4574334",
+  "title": "Stranger Things",
+  "type": "series",
+  "release": 2016,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+  "genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Winona Ryder",
+    "David Harbour",
+    "Millie Bobby Brown",
+    "Finn Wolfhard",
+    "Gaten Matarazzo"
+  ],
+  "director": "Ross Duffer, Matt Duffer",
+  "country": "US",
+  "rating": "8.6",
+  "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "trailer": "https://www.youtube.com/embed/mnd7sFt5c3A",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt33332385",
+  "title": "Widow's Bay",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Comedy"
+  ],
+  "actors": [
+    "Matthew Rhys",
+    "Kate O'Flynn",
+    "Kevin Carroll",
+    "Dale Dickey",
+    "Kingston Rumi Southwick"
+  ],
+  "director": "Katie Dippold",
+  "country": "US",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
+  "trailer": "https://www.youtube.com/embed/VcpYPxKeGAc",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt11378946",
+  "title": "Michael",
+  "type": "movie",
+  "release": 2026,
+  "duration": "128 min",
+  "quality": "HD",
+  "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+  "genre": [
+    "Music",
+    "Drama"
+  ],
+  "actors": [
+    "Jaafar Jackson",
+    "Colman Domingo",
+    "Nia Long",
+    "Juliano Krue Valdi",
+    "Miles Teller"
+  ],
+  "director": "Antoine Fuqua",
+  "country": "United States of America",
+  "rating": "8.7",
+  "poster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+  "trailer": "https://www.youtube.com/embed/k-YAcjaLuSI",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt30460310",
+  "title": "Spider-Noir",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Crime"
+  ],
+  "actors": [
+    "Nicolas Cage",
+    "Lamorne Morris",
+    "Li Jun Li",
+    "Karen Rodriguez",
+    "Abraham Popoola"
+  ],
+  "director": "Oren Uziel",
+  "country": "US",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+  "trailer": "https://www.youtube.com/embed/e5QW457407U",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt8266452",
+  "title": "Lev Yashin. The Dream Goalkeeper",
+  "type": "movie",
+  "release": 2019,
+  "duration": "120 min",
+  "quality": "HD",
+  "description": "An ordinary working class boy, like all his peers, he played football day and night and dreamed of being a striker. But no matter which team he played for - in the yard, at the factory, or in the army - he was inevitably put in goal.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Alexander Fokin",
+    "Yuliya Khlynina",
+    "Aleksey Guskov",
+    "Aleksei Kravchenko",
+    "Evgeniy Dyatlov"
+  ],
+  "director": "Vasily Chiginsky",
+  "country": "Russia",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/leCcyczNn9rUbKyP0SyjaBChpLi.jpg",
+  "trailer": "https://www.youtube.com/embed/Je3RTDatMIY",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt27557289",
+  "title": "The Boroughs",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
+  "genre": [
+    "Sci-Fi & Fantasy",
+    "Mystery"
+  ],
+  "actors": [
+    "Alfred Molina",
+    "Alfre Woodard",
+    "Denis O'Hare",
+    "Clarke Peters",
+    "Carlos Miranda"
+  ],
+  "director": "Jeffrey Addiss, Will Matthews",
+  "country": "US",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+  "trailer": "https://www.youtube.com/embed/PsvUvqXoTpE",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+
+{
+  "imdb": "tt26581740",
+  "title": "Weapons",
+  "type": "movie",
+  "release": 2025,
+  "duration": "128 min",
+  "quality": "HD",
+  "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "actors": [
+    "Julia Garner",
+    "Josh Brolin",
+    "Alden Ehrenreich",
+    "Austin Abrams",
+    "Benedict Wong"
+  ],
+  "director": "Zach Cregger",
+  "country": "United States of America",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+  "trailer": "https://www.youtube.com/embed/QKHySfXqN0I",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt42863533",
+  "title": "Maternal Instinct",
+  "type": "movie",
+  "release": 2026,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
+  "genre": [
+    "Documentary",
+    "Crime"
+  ],
+  "actors": [],
+  "director": "Jessica Dimmock",
+  "country": "United States of America",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+  "trailer": "https://www.youtube.com/embed/fzW61JgRbNk",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+
+{
+  "imdb": "tt32916440",
+  "title": "Marty Supreme",
+  "type": "movie",
+  "release": 2025,
+  "duration": "150 min",
+  "quality": "HD",
+  "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "actors": [
+    "Timothée Chalamet",
+    "Gwyneth Paltrow",
+    "Odessa A'zion",
+    "Kevin O'Leary",
+    "Tyler",
+    "The Creator"
+  ],
+  "director": "Josh Safdie",
+  "country": "United States of America",
+  "rating": "7.4",
+  "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+  "trailer": "https://www.youtube.com/embed/s9gSuKaKcqM",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+
+{
+  "imdb": "tt33071426",
+  "title": "The Drama",
+  "type": "movie",
+  "release": 2026,
+  "duration": "105 min",
+  "quality": "HD",
+  "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+  "genre": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Zendaya",
+    "Robert Pattinson",
+    "Mamoudou Athie",
+    "Alana Haim",
+    "Jordyn Curet"
+  ],
+  "director": "Kristoffer Borgli",
+  "country": "United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/qhGCY6DIemLoCi7x1GuEt98m4JF.jpg",
+  "trailer": "https://www.youtube.com/embed/0ZDzsH3XGFA",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt34737648",
+  "title": "Love Live! School Idol Musical the DRAMA",
+  "type": "series",
+  "release": 2024,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Miho Watanabe",
+    "Nanaka Tomita",
+    "Nanami Asai",
+    "Ayaka Yasumoto",
+    "Julia An"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.7",
+  "poster": "https://image.tmdb.org/t/p/w500/uCn20KJRHkZWpW7vj0ppEBc4rrU.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+
+{
+  "imdb": "tt0446724",
+  "title": "Kim Possible Movie: So the Drama",
+  "type": "movie",
+  "release": 2005,
+  "duration": "71 min",
+  "quality": "HD",
+  "description": "Dr. Drakken has an evil new plot for world domination, but his ultimate success depends upon finding out KP's weakness which may involve a new hottie at Middleton High School named Eric, who suddenly sparks feelings in Ron about Kim that resemble much more than friendship. To make matters worse, Bueno Nacho, Ron's favorite fast food chain has turned sour on him by bombarding him with little Devils.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Action",
+    "Comedy",
+    "Science Fiction",
+    "TV Movie"
+  ],
+  "actors": [
+    "Christy Carlson Romano",
+    "Will Friedle",
+    "Nancy Cartwright",
+    "Tahj Mowry",
+    "Mayim Bialik"
+  ],
+  "director": "Steve Loter",
+  "country": "United States of America",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
+  "trailer": "https://www.youtube.com/embed/odSm5oecY9M",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt23135198",
+  "title": "Jam: The Drama",
+  "type": "series",
+  "release": 2021,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Hiroshi, Takeru, and Tetsuo all live in the same city. Hiroshi is an unpopular idol singer and he feels a void in his life. He is placed under confinement by his fan Masako. Takeru believes that a girl returns to consciousness. Tetsuo decides to take revenge on a yakuza who sent him to prison.",
+  "genre": [
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Sho Aoyagi",
+    "Keita Machida",
+    "Nobuyuki Suzuki",
+    "Shintaro Akiyama",
+    "SWAY"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/qrwwoLXPQctUjsc5NySotj0G3Xp.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+
+{
+  "imdb": "tt31193180",
+  "title": "Sinners",
+  "type": "movie",
+  "release": 2025,
+  "duration": "138 min",
+  "quality": "HD",
+  "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+  "genre": [
+    "Horror",
+    "Action",
+    "Thriller"
+  ],
+  "actors": [
+    "Michael B. Jordan",
+    "Hailee Steinfeld",
+    "Miles Caton",
+    "Jack O'Connell",
+    "Wunmi Mosaku"
+  ],
+  "director": "Ryan Coogler",
+  "country": "United States of America",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+  "trailer": "https://www.youtube.com/embed/l2h2lC0vlX4",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt5336934",
+  "title": "Saints & Sinners",
+  "type": "series",
+  "release": 2016,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A large Southern church is the background for greed, corruption and murder.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Clifton Powell",
+    "Jasmine Burke",
+    "Keith D. Robinson",
+    "Vanessa Bell Calloway",
+    "Christian Keyes"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/dAnMf6cpuq0p0PLEGrX0wCXyS4d.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+
+{
+  "imdb": "tt1745960",
+  "title": "Top Gun: Maverick",
+  "type": "movie",
+  "release": 2022,
+  "duration": "131 min",
+  "quality": "HD",
+  "description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+  "genre": [
+    "Action",
+    "Drama"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Miles Teller",
+    "Jennifer Connelly",
+    "Bashir Salahuddin",
+    "Jon Hamm"
+  ],
+  "director": "Joseph Kosinski",
+  "country": "United States of America",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+  "trailer": "https://www.youtube.com/embed/Klc__shdj88",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt33546863",
+  "title": "Off Campus",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Ella Bright",
+    "Belmont Cameli",
+    "Mika Abdalla",
+    "Stephen Kalyn",
+    "Jalen Thomas Brooks"
+  ],
+  "director": "Gina Fattore",
+  "country": "US",
+  "rating": "9.0",
+  "poster": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+  "trailer": "https://www.youtube.com/embed/wAozjf2frxw",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt9813792",
+  "title": "FROM",
+  "type": "series",
+  "release": 2022,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+  "genre": [
+    "Mystery",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Harold Perrineau",
+    "Catalina Sandino Moreno",
+    "Ricky He",
+    "David Alpay",
+    "Chloe Van Landschoot"
+  ],
+  "director": "John Griffin",
+  "country": "US",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+  "trailer": "https://www.youtube.com/embed/pDHqAj4eJcM",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+
+{
+  "imdb": "tt7533152",
+  "title": "The Boy Who Harnessed the Wind",
+  "type": "movie",
+  "release": 2019,
+  "duration": "113 min",
+  "quality": "HD",
+  "description": "Against all the odds, a thirteen year old boy in Malawi invents an unconventional way to save his family and village from famine.",
+  "genre": [
+    "Drama",
+    "History"
+  ],
+  "actors": [
+    "Maxwell Simba",
+    "Chiwetel Ejiofor",
+    "Aïssa Maïga",
+    "Lily Banda",
+    "Joseph Marcell"
+  ],
+  "director": "Chiwetel Ejiofor",
+  "country": "Malawi, United Kingdom, United States of America",
+  "rating": "7.9",
+  "poster": "https://image.tmdb.org/t/p/w500/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg",
+  "trailer": "https://www.youtube.com/embed/nPkr9HmglG0",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+
+{
+  "imdb": "tt34991493",
+  "title": "Dutton Ranch",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+  "genre": [
+    "Western",
+    "Drama"
+  ],
+  "actors": [
+    "Kelly Reilly",
+    "Cole Hauser",
+    "Finn Little",
+    "Juan Pablo Raba",
+    "Jai Courtney"
+  ],
+  "director": "Chad Feehan",
+  "country": "US",
+  "rating": "9.3",
+  "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+  "trailer": "https://www.youtube.com/embed/k6cjKNZBQ1M",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+
+{
+  "imdb": "tt33055254",
+  "title": "Every Year After",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Sadie Soverall",
+    "Matt Cornett",
+    "Aurora Perrineau",
+    "Abigail Cowen",
+    "Michael Bradway"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+  "trailer": "https://www.youtube.com/embed/F5SpqQ8dNa8",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt34685692",
+  "title": "Over Your Dead Body",
+  "type": "movie",
+  "release": 2026,
+  "duration": "105 min",
+  "quality": "HD",
+  "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "actors": [
+    "Samara Weaving",
+    "Jason Segel",
+    "Timothy Olyphant",
+    "Juliette Lewis",
+    "Keith Jardine"
+  ],
+  "director": "Jorma Taccone",
+  "country": "United States of America, Norway, Finland",
+  "rating": "6.5",
+  "poster": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
+  "trailer": "https://www.youtube.com/embed/pGxKTIegUZ4",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt4236770",
+  "title": "Yellowstone",
+  "type": "series",
+  "release": 2018,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+  "genre": [
+    "Western",
+    "Drama"
+  ],
+  "actors": [
+    "Luke Grimes",
+    "Kelly Reilly",
+    "Wes Bentley",
+    "Cole Hauser",
+    "Kelsey Asbille"
+  ],
+  "director": "Taylor Sheridan, John Linson",
+  "country": "US",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+  "trailer": "https://www.youtube.com/embed/suobrMPBLlo",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt0460681",
+  "title": "Supernatural",
+  "type": "series",
+  "release": 2005,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Jared Padalecki",
+    "Jensen Ackles",
+    "Misha Collins"
+  ],
+  "director": "Eric Kripke",
+  "country": "US",
+  "rating": "8.3",
+  "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+  "trailer": "https://www.youtube.com/embed/yy96yJjkvjo",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+
+{
+  "imdb": "tt3952100",
+  "title": "When Supernatural Battles Became Commonplace",
+  "type": "series",
+  "release": 2014,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A group of five boys and girls suddenly acquire supernatural powers. Ready to fight in galactic battles to defend human cause… they are struck by the realization that there are no wars, no conspiracies, no evils empires, no nothing in their high school life. They instead decide to idly have fun by wasting their powers away.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Nobuhiko Okamoto",
+    "Haruka Yamazaki",
+    "Saori Hayami",
+    "Nanami Yamashita",
+    "Risa Taneda"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "6.0",
+  "poster": "https://image.tmdb.org/t/p/w500/a3tXVmSvkMRu9OyJhAfxt0zIE7r.jpg",
+  "trailer": "https://www.youtube.com/embed/fIEeVqJjjIQ",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt11237876",
+  "title": "Supernatural Academy",
+  "type": "series",
+  "release": 2022,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "After discovering they are dragon-marked and cursed to serve the evil Dragon King, adversarial werewolf twins must trust each other to save themselves, their Supernatural Academy and the world.",
+  "genre": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Shannon Chan-Kent",
+    "Bethany Brown",
+    "Alessandro Juliani",
+    "Gigi Saul Guerrero",
+    "Cardi Wong"
+  ],
+  "director": "N/A",
+  "country": "US",
+  "rating": "7.8",
+  "poster": "https://image.tmdb.org/t/p/w500/9ZCngZIuBPaocJyiQHlyFecUpru.jpg",
+  "trailer": "https://www.youtube.com/embed/EFjA-oiea6Y",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt12787182",
+  "title": "The Supernatural Sweet Shop",
+  "type": "series",
+  "release": 2020,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.",
+  "genre": [
+    "Animation",
+    "Mystery",
+    "Comedy",
+    "Kids"
+  ],
+  "actors": [
+    "Toshiki Kumagai",
+    "Fukujuro Katayama",
+    "Nobue Iketani",
+    "Tamaki Shiratori"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/f8x6LAAIk1VpZ6TVFedpvB427FU.jpg",
+  "trailer": "https://www.youtube.com/embed/HMoClzha_-k",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+
+{
+  "imdb": "tt34378301",
+  "title": "Tom Clancy's Jack Ryan: Ghost War",
+  "type": "movie",
+  "release": 2026,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "actors": [
+    "John Krasinski",
+    "Wendell Pierce",
+    "Sienna Miller",
+    "Michael Kelly",
+    "Max Beesley"
+  ],
+  "director": "Andrew Bernstein",
+  "country": "United States of America",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+  "trailer": "https://www.youtube.com/embed/-4ZVFspRn3M",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt0203259",
+  "title": "Law & Order: Special Victims Unit",
+  "type": "series",
+  "release": 1999,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "actors": [
+    "Mariska Hargitay",
+    "Ice-T",
+    "Kelli Giddish",
+    "Peter Scanavino",
+    "Aimé Donna Kelly"
+  ],
+  "director": "Dick Wolf",
+  "country": "US",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+
+{
+  "imdb": "tt2111458",
+  "title": "The Mentalist",
+  "type": "movie",
+  "release": 2011,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "Two mentalists, Deddy Corbuzier and Ronggo Sewu, compete to show who is the best. Ronggo Sewu who used to be Deddy Corbuzier's assistant framed Deddy Corbuzier by using black magic in every magic show.",
+  "genre": [
+    "Action"
+  ],
+  "actors": [
+    "Deddy Corbuzier",
+    "Master Limbad",
+    "Jodi Lyn Brockton",
+    "Natascha Hopkins",
+    "Lidia Pearl"
+  ],
+  "director": "Walmer Sitohang",
+  "country": "Indonesia",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/jVHLtSh0YCe0qCS6l1pXoNEpHf.jpg",
+  "trailer": "https://www.youtube.com/embed/u46q9HiYQMk",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+
+{
+  "imdb": "tt36849871",
+  "title": "Marshals",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+  "genre": [
+    "Drama",
+    "Crime",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Luke Grimes",
+    "Logan Marshall-Green",
+    "Arielle Kebbel",
+    "Ash Santos",
+    "Tatanka Means"
+  ],
+  "director": "Spencer Hudnut",
+  "country": "US",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+  "trailer": "https://www.youtube.com/embed/FGKuQa6ulEQ",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+
+{
+  "imdb": "tt11247158",
+  "title": "The Legend of Vox Machina",
+  "type": "series",
+  "release": 2022,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+  "genre": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Laura Bailey",
+    "Taliesin Jaffe",
+    "Ashley Johnson",
+    "Liam O'Brien",
+    "Marisha Ray"
+  ],
+  "director": "Chris Prynoski",
+  "country": "US",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
+  "trailer": "https://www.youtube.com/embed/JvwxQSc-3os",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt10541088",
+  "title": "Clarkson's Farm",
+  "type": "series",
+  "release": 2021,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?",
+  "genre": [
+    "Reality",
+    "Comedy"
+  ],
+  "actors": [
+    "Jeremy Clarkson",
+    "Kaleb Cooper",
+    "Charlie Ireland",
+    "Lisa Hogan"
+  ],
+  "director": "N/A",
+  "country": "GB",
+  "rating": "8.5",
+  "poster": "https://image.tmdb.org/t/p/w500/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
+  "trailer": "https://www.youtube.com/embed/pW-iVG0_D34",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt14186672",
+  "title": "Landman",
+  "type": "series",
+  "release": 2024,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Billy Bob Thornton",
+    "Demi Moore",
+    "Andy Garcia",
+    "Ali Larter",
+    "Jacob Lofland"
+  ],
+  "director": "Taylor Sheridan, Christian Wallace",
+  "country": "US",
+  "rating": "8.2",
+  "poster": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+  "trailer": "https://www.youtube.com/embed/wXzhEhCOlnM",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+
+{
+  "imdb": "tt33204276",
+  "title": "The Madison",
+  "type": "series",
+  "release": 2026,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "The Clyburns uproot their comfortable New York City lives to the wild, untamed beauty of Montana's Madison River Valley on a search for connection.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Michelle Pfeiffer",
+    "Kurt Russell",
+    "Beau Garrett",
+    "Patrick J. Adams",
+    "Elle Chapman"
+  ],
+  "director": "Taylor Sheridan",
+  "country": "US",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+  "trailer": "https://www.youtube.com/embed/OSb-X_YkLg4",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+
+{
+  "imdb": "tt0364845",
+  "title": "NCIS",
+  "type": "series",
+  "release": 2003,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Sean Murray",
+    "Wilmer Valderrama",
+    "Katrina Law",
+    "Brian Dietzen",
+    "Rocky Carroll"
+  ],
+  "director": "Don McGill, Donald P. Bellisario",
+  "country": "US",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+  "trailer": "https://www.youtube.com/embed/BhtDgn31XZo",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt1378167",
+  "title": "NCIS: Los Angeles",
+  "type": "series",
+  "release": 2009,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "The exploits of the Los Angeles–based Office of Special Projects (OSP), an elite division of the Naval Criminal Investigative Service that specializes in undercover assignments.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Crime",
+    "Mystery"
+  ],
+  "actors": [
+    "Chris O'Donnell",
+    "Daniela Ruah",
+    "Eric Christian Olsen",
+    "Barrett Foa",
+    "Medalion Rahimi"
+  ],
+  "director": "Shane Brennan",
+  "country": "US",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+
+{
+  "imdb": "tt3560084",
+  "title": "NCIS: New Orleans",
+  "type": "series",
+  "release": 2014,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "A drama about the local field office that investigates criminal cases affecting military personnel in The Big Easy, a city known for its music, entertainment and decadence.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "actors": [
+    "Scott Bakula",
+    "Vanessa Ferlito",
+    "Necar Zadegan",
+    "Charles Michael Davis",
+    "Rob Kerkovich"
+  ],
+  "director": "Gary Glasberg",
+  "country": "US",
+  "rating": "7.3",
+  "poster": "https://image.tmdb.org/t/p/w500/1WJJUUZODmRTcFydLDBUtiztL6x.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+
+{
+  "imdb": "tt14218674",
+  "title": "NCIS: Hawaiʻi",
+  "type": "series",
+  "release": 2021,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Jane Tennant, the first female Special Agent in Charge of NCIS Pearl Harbor, and her unwavering team of specialists balance duty to family and country while investigating high-stakes crimes involving military personnel, national security and the mysteries of the sun-drenched island paradise itself.",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "Vanessa Lachey",
+    "Alex Tarrant",
+    "Noah Mills",
+    "Yasmine Al-Bustami",
+    "Jason Antoon"
+  ],
+  "director": "Jan Nash, Christopher Silber, Matt Bosack",
+  "country": "US",
+  "rating": "7.7",
+  "poster": "https://image.tmdb.org/t/p/w500/4R8xtDx2ge0GjEOnEwoR8V8X82q.jpg",
+  "trailer": "https://www.youtube.com/embed/OcSDac7x_bM",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+
+{
+  "imdb": "tt30796986",
+  "title": "NCIS: Origins",
+  "type": "series",
+  "release": 2024,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "In 1991, years prior to the events of NCIS, Leroy Jethro Gibbs starts his career as a newly minted special agent at the fledgling NCIS Camp Pendleton office, where he forges his place on a gritty, ragtag team led by NCIS legend Mike Franks.",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "actors": [
+    "Austin Stowell",
+    "Kyle Schmid",
+    "Mariel Molino",
+    "Tyla Abercrumbie",
+    "Diany Rodriguez"
+  ],
+  "director": "Gina Lucita Monreal, David J. North",
+  "country": "US",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
+  "trailer": "https://www.youtube.com/embed/HBV51tKJlEY",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt18258908",
+  "title": "NCIS: Sydney",
+  "type": "series",
+  "release": 2023,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "The brilliant and eclectic team of U.S. NCIS Agents and the Australian Federal Police (AFP) are grafted into a multi-national taskforce to keep naval crimes in check in the most contested patch of ocean on the planet.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "actors": [
+    "Olivia Swann",
+    "Todd Lasance",
+    "Sean Sagar",
+    "Tuuli Narkle",
+    "Mavournee Hazel"
+  ],
+  "director": "Morgan O'Neill",
+  "country": "AU",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
+  "trailer": "https://www.youtube.com/embed/ywikEvhNNbs",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+
+{
+  "imdb": "tt9288030",
+  "title": "Reacher",
+  "type": "series",
+  "release": 2022,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+  "genre": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+  ],
+  "actors": [
+    "Alan Ritchson",
+    "Maria Sten",
+    "Sonya Cassidy",
+    "Johnny Berchtold",
+    "Roberto Montesinos"
+  ],
+  "director": "Nick Santora",
+  "country": "US",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+  "trailer": "https://www.youtube.com/embed/GSycMV-_Csw",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt2074708",
+  "title": "Hungry Heart: Wild Striker",
+  "type": "series",
+  "release": 2002,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Kyosuke Kano has lived under the shadow of his successful brother Seisuke all his life who is a professional soccer player.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Natsuki Kato",
+    "Masaya Takatsuka",
+    "Kenji Nomura",
+    "Yoshikazu Nagano",
+    "Hiroyuki Yoshino"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "8.6",
+  "poster": "https://image.tmdb.org/t/p/w500/IFYUFTK4hsmvL6wsdHwJSMFvVs.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 87
+},
+
+{
+  "imdb": "tt34494076",
+  "title": "Hungry",
+  "type": "movie",
+  "release": 2026,
+  "duration": "",
+  "quality": "HD",
+  "description": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+  "genre": [
+    "Thriller",
+    "Horror"
+  ],
+  "actors": [
+    "Madison Davenport",
+    "Tracey Bonner",
+    "Joaquim de Almeida",
+    "Michel Curiel",
+    "Samantha Coughlan"
+  ],
+  "director": "James Nunn",
+  "country": "United States of America",
+  "rating": "3.0",
+  "poster": "https://image.tmdb.org/t/p/w500/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
+  "trailer": "https://www.youtube.com/embed/aHZrv6CSTuA",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+
+{
+  "imdb": "tt33050521",
+  "title": "The Banished",
+  "type": "movie",
+  "release": 2025,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "Grace has nowhere to turn when she finds herself lost in the wilderness with a dark presence threatening to consume her in this twisted folk horror.",
+  "genre": [
+    "Horror"
+  ],
+  "actors": [
+    "Meg Clarke",
+    "Leighton Cardno",
+    "Gautier de Fontaine",
+    "Tony Hughes",
+    "Di Smith"
+  ],
+  "director": "Joseph Sims-Dennett",
+  "country": "Australia",
+  "rating": "4.2",
+  "poster": "https://image.tmdb.org/t/p/w500/wJLxynToyvomCX2Q4gBkXcYDxxK.jpg",
+  "trailer": "https://www.youtube.com/embed/qbnkCXtkpLE",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt28131643",
+  "title": "The Banished Former Hero Lives as He Pleases",
+  "type": "series",
+  "release": 2024,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Allen is banished from the Duchy of Westfeldt on account of his low level and lack of a god-given Gift, and all seems lost. But with his memories of a past life as a hero intact, Allen sees this twist of fate as a blessing—he can finally live his life as he pleases! That momentary peace is cut short when Allen saves his ex-fiancée, beginning a new saga for the banished former hero.",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Shouta Aoi",
+    "Minami Kurisaka",
+    "Sora Amamiya",
+    "Akari Kito",
+    "Aimi"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "6.0",
+  "poster": "https://image.tmdb.org/t/p/w500/gUDkHsNzkjTBQ55fS9pUO1ng7vk.jpg",
+  "trailer": "https://www.youtube.com/embed/gL4VU5NrO60",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+
+{
+  "imdb": "tt36631539",
+  "title": "The Banished Court Magician Aims to Become the Strongest",
+  "type": "series",
+  "release": 2025,
+  "duration": "HD",
+  "quality": "HD",
+  "description": "Once a loyal court magician supporting the crown prince from behind the scenes, Alec Ygret is cast aside and exiled for only knowing support magic. But just as he hits rock bottom, he reunites with Yorha Eisentz, a former comrade from the legendary party Lasting Period. Invited to rejoin the team that once made history, Alec returns to dungeon exploration—and begins a new chapter in his life!",
+  "genre": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "actors": [
+    "Shuichiro Umeda",
+    "Yurika Kubo",
+    "Masumi Tazawa",
+    "Masaaki Mizunaka"
+  ],
+  "director": "N/A",
+  "country": "JP",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/tmGjjRN9dRFzybRLSecgxNo46IE.jpg",
+  "trailer": "https://www.youtube.com/embed/eC8KnmEfBOY",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt7385524",
+  "title": "The Banished",
+  "type": "movie",
+  "release": 2019,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "A disabled man is haunted by the torture he suffered as a child when his terminally ill half-sister returns to their small Upstate New York town seeking answers to why their mother abandoned her 40 years before, which sets them both on a tragic and horrific journey.",
+  "genre": [
+    "Horror"
+  ],
+  "actors": [
+    "Fiona Horsey",
+    "Jennifer Hyde",
+    "Tigre Haller"
+  ],
+  "director": "David Bohórquez",
+  "country": "Colombia",
+  "rating": "5.6",
+  "poster": "https://image.tmdb.org/t/p/w500/ahxLvy5sg300cvPXuPYeN8NO1SE.jpg",
+  "trailer": "https://www.youtube.com/embed/H6zbuFyp87k",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+
+{
+  "imdb": "tt34385135",
+  "title": "Colony",
+  "type": "movie",
+  "release": 2026,
+  "duration": "123 min",
+  "quality": "HD",
+  "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+  "genre": [
+    "Action",
+    "Thriller",
+    "Horror"
+  ],
+  "actors": [
+    "Gianna Jun",
+    "Koo Kyo-hwan",
+    "Ji Chang-wook",
+    "Kim Shin-rock",
+    "Shin Hyun-been"
+  ],
+  "director": "Yeon Sang-ho",
+  "country": "South Korea",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+  "trailer": "https://www.youtube.com/embed/LW6dpj1uCK8",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+
+{
+  "imdb": "tt1160996",
+  "title": "The Colony",
+  "type": "movie",
+  "release": 2013,
+  "duration": "95 min",
+  "quality": "HD",
+  "description": "Forced underground by the next ice age, a struggling outpost of survivors must fight to preserve humanity against a threat even more savage than nature.",
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "actors": [
+    "Kevin Zegers",
+    "Laurence Fishburne",
+    "Bill Paxton",
+    "Charlotte Sullivan",
+    "John Tench"
+  ],
+  "director": "Jeff Renfroe",
+  "country": "Canada",
+  "rating": "5.5",
+  "poster": "https://image.tmdb.org/t/p/w500/t7d9Zk4ltloYgDCMj0qHIpQBAIs.jpg",
+  "trailer": "https://www.youtube.com/embed/ZENI7UC3WQo",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+
+{
+  "imdb": "tt42111424",
+  "title": "Love, Ngo",
+  "type": "movie",
+  "release": 2026,
+  "duration": "83 min",
+  "quality": "HD",
+  "description": "“Love, Ngo” follows Ngongo, a hardworking young man who volunteers at a cleft lip and palate foundation while helping at his mother’s burger stand. The film explores his struggles with love, family and self-acceptance after falling for a woman whose family disapproves of his condition and social status.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Jerald Napoles",
+    "Gina Alajar",
+    "Louise delos Reyes",
+    "Candy Pangilinan",
+    "Malupiton"
+  ],
+  "director": "Darryl Yap",
+  "country": "Philippines",
+  "rating": "9.0",
+  "poster": "https://image.tmdb.org/t/p/w500/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
 {
   "imdb": "tt27599851",
   "title": "Apocalypse Z: The Beginning of the End",
