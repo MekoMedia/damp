@@ -1,5 +1,558 @@
 {
   "movies": [
+   {
+  "imdb": "tt14687716",
+  "title": "The Beehive",
+  "type": "movie",
+  "release": 2023,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "The Beehive tells the story of an inquisitive young girl, her angsty teenage brother, and her self-righteous father who put their family conflicts aside in the face of a pandemic alien invasion.",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "actors": [
+    "Meadow Kingfisher",
+    "Tina Georgieva",
+    "Kaydin Gibson"
+  ],
+  "director": "Alexander Lasheras",
+  "country": "CA",
+  "rating": "5.6",
+  "poster": "https://image.tmdb.org/t/p/w500/fPqRnIPUHR09VlB64dKWEri10UN.jpg",
+  "trailer": "https://www.youtube.com/embed/D87k0ZgG6Ic",
+  "baseviews": "1.3M",
+  "popularity": 72
+},
+{
+  "imdb": "tt2407064",
+  "title": "Blindly in Love",
+  "type": "movie",
+  "release": 2013,
+  "duration": "117 min",
+  "quality": "HD",
+  "description": "35-year-old Kentaro is a social misfit and has never dated a woman in his life. He lives with his parents and holds a modest job in city hall. Kentaro doesn't have any friends, nor received a promotion in 13 years at his place of ...",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Gen Hoshino",
+    "Kaho",
+    "Sei Hiraizumi"
+  ],
+  "director": "Masahide Ichii",
+  "country": "JP",
+  "rating": "6.6",
+  "poster": "https://image.tmdb.org/t/p/w500/8Tl9hPSiLakQ4qlZhvMRh8ZVUUH.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+{
+  "imdb": "tt33355331",
+  "title": "Boomerang",
+  "type": "movie",
+  "release": 2024,
+  "duration": "83 min",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Arash Naimian",
+    "Yas Farkhondeh",
+    "Leili Rashidi"
+  ],
+  "director": "Shahab Fotouhi",
+  "country": "DE",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/bsUN0weg5hhMcRI5w8fJErvBHzn.jpg",
+  "trailer": "https://www.youtube.com/embed/amxqMNPQ8bQ",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt38773220",
+  "title": "Human Soul",
+  "type": "movie",
+  "release": null,
+  "duration": "",
+  "quality": "HD",
+  "description": "",
+  "genre": [],
+  "actors": [],
+  "director": "",
+  "country": "",
+  "rating": "0.0",
+  "poster": "https://image.tmdb.org/t/p/w500/AmSORvUrzEwoo8M7jghiB3uqrAN.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+{
+  "imdb": "tt28682462",
+  "title": "Love Is the Monster",
+  "type": "movie",
+  "release": 2023,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Troubled couples head to a transformative retreat in Finland, where they fall prey to a malevolent ancient goddess of love.",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "Madeline Zima",
+    "Leonardo Nam",
+    "Kimberly-Sue Murray"
+  ],
+  "director": "Alex Noyer",
+  "country": "CA",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/g27fEOnKrJWOifCU38FVYyPwRCd.jpg",
+  "trailer": "https://www.youtube.com/embed/yhA6lKenihY",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+{
+  "imdb": "tt33498897",
+  "title": "Undertone",
+  "type": "movie",
+  "release": 2025,
+  "duration": "12 min",
+  "quality": "HD",
+  "description": "A sound recordist captures strange sonic phenomena underneath their house, and things escalate from there.",
+  "genre": [
+    "Short",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Shaun Munro"
+  ],
+  "director": "Shaun Munro",
+  "country": "GB",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/brNkSCLfMN51OxcsZGM5dS0EM3x.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+{
+  "imdb": "tt42907611",
+  "title": "The Welcome Table",
+  "type": "movie",
+  "release": 2026,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Tells the story of climate refugees across six continents, celebrating the voices and experiences of people living at the forefront of the climate crisis, displaced from their homes by climate disasters.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [],
+  "director": "Josh Fox",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/8cOEREMN6WF4Vf6IgBLU3AqmbeN.jpg",
+  "trailer": "https://www.youtube.com/embed/NlogOxc8rXk",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+{
+  "imdb": "tt29926644",
+  "title": "Hold the Fort",
+  "type": "movie",
+  "release": 2025,
+  "duration": "74 min",
+  "quality": "HD",
+  "description": "After moving to the suburbs, a young couple finds themselves trapped in an epic battle between their new HOA and an onslaught of monsters from hell.",
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "actors": [
+    "Chris Mayers",
+    "Levi Burdick",
+    "Julian Smith"
+  ],
+  "director": "William Bagley",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/uENTO0RmN9lhnU3swRDwZh1Pi73.jpg",
+  "trailer": "https://www.youtube.com/embed/QD-5FTC84RM",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+{
+  "imdb": "tt35555070",
+  "title": "The Secret Lives of Bill Bartell",
+  "type": "movie",
+  "release": 2025,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "Bill Bartell is not famous, but those who knew him think he should be. Bill was a musician, band manager, record label owner, police officer, rodeo bull rider, an attention-seeking recluse, and the ultimate fan-boy. He led an exce...",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Alva Adams",
+    "Allison Anders",
+    "Derwood Andrews"
+  ],
+  "director": "David Markey",
+  "country": "US",
+  "rating": "9.7",
+  "poster": "https://image.tmdb.org/t/p/w500/zDrDXn3zqXI74UHAQoCObOrnGr2.jpg",
+  "trailer": "https://www.youtube.com/embed/tVOt09XR1JM",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+{
+  "imdb": "tt0102318",
+  "title": "A Little Piece of Heaven",
+  "type": "movie",
+  "release": 1991,
+  "duration": "110 min",
+  "quality": "HD",
+  "description": "Will Loomis lives with his mentally-handicapped sister Violet, who wants a younger child to play with, so Will kidnaps one (and then another) child from the local children's home and tells them they're dead and have gone to heaven...",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Family"
+  ],
+  "actors": [
+    "Kirk Cameron",
+    "Cloris Leachman",
+    "Jenny Robertson"
+  ],
+  "director": "Mimi Leder",
+  "country": "US",
+  "rating": "3.6",
+  "poster": "https://image.tmdb.org/t/p/w500/isZZzAxA8btyNpjZ5NG1sUgsMWE.jpg",
+  "trailer": "https://www.youtube.com/embed/Y4gLMus1Hzc",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+{
+  "imdb": "tt0472767",
+  "title": "Love Me Tomorrow",
+  "type": "movie",
+  "release": 2005,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "Three years have passed since Elling moved to town with Kjell Bjarne, his roommate from the institution at Brøynes. Elling now lives on his own in the apartment. Kjell Bjarne has moved up one floor, to Reidun and her little daught...",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Per Christian Ellefsen",
+    "Sven Nordin",
+    "Marian Saastad Ottesen"
+  ],
+  "director": "Petter Næss",
+  "country": "NO",
+  "rating": "6.2",
+  "poster": "https://image.tmdb.org/t/p/w500/6tXmNkuZP73LLCaGBhLJefWu616.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+{
+  "imdb": "tt1217021",
+  "title": "Depeche Mode: Touring the Angel - Live in Milan",
+  "type": "movie",
+  "release": 2006,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "This film presents the beloved British synth-pop act performing live in support of its well-received comeback album, PLAYING THE ANGEL. Touring the Angel Live in Milan songs, this film ...",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "actors": [
+    "David Gahan",
+    "Martin Gore",
+    "Andrew Fletcher",
+    "Christian Eigner"
+  ],
+  "director": "Blue Leach",
+  "country": "UK",
+  "rating": "8.7",
+  "poster": "https://image.tmdb.org/t/p/w500/6v95mrR7IaYA2SgDzKnBa6F2lvH.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+{
+  "imdb": "tt33772384",
+  "title": "Meteors",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "A village in Honduras is preparing for a meteorite fall. Meanwhile, in France, Julien is back from his stay in a psychiatric hospital. He's certain that the meteorite won't fall in Honduras but in Saint-Dizier, France.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Paul Kircher",
+    "Idir Azougli",
+    "Salif Cissé"
+  ],
+  "director": "Hubert Charuel",
+  "country": "FR",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/1mekPmSL6jCKgMJE7SVhqVYkc0T.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+{
+  "imdb": "tt36313062",
+  "title": "The American Dream",
+  "type": "movie",
+  "release": 2026,
+  "duration": "122 min",
+  "quality": "HD",
+  "description": "Nobody would have bet on Jérémy, working behind a video store counter, or Bouna, cleaning at the airport. Without connections, money or much English, nothing suggested they would become NBA agents.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Jean-Pascal Zadi",
+    "Raphaël Quenard",
+    "Djibi Diakhaté"
+  ],
+  "director": "Anthony Marciano",
+  "country": "FR",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/hQagR2IJiVN2FBFWmuz7XOQdVOF.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+{
+  "imdb": "tt0089752",
+  "title": "Otra vuelta de tuerca",
+  "type": "movie",
+  "release": 1985,
+  "duration": "119 min",
+  "quality": "HD",
+  "description": "A sexually conflicted young man is hired to take care of two orphaned siblings in a remote seaside mansion, and soon realizes that the ghosts of two former servants are trying to possess the children.",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "Pedro Mari Sánchez",
+    "Queta Claver",
+    "Asier Hernández"
+  ],
+  "director": "Eloy de la Iglesia",
+  "country": "ES",
+  "rating": "6.2",
+  "poster": "https://image.tmdb.org/t/p/w500/4rrbZXw3CfHD6H7oa2yl9ZRhFtw.jpg",
+  "trailer": "https://www.youtube.com/embed/CncN3ckg73I",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+{
+  "imdb": "tt35993050",
+  "title": "A Tailor-Made Romance",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "A struggling designer takes a job as a personal stylist for a grumpy but ridiculously handsome billionaire. As she revamps his wardrobe and he teaches her about business, they realize they just might be the perfect fit.",
+  "genre": [
+    "Romance"
+  ],
+  "actors": [],
+  "director": "",
+  "country": "N/",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/kVdhvNyObj1j6ekgKVR6vOSZbtg.jpg",
+  "trailer": "https://www.youtube.com/embed/qeRdjqv_4u8",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+{
+  "imdb": "tt36598704",
+  "title": "Off the Air",
+  "type": "movie",
+  "release": 2026,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Two estranged sisters reunite to sell their late father's radio station, but the past won't let them leave quietly.",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Jillian Lyle",
+    "Kalani Hubbard",
+    "Rusty Totty"
+  ],
+  "director": "Adam Paul Stone",
+  "country": "US",
+  "rating": "9.5",
+  "poster": "https://image.tmdb.org/t/p/w500/tXXAyVsp7yrtah5A6UyCO7JTD8Y.jpg",
+  "trailer": "https://www.youtube.com/embed/83ELF8DoAns",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+{
+  "imdb": "tt42898211",
+  "title": "Ryan Hamilton: This Just Hit Me",
+  "type": "movie",
+  "release": 2026,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "actors": [
+    "Ryan Hamilton"
+  ],
+  "director": "Nate Bargatze",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
+  "trailer": "https://www.youtube.com/embed/Bl7DszAEKd0",
+  "baseviews": "1.3M",
+  "popularity": 87
+},
+{
+  "imdb": "tt39018643",
+  "title": "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D",
+  "type": "movie",
+  "release": 2026,
+  "duration": "114 min",
+  "quality": "HD",
+  "description": "An accompanying 3D concert film, documenting the Manchester shows and co-directed by Eilish and James Cameron.",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "actors": [
+    "Billie Eilish",
+    "Finneas O&apos;Connell",
+    "Andrew Marshall"
+  ],
+  "director": "James Cameron, Billie Eilish",
+  "country": "US",
+  "rating": "4.5",
+  "poster": "https://image.tmdb.org/t/p/w500/zfFvltKHntGBupFuubx3r61v48e.jpg",
+  "trailer": "https://www.youtube.com/embed/9ElURjcuWLQ",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+{
+  "imdb": "tt32166005",
+  "title": "Chapter 51",
+  "type": "movie",
+  "release": 2024,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "actors": [
+    "Grace Cooper",
+    "Allie Marie Evans",
+    "Logan Huffman"
+  ],
+  "director": "Tyler Shields",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/4EDvc5HG5f3PvRQp5DEnNAmsD5S.jpg",
+  "trailer": "https://www.youtube.com/embed/NJiRVbJMSnM",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+{
+  "imdb": "tt32252801",
+  "title": "Blue Heron",
+  "type": "movie",
+  "release": 2025,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "A family of six settles into their new home on Vancouver Island as internal dynamics are slowly revealed through the eyes of the youngest child.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Eylul Guven",
+    "Amy Zimmer",
+    "Iringó Réti"
+  ],
+  "director": "Sophy Romvari",
+  "country": "CA",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+  "trailer": "https://www.youtube.com/embed/JeWg8wUlQVo",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+{
+  "imdb": "tt36592916",
+  "title": "ChaO",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Romance"
+  ],
+  "actors": [
+    "Oji Suzuka",
+    "Anna Yamada"
+  ],
+  "director": "Yasuhiro Aoki",
+  "country": "JP",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/m723xGi6lyklfsTPdtgEtYJSKcw.jpg",
+  "trailer": "https://www.youtube.com/embed/Cc6VyTu_SH0",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+{
+  "imdb": "tt33365126",
+  "title": "Carolina Caroline",
+  "type": "movie",
+  "release": 2026,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "A young woman joins a charming con man on the run, leaving a trail of crime and passion as they hustle through the Southeast in search of her estranged mother.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Samara Weaving",
+    "Kyle Gallner",
+    "Kyra Sedgwick"
+  ],
+  "director": "Adam Rehmeier",
+  "country": "US",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/1USANKYuRTaqYD7y3aDs3gHOJMP.jpg",
+  "trailer": "https://www.youtube.com/embed/fNdC6SJ-TxY",
+  "baseviews": "1.3M",
+  "popularity": 74
+}, 
   {
   "imdb": "tt11126994",
   "title": "Arcane",
