@@ -1,5 +1,1878 @@
 {
   "movies": [
+    {
+  "imdb": "tt32267691",
+  "title": "Power Ballad",
+  "type": "movie",
+  "release": 2026,
+  "duration": "98 min",
+  "quality": "HD",
+  "description": "Rick, a washed-up wedding singer, and Danny, a fading boy band star, bond over music and a late-night jam session. When Danny turns Rick's song into a hit, Rick sets out to reclaim the recognition he believes he deserves.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "actors": [
+    "Paul Rudd",
+    "Nick Jonas",
+    "Peter McDonald"
+  ],
+  "director": "John Carney",
+  "country": "IE",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg",
+  "trailer": "https://www.youtube.com/embed/-faiHUsbP_U",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt33296751",
+  "title": "Tuner",
+  "type": "movie",
+  "release": 2026,
+  "duration": "107 min",
+  "quality": "HD",
+  "description": "A talented piano tuner who suffers from hyperacusis discovers an unexpected aptitude for cracking safes, turning his life upside down.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Music"
+  ],
+  "actors": [
+    "Leo Woodall",
+    "Dustin Hoffman",
+    "Alisen Richmond-Peck"
+  ],
+  "director": "Daniel Roher",
+  "country": "CA",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+  "trailer": "https://www.youtube.com/embed/HYxzyLVJORA",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+{
+  "imdb": "tt30827810",
+  "title": "I Love Boosters",
+  "type": "movie",
+  "release": 2026,
+  "duration": "113 min",
+  "quality": "HD",
+  "description": "A group of shoplifters take aim at a cutthroat fashion maven by stealing her clothes and reselling them at a lower price, what they call \"fashion-forward philanthropy.\"",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "actors": [
+    "Keke Palmer",
+    "Taylour Paige",
+    "Naomi Ackie"
+  ],
+  "director": "Boots Riley",
+  "country": "US",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+  "trailer": "https://www.youtube.com/embed/I1xZegSgN8w",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+{
+  "imdb": "tt20236622",
+  "title": "The Deb",
+  "type": "movie",
+  "release": 2024,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "An original comedy musical about two teenage girls attending a debutante ball in a small country town.",
+  "genre": [
+    "Comedy",
+    "Musical"
+  ],
+  "actors": [
+    "Rebel Wilson",
+    "Naomi Sequeira",
+    "Tara Morice"
+  ],
+  "director": "Rebel Wilson",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/sTzOGapkQmp3IpgkSXrKStu0fGa.jpg",
+  "trailer": "https://www.youtube.com/embed/KqvSHuNoiK0",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+{
+  "imdb": "tt0837794",
+  "title": "Favorite Son",
+  "type": "movie",
+  "release": 2008,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "A story of family, of dreams deferred, and of a final chance at redemption. David Paxton, nearing the end of his minor league baseball career, returns to his hometown as much less the hero he once assumed he would become. When he ...",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Pablo Schreiber",
+    "Connor Paolo",
+    "Kellie Overbey"
+  ],
+  "director": "Howard Libov",
+  "country": "US",
+  "rating": "5.7",
+  "poster": "https://image.tmdb.org/t/p/w500/pb0EQZNTt4Dbr31cvLXC2ABL5ez.jpg",
+  "trailer": "https://www.youtube.com/embed/bYpitpfDwU0",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+{
+  "imdb": "tt35518410",
+  "title": "Dridam",
+  "type": "movie",
+  "release": 2026,
+  "duration": "150 min",
+  "quality": "HD",
+  "description": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given one week to solve the murder, he must navigate demands from his department and an anxious public seeking swift ju...",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "actors": [
+    "Shane Nigam",
+    "Mathew Varghese",
+    "Abhiram Radhakrishnan"
+  ],
+  "director": "Martin Joseph",
+  "country": "IN",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/fXSdAujfiRRW6LqekN4FvFQidh3.jpg",
+  "trailer": "https://www.youtube.com/embed/c8ssmorsQRY",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+{
+  "imdb": "tt15453322",
+  "title": "Las líneas discontinuas",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Bea, who's going through divorce, meets Denis when he breaks into her home intent on robbery. Rather than turning him into the police, she starts talking with him.",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Mara Sánchez",
+    "Adam Prieto"
+  ],
+  "director": "Anxos Fazáns",
+  "country": "ES",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/vE4CEUU9GSuMFx1A1sIR2pQtmOu.jpg",
+  "trailer": "https://www.youtube.com/embed/ifN6CgOvnrA",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+{
+  "imdb": "tt38999776",
+  "title": "Kaunis rietas onnellinen",
+  "type": "movie",
+  "release": 2026,
+  "duration": "117 min",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "actors": [
+    "Oona Airola",
+    "Katariina Havukainen",
+    "Tuure Ollila"
+  ],
+  "director": "Selma Vilhunen",
+  "country": "FI",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/tIDTwZqqMY1AbAuopqtMQ82xZSZ.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt21220632",
+  "title": "Starman",
+  "type": "movie",
+  "release": 2025,
+  "duration": "85 min",
+  "quality": "HD",
+  "description": "Legendary NASA robotics engineer and best-selling science fiction author, Gentry Lee, has spent a lifetime seeking an answer to the ultimate cosmic question: Are we alone in the universe? At age 82 he has come to a revelatory conc...",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Ray Bradbury",
+    "Arthur C. Clarke",
+    "Frank Drake"
+  ],
+  "director": "Robert Stone",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/bpETdLGRg2mYW0ZaFEyTxcPirjv.jpg",
+  "trailer": "https://www.youtube.com/embed/gxyZ4xh3v2A",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+{
+  "imdb": "tt5134750",
+  "title": "Transit Havana",
+  "type": "movie",
+  "release": 2016,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "In Havana, transsexuals Odette, Juani and Malú wait for genital surgery - performed by European top surgeons and organized by the president's daughter, Mariela Castro. Castro is leading a sexual revolution combined with classic st...",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Malú Cano Valladeres",
+    "Giselle Odette Diógenes Domínguez Rodríguez",
+    "Juani Santos Peréz"
+  ],
+  "director": "Daniel Abma",
+  "country": "DE",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/6ztRyNjUevpaAnFWQDiGzJXHzNx.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+{
+  "imdb": "tt40269077",
+  "title": "A Special Memory",
+  "type": "movie",
+  "release": 2026,
+  "duration": "124 min",
+  "quality": "HD",
+  "description": "The illness challenges the couple's love in a way they never anticipated, shifting the narrative from a sweet romance to an emotional journey.",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Bela Padilla",
+    "Carlo Aquino",
+    "Joel Torre"
+  ],
+  "director": "Jerry Lopez Sineneng",
+  "country": "PH",
+  "rating": "7.4",
+  "poster": "https://image.tmdb.org/t/p/w500/1ucCvNfCUlhacBZseLik4IWg797.jpg",
+  "trailer": "https://www.youtube.com/embed/HT3dagVqPds",
+  "baseviews": "1.3M",
+  "popularity": 64
+},
+{
+  "imdb": "tt1941536",
+  "title": "Romancing in Thin Air",
+  "type": "movie",
+  "release": 2012,
+  "duration": "111 min",
+  "quality": "HD",
+  "description": "After the bride of a popular actor ran away with her first love at their wedding, he went into grieving. In a drunken stupor, he ends up in a hotel atop the mountains. There, he finds love with a woman who is also grieving a lost ...",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Louis Koo",
+    "Sammi Cheng",
+    "Yuanyuan Gao"
+  ],
+  "director": "Johnnie To",
+  "country": "HK",
+  "rating": "6.4",
+  "poster": "https://image.tmdb.org/t/p/w500/fDnygvxB0IEt8u6H54m1STD2O4h.jpg",
+  "trailer": "https://www.youtube.com/embed/f4SzbJppgbI",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+{
+  "imdb": "tt32831737",
+  "title": "Green Over Gray",
+  "type": "movie",
+  "release": 2024,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "N/A"
+  ],
+  "actors": [],
+  "director": "",
+  "country": "N/",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/qKaV6BqKmNxrCotDuQIIwlQBjwz.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+{
+  "imdb": "tt21370030",
+  "title": "Bastards of Soul",
+  "type": "movie",
+  "release": 2024,
+  "duration": "80 min",
+  "quality": "HD",
+  "description": "In the limelight of imminent global fame, a Texas band's journey is marked by the unforeseen loss of their charismatic frontman, Chadwick Murray. This documentary captures the raw essence of their final album sessions and the elec...",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "actors": [
+    "Danny Balis",
+    "Bastards of Soul",
+    "Eugene Cantera"
+  ],
+  "director": "Paul Levatino",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/yZIMsQ9JQY1SI0wDh60YmEDhxl8.jpg",
+  "trailer": "https://www.youtube.com/embed/4X-dhNA0rQI",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+{
+  "imdb": "tt23841116",
+  "title": "Adrianne & the Castle",
+  "type": "movie",
+  "release": 2024,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "Alan built a castle in rural Illinois with his late love. Facing life alone, he revisits their fantasy through musical re-enactments transporting him to the world they shared.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Alan St-George",
+    "Nathan McDonald",
+    "SLee"
+  ],
+  "director": "Shannon Walsh",
+  "country": "CA",
+  "rating": "7.6",
+  "poster": "https://image.tmdb.org/t/p/w500/ftrZQJzb3PuvDcQk2LQ9G3zmtgm.jpg",
+  "trailer": "https://www.youtube.com/embed/9UUnjIo2sXA",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+{
+  "imdb": "tt38283527",
+  "title": "Changing Lanes",
+  "type": "movie",
+  "release": 2025,
+  "duration": "74 min",
+  "quality": "HD",
+  "description": "Politics and planning collide in the struggle to redesign Brooklyn's notoriously dangerous McGuinness Blvd.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "David Byrne",
+    "Janette Sadik-Khan"
+  ],
+  "director": "Ben Wolf",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/abWEViOdlVqgpUu3W3R3LBgH5ur.jpg",
+  "trailer": "https://www.youtube.com/embed/0qR7DaPN-0Q",
+  "baseviews": "1.3M",
+  "popularity": 75
+},
+{
+  "imdb": "tt13073638",
+  "title": "Balloon Wars",
+  "type": "movie",
+  "release": 2021,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [],
+  "director": "Sissel Morrell Dargis",
+  "country": "DK",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/1G2zskbsBlT7lT6yqFzX4Sxol2j.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+{
+  "imdb": "tt33112706",
+  "title": "Surviving Earth",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Slavko Sobin",
+    "Olive Gray",
+    "Arthur McBain"
+  ],
+  "director": "Thea Gajic",
+  "country": "GB",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/72LcMssU4U4fJ2EUPPS7ulsEGVE.jpg",
+  "trailer": "https://www.youtube.com/embed/SLjFMwo2NA0",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+{
+  "imdb": "tt34487780",
+  "title": "Différente",
+  "type": "movie",
+  "release": 2025,
+  "duration": "100 min",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Jehnny Beth",
+    "Thibaut Evrard",
+    "Mireille Perrier"
+  ],
+  "director": "Lola Doillon",
+  "country": "FR",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/dMkYKdYFbVEu7CteaBPlWSORI0K.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+{
+  "imdb": "tt32161395",
+  "title": "The Sheriff",
+  "type": "movie",
+  "release": 2026,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "A local sheriff investigates a recent murder, uncovering disturbing connections to his son's unsolved death five years earlier.",
+  "genre": [
+    "Action"
+  ],
+  "actors": [
+    "Beni Alexander",
+    "Henning Baum",
+    "Tom Berenger"
+  ],
+  "director": "Josh Tessier",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/pba15JjYAoyuFIM6kkZ7qE6oqG2.jpg",
+  "trailer": "https://www.youtube.com/embed/mV0iBdK09Dk",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt0475417",
+  "title": "High Stitches",
+  "type": "movie",
+  "release": 2007,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "An unknown creature terrorizes an archeological dig in the middle of a desolate New Mexico town.",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "Emmanuelle Vaugier",
+    "Luke Goss",
+    "Beau Garrett"
+  ],
+  "director": "Matthew Leutwyler",
+  "country": "US",
+  "rating": "4.0",
+  "poster": "https://image.tmdb.org/t/p/w500/oc0LUTfhDnYIVZRF5AlDZF4tbQE.jpg",
+  "trailer": "https://www.youtube.com/embed/8fGYPYYDIJI",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+{
+  "imdb": "tt40647489",
+  "title": "Backwoods Blood Feud",
+  "type": "movie",
+  "release": 2026,
+  "duration": "82 min",
+  "quality": "HD",
+  "description": "After a failed heist, a group of fugitives hide in a remote winter forest-only to discover two monstrous factions locked in a savage blood feud. Trapped between them, humans quickly become prey.",
+  "genre": [
+    "Horror"
+  ],
+  "actors": [
+    "Yevgeny Jack Berner",
+    "Kevin Caliber",
+    "Lynn Lowry"
+  ],
+  "director": "J. Horton",
+  "country": "US",
+  "rating": "8.0",
+  "poster": "https://image.tmdb.org/t/p/w500/pMjVMQvwVEmpffyQUrE4PI0ETJN.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+{
+  "imdb": "tt6159152",
+  "title": "Shedim",
+  "type": "movie",
+  "release": 2020,
+  "duration": "86 min",
+  "quality": "HD",
+  "description": "Chris Sam and his family lead a quiet suburban life in Danbury, Connecticut. Chris works for a septic company and his wife Lisa teaches special ed. They're raising their three children-Maddy, Chris Jr. and Jake-in Chris's childhoo...",
+  "genre": [
+    "Horror"
+  ],
+  "actors": [
+    "Alice Baluzy",
+    "George Baluzy",
+    "Jairus Cobb"
+  ],
+  "director": "Jairus Cobb",
+  "country": "US",
+  "rating": "5.4",
+  "poster": "https://image.tmdb.org/t/p/w500/1VwKDxX3MYCAgKZ7F4tgDhR21NR.jpg",
+  "trailer": "https://www.youtube.com/embed/UcEyWj8zQW4",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+{
+  "imdb": "tt38627122",
+  "title": "Evidence of the Boogeyman",
+  "type": "movie",
+  "release": 2025,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "A small film crew sets out to shoot a paranormal documentary at a farmhouse haunted by legend. What starts as a lighthearted project descends into terror when their footage reveals horrifying evidence that the Boogeyman might be r...",
+  "genre": [
+    "Horror"
+  ],
+  "actors": [
+    "Jason Brooks",
+    "Tim Coyle",
+    "Airisa Durand"
+  ],
+  "director": "Calvin Morie McCarthy",
+  "country": "US",
+  "rating": "4.5",
+  "poster": "https://image.tmdb.org/t/p/w500/dt4RW0PC2Oui7pwqvW8AyJ99Oc3.jpg",
+  "trailer": "https://www.youtube.com/embed/9cSRD2Srx6Y",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+{
+  "imdb": "tt37964037",
+  "title": "Six jours ce printemps-là",
+  "type": "movie",
+  "release": 2025,
+  "duration": "94 min",
+  "quality": "HD",
+  "description": "A single mom takes her twins for a secret getaway to her former in-laws' empty villa on the Riviera. What begins as an innocent spring break becomes a life-changing six days in the sun.",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [],
+  "director": "",
+  "country": "FR",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/mKs3ijMcarpT5mGt3hb7xjZz9Uu.jpg",
+  "trailer": "https://www.youtube.com/embed/etO1_opIvSI",
+  "baseviews": "1.3M",
+  "popularity": 76
+},
+{
+  "imdb": "tt5486552",
+  "title": "The Samaritans",
+  "type": "movie",
+  "release": 2017,
+  "duration": "76 min",
+  "quality": "HD",
+  "description": "When a group of four co-workers meet face to face for the first time to work on a new app, a mysterious entity pits them against each other in a game of truth or dare forcing them to reveal their darkest secrets about each other.",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "Keith Collins",
+    "Doug Bollinger",
+    "Timothy Laurel Harrison"
+  ],
+  "director": "Doug Bollinger",
+  "country": "US",
+  "rating": "4.6",
+  "poster": "https://image.tmdb.org/t/p/w500/gzfQKG4TcvhEcGnueBjYBqTGv6d.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+{
+  "imdb": "tt32646557",
+  "title": "Enzo",
+  "type": "movie",
+  "release": 2025,
+  "duration": "102 min",
+  "quality": "HD",
+  "description": "A 16-year-old boy defies his bourgeois family's expectations by starting a masonry apprenticeship where he meets a charismatic Ukrainian colleague who shakes up his world.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Eloy Pohu",
+    "Pierfrancesco Favino",
+    "Élodie Bouchez"
+  ],
+  "director": "Robin Campillo",
+  "country": "FR",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/cghjz7l78J8S3rr5EkzCrpr3bMS.jpg",
+  "trailer": "https://www.youtube.com/embed/q_vnwvU36NI",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+{
+  "imdb": "tt0028165",
+  "title": "Redes",
+  "type": "movie",
+  "release": 1936,
+  "duration": "65 min",
+  "quality": "HD",
+  "description": "A story of burgeoning labor rights amongst poor fishermen in a small village in Mexico.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Silvio Hernández",
+    "David Valle González",
+    "Rafael Hinojosa"
+  ],
+  "director": "Emilio Gómez Muriel, Fred Zinnemann",
+  "country": "MX",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/8eFVC382rOiJ8C4Tv8myGwAnESx.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt0082689",
+  "title": "Kamilla",
+  "type": "movie",
+  "release": 1981,
+  "duration": "110 min",
+  "quality": "HD",
+  "description": "A young girl growing up in Bergen, Norway just after the 2nd world war, is trying to deal with the father's adultery and mother's deep depression, as she befriends a boy. This endangers her.",
+  "genre": [
+    "Drama",
+    "War"
+  ],
+  "actors": [
+    "Nina Knapskog",
+    "Kenneth Johansen",
+    "Helge Jordal"
+  ],
+  "director": "Vibeke Løkkeberg",
+  "country": "NO",
+  "rating": "6.4",
+  "poster": "https://image.tmdb.org/t/p/w500/wwk5agHnksLrVdCobxNS0zSWhJU.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+{
+  "imdb": "tt5954400",
+  "title": "The Samaritans",
+  "type": "movie",
+  "release": 2016,
+  "duration": "4 min",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Short",
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "Gene Gallerano",
+    "Arthur Martinez"
+  ],
+  "director": "Jeff Barry, Gene Gallerano",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/9mQb29YwdJihZ4zMxYGaAfgiyrk.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 89
+},
+{
+  "imdb": "tt19367094",
+  "title": "Seni Memahami Kekasih",
+  "type": "movie",
+  "release": 2024,
+  "duration": "91 min",
+  "quality": "HD",
+  "description": "Agus, who is described as an intelligent, agile and tough man, whose behavior is effective in winning the heart of his partner, Kalis. The love story of Agus and Kalis during their courtship will be full of twists and turns.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Febby Rastanty",
+    "Elang El Gibran",
+    "Devina Aureel"
+  ],
+  "director": "Jeihan Angga",
+  "country": "ID",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/wCZtRyr1gVlIEobqfrcHX3W5gdG.jpg",
+  "trailer": "https://www.youtube.com/embed/O6Mfcw6uwSc",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+{
+  "imdb": "tt0286108",
+  "title": "Silence",
+  "type": "movie",
+  "release": 2002,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "A little girl is quickly surrounded by a group of law-enforcement professionals and a psychologist after she witnesses a murder.",
+  "genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "actors": [
+    "Kristy Swanson",
+    "Vincent Spano",
+    "Vladimir Kulich"
+  ],
+  "director": "Tom Whitus",
+  "country": "US",
+  "rating": "4.6",
+  "poster": "https://image.tmdb.org/t/p/w500/vCe7kys9MPip9bt6N8gqx8KTm9f.jpg",
+  "trailer": "https://www.youtube.com/embed/0lW-KorD-38",
+  "baseviews": "1.3M",
+  "popularity": 77
+},
+{
+  "imdb": "tt33364681",
+  "title": "Praslovan",
+  "type": "movie",
+  "release": 2024,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "The feature-length documentary film Praslovan, directed by Slobodan Maksimovic, tells the story of Zoran Predin's youth in the working-class Maribor, the immense fame and popularity he achieved in Yugoslavia with the band Lacni Fr...",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Karpo Acimovic-Godina",
+    "Emir Ajanovic",
+    "Selma Alispahic"
+  ],
+  "director": "Slobodan Maksimovic",
+  "country": "SL",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/7mZHTgiIl2fcL2bPrt9dbGgJ5Oz.jpg",
+  "trailer": "https://www.youtube.com/embed/k1qdmmzkwPs",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+{
+  "imdb": "tt36590342",
+  "title": "Rebbeca",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Pop star Becky G explores her heritage while creating her first Mexican regional album, reflecting on her complex background and history.",
+  "genre": [
+    "Music"
+  ],
+  "actors": [],
+  "director": "Gabriela Cavanagh, Jennifer Tiexiera",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/hjw96u88T4p438RkgCp1pDvie4W.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+{
+  "imdb": "tt26491762",
+  "title": "Il Morso del Ramarro",
+  "type": "movie",
+  "release": 2022,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Tiziana Foschi",
+    "Lorenzo Marangon",
+    "Guido Roncalli"
+  ],
+  "director": "Maria Lodovica Marini",
+  "country": "IT",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/24NkkrcXq9vFs4h8c5MEyRQd1gS.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+{
+  "imdb": "tt35658228",
+  "title": "Zombieland Saga: Yumeginga Paradise",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Fantasy"
+  ],
+  "actors": [
+    "Kaede Hondo",
+    "Maki Kawase",
+    "Rika Kinugawa"
+  ],
+  "director": "",
+  "country": "JP",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/cztO2TXduBQeF5J507nriNovu97.jpg",
+  "trailer": "https://www.youtube.com/embed/G1nG-AKY7Yk",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+{
+  "imdb": "tt23039114",
+  "title": "Finnegan's Foursome",
+  "type": "movie",
+  "release": 2026,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Two rival brothers and their adult children travel to Ireland to scatter their father's ashes, turning clashing egos and comic mishaps into an unexpected week of family bonding.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Naoimh Whelton",
+    "Edward Burns",
+    "Erica Hernandez"
+  ],
+  "director": "Edward Burns",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/bmFdsOFHipMvqult9MNnUhrwaFS.jpg",
+  "trailer": "https://www.youtube.com/embed/cEC2xYCmRfc",
+  "baseviews": "1.3M",
+  "popularity": 65
+},
+{
+  "imdb": "tt9583840",
+  "title": "The Young Arsonists",
+  "type": "movie",
+  "release": 2022,
+  "duration": "97 min",
+  "quality": "HD",
+  "description": "Set in the 1980's amongst the sparse landscape of an isolated farming community, four restless adolescent girls band together to escape their troubled lives by reclaiming an abandoned farmhouse as their own.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [
+    "Maddy Martin",
+    "Jenna Warren",
+    "Sadie Rose"
+  ],
+  "director": "Sheila Pye",
+  "country": "CA",
+  "rating": "6.7",
+  "poster": "https://image.tmdb.org/t/p/w500/t8LjZoZA5KOmOh4xPQ47NrIRZDt.jpg",
+  "trailer": "https://www.youtube.com/embed/3pm40Wy2WGE",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+{
+  "imdb": "tt10375624",
+  "title": "Voicemails for Isabelle",
+  "type": "movie",
+  "release": 2026,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Jill leaves voice messages to her deceased sister telling her about her chaotic life in San Francisco. Unwittingly, a mysterious Austin real estate agent begins to receive their confessions..",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "actors": [
+    "Zoey Deutch",
+    "Nick Offerman",
+    "Nick Robinson"
+  ],
+  "director": "Leah McKendrick",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+  "trailer": "https://www.youtube.com/embed/9mi3YVYm3ZU",
+  "baseviews": "1.3M",
+  "popularity": 66
+},
+{
+  "imdb": "tt14113634",
+  "title": "Drishyam 3",
+  "type": "movie",
+  "release": 2026,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Thriller"
+  ],
+  "actors": [
+    "Mohanlal",
+    "Asha Sharath",
+    "Siddique"
+  ],
+  "director": "Jeethu Joseph",
+  "country": "IN",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+  "trailer": "https://www.youtube.com/embed/Zki0Y_auEcA",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+{
+  "imdb": "tt31031735",
+  "title": "Coco World",
+  "type": "movie",
+  "release": 2026,
+  "duration": "",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Family"
+  ],
+  "actors": [],
+  "director": "",
+  "country": "",
+  "rating": "0.0",
+  "poster": "https://image.tmdb.org/t/p/w500/ljEqB1B8sI4j2umXmUQiZuGIlGl.jpg",
+  "trailer": "https://www.youtube.com/embed/rSP_tmLnVVg",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+{
+  "imdb": "tt35309713",
+  "title": "Citizen Vigilante",
+  "type": "movie",
+  "release": 2026,
+  "duration": "",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Thriller",
+    "Action",
+    "Crime"
+  ],
+  "actors": [],
+  "director": "",
+  "country": "",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+  "trailer": "https://www.youtube.com/embed/fVxmjwaPEFU",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+{
+  "imdb": "tt0253790",
+  "title": "Tarzan Rifki",
+  "type": "movie",
+  "release": 1986,
+  "duration": "83 min",
+  "quality": "HD",
+  "description": "A naive man in search of a wife is mistaken for a hired killer by the mob. Things get complicated when he falls for the girlfriend of the mob boss.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Kemal Sunal",
+    "Suna Yildizoglu",
+    "Dinçer Çekmez"
+  ],
+  "director": "Natuk Baytan",
+  "country": "TR",
+  "rating": "6.5",
+  "poster": "https://image.tmdb.org/t/p/w500/4uii9igIoUpOPCWrxioc0IY0jLE.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+{
+  "imdb": "tt0253875",
+  "title": "Uyanik Gazeteci",
+  "type": "movie",
+  "release": 1988,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "A comedy of a journalist who feigns war news and makes his agency strand.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Kemal Sunal",
+    "Nesrin Akkoç",
+    "Murat Yilmaz"
+  ],
+  "director": "Kartal Tibet",
+  "country": "TR",
+  "rating": "5.9",
+  "poster": "https://image.tmdb.org/t/p/w500/9gBQK0lxTlfqBRFNgLy7lDlbeoX.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+{
+  "imdb": "tt0252360",
+  "title": "Plaintiff",
+  "type": "movie",
+  "release": 1987,
+  "duration": "79 min",
+  "quality": "HD",
+  "description": "It is a comedy of stubborn people who initiate a judicial process which would last 7 years because some sheep ate a few cabbages.",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "actors": [
+    "Kemal Sunal",
+    "Savas Yurttas",
+    "Güzin Özipek"
+  ],
+  "director": "Zeki Ökten",
+  "country": "TR",
+  "rating": "7.2",
+  "poster": "https://image.tmdb.org/t/p/w500/aYQ8iROTDsIMAYXubrjPgUZfLMT.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+{
+  "imdb": "tt31474395",
+  "title": "The Voices of Our Mother",
+  "type": "movie",
+  "release": 2026,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "When a family matriarch falls seriously ill, relatives gather and discover their shared ancestral ties bind them in unexpected ways.",
+  "genre": [
+    "Horror"
+  ],
+  "actors": [
+    "Sheila McCarthy",
+    "Georgina Reilly",
+    "Mark O&apos;Brien"
+  ],
+  "director": "Mark O&apos;Brien",
+  "country": "N/",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/fD0wfZifpJQGOTPboSVXQ3XI3DV.jpg",
+  "trailer": "https://www.youtube.com/embed/yupFYNF5mgw",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+{
+  "imdb": "tt31157145",
+  "title": "Standout: The Ben Kjar Story",
+  "type": "movie",
+  "release": 2025,
+  "duration": "99 min",
+  "quality": "HD",
+  "description": "With no chance at an ordinary life, he lived an extraordinary one.",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Drama"
+  ],
+  "actors": [
+    "Ben Kjar",
+    "Anthony Robles",
+    "Colton Fielding"
+  ],
+  "director": "Tanner Christensen",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/6jUG8yfFkSkJTj467lDmRVvFj4o.jpg",
+  "trailer": "https://www.youtube.com/embed/rp5QsPEu2pk",
+  "baseviews": "1.3M",
+  "popularity": 85
+},
+{
+  "imdb": "tt30788209",
+  "title": "Pickleball",
+  "type": "movie",
+  "release": 2026,
+  "duration": "112 min",
+  "quality": "HD",
+  "description": "A small-town priest leads a ragtag team of pickleball players in a last-chance bid to save their community center",
+  "genre": [
+    "Comedy",
+    "Sport"
+  ],
+  "actors": [
+    "Kevin P. Farley",
+    "Willie Mellina",
+    "Justin Sterner"
+  ],
+  "director": "Jeff Hamm",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/brNv2N2wCIWSl5PrfJikj5wvY8g.jpg",
+  "trailer": "https://www.youtube.com/embed/n_pQWRYUSbA",
+  "baseviews": "1.3M",
+  "popularity": 69
+},
+{
+  "imdb": "tt36103091",
+  "title": "119.Mp4",
+  "type": "movie",
+  "release": 2025,
+  "duration": "74 min",
+  "quality": "HD",
+  "description": "A stand-up comedian's writing retreat turns out to be haunted.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Andrew N. Shearer",
+    "Florence Ugh"
+  ],
+  "director": "Florence Ugh",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/doxZww6QN9tDqIyFkijH8COWsAS.jpg",
+  "trailer": "https://www.youtube.com/embed/Qm2HjDUka3A",
+  "baseviews": "1.3M",
+  "popularity": 81
+},
+{
+  "imdb": "tt39314178",
+  "title": "Sing the World Better",
+  "type": "movie",
+  "release": 2026,
+  "duration": "44 min",
+  "quality": "HD",
+  "description": "Sing the World Better features Lauda, one of a handful of youth choirs in the world to embrace all neurotypes. As they prepare for the annual concert, they find harmony together in a world not always tuned to their rhythm.",
+  "genre": [
+    "Documentary",
+    "Short",
+    "Music"
+  ],
+  "actors": [
+    "Leanne Kearsey",
+    "Kellie Walsh"
+  ],
+  "director": "",
+  "country": "CA",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/4mT9z4FiR2TQLwzxYKuCWosCE8P.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt43328779",
+  "title": "Canadian Screen Awards 2026",
+  "type": "movie",
+  "release": null,
+  "duration": "",
+  "quality": "HD",
+  "description": "",
+  "genre": [],
+  "actors": [],
+  "director": "",
+  "country": "",
+  "rating": "0.0",
+  "poster": "",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+{
+  "imdb": "tt33344480",
+  "title": "Hana Korea",
+  "type": "movie",
+  "release": 2025,
+  "duration": "105 min",
+  "quality": "HD",
+  "description": "A North Korean defector experiences democracy, freedom and modern life at a resettlement facility, learning about using credit cards and other aspects unfamiliar to her.",
+  "genre": [
+    "Biography"
+  ],
+  "actors": [
+    "Minha Kim",
+    "Kim Joo-ryoung",
+    "Ahn Seo-hyun"
+  ],
+  "director": "Frederik Sølberg",
+  "country": "DK",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/149V59QChyAq442427WDbnR8oRs.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+{
+  "imdb": "tt6141006",
+  "title": "Drain the Ocean: WWII",
+  "type": "movie",
+  "release": 2016,
+  "duration": "44 min",
+  "quality": "HD",
+  "description": "World War II left the greatest-ever number of ships and submarines hidden beneath the waves. Now, as the oceans drain, each vessel reveals its secrets through new data-based 3D reconstructions. From the Arizona in Pearl Harbor's s...",
+  "genre": [
+    "Documentary",
+    "History"
+  ],
+  "actors": [
+    "Russell Boulter",
+    "James Delgado",
+    "Herbert Weatherwax"
+  ],
+  "director": "Mike Slee",
+  "country": "US",
+  "rating": "6.8",
+  "poster": "https://image.tmdb.org/t/p/w500/i7cyNUQLlxiJo1BXOi3H4Wd2sLI.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+{
+  "imdb": "tt35186504",
+  "title": "Coroner to the Stars",
+  "type": "movie",
+  "release": 2025,
+  "duration": "83 min",
+  "quality": "HD",
+  "description": "Coroner to the Stars chronicles the extraordinary journey of Dr. Thomas Noguchi, the former Los Angeles County Chief Medical Examiner-Coroner whose groundbreaking autopsies forever shaped American culture. From Marilyn Monroe and ...",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Thomas Noguchi",
+    "George Takei",
+    "Janice Hahn"
+  ],
+  "director": "Ben Hethcoat, Keita Ideno",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/qjlWRu9q5sWalcSsESVRVbE82ys.jpg",
+  "trailer": "https://www.youtube.com/embed/adQqc0PTmtg",
+  "baseviews": "1.3M",
+  "popularity": 78
+},
+{
+  "imdb": "tt37816024",
+  "title": "Ni-Naadamaadiz: Red Power Rising",
+  "type": "movie",
+  "release": 2025,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "Only 8 mins of footage exist from a 90-day Indigenous youth occupation in Kenora, Ontario in 1974. \"Ni-Naadamaadiz: Red Power Rising\" documents this display of Indigenous strength.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [],
+  "director": "Shane Belcourt",
+  "country": "CA",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/9pbNTVltYQkWDA3YBgRnhVm5PkQ.jpg",
+  "trailer": "https://www.youtube.com/embed/eBqSOKWFHc0",
+  "baseviews": "1.3M",
+  "popularity": 63
+},
+{
+  "imdb": "tt0075421",
+  "title": "A Whale of a Tale",
+  "type": "movie",
+  "release": 1976,
+  "duration": "90 min",
+  "quality": "HD",
+  "description": "Young Joey wants to be an animal trainer so badly that he sneaks into off-limits areas of Marineland.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "actors": [
+    "William Shatner",
+    "Marty Allen",
+    "Abby Dalton"
+  ],
+  "director": "Ewing Miles Brown",
+  "country": "US",
+  "rating": "8.1",
+  "poster": "https://image.tmdb.org/t/p/w500/lmeC6Bc06mk0RlIJ0pae48497Nb.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 74
+},
+{
+  "imdb": "tt28787365",
+  "title": "Patio de Chacales",
+  "type": "movie",
+  "release": 2023,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Follows a modest middle-aged man who looks after his mother while engaging in his hobby. The neighborhood's peace is disrupted when a gang of menacing neighbors take over the street.",
+  "genre": [
+    "Drama"
+  ],
+  "actors": [],
+  "director": "Diego Figueroa",
+  "country": "CL",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/qyaFBVHACF1X3qWFzCJobMzICrm.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+{
+  "imdb": "tt0253639",
+  "title": "Saskin Damat",
+  "type": "movie",
+  "release": 1975,
+  "duration": "78 min",
+  "quality": "HD",
+  "description": "While Serpil pretends to be a religious village girl to his rich uncle she gets cought at an erotic party. Her uncle sees what she actually is than he forces her to marry simpleton Apti or she and her family cannot inherit his for...",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Kemal Sunal",
+    "Meral Zeren",
+    "Bülent Kayabas"
+  ],
+  "director": "Zeki Ökten",
+  "country": "TR",
+  "rating": "6.9",
+  "poster": "https://image.tmdb.org/t/p/w500/AvU08DuD4Gowz1TPRTyRwvrb38F.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 71
+},
+{
+  "imdb": "tt2016901",
+  "title": "William Shatner's Get a Life!",
+  "type": "movie",
+  "release": 2012,
+  "duration": "60 min",
+  "quality": "HD",
+  "description": "An EPIX Original documentary directed by William Shatner, based on his hugely popular book, in which he examines the cultural phenomena of STAR TREK, its fan-following and his own role within it. In HD.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "William Shatner",
+    "Rene Auberjonois",
+    "John Cho"
+  ],
+  "director": "William Shatner",
+  "country": "US",
+  "rating": "6.2",
+  "poster": "https://image.tmdb.org/t/p/w500/AebHhr7zIAVKLPl7CmUfhLOb8uC.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+{
+  "imdb": "tt36896000",
+  "title": "Un bel giorno",
+  "type": "movie",
+  "release": 2026,
+  "duration": "93 min",
+  "quality": "HD",
+  "description": "Tommaso raised four daughters on his own, transforming his life into a chaotic but solid family routine and becoming a full-time father and a man with no time for himself. When the girls decide it's time for their father to get ba...",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Fabio De Luigi",
+    "Virginia Raffaele",
+    "Enzo Casertano"
+  ],
+  "director": "Fabio De Luigi",
+  "country": "IT",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+{
+  "imdb": "tt37071144",
+  "title": "Squatch",
+  "type": "movie",
+  "release": 2026,
+  "duration": "87 min",
+  "quality": "HD",
+  "description": "After discovering a Sasquatch in the Smoky Mountains, park rangers Robert and Sam find themselves in over their heads when tech giant Alphazon plans to destroy its habitat. With no real authority and even less of a plan, they deci...",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Marcus Mull",
+    "Lyle Jones",
+    "Aaron Clark"
+  ],
+  "director": "Aaron Mull",
+  "country": "US",
+  "rating": "9.0",
+  "poster": "https://image.tmdb.org/t/p/w500/4eCpXm7jslwcWzkORykYjacyrM8.jpg",
+  "trailer": "https://www.youtube.com/embed/8gAcv4fCzGU",
+  "baseviews": "1.3M",
+  "popularity": 67
+},
+{
+  "imdb": "tt3699354",
+  "title": "Citizen Jane: Battle for the City",
+  "type": "movie",
+  "release": 2016,
+  "duration": "92 min",
+  "quality": "HD",
+  "description": "Writer and urban activist Jane Jacobs fights to save historic New York City during the ruthless redevelopment era of urban planner Robert Moses in the 1960s.",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "History"
+  ],
+  "actors": [
+    "Thomas Campanella",
+    "Vincent D'Onofrio",
+    "Mindy Fullilove"
+  ],
+  "director": "Matt Tyrnauer",
+  "country": "US",
+  "rating": "7.0",
+  "poster": "https://image.tmdb.org/t/p/w500/5oX9F1kLbqH08Gt5y8plRG0KFRe.jpg",
+  "trailer": "https://www.youtube.com/embed/hKjkjntspfA",
+  "baseviews": "1.3M",
+  "popularity": 61
+},
+{
+  "imdb": "tt33363428",
+  "title": "DRAGN",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "During a team-building retreat in a remote forest, a group of colleagues unwittingly becomes the prey of a rogue AI-driven drone.",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "actors": [
+    "James Paxton",
+    "Lilly Krug",
+    "Carlos Bardem"
+  ],
+  "director": "Peter Webber",
+  "country": "IE",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/sCfVHr5BUwwWETbaDJlEbYyUBrx.jpg",
+  "trailer": "https://www.youtube.com/embed/mcmpqAIeIwE",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+{
+  "imdb": "tt12299194",
+  "title": "The Womb",
+  "type": "movie",
+  "release": 2023,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "A woman turns her house into a impenetrable fortress to stay alive.",
+  "genre": [
+    "Thriller"
+  ],
+  "actors": [
+    "Anzu Lawson",
+    "Marieh Delfino",
+    "Paul Sloan"
+  ],
+  "director": "Frank A. Cappello",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/Z9SC4KiyVkoFz66minanrBNo5Q.jpg",
+  "trailer": "https://www.youtube.com/embed/AQXhu-ljjPk",
+  "baseviews": "1.3M",
+  "popularity": 70
+},
+{
+  "imdb": "tt36107540",
+  "title": "Sanctus House",
+  "type": "movie",
+  "release": 2026,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Four college students venture to a storied haunted house over night. The goal is simple, obtain research for a paper they are writing on urban myths and legends. A caretaker, played by Richard Grieco, greets them and offers to sha...",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actors": [
+    "Richard Grieco",
+    "Kenyon T. Henry",
+    "Aden Pettet"
+  ],
+  "director": "Kenyon T. Henry, Matthew B. Lawrence",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/ium6rECjmJAxoEugNHQ9WJ6D0BZ.jpg",
+  "trailer": "https://www.youtube.com/embed/w1KqVjdoXcA",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+{
+  "imdb": "tt0084555",
+  "title": "Santa Claus Is a Stinker",
+  "type": "movie",
+  "release": 1982,
+  "duration": "88 min",
+  "quality": "HD",
+  "description": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Anémone",
+    "Josiane Balasko",
+    "Marie-Anne Chazel"
+  ],
+  "director": "Jean-Marie Poiré",
+  "country": "FR",
+  "rating": "7.5",
+  "poster": "https://image.tmdb.org/t/p/w500/z86yqhtqmNxQN214OK4PUDbpBOq.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 79
+},
+{
+  "imdb": "tt0281938",
+  "title": "Joe and Max",
+  "type": "movie",
+  "release": 2002,
+  "duration": "106 min",
+  "quality": "HD",
+  "description": "True story of boxers Joe Louis and Max Schmeling and their enduring friendship.",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "actors": [
+    "Til Schweiger",
+    "Leonard Roberts",
+    "Richard Roundtree"
+  ],
+  "director": "Steve James",
+  "country": "DE",
+  "rating": "6.5",
+  "poster": "https://image.tmdb.org/t/p/w500/1VerTaAVt8zdU0IqTLWJLO0ZwIo.jpg",
+  "trailer": "https://www.youtube.com/embed/pbWfYWVlD0M",
+  "baseviews": "1.3M",
+  "popularity": 88
+},
+{
+  "imdb": "tt5594954",
+  "title": "Capio",
+  "type": "movie",
+  "release": 2017,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "An amateur astronomer discovers a strange new star in the sky that leads him into the heart of a dark conspiracy to control humanity by exploiting its addiction to technology.",
+  "genre": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "actors": [
+    "Diana Lotus",
+    "Didier Flamand",
+    "Madeleine Assas"
+  ],
+  "director": "Aleksandar Kostic",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/9n3W3khjLbCmZobB4g8GudwMYMO.jpg",
+  "trailer": "https://www.youtube.com/embed/-sW7wKabX8M",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+{
+  "imdb": "tt34825418",
+  "title": "Bizarrofilia",
+  "type": "movie",
+  "release": 2024,
+  "duration": "85 min",
+  "quality": "HD",
+  "description": "",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [],
+  "director": "Ayi Turzi",
+  "country": "AR",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/vT7nXdh8ak0A8uhZOf9a9dUzXyR.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 84
+},
+{
+  "imdb": "tt35548282",
+  "title": "Tandari",
+  "type": "movie",
+  "release": 2025,
+  "duration": "N/A",
+  "quality": "HD",
+  "description": "Two villages that received only half their necessary annual budgets decide to wage it all on a soccer game between themselves. Whoever wins gets it all and fulfill their objectives. So everything becomes fair game in their quest t...",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Adriana Aldea",
+    "Alin Aronovici",
+    "Dan Badea"
+  ],
+  "director": "Bogdan Naumovici",
+  "country": "RO",
+  "rating": "5.5",
+  "poster": "https://image.tmdb.org/t/p/w500/I0JdzpcI0fpmDXY6Z3Xwp5A81s.jpg",
+  "trailer": "https://www.youtube.com/embed/-RQCbAT5uXI",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
+{
+  "imdb": "tt38630882",
+  "title": "Quiet Voices in a Noisy World",
+  "type": "movie",
+  "release": 2025,
+  "duration": "73 min",
+  "quality": "HD",
+  "description": "African American volunteers in Jasper, Texas work to overcome their community's history of racial violence and reclaim dignity through grassroots projects, museums, and memorials following the 1998 lynching of James Byrd Jr.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Norma Adams-Wade",
+    "George Elbert Adams",
+    "Stella Mae Byrd"
+  ],
+  "director": "Alan Govenar",
+  "country": "N/",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/qS7HySe1dJnLbg3KaWQW8CsyDsu.jpg",
+  "trailer": "https://www.youtube.com/embed/zVICIc5sIyA",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+{
+  "imdb": "tt35499036",
+  "title": "Timestamp",
+  "type": "movie",
+  "release": 2025,
+  "duration": "125 min",
+  "quality": "HD",
+  "description": "Despite the war, school life continues in Ukraine, with students and teachers striving to continue learning even under constant threat.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Olha Bryhynets",
+    "Valeriia Hukova",
+    "Borys Khovriak"
+  ],
+  "director": "Kateryna Gornostai",
+  "country": "FR",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/b49YNh0qTTBbxS7IP4sWdypTKoP.jpg",
+  "trailer": "https://www.youtube.com/embed/5xPjzNrPsRg",
+  "baseviews": "1.3M",
+  "popularity": 68
+},
+{
+  "imdb": "tt2947260",
+  "title": "List",
+  "type": "movie",
+  "release": 2011,
+  "duration": "29 min",
+  "quality": "HD",
+  "description": "Over a slice of chocolate cake, a mother (Yuh Jung Youn) and daughter (Jung Yu-mi) tensely discuss the good-for-nothing relative whose money troubles have brought them to the seaside town of Mohang. For now they have nothing to do...",
+  "genre": [
+    "Short",
+    "Drama"
+  ],
+  "actors": [
+    "Yoo Joon-sang",
+    "Jung Yu-mi",
+    "Youn Yuh-jung"
+  ],
+  "director": "Hong Sang-soo",
+  "country": "KR",
+  "rating": "7.1",
+  "poster": "https://image.tmdb.org/t/p/w500/tzUFpJheYDAIIWkZqnJoHVLxn6O.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 83
+},
+{
+  "imdb": "tt36958376",
+  "title": "Your Fault: London",
+  "type": "movie",
+  "release": 2026,
+  "duration": "123 min",
+  "quality": "HD",
+  "description": "A forbidden love story between 18-year-old Noah and stepbrother Nick faces challenges as they pursue different paths - him in business, her at Oxford - while dealing with new relationships and secrets.",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Asha Banks",
+    "Matthew Broome",
+    "Eve Macklin"
+  ],
+  "director": "Charlotte Fassler, Dani Girdwood",
+  "country": "GB",
+  "rating": "6.2",
+  "poster": "https://image.tmdb.org/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+  "trailer": "https://www.youtube.com/embed/A3ZbjkDxYUs",
+  "baseviews": "1.3M",
+  "popularity": 73
+},
+{
+  "imdb": "tt4829950",
+  "title": "Mission Pluto",
+  "type": "movie",
+  "release": 2015,
+  "duration": "44 min",
+  "quality": "HD",
+  "description": "Pluto's extraordinary story from discovery to revelation - 85 years of mystery &amp; intrigue will soon be complete.",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Jason Silva"
+  ],
+  "director": "Nic Young",
+  "country": "GB",
+  "rating": "5.6",
+  "poster": "https://image.tmdb.org/t/p/w500/c5YftBeRQKMjTs1LyCjJ1Vo20TM.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 62
+},
+{
+  "imdb": "tt37899019",
+  "title": "Never Change!",
+  "type": "movie",
+  "release": 2026,
+  "duration": "98 min",
+  "quality": "HD",
+  "description": "Former high school seniors reunite in their 30s to complete their education after a tornado abruptly ended their final year in 2005. As they return to the halls of North Meadows High, past relationships reignite and hidden truths ...",
+  "genre": [
+    "Comedy"
+  ],
+  "actors": [
+    "Sofia Black-D&apos;Elia",
+    "Topher Grace",
+    "Rudy Pankow"
+  ],
+  "director": "Marty Schousboe",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
+  "trailer": "https://www.youtube.com/embed/w5nRZ9BrewE",
+  "baseviews": "1.3M",
+  "popularity": 82
+},
+{
+  "imdb": "tt0090932",
+  "title": "Dernier été à Tanger",
+  "type": "movie",
+  "release": 1987,
+  "duration": "115 min",
+  "quality": "HD",
+  "description": "In 1956, with the independence of Morocco, the Fedala conference in Tangier is set in a city of turmoil.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "actors": [
+    "Valeria Golino",
+    "Thierry Lhermitte",
+    "Roger Hanin"
+  ],
+  "director": "Alexandre Arcady",
+  "country": "FR",
+  "rating": "4.7",
+  "poster": "https://image.tmdb.org/t/p/w500/kmcvedd5wdPiZvSkbXBDavl6KSV.jpg",
+  "trailer": "",
+  "baseviews": "1.3M",
+  "popularity": 60
+},
+{
+  "imdb": "tt36590141",
+  "title": "Underland",
+  "type": "movie",
+  "release": 2025,
+  "duration": "79 min",
+  "quality": "HD",
+  "description": "Follow explorers into places rarely glimpsed by human eyes: caves, flooded drains and underground laboratories, revealing hidden worlds beneath our fee",
+  "genre": [
+    "Documentary"
+  ],
+  "actors": [
+    "Sandra Hüller"
+  ],
+  "director": "Rob Petit",
+  "country": "US",
+  "rating": null,
+  "poster": "https://image.tmdb.org/t/p/w500/5vUYv6b4NWggG6stIJFRz3AmUCP.jpg",
+  "trailer": "https://www.youtube.com/embed/2dP2FIJ0p_k",
+  "baseviews": "1.3M",
+  "popularity": 86
+},
    {
   "imdb": "tt14687716",
   "title": "The Beehive",
